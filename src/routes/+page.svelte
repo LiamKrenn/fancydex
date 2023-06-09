@@ -57,7 +57,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-2xl font-thin cursor-default select-none align-middle">Fancydex</strong>
+				<a class="text-2xl font-thin cursor-pointer select-none align-middle" href="/" on:click={() => {genId=0}}>Fancydex</a>
 			</svelte:fragment>
 			<svelte:fragment slot="default">
 				<div class="flex w-full">
