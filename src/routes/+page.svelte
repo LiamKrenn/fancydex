@@ -26,7 +26,7 @@
 
 	export let data: PageData;
 
-	$: genId = 0;
+	$: genId = $page.url.searchParams.get('gen-id') || 0;
 
 	$: searchString = '';
 	$: filteredMonsters = data.monsters.filter((monster) => {
@@ -78,7 +78,7 @@
 						{/each}
 					</RadioGroup>
 					<input
-						class="input w-auto select-none align-middle ml-2"
+						class="input w-full select-none align-middle ml-2"
 						type="text"
 						placeholder="Search "
 						bind:value={searchString}

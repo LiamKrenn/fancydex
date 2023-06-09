@@ -5,7 +5,7 @@
 	export let monster: IndexMonster;
 	export let updateSearchParams: (key: string, value: string) => void;
 	export let isInteractive: boolean = false;
-	let loaded = false;
+	$: loaded = false;
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
@@ -20,6 +20,7 @@
 				on:load={() => {
 					loaded = true;
 				}}
+				
 				src={monster.image}
 				alt={monster.name}
 			/>
