@@ -1,12 +1,11 @@
 <script lang="ts">
 	import type { IndexMonster } from './+page';
+	import { page } from '$app/stores';
 
 	export let monster: IndexMonster;
 	export let updateSearchParams: (key: string, value: string) => void;
 	export let isInteractive: boolean = false;
 	let loaded = false;
-	const image = document.querySelector('#image');
-	image?.classList.toggle('invisible');
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
@@ -18,15 +17,17 @@
 		</div>
 		<div class="mx-3 justify-center">
 			<img
-				on:load={() => {loaded = true;}}
+				on:load={() => {
+					loaded = true;
+				}}
 				src={monster.image}
 				alt={monster.name}
 			/>
-			{#if !loaded}
+			{#if !loaded }
 				<div class="card animate-pulse variant-soft h-24 w-24" />
 			{/if}
 		</div>
-		<div class="mx-2 mb-4 text-center text-surface-50-850">
+		<div class="mx-2 mb-4 text-center text-surface-800-100-token">
 			{monster.name}
 		</div>
 	</div>

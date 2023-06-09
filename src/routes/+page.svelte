@@ -26,7 +26,7 @@
 
 	export let data: PageData;
 
-	$: genId = 1;
+	$: genId = 0;
 
 	$: searchString = '';
 	$: filteredMonsters = data.monsters.filter((monster) => {
@@ -67,8 +67,12 @@
 						hover="hover:variant-soft-primary"
 					>
 						{#each generations as gen (gen.id)}
-							<RadioItem bind:group={genId} name="justify" value={gen.id}
-							on:click={() => updateSearchParams('gen-id', gen.id.toString())}>
+							<RadioItem
+								bind:group={genId}
+								name="justify"
+								value={gen.id}
+								on:click={() => updateSearchParams('gen-id', gen.id.toString())}
+							>
 								{gen.main_region}
 							</RadioItem>
 						{/each}
@@ -99,15 +103,21 @@
 	<!-- Page Route Content -->
 	<slot />
 
-	<div class="flex flex-wrap flex-row justify-center m-1">
+	{#if genId != 0}
+	<div class=" flex flex-wrap flex-row justify-center m-1">
 		{#each filteredMonsters as monster (monster.id)}
 			<Monster {monster} updateSearchParams={() => {}} isInteractive={true} />
 		{/each}
 	</div>
+	{:else}
+	<div class="container h-full mx-auto flex justify-center items-center">
+		<div class="space-y-10 text-center flex flex-col items-center">
+			<h2 class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone">Welcome to Fancydex!</h2>
+			<p class="animate-pulse select-none text-xl text-surface-800-100-token">Start of by choosing a region on the top left!</p>
+		</div>
+	</div>
+	{/if}
+	
 
-	<!--<div class="container h-full mx-auto flex justify-center items-center">-->
-	<!--<div class="space-y-10 text-center flex flex-col items-center">-->
-	<!--	<h2 class="h2">{tmp}</h2>-->
-	<!--</div>-->
-	<!--/div>-->
+	
 </AppShell>
