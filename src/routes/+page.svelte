@@ -26,12 +26,19 @@
 
 	export let data: PageData;
 
-	$: genId = $page.url.searchParams.get('gen-id') || 0;
+	//const genOnLoad = $page.url.searchParams.get('gen-id') || '0';
+	//console.log(genOnLoad);
+
+	$: lang = $page.url.searchParams.get('lang') || 'en';
+
+	$: genId = $page.url.searchParams.get('gen-id') || '0';
 
 	$: searchString = '';
-	$: filteredMonsters = data.monsters.filter((monster) => {
-		return monster.name.toLowerCase().includes(searchString.toLowerCase());
-	});
+	$: filteredMonsters = data.monsters
+		.filter((monster) => {
+			return monster.name.toLowerCase().includes(searchString.toLowerCase());
+		})
+		.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
 
 	//$: monsterId = $page.url.searchParams.get('id') || '';
 	//$: monster = data.monsters.find((monster) => monster.id === monsterId);
@@ -42,12 +49,14 @@
 		goto(`?${searchParams.toString()}`);
 	};
 
-	//const modal: ModalSettings = {
-	//	type: 'component',
-	//	meta: { mon: monster },
-	//	component: { ref: ModalMonster }
-	//};
-	// modalStore.trigger(modal):
+	const monClick = (m: IndexMonster) => {
+		const modal: ModalSettings = {
+			type: 'component',
+			meta: { mon: m, lan: lang },
+			component: { ref: ModalMonster }
+		};
+		modalStore.trigger(modal);
+	};
 </script>
 
 <Modal />
@@ -57,7 +66,13 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<a class="text-2xl font-thin cursor-pointer select-none align-middle" href="/" on:click={() => {genId=0}}>Fancydex</a>
+				<a
+					class="text-2xl font-thin cursor-pointer select-none align-middle"
+					href="/"
+					on:click={() => {
+						genId = '0';
+					}}>Fancydex</a
+				>
 			</svelte:fragment>
 			<svelte:fragment slot="default">
 				<div class="flex w-full">
@@ -70,7 +85,7 @@
 							<RadioItem
 								bind:group={genId}
 								name="justify"
-								value={gen.id}
+								value={gen.id.toString()}
 								on:click={() => updateSearchParams('gen-id', gen.id.toString())}
 							>
 								{gen.main_region}
@@ -83,6 +98,24 @@
 						placeholder="Search "
 						bind:value={searchString}
 					/>
+					<RadioGroup
+						class="align-middle select-none ml-2"
+						active="variant-filled-primary"
+						hover="hover:variant-soft-primary"
+					>
+						<RadioItem
+							bind:group={lang}
+							name="justify"
+							value={'en'}
+							on:click={() => updateSearchParams('lang', 'en')}>English</RadioItem
+						>
+						<RadioItem
+							bind:group={lang}
+							name="justify"
+							value={'de'}
+							on:click={() => updateSearchParams('lang', 'de')}>Deutsch</RadioItem
+						>
+					</RadioGroup>
 				</div>
 			</svelte:fragment>
 
@@ -103,21 +136,24 @@
 	<!-- Page Route Content -->
 	<slot />
 
-	{#if genId != 0}
-	<div class=" flex flex-wrap flex-row justify-center m-1">
-		{#each filteredMonsters as monster (monster.id)}
-			<Monster {monster} updateSearchParams={() => {}} isInteractive={true} />
-		{/each}
-	</div>
-	{:else}
-	<div class="container h-full mx-auto flex justify-center items-center">
-		<div class="space-y-10 text-center flex flex-col items-center">
-			<h2 class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone">Welcome to Fancydex!</h2>
-			<p class="animate-pulse select-none text-xl text-surface-800-100-token">Start of by choosing a region on the top left!</p>
+	{#if genId != '0'}
+		<div class=" flex flex-wrap flex-row justify-center m-1">
+			{#each filteredMonsters as monster (monster.id)}
+				<Monster {monster} {monClick} />
+			{/each}
 		</div>
-	</div>
+	{:else}
+		<div class="container h-full mx-auto flex justify-center items-center">
+			<div class="space-y-10 text-center flex flex-col items-center">
+				<h2
+					class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone"
+				>
+					Welcome to Fancydex!
+				</h2>
+				<p class="animate-pulse select-none text-xl text-surface-800-100-token">
+					Start of by choosing a region on the top left!
+				</p>
+			</div>
+		</div>
 	{/if}
-	
-
-	
 </AppShell>
