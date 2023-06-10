@@ -19,7 +19,7 @@ export const load = (async ({ fetch, url }) => {
 		(monster: ApiMonster) => {
 			const splitUrl = monster.url.split('/');
 			const id = splitUrl[splitUrl.length - 2];
-			
+
 			return {
 				name: monster.name,
 				url: monster.url,
