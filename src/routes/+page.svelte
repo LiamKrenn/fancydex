@@ -13,7 +13,8 @@
 		modalStore,
 		Modal,
 		TabGroup,
-		Tab
+		Tab,
+		type PopupSettings
 	} from '@skeletonlabs/skeleton';
 
 	import Monster from './Monster.svelte';
@@ -22,15 +23,14 @@
 	import type { IndexMonster } from './+page';
 	import { generations } from './generations';
 	import { goto } from '$app/navigation';
+	import { popup } from '@skeletonlabs/skeleton';
 	import ModalMonster from './ModalMonster.svelte';
+	import At from './at.svelte';
+	import En from './en.svelte';
 
 	export let data: PageData;
 
-	//const genOnLoad = $page.url.searchParams.get('gen-id') || '0';
-	//console.log(genOnLoad);
-
 	$: lang = $page.url.searchParams.get('lang') || 'en';
-
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
 
 	$: searchString = '';
@@ -39,9 +39,6 @@
 			return monster.name.toLowerCase().includes(searchString.toLowerCase());
 		})
 		.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
-
-	//$: monsterId = $page.url.searchParams.get('id') || '';
-	//$: monster = data.monsters.find((monster) => monster.id === monsterId);
 
 	const updateSearchParams = (key: string, value: string) => {
 		const searchParams = new URLSearchParams($page.url.searchParams);
@@ -107,14 +104,18 @@
 							bind:group={lang}
 							name="justify"
 							value={'en'}
-							on:click={() => updateSearchParams('lang', 'en')}>English</RadioItem
+							on:click={() => updateSearchParams('lang', 'en')}
 						>
+							<En />
+						</RadioItem>
 						<RadioItem
 							bind:group={lang}
 							name="justify"
 							value={'de'}
-							on:click={() => updateSearchParams('lang', 'de')}>Deutsch</RadioItem
+							on:click={() => updateSearchParams('lang', 'de')}
 						>
+							<At />
+						</RadioItem>
 					</RadioGroup>
 				</div>
 			</svelte:fragment>
@@ -137,7 +138,7 @@
 	<slot />
 
 	{#if genId != '0'}
-		<div class=" flex flex-wrap flex-row justify-center m-1">
+		<div class=" flex w-full flex-wrap flex-row justify-center m-1">
 			{#each filteredMonsters as monster (monster.id)}
 				<Monster {monster} {monClick} />
 			{/each}
