@@ -33,7 +33,6 @@
 	export let data: PageData;
 
 	$: screenSize = 0;
-	$: tmp2 = console.log(screenSize);
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
