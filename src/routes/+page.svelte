@@ -8,13 +8,9 @@
 		LightSwitch,
 		RadioGroup,
 		RadioItem,
-		type ModalComponent,
 		type ModalSettings,
 		modalStore,
-		Modal,
-		TabGroup,
-		Tab,
-		type PopupSettings
+		Modal
 	} from '@skeletonlabs/skeleton';
 
 	import Monster from './Monster.svelte';
@@ -23,10 +19,13 @@
 	import type { IndexMonster } from './+page';
 	import { generations } from './generations';
 	import { goto } from '$app/navigation';
-	import { popup } from '@skeletonlabs/skeleton';
 	import ModalMonster from './ModalMonster.svelte';
 	import At from './at.svelte';
 	import En from './en.svelte';
+
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
+	inject({ mode: dev ? 'development' : 'production' });
 
 	export let data: PageData;
 
