@@ -121,7 +121,6 @@
 
 			<svelte:fragment slot="trail">
 				<LightSwitch class=" align-middle" />
-
 				<a
 					class="select-none align-middle"
 					href="https://github.com/LiamKrenn"

@@ -6,7 +6,7 @@ type ApiMonster = {
 };
 
 export type IndexMonster = ApiMonster & {
-	id: string;
+	id: number;
 	image: string;
 };
 
@@ -18,7 +18,7 @@ export const load = (async ({ fetch, url }) => {
 	const generationMonsters: IndexMonster[] = generationJson.pokemon_species.map(
 		(monster: ApiMonster) => {
 			const splitUrl = monster.url.split('/');
-			const id = splitUrl[splitUrl.length - 2];
+			const id = parseInt(splitUrl[splitUrl.length - 2], 10);
 
 			return {
 				name: monster.name,
