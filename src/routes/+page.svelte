@@ -91,7 +91,7 @@
 					<input
 						class="input w-full select-none align-middle ml-2"
 						type="text"
-						placeholder="Search "
+						placeholder={(lang!="de") ? "Search " : "Suche "}
 						bind:value={searchString}
 					/>
 					<RadioGroup
@@ -148,10 +148,18 @@
 				<h2
 					class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone"
 				>
+				{#if lang == 'de'}
+						Willkommen bei Fancydex!
+					{:else}
 					Welcome to Fancydex!
+					{/if}
 				</h2>
 				<p class="animate-pulse select-none text-xl text-surface-800-100-token">
-					Start of by choosing a region on the top left!
+					{#if lang == 'de'}
+						Wähle eine Region links oben aus um zu beginnen!
+					{:else}
+						Start of by choosing a region on the top left!
+					{/if}
 				</p>
 			</div>
 		</div>
