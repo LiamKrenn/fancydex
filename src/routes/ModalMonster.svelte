@@ -1,8 +1,6 @@
 <script lang="ts">
 	import type { IndexMonster } from './+page';
-	import { page } from '$app/stores';
 	import { modalStore } from '@skeletonlabs/skeleton';
-	import type { List } from 'postcss/lib/list';
 
 	const monster: IndexMonster = $modalStore[0].meta?.mon;
 	$: descr = 'loading...';

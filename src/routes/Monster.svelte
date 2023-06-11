@@ -4,7 +4,7 @@
 
 	export let monster: IndexMonster;
 	export let monClick: (m: IndexMonster) => void;
-	
+
 	$: language = $page.url.searchParams.get('lang') || 'en';
 
 	$: name = 'loading...';
@@ -13,11 +13,10 @@
 		const monsterJson = await monsterResponse.json();
 		const names = await monsterJson.names;
 		name = await names.find((name) => name.language.name == l).name;
-		monster.name = name
+		monster.name = name;
 	}
-	$: tmp = getName(language)
+	$: tmp = getName(language);
 </script>
-
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <div class="card card-hover m-1 cursor-pointer select-none" on:click={() => monClick(monster)}>
