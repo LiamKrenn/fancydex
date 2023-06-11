@@ -25,7 +25,7 @@
 	<div class="relative top-1 left-2 text-surface-300-600-token">
 		#{monster.id}
 	</div>
-	<div class="{((screenSize > 600) ? 'mx-3 w-24 h-24':'mx-1 h-22')} justify-center">
+	<div class="{((screenSize > 600) ? 'mx-3 w-24 h-24':'mx-1 w-22 h-22')} justify-center">
 		<!--on:load={() => {console.log(loaded); loaded = true;}}-->
 		<img src={monster.image} alt={monster.name} />
 		<!--Loading Animation, bugs when refresh-->
