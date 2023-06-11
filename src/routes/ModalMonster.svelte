@@ -41,7 +41,7 @@
 	<div class="relative {((screenSize > 600) ? 'text-4xl left-3 top-3 ': 'text-xl left-2 top-2 ')}  text-surface-300-600-token">
 		#{monster.id}
 	</div>
-	<div class="pixelated  {((screenSize > 600) ? ' mx-3':'')} justify-center">
+	<div class="pixelated  {((screenSize > 600) ? ' mx-3':'mx-1')} justify-center">
 		<!--on:load={() => {console.log(loaded); loaded = true;}}-->
 		<img src={monster.image} alt={monster.name} height="100%" width="100%" />
 		<!--{#if !loaded }-->
