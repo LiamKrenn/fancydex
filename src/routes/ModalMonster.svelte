@@ -37,7 +37,7 @@
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 
-<div class="card card-hover m-1 cursor-pointer select-none">
+<div class="card m-1 cursor-pointer">
 	<div class="relative left-3 top-3 text-4xl text-surface-300-600-token">
 		#{monster.id}
 	</div>
