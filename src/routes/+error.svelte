@@ -26,7 +26,7 @@
 			Uh Oh.. seems like a error occurred!
 		</h2>
     <h3 class="select-none h3 text-surface-800-100-token bg-clip-text text-transparent ">
-      Please try again later.
+      Go back to the <a class="underline text-blue-500" href="/">homepage</a>, or try again later
     </h3>
 	</div>
 </div>
