@@ -21,11 +21,11 @@
 </script>
 <svelte:window bind:innerWidth={screenSize} />
 <!-- svelte-ignore a11y-click-events-have-key-events -->
-<div class="card card-hover  {((screenSize > 600) ? 'w-auto m-1':'w-20 m-0.5')} cursor-pointer select-none" on:click={() => monClick(monster)}>
+<div class="card card-hover  {((screenSize > 600) ? 'w-auto m-1':'w-24 m-0.5')} cursor-pointer select-none" on:click={() => monClick(monster)}>
 	<div class="relative top-1 left-2 text-surface-300-600-token">
 		#{monster.id}
 	</div>
-	<div class="{((screenSize > 600) ? 'mx-3 w-24 h-24':'mx-1 h-20')} justify-center">
+	<div class="{((screenSize > 600) ? 'mx-3 w-24 h-24':'mx-1 h-22')} justify-center">
 		<!--on:load={() => {console.log(loaded); loaded = true;}}-->
 		<img src={monster.image} alt={monster.name} />
 		<!--Loading Animation, bugs when refresh-->
