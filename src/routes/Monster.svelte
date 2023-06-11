@@ -7,7 +7,7 @@
 
 	$: language = $page.url.searchParams.get('lang') || 'en';
 
-	$: name = 'loading...';
+	$: name = ((language != 'de') ? 'loading...' : 'ladet...');
 	async function getName(l: string) {
 		const monsterResponse = await fetch(`${monster.url}`);
 		const monsterJson = await monsterResponse.json();

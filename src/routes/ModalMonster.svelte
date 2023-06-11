@@ -3,11 +3,11 @@
 	import { modalStore } from '@skeletonlabs/skeleton';
 
 	const monster: IndexMonster = $modalStore[0].meta?.mon;
-	$: descr = 'loading...';
+	
 
 	const lang: string = $modalStore[0].meta?.lan;
 
-	$: name = 'loading...';
+	$: name = ((lang != 'de') ? 'loading...' : 'ladet...');
 	async function getName(l: string) {
 		const monsterResponse = await fetch(`${monster.url}`);
 		const monsterJson = await monsterResponse.json();
@@ -16,6 +16,7 @@
 	}
 	getName(lang);
 
+	$: descr = ((lang != 'de') ? 'loading...' : 'ladet...');
 	async function getDescription() {
 		const monsterResponse = await fetch(`${monster.url}`);
 
