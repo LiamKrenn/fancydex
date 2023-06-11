@@ -155,7 +155,7 @@
 				</h2>
 				<p class="animate-pulse select-none text-xl text-surface-800-100-token">
 					{#if lang == 'de'}
-						Wähle eine Region links oben aus um zu beginnen!
+						Wähle eine Region links oben aus, um zu beginnen!
 					{:else}
 						Start of by choosing a region on the top left!
 					{/if}
