@@ -136,7 +136,7 @@
 	<slot />
 
 	{#if genId != '0'}
-		<div class=" flex w-full flex-wrap flex-row justify-center m-1">
+		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
 			{#each filteredMonsters as monster (monster.id)}
 				<Monster {monster} {monClick} />
 			{/each}
