@@ -13,21 +13,27 @@
 		Modal
 	} from '@skeletonlabs/skeleton';
 
+	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
+	import { storePopup } from '@skeletonlabs/skeleton';
+	storePopup.set({ computePosition, autoUpdate, offset, shift, flip, arrow });
+
 	import Monster from './Monster.svelte';
 	import type { PageData } from './$types';
 	import { page } from '$app/stores';
 	import type { IndexMonster } from './+page';
-	import { generations } from './generations';
 	import { goto } from '$app/navigation';
 	import ModalMonster from './ModalMonster.svelte';
-	import At from './at.svelte';
-	import En from './en.svelte';
 
 	import { dev } from '$app/environment';
 	import { inject } from '@vercel/analytics';
+	import Genbox from './genbox.svelte';
+	import Lanbox from './lanbox.svelte';
 	inject({ mode: dev ? 'development' : 'production' });
 
 	export let data: PageData;
+
+	$: screenSize = 0;
+	$: tmp2 = console.log(screenSize);
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
@@ -55,6 +61,8 @@
 	};
 </script>
 
+<svelte:window bind:innerWidth={screenSize} />
+
 <Modal />
 <!-- App Shell -->
 <AppShell>
@@ -62,73 +70,79 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<a
-					class="text-2xl font-thin cursor-pointer select-none align-middle"
-					href="/"
-					on:click={() => {
-						genId = '0';
-					}}>Fancydex</a
-				>
+				{#if screenSize > 600}
+					<a
+						class="text-2xl font-thin cursor-pointer select-none align-middle"
+						href="/"
+						on:click={() => {
+							genId = '0';
+						}}>Fancydex</a
+					>
+				{/if}
 			</svelte:fragment>
 			<svelte:fragment slot="default">
-				<div class="flex w-full">
-					<RadioGroup
-						class="align-middle select-none"
-						active="variant-filled-primary"
-						hover="hover:variant-soft-primary"
-					>
-						{#each generations as gen (gen.id)}
-							<RadioItem
-								bind:group={genId}
-								name="justify"
-								value={gen.id.toString()}
-								on:click={() => updateSearchParams('gen-id', gen.id.toString())}
-							>
-								{gen.main_region}
-							</RadioItem>
-						{/each}
-					</RadioGroup>
+				<div class="flex w-full {screenSize < 600 ? '-ml-5' : '-ml-2'}">
+					<!--<RadioGroup-->
+					<!--	class="align-middle select-none"-->
+					<!--	active="variant-filled-primary"-->
+					<!--	hover="hover:variant-soft-primary"-->
+					<!-->-->
+					<!--	{#each generations as gen (gen.id)}-->
+					<!--		<RadioItem-->
+					<!--			bind:group={genId}-->
+					<!--			name="justify"-->
+					<!--			value={gen.id.toString()}-->
+					<!--			on:click={() => updateSearchParams('gen-id', gen.id.toString())}-->
+					<!--		>-->
+					<!--			{gen.main_region}-->
+					<!--		</RadioItem>-->
+					<!--	{/each}-->
+					<!--</RadioGroup>-->
+					<Genbox />
 					<input
-						class="input w-full select-none align-middle ml-2"
+						class="input w-full select-none align-middle ml-2 mr-2"
 						type="text"
 						placeholder={lang != 'de' ? 'Search ' : 'Suche '}
 						bind:value={searchString}
 					/>
-					<RadioGroup
-						class="align-middle select-none ml-2"
-						active="variant-filled-primary"
-						hover="hover:variant-soft-primary"
-					>
-						<RadioItem
-							bind:group={lang}
-							name="justify"
-							value={'en'}
-							on:click={() => updateSearchParams('lang', 'en')}
-						>
-							<En />
-						</RadioItem>
-						<RadioItem
-							bind:group={lang}
-							name="justify"
-							value={'de'}
-							on:click={() => updateSearchParams('lang', 'de')}
-						>
-							<At />
-						</RadioItem>
-					</RadioGroup>
+					<!--<RadioGroup-->
+					<!--	class="align-middle select-none ml-2"-->
+					<!--	active="variant-filled-primary"-->
+					<!--	hover="hover:variant-soft-primary"-->
+					<!-->-->
+					<!--	<RadioItem-->
+					<!--		bind:group={lang}-->
+					<!--		name="justify"-->
+					<!--		value={'en'}-->
+					<!--		on:click={() => updateSearchParams('lang', 'en')}-->
+					<!--	>-->
+					<!--		<En />-->
+					<!--	</RadioItem>-->
+					<!--	<RadioItem-->
+					<!--		bind:group={lang}-->
+					<!--		name="justify"-->
+					<!--		value={'de'}-->
+					<!--		on:click={() => updateSearchParams('lang', 'de')}-->
+					<!--	>-->
+					<!--		<At />-->
+					<!--	</RadioItem>-->
+					<!--</RadioGroup>-->
+					<Lanbox />
 				</div>
 			</svelte:fragment>
 
 			<svelte:fragment slot="trail">
-				<LightSwitch class=" align-middle" />
-				<a
-					class="select-none align-middle"
-					href="https://github.com/LiamKrenn"
-					target="_blank"
-					rel="noreferrer"
-				>
-					GitHub
-				</a>
+				<LightSwitch class="align-middle {screenSize < 600 ? '-ml-6' : '-ml-3'}" />
+				{#if screenSize > 600}
+					<a
+						class="select-none align-middle"
+						href="https://github.com/LiamKrenn"
+						target="_blank"
+						rel="noreferrer"
+					>
+						GitHub
+					</a>
+				{/if}
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>

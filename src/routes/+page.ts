@@ -1,4 +1,5 @@
 import type { PageLoad } from './$types';
+import { generations } from './generations';
 
 type ApiMonster = {
 	name: string;
