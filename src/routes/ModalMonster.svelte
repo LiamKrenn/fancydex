@@ -21,7 +21,6 @@
 		const monsterResponse = await fetch(`${monster.url}`);
 
 		const monsterJson = await monsterResponse.json();
-		console.log(monsterJson);
 		const flavorTexts = monsterJson.flavor_text_entries;
 		const latestEnglishDescription = flavorTexts
 			.filter(function (texts) {
