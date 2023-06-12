@@ -54,7 +54,7 @@ for i in range(8):
                 for l in langs:
                     if l not in tmp.keys():
                         if tmp["en"] not in missingdata:
-                          missingdata["Region"] = gen
+                          missingdata[tmp["en"]]["Region"] = gen
                           missingdata[tmp["en"]] = ["Name: " + l]
                         else:
                           missingdata[tmp["en"]].append("Name: " + l)
@@ -70,7 +70,7 @@ for i in range(8):
                 for l in langs:
                     if l not in tmp.keys():
                         if dic["names"]["en"] not in missingdata:
-                          missingdata["Region"] = gen
+                          missingdata[dic["names"]["en"]]["Region"] = gen
                           missingdata[dic["names"]["en"]] = ["Description: " + l]
                         else:
                           missingdata[dic["names"]["en"]].append("Description: " + l)
@@ -83,7 +83,7 @@ for i in range(8):
 
             json.dump(pdata, f, ensure_ascii=False)
         c += 1
-        print(str(c / len(data["pokemon_species"]) * 100) + "%")
+        print(str(c / 905 * 100) + "%")
 
 with open("missing.json", "w", encoding="utf-8") as f:
     json.dump(missingdata, f, ensure_ascii=False)
