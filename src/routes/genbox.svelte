@@ -22,13 +22,14 @@
 	};
 </script>
 
-<button class="btn variant-filled select-none " use:popup={popupCombobox}>
+<button class="btn variant-ghost-tertiary select-none " use:popup={popupCombobox}>
 	<span class="">{generations.find((gen) => gen.id.toString() == generation)?.main_region || 'Region'}</span>
 </button>
 <div class="card text-xl shadow-xl py-1 select-none" data-popup="genbox">
 	<ListBox rounded="rounded-none">
 		{#each generations as gen (gen.id)}
 			<ListBoxItem
+				class="rounded-lg {(gen.id.toString() == generation) ? 'variant-ringed-tertiary text-black dark:text-white' : ''}"
 				bind:group={generation}
 				name="medium"
 				value={gen.id.toString()}
@@ -37,5 +38,4 @@
 			>
 		{/each}
 	</ListBox>
-	<div class="arrow bg-surface-100-800-token" />
 </div>

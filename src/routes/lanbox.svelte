@@ -23,7 +23,7 @@
 	};
 </script>
 
-<button class="btn variant-filled select-none" use:popup={popupCombobox}>
+<button class="btn variant-ringed-surface select-none" use:popup={popupCombobox}>
 	<span class="justify-center">
 		{#if lang == 'de'}
 			<At />
@@ -35,13 +35,14 @@
 <div class="card text-xl shadow-xl py-1" data-popup="lanbox">
 	<ListBox rounded="rounded-none" class="select-none">
 		<ListBoxItem
-	
+		class="rounded-lg {('en' == lang) ? 'variant-ringed-surface text-black dark:text-white' : ''}"
 			bind:group={lang}
 			name="medium"
 			value={'en'}
 			on:click={() => updateSearchParams('lang', 'en')}>English</ListBoxItem
 		>
 		<ListBoxItem
+		class="rounded-lg {('de' == lang) ? 'variant-ringed-surface text-black dark:text-white' : ''}"
 			bind:group={lang}
 			name="medium"
 			value={'de'}
