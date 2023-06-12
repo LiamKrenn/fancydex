@@ -2,6 +2,10 @@ import requests
 import json
 import os
 
+# puts all pokemon with filtered and clean dataa in ./region/pokemon_name.json
+# missing data that should be added to each pokemon can be found in ./missing.json
+
+
 langs = ["en", "ja", "it", "es", "de", "fr", "ko"]
 missingdata = {}
 c = 0
@@ -49,10 +53,11 @@ for i in range(8):
             if len(tmp) != 7:
                 for l in langs:
                     if l not in tmp.keys():
-                        if tmp["en"] in missingdata:
-                            missingdata[tmp["en"]].append("Name: " + l)
+                        if tmp["en"] not in missingdata:
+                          missingdata["Region"] = gen
+                          missingdata[tmp["en"]] = ["Name: " + l]
                         else:
-                            missingdata[tmp["en"]] = ["Name: " + l]
+                          missingdata[tmp["en"]].append("Name: " + l)
             dic["names"] = tmp
 
             flavor_texts = list(dic["flavor_text_entries"])[::-1]
@@ -64,10 +69,11 @@ for i in range(8):
             if len(tmp) != 7:
                 for l in langs:
                     if l not in tmp.keys():
-                        if dic["names"]["en"] in missingdata:
-                            missingdata[dic["names"]["en"]].append("Description: " + l)
+                        if dic["names"]["en"] not in missingdata:
+                          missingdata["Region"] = gen
+                          missingdata[dic["names"]["en"]] = ["Description: " + l]
                         else:
-                            missingdata[dic["names"]["en"]] = ["Description: " + l]
+                          missingdata[dic["names"]["en"]].append("Description: " + l)
             dic["descriptions"] = tmp
 
             if dic["evolves_from_species"] != None:
