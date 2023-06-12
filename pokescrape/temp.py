@@ -1,0 +1,84 @@
+import requests
+import json
+import os
+
+langs = ["en", "ja", "it", "es", "de", "fr", "ko"]
+missingdata = {}
+c = 0
+for i in range(8):
+    response = requests.get(f"https://pokeapi.co/api/v2/generation/{i+1}/")
+    data = json.loads(response.text)
+    for pokemon in data["pokemon_species"]:
+        presp = requests.get(pokemon["url"])
+        pdata = json.loads(presp.text)
+        gen = json.loads(requests.get(pdata["generation"]["url"]).text)["main_region"]["name"]
+        try:
+            os.mkdir(gen)
+        except FileExistsError:
+            pass
+        with open(f'./{gen}/{pokemon["name"]}.json', "w", encoding="utf-8") as f:
+            dic = pdata
+            del dic["pokedex_numbers"]
+            del dic["shape"]
+            del dic["varieties"]
+            del dic["pal_park_encounters"]
+            del dic["order"]
+            del dic["name"]
+            del dic["is_baby"]
+            del dic["is_legendary"]
+            del dic["is_mythical"]
+            del dic["has_gender_differences"]
+            del dic["hatch_counter"]
+            del dic["habitat"]
+            del dic["growth_rate"]
+            dic["generation"] = gen
+            del dic["genera"]
+            del dic["gender_rate"]
+            del dic["forms_switchable"]
+            del dic["form_descriptions"]
+            del dic["evolution_chain"]
+            del dic["egg_groups"]
+            del dic["capture_rate"]
+            del dic["base_happiness"]
+            names = dic["names"]
+            del dic["names"]
+            tmp = {}
+            for name in names:
+                if name["language"]["name"] != "roomaji":
+                    tmp[name["language"]["name"]] = name["name"]
+            if len(tmp) != 7:
+                for l in langs:
+                    if l not in tmp.keys():
+                        if tmp["en"] in missingdata:
+                            missingdata[tmp["en"]].append("Name: " + l)
+                        else:
+                            missingdata[tmp["en"]] = ["Name: " + l]
+            dic["names"] = tmp
+
+            flavor_texts = list(dic["flavor_text_entries"])[::-1]
+            tmp = {}
+            for desc in flavor_texts:
+                if desc["language"]["name"] not in tmp.keys():
+                    tmp[desc["language"]["name"]] = (desc["flavor_text"].replace("\n", " ").replace("\f", " "))
+            del dic["flavor_text_entries"]
+            if len(tmp) != 7:
+                for l in langs:
+                    if l not in tmp.keys():
+                        if dic["names"]["en"] in missingdata:
+                            missingdata[dic["names"]["en"]].append("Description: " + l)
+                        else:
+                            missingdata[dic["names"]["en"]] = ["Description: " + l]
+            dic["descriptions"] = tmp
+
+            if dic["evolves_from_species"] != None:
+                backslashrem = dic["evolves_from_species"]["url"][:-1]
+                dic["id"] = int(dic["evolves_from_species"]["url"][backslashrem.rfind("/") + 1 : -1])
+                del dic["evolves_from_species"]["url"]
+
+            json.dump(pdata, f, ensure_ascii=False)
+        c += 1
+        print(str(c / len(data["pokemon_species"]) * 100) + "%")
+
+with open("missing.json", "w", encoding="utf-8") as f:
+    json.dump(missingdata, f, ensure_ascii=False)
+
