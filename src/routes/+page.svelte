@@ -28,6 +28,7 @@
 	import { inject } from '@vercel/analytics';
 	import Genbox from './genbox.svelte';
 	import Lanbox from './lanbox.svelte';
+	import { generations } from './generations';
 	inject({ mode: dev ? 'development' : 'production' });
 
 	export let data: PageData;
@@ -81,25 +82,29 @@
 			</svelte:fragment>
 			<svelte:fragment slot="default">
 				<div class="flex w-full {screenSize < 600 ? '-ml-5' : '-ml-2'}">
-					<!--<RadioGroup-->
-					<!--	class="align-middle select-none"-->
-					<!--	active="variant-filled-primary"-->
-					<!--	hover="hover:variant-soft-primary"-->
-					<!-->-->
-					<!--	{#each generations as gen (gen.id)}-->
-					<!--		<RadioItem-->
-					<!--			bind:group={genId}-->
-					<!--			name="justify"-->
-					<!--			value={gen.id.toString()}-->
-					<!--			on:click={() => updateSearchParams('gen-id', gen.id.toString())}-->
-					<!--		>-->
-					<!--			{gen.main_region}-->
-					<!--		</RadioItem>-->
-					<!--	{/each}-->
-					<!--</RadioGroup>-->
-					<Genbox />
+					{#if screenSize >= 1150}
+						<RadioGroup
+							class="align-middle select-none"
+							active="variant-ghost-tertiary"
+							hover="hover:variant-soft-tertiary"
+						>
+							{#each generations as gen (gen.id)}
+								<RadioItem
+									bind:group={genId}
+									name="justify"
+									value={gen.id.toString()}
+									on:click={() => updateSearchParams('gen-id', gen.id.toString())}
+								>
+									{gen.main_region}
+								</RadioItem>
+							{/each}
+						</RadioGroup>
+					{:else}
+						<Genbox />
+					{/if}
+
 					<input
-						class="input w-full select-none align-middle ml-2 mr-2"
+						class="input w-full select-none align-middle ml-2 mr-2 focus:border-tertiary-500"
 						type="text"
 						placeholder={lang != 'de' ? 'Search ' : 'Suche '}
 						bind:value={searchString}
