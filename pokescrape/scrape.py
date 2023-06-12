@@ -48,7 +48,7 @@ for i in range(8):
             del dic["names"]
             tmp = {}
             for name in names:
-                if name["language"]["name"] != "roomaji":
+                if name["language"]["name"] in langs:
                     tmp[name["language"]["name"]] = name["name"]
             if len(tmp) != 7:
                 for l in langs:
@@ -63,7 +63,7 @@ for i in range(8):
             flavor_texts = list(dic["flavor_text_entries"])[::-1]
             tmp = {}
             for desc in flavor_texts:
-                if desc["language"]["name"] not in tmp.keys():
+                if desc["language"]["name"] not in tmp.keys() and desc["language"]["name"] in langs:
                     tmp[desc["language"]["name"]] = (desc["flavor_text"].replace("\n", " ").replace("\f", " "))
             del dic["flavor_text_entries"]
             if len(tmp) != 7:
