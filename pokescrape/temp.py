@@ -55,7 +55,7 @@ for i in range(8):
                     if l not in tmp.keys():
                         if tmp["en"] not in missingdata:
                           missingdata[tmp["en"]] = ["Name: " + l]
-                          missingdata[tmp["en"]]["Region"] = gen
+                          missingdata[tmp["en"]].append("Region: " + gen)
                         else:
                           missingdata[tmp["en"]].append("Name: " + l)
             dic["names"] = tmp
@@ -71,7 +71,7 @@ for i in range(8):
                     if l not in tmp.keys():
                         if dic["names"]["en"] not in missingdata:
                           missingdata[dic["names"]["en"]] = ["Description: " + l]
-                          missingdata[dic["names"]["en"]]["Region"] = gen
+                          missingdata[dic["names"]["en"]].append("Region: " + gen)
                         else:
                           missingdata[dic["names"]["en"]].append("Description: " + l)
             dic["descriptions"] = tmp
