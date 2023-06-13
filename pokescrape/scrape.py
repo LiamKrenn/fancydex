@@ -6,7 +6,7 @@ import os
 # missing data that should be added to each pokemon can be found in ./missing.json
 
 
-langs = ["en", "ja", "it", "es", "de", "fr", "ko"]
+langs = ["en", "ja-Hrkt", "it", "es", "de", "fr", "ko"]
 missingdata = {}
 c = 0
 for i in range(8):
@@ -80,8 +80,13 @@ for i in range(8):
                 backslashrem = dic["evolves_from_species"]["url"][:-1]
                 dic["id"] = int(dic["evolves_from_species"]["url"][backslashrem.rfind("/") + 1 : -1])
                 del dic["evolves_from_species"]["url"]
-
             json.dump(pdata, f, ensure_ascii=False)
+        
+        file = ''
+        with open(f'./{gen}/{pokemon["name"]}.json', "r", encoding="utf-8") as f:    
+            file = f.read()
+        with open(f'./{gen}/{pokemon["name"]}.json', "w", encoding="utf-8") as f: 
+            f.write(file.replace("ja-Hrkt","ja"))
         c += 1
         print(str(c / 905 * 100) + "%")
 
