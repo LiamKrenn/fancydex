@@ -21,36 +21,36 @@
 		placement: 'bottom'
 	};
 
-	const langoptions: {language: string, display: string}[] = [
+	const langoptions: { language: string; display: string }[] = [
 		{
-			language: "en",
-			display: "English"
+			language: 'en',
+			display: 'English'
 		},
 		{
-			language: "de",
-			display: "Deutsch"
+			language: 'de',
+			display: 'Deutsch'
 		},
 		{
-			language: "ja",
-			display: "日本語"
+			language: 'ja',
+			display: '日本語'
 		},
 		{
-			language: "it",
-			display: "Italiano"
+			language: 'it',
+			display: 'Italiano'
 		},
 		{
-			language: "es",
-			display: "Español"
+			language: 'es',
+			display: 'Español'
 		},
 		{
-			language: "fr",
-			display: "Français"
+			language: 'fr',
+			display: 'Français'
 		},
 		{
-			language: "ko",
-			display: "한국어"
+			language: 'ko',
+			display: '한국어'
 		}
-	]
+	];
 </script>
 
 <button class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
@@ -61,13 +61,12 @@
 <div class="card text-xl shadow-xl py-1" data-popup="lanbox">
 	<ListBox rounded="rounded-none" class="select-none">
 		{#each langoptions as l}
-		<ListBoxItem
-	
-		bind:group={lang}
-		name="medium"
-		value={l["language"]}
-		on:click={() => updateSearchParams('lang', l["language"])}>{l["display"]}</ListBoxItem
-	>
+			<ListBoxItem
+				bind:group={lang}
+				name="medium"
+				value={l['language']}
+				on:click={() => updateSearchParams('lang', l['language'])}>{l['display']}</ListBoxItem
+			>
 		{/each}
 	</ListBox>
 </div>
