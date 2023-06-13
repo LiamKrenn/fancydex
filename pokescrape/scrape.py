@@ -82,11 +82,13 @@ for i in range(8):
                 del dic["evolves_from_species"]["url"]
             json.dump(pdata, f, ensure_ascii=False)
         
+        # inefficient but necessary for compatability
         file = ''
         with open(f'./{gen}/{pokemon["name"]}.json', "r", encoding="utf-8") as f:    
             file = f.read()
         with open(f'./{gen}/{pokemon["name"]}.json', "w", encoding="utf-8") as f: 
             f.write(file.replace("ja-Hrkt","ja"))
+        # ------------------------------------------
         c += 1
         print(str(c / 905 * 100) + "%")
 
