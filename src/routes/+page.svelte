@@ -29,6 +29,9 @@
 	import Genbox from './genbox.svelte';
 	import Lanbox from './lanbox.svelte';
 	inject({ mode: dev ? 'development' : 'production' });
+	
+	import { langs } from './langs';
+
 
 	export let data: PageData;
 
@@ -43,12 +46,6 @@
 			return monster.name.toLowerCase().includes(searchString.toLowerCase());
 		})
 		.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
-
-	const updateSearchParams = (key: string, value: string) => {
-		const searchParams = new URLSearchParams($page.url.searchParams);
-		searchParams.set(key, value);
-		goto(`?${searchParams.toString()}`);
-	};
 
 	const monClick = (m: IndexMonster) => {
 		const modal: ModalSettings = {
@@ -101,7 +98,7 @@
 					<input
 						class="input w-full select-none align-middle ml-2 mr-2"
 						type="text"
-						placeholder={lang != 'de' ? 'Search ' : 'Suche '}
+						placeholder={langs[lang]["search"]}
 						bind:value={searchString}
 					/>
 					<!--<RadioGroup-->
@@ -160,18 +157,11 @@
 				<h2
 					class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone"
 				>
-					{#if lang == 'de'}
-						Willkommen bei Fancydex!
-					{:else}
-						Welcome to Fancydex!
-					{/if}
+					{langs[lang]["welcome"]}
+
 				</h2>
 				<p class="animate-pulse select-none text-xl text-surface-800-100-token">
-					{#if lang == 'de'}
-						Wähle eine Region links oben aus, um zu beginnen!
-					{:else}
-						Start of by choosing a region on the top left!
-					{/if}
+					{langs[lang]["region_hint"]}
 				</p>
 			</div>
 		</div>

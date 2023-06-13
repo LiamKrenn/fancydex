@@ -7,6 +7,7 @@
 	import { goto } from '$app/navigation';
 	import At from './at.svelte';
 	import En from './en.svelte';
+	import { svgs } from './svgs';
 
 	const updateSearchParams = (key: string, value: string) => {
 		const searchParams = new URLSearchParams($page.url.searchParams);
@@ -21,31 +22,54 @@
 		closeQuery: '.listbox-item',
 		placement: 'bottom'
 	};
+
+	const langoptions: {language: string, display: string}[] = [
+		{
+			language: "en",
+			display: "English"
+		},
+		{
+			language: "de",
+			display: "Deutsch"
+		},
+		{
+			language: "ja",
+			display: "日本語"
+		},
+		{
+			language: "it",
+			display: "Italiano"
+		},
+		{
+			language: "es",
+			display: "Español"
+		},
+		{
+			language: "fr",
+			display: "Français"
+		},
+		{
+			language: "ko",
+			display: "한국어"
+		}
+	]
 </script>
 
 <button class="btn variant-filled select-none" use:popup={popupCombobox}>
 	<span class="justify-center">
-		{#if lang == 'de'}
-			<At />
-		{:else}
-			<En />
-		{/if}
+		{@html svgs[lang]}
 	</span>
 </button>
 <div class="card text-xl shadow-xl py-1" data-popup="lanbox">
 	<ListBox rounded="rounded-none" class="select-none">
+		{#each langoptions as l}
 		<ListBoxItem
 	
-			bind:group={lang}
-			name="medium"
-			value={'en'}
-			on:click={() => updateSearchParams('lang', 'en')}>English</ListBoxItem
-		>
-		<ListBoxItem
-			bind:group={lang}
-			name="medium"
-			value={'de'}
-			on:click={() => updateSearchParams('lang', 'de')}>Deutsch</ListBoxItem
-		>
+		bind:group={lang}
+		name="medium"
+		value={l["language"]}
+		on:click={() => updateSearchParams('lang', l["language"])}>{l["display"]}</ListBoxItem
+	>
+		{/each}
 	</ListBox>
 </div>

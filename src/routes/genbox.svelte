@@ -6,6 +6,7 @@
 	import { generations } from './generations';
 	import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
+	import { langs } from './langs';
 
   const updateSearchParams = (key: string, value: string) => {
 		const searchParams = new URLSearchParams($page.url.searchParams);
@@ -13,6 +14,7 @@
 		goto(`?${searchParams.toString()}`);
 	};
 
+	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: generation = $page.url.searchParams.get('gen-id') || '0';
 	const popupCombobox: PopupSettings = {
 		event: 'click',
@@ -23,7 +25,7 @@
 </script>
 
 <button class="btn variant-filled select-none " use:popup={popupCombobox}>
-	<span class="">{generations.find((gen) => gen.id.toString() == generation)?.main_region || 'Region'}</span>
+	<span class="">{generations.find((gen) => gen.id.toString() == generation)?.main_region[lang] || langs[lang]["region"]}</span>
 </button>
 <div class="card text-xl shadow-xl py-1 select-none" data-popup="genbox">
 	<ListBox rounded="rounded-none">
@@ -33,9 +35,8 @@
 				name="medium"
 				value={gen.id.toString()}
 				on:click={() => updateSearchParams('gen-id', gen.id.toString())}
-				>{gen.main_region}</ListBoxItem
+				>{gen.main_region[lang]}</ListBoxItem
 			>
 		{/each}
 	</ListBox>
-	<div class="arrow bg-surface-100-800-token" />
 </div>
