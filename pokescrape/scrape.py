@@ -95,3 +95,4 @@ for i in range(8):
 with open("missing.json", "w", encoding="utf-8") as f:
     json.dump(missingdata, f, ensure_ascii=False)
 
+# data: https://github.com/CPokemon/pla-text/tree/master
