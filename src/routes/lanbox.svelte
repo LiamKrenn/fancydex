@@ -5,8 +5,6 @@
 
 	import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
-	import At from './at.svelte';
-	import En from './en.svelte';
 	import { svgs } from './svgs';
 
 	const updateSearchParams = (key: string, value: string) => {
@@ -55,7 +53,7 @@
 	]
 </script>
 
-<button class="btn variant-filled select-none" use:popup={popupCombobox}>
+<button class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
 	<span class="justify-center">
 		{@html svgs[lang]}
 	</span>
