@@ -34,12 +34,10 @@ export const load = (async ({ fetch, url }) => {
 	const from = genfromto[genId][0];
 	const to = genfromto[genId][1];
 	
-	const ids = Array.from({length: to - from + 1}, (_, i) => i + 1);
-
+	const idsar = Array.from({length: to - from + 1}, (_, i) => i + 1);
 	
-	let data = Array(to - from).fill(null);
 	
 	return {
-		monsters: data
+		ids: idsar
 	};
 }) satisfies PageLoad;

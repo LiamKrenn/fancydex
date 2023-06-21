@@ -42,7 +42,9 @@
 	$: searchString = '';	
 	
 	export let data: PageData;
-	$: allmons = data.monsters
+	console.log(data.ids);
+	let allmons = {}
+	
 
 	//$: filteredMonsters = allmons
 	//	.filter((monster) => {
@@ -63,7 +65,7 @@
 
 <meta name=Fancydex/>
 
-{#if !{dev}}
+{#if {dev}}
 <Modal />
 <!-- App Shell -->
 <AppShell>
