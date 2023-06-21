@@ -62,7 +62,9 @@
 	};
 </script>
 
-<meta name=Description content="Fancydex"/>
+<svelte:head>
+  <meta name="description" property="description" content="Fancydex" />
+</svelte:head>
 
 <Modal />
 <!-- App Shell -->
