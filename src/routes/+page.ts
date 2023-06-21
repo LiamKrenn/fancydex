@@ -13,7 +13,7 @@ export type IndexMonster = ApiMonster & {
 
 export const load = (async ({ fetch, url }) => {
 	const generationId = url.searchParams.get('gen-id') || '1';
-	const generationResponse = await fetch(`https://pokeapi.co/api/v2/generation/${generationId}`);
+	const generationResponse = await fetch(generationId + "/");
 	const generationJson = await generationResponse.json();
 
 	const generationMonsters: IndexMonster[] = generationJson.pokemon_species.map(

@@ -20,7 +20,7 @@ for i in range(8):
             os.mkdir(gen)
         except FileExistsError:
             pass
-        with open(f'./all/{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "w", encoding="utf-8") as f:
+        with open(f'./all/{i+1}-{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "w", encoding="utf-8") as f:
             dic = pdata
             del dic["pokedex_numbers"]
             del dic["shape"]
@@ -84,9 +84,9 @@ for i in range(8):
         
         # inefficient but necessary for compatability
         file = ''
-        with open(f'./all/{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "r", encoding="utf-8") as f:    
+        with open(f'./all/{i+1}-{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "r", encoding="utf-8") as f:    
             file = f.read()
-        with open(f'./all/{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "w", encoding="utf-8") as f: 
+        with open(f'./all/{i+1}-{int(pokemon["url"][pokemon["url"][:-1].rfind("/") + 1 : -1])}.json', "w", encoding="utf-8") as f: 
             f.write(file.replace("ja-Hrkt","ja"))
         # ------------------------------------------
         c += 1
