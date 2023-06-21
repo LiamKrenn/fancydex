@@ -21,19 +21,19 @@
 </script>
 <svelte:window bind:innerWidth={screenSize} />
 <!-- svelte-ignore a11y-click-events-have-key-events -->
-<div class="card card-hover  {((screenSize > 600) ? 'w-auto m-1':'w-22 m-0.5')} cursor-pointer select-none" on:click={() => monClick(monster)}>
+<div class="card card-hover sm:w-auto sm:m-1 w-22 m-0.5 cursor-pointer select-none" on:click={() => monClick(monster)}>
 	<div class="relative top-1 left-2 text-surface-300-600-token">
 		#{monster.id}
 	</div>
-	<div class="{((screenSize > 600) ? 'mx-3 w-24 h-24':'mx-1 w-22 h-22')} justify-center">
+	<div class="justify-center mx-1 w-22 h-22 sm:mx-3 sm:w-24 sm:h-24 ">
 		<!--on:load={() => {console.log(loaded); loaded = true;}}-->
-		<img src={monster.image} alt={monster.name} />
+		<img class="h-22 w-22 sm:h-24 sm:w-24" src="images/pokemon/{monster.id}.png" alt={monster.name} />
 		<!--Loading Animation, bugs when refresh-->
 		<!--{#if !loaded }-->
 		<!--	<div class="card animate-pulse variant-soft h-24 w-24" />-->
 		<!--{/if}-->
 	</div>
-	<div class="{((screenSize > 600) ? 'mx-2 mb-4':'mx-1 mb-1 text-xs')}  text-center text-surface-800-100-token">
+	<div class=" mx-1 mb-1 text-xs text-center text-surface-800-100-token sm:mx-2 sm:mb-4">
 		{name}
 	</div>
 </div>
