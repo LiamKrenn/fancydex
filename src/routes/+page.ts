@@ -1,34 +1,45 @@
 import type { PageLoad } from './$types';
 import { generations } from './generations';
+import { langs } from './langs';
 
-type ApiMonster = {
-	name: string;
-	url: string;
-};
-
-export type IndexMonster = ApiMonster & {
+export type IndexMonster = {
+	color: {
+		name: string;
+		url: string;
+	};
+	evolves_from_species: null;
+	generation: string;
 	id: number;
-	image: string;
+	names: {
+		[lang: string]: string;
+	};
+	descriptions: {
+		[lang: string]: string;
+	};
 };
 
 export const load = (async ({ fetch, url }) => {
-	const generationId = url.searchParams.get('gen-id') || '1';
-	const generationResponse = await fetch(generationId + "/");
-	const generationJson = await generationResponse.json();
+	let generationMonsters: IndexMonster[] = [];
+	const genfromto = {
+		1: [1, 151],
+		2: [152, 251],
+		3: [252, 386],
+		4: [387, 493],
+		5: [494, 649],
+		6: [650, 721],
+		7: [722, 809],
+		8: [810, 905]
+	};
+	const genId = url.searchParams.get('gen-id') || '0';
+	const from = genfromto[genId][0];
+	const to = genfromto[genId][1];
 
-	const generationMonsters: IndexMonster[] = generationJson.pokemon_species.map(
-		(monster: ApiMonster) => {
-			const splitUrl = monster.url.split('/');
-			const id = parseInt(splitUrl[splitUrl.length - 2], 10);
-
-			return {
-				name: monster.name,
-				url: monster.url,
-				id,
-				image: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png`
-			};
-		}
-	);
+	for (let i = from; i <= to; i++) {
+		//asynchron
+		let mon = await fetch('/data/pokemon/' + genId + '-' + i + '.json');
+		let monjson = await mon.json();
+		generationMonsters.push(monjson);
+	}
 
 	return {
 		monsters: generationMonsters

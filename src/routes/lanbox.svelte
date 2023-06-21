@@ -53,7 +53,7 @@
 	];
 </script>
 
-<button class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
+<button aria-label="language select button" class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
 	<span class="justify-center">
 		{@html svgs[lang]}
 	</span>

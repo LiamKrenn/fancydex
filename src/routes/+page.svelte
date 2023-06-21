@@ -39,10 +39,11 @@
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
 
-	$: searchString = '';
+	$: searchString = '';	
+	
 	$: filteredMonsters = data.monsters
 		.filter((monster) => {
-			return monster.name.toLowerCase().includes(searchString.toLowerCase());
+			return monster.names[lang].toLowerCase().includes(searchString.toLowerCase());
 		})
 		.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
 
@@ -56,6 +57,7 @@
 	};
 </script>
 
+<meta name=Fancydex/>
 <Modal />
 <!-- App Shell -->
 <AppShell>
@@ -102,7 +104,7 @@
 
 	{#if genId != '0'}
 		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
-			{#each filteredMonsters as monster (monster.id)}
+			{#each data.monsters as monster}
 				<Monster {monster} {monClick} />
 			{/each}
 		</div>
@@ -122,3 +124,4 @@
 		</div>
 	{/if}
 </AppShell>
+
