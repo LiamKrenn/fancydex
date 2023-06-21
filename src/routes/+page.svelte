@@ -65,7 +65,7 @@
 			<svelte:fragment slot="lead">
 				<a
 					class="hidden sm:block sm:text-2xl sm:font-thin sm:cursor-pointer sm:select-none sm:align-middle"
-					href="/"
+					href="/?lang={lang}"
 					on:click={() => {
 						genId = '0';
 					}}>Fancydex</a
