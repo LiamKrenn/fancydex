@@ -34,7 +34,7 @@ export const load = (async ({ fetch, url }) => {
 	const from = genfromto[genId][0];
 	const to = genfromto[genId][1];
 	
-	const idsar = Array.from({length: to - from + 1}, (_, i) => i + 1);
+	const idsar = Array.from({length: to - from + 1}, (_, i) => i + from);
 	
 	
 	return {
