@@ -2,17 +2,6 @@
 	import '../theme.postcss';
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
 	import '../app.postcss';
-	import {
-		AppShell,
-		AppBar,
-		LightSwitch,
-		RadioGroup,
-		RadioItem,
-		modalStore,
-		Modal
-	} from '@skeletonlabs/skeleton';
-	import { page } from '$app/stores';
-
 </script>
 
 <div class="container h-full mx-auto flex justify-center items-center">

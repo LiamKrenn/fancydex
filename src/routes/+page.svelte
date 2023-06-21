@@ -34,17 +34,21 @@
 	import { langs } from './langs';
 
 
-	export let data: PageData;
+	
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
 
 	$: searchString = '';	
 	
-	$: filteredMonsters = data.monsters
-		.filter((monster) => {
-			return monster.names[lang].toLowerCase().includes(searchString.toLowerCase());
-		})
+	export let data: PageData;
+	$: allmons = data.monsters
+
+	//$: filteredMonsters = allmons
+	//	.filter((monster) => {
+	//		if (monster == null) {return true;}
+	//		return monster.names[lang].toLowerCase().includes(searchString.toLowerCase());
+	//	})
 		//.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
 
 	const monClick = (m: IndexMonster) => {
@@ -58,6 +62,8 @@
 </script>
 
 <meta name=Fancydex/>
+
+{#if !{dev}}
 <Modal />
 <!-- App Shell -->
 <AppShell>
@@ -104,7 +110,7 @@
 
 	{#if genId != '0'}
 		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
-			{#each filteredMonsters as monster (monster.id)}
+			{#each allmons as monster}
 				<Monster {monster} {monClick} />
 			{/each}
 		</div>
@@ -124,4 +130,33 @@
 		</div>
 	{/if}
 </AppShell>
+{:else}
+<script>
+	import '../theme.postcss';
+	import '@skeletonlabs/skeleton/styles/skeleton.css';
+	import '../app.postcss';
+</script>
 
+<div class="container h-full mx-auto flex justify-center items-center">
+	<div class="space-y-10 text-center flex flex-col items-center">
+
+    <img class="pixelated w-[50%] select-none" src={"/images/pikathink.gif"} alt="Relaxo" height="100%" width="100%" />
+
+		<h2
+			class="select-none h1 bg-tertiary-800-100-token bg-clip-text text-transparent "
+		>
+			We are currently in maintenance!
+		</h2>
+    <h3 class="select-none h3 text-surface-800-100-token bg-clip-text text-transparent ">
+      Try again later!
+    </h3>
+	</div>
+</div>
+
+<style>
+	.pixelated {
+		image-rendering: pixelated;
+	}
+</style>
+
+{/if}

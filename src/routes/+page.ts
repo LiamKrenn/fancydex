@@ -33,18 +33,13 @@ export const load = (async ({ fetch, url }) => {
 	const genId = url.searchParams.get('gen-id') || '1';
 	const from = genfromto[genId][0];
 	const to = genfromto[genId][1];
+	
+	const ids = Array.from({length: to - from + 1}, (_, i) => i + 1);
 
-	for (let i = from; i <= to; i++) {
-		//asynchron
-
-		let mon = await fetch('/data/pokemon/' + genId + '-' + i + '.json');
-		let monjson = await mon.json();
-		monjson.id = i;
-		generationMonsters.push(monjson);
-		
-	}
-
+	
+	let data = Array(urls.length).fill(null);
+	
 	return {
-		monsters: generationMonsters
+		monsters: data
 	};
 }) satisfies PageLoad;
