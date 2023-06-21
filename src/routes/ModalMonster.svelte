@@ -1,12 +1,13 @@
 <script lang="ts">
 	import type { IndexMonster } from './+page';
 	import { modalStore } from '@skeletonlabs/skeleton';
+	import { langs } from './langs';
 
 	const monster: IndexMonster = $modalStore[0].meta?.mon;
 	
 	const lang: string = $modalStore[0].meta?.lan;
 
-	$: name = ((lang != 'de') ? 'loading...' : 'ladet...');
+	$: name = langs[lang].loading;
 	async function getName(l: string) {
 		const monsterResponse = await fetch(`${monster.url}`);
 		const monsterJson = await monsterResponse.json();
@@ -15,7 +16,7 @@
 	}
 	getName(lang);
 
-	$: descr = ((lang != 'de') ? 'loading...' : 'ladet...');
+	$: descr = langs[lang].loading;
 	async function getDescription() {
 		const monsterResponse = await fetch(`${monster.url}`);
 
