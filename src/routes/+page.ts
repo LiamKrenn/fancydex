@@ -30,7 +30,7 @@ export const load = (async ({ fetch, url }) => {
 		7: [722, 809],
 		8: [810, 905]
 	};
-	const genId = url.searchParams.get('gen-id') || '0';
+	const genId = url.searchParams.get('gen-id') || '1';
 	const from = genfromto[genId][0];
 	const to = genfromto[genId][1];
 
