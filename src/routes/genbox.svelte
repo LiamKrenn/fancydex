@@ -31,6 +31,7 @@
 	<ListBox rounded="rounded-none">
 		{#each generations as gen (gen.id)}
 			<ListBoxItem
+				class="rounded-lg {(gen.id.toString() == generation) ? 'variant-ringed-tertiary text-black dark:text-white' : ''}"
 				bind:group={generation}
 				name="medium"
 				value={gen.id.toString()}
