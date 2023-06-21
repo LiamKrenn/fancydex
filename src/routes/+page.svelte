@@ -45,7 +45,7 @@
 		.filter((monster) => {
 			return monster.names[lang].toLowerCase().includes(searchString.toLowerCase());
 		})
-		.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
+		//.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
 
 	const monClick = (m: IndexMonster) => {
 		const modal: ModalSettings = {
@@ -104,7 +104,7 @@
 
 	{#if genId != '0'}
 		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
-			{#each data.monsters as monster}
+			{#each filteredMonsters as monster (monster.id)}
 				<Monster {monster} {monClick} />
 			{/each}
 		</div>

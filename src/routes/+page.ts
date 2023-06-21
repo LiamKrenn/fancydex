@@ -36,9 +36,12 @@ export const load = (async ({ fetch, url }) => {
 
 	for (let i = from; i <= to; i++) {
 		//asynchron
+
 		let mon = await fetch('/data/pokemon/' + genId + '-' + i + '.json');
 		let monjson = await mon.json();
+		monjson.id = i;
 		generationMonsters.push(monjson);
+		
 	}
 
 	return {
