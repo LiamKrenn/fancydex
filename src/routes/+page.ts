@@ -37,7 +37,7 @@ export const load = (async ({ fetch, url }) => {
 	const ids = Array.from({length: to - from + 1}, (_, i) => i + 1);
 
 	
-	let data = Array(urls.length).fill(null);
+	let data = Array(to - from).fill(null);
 	
 	return {
 		monsters: data
