@@ -2,50 +2,39 @@
 	import type { IndexMonster } from './+page';
 	import { modalStore } from '@skeletonlabs/skeleton';
 	import { langs } from './langs';
+	import { page } from '$app/stores';
 
-	const monster: IndexMonster = $modalStore[0].meta?.mon;
+	const id: number = $modalStore[0].meta?.id;
 	
 	const lang: string = $modalStore[0].meta?.lan;
+	const genId = $page.url.searchParams.get('gen-id') || '0';
 
-	//$: name = langs[lang].loading;
-	//async function getName(l: string) {
-	//	const monsterResponse = await fetch(`${monster.url}`);
-	//	const monsterJson = await monsterResponse.json();
-	//	const names = await monsterJson.names;
-	//	name = await names.find((name) => name.language.name == l).name;
-	//}
-	//getName(lang);
-
-	//$: descr = langs[lang].loading;
-	//async function getDescription() {
-	//	const monsterResponse = await fetch(`${monster.url}`);
-//
-	//	const monsterJson = await monsterResponse.json();
-	//	const flavorTexts = monsterJson.flavor_text_entries;
-	//	const latestEnglishDescription = flavorTexts
-	//		.filter(function (texts) {
-	//			return texts.language.name == lang;
-	//		})
-	//		.at(-1).flavor_text;
-	//	descr = latestEnglishDescription.replace('', ' ').replace('POKéMON', 'Pokémon');
-	//}
-	//getDescription();
-
-	//export let loaded: boolean; $modalStore[0].meta?.someKey
+	async function loadData() {
+		const res = await fetch('/data/pokemon/' + genId + '-' + id + '.json');
+		const json = await res.json();
+		json.id = id;
+		return json;
+	}
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 
 <div class="card m-1 cursor-pointer sm:w-96 w-3/5">
 	<div class="relative sm:text-4xl sm:left-3 sm:top-3 text-xl left-2 top-2 text-surface-300-600-token">
-		#{monster.id}
+		#{id}
 	</div>
-	<div class="pixelated  sm:mx-3 mx-1 justify-center">
-		<!--on:load={() => {console.log(loaded); loaded = true;}}-->
-		<img src="images/pokemon/{monster.id}.png" alt={monster.names[lang]} height="100%" width="100%" />
-		<!--{#if !loaded }-->
-		<!--	<div class="card animate-pulse variant-soft h-24 w-24" />-->
-		<!--{/if}-->
+	{#await loadData()}
+	<div class="sm:mx-3 mx-1 justify-center "/>
+	<h1 class="h1 p-2 break-words sm:text-5xl sm:mx-2 sm:mb-4 text-2xl mx-1 text-center text-surface-800-100-token">
+		{langs[lang].loading}
+	</h1>
+	<div class="p-2 break-words sm:text-2xl sm:mx-2 sm:mb-4 mx-1 mb-2  text-center text-surface-800-100-token">
+		{langs[lang].loading}
+	</div>
+	{:then monster}
+	<div class="pixelated  sm:mx-3 mx-1 justify-center " >
+		<img src="images/pokemon/{id}.png"  alt={monster.names[lang]} height="100%" width="100%" loading="eager" />
+
 	</div>
 	<h1 class="h1 p-2 break-words sm:text-5xl sm:mx-2 sm:mb-4 text-2xl mx-1 text-center text-surface-800-100-token">
 		{monster.names[lang]}
@@ -53,6 +42,8 @@
 	<div class="p-2 break-words sm:text-2xl sm:mx-2 sm:mb-4 mx-1 mb-2  text-center text-surface-800-100-token">
 		{monster.descriptions[lang]}
 	</div>
+	{/await}
+	
 </div>
 
 <style>

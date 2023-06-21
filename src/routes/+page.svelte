@@ -52,10 +52,10 @@
 	//	})
 		//.sort((ma, mb) => (ma.id > mb.id ? 1 : -1));
 
-	const monClick = (m: number) => {
+	const monClick = (cid: number) => {
 		const modal: ModalSettings = {
 			type: 'component',
-			meta: { mon: m, lan: lang },
+			meta: { id: cid, lan: lang },
 			component: { ref: ModalMonster }
 		};
 		modalStore.trigger(modal);
