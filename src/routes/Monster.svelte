@@ -7,8 +7,6 @@
 
 	$: language = $page.url.searchParams.get('lang') || 'en';
 
-	$: screenSize = 0;
-
 	$: name = ((language != 'de') ? 'loading...' : 'ladet...');
 	async function getName(l: string) {
 		const monsterResponse = await fetch(`${monster.url}`);
@@ -19,7 +17,7 @@
 	}
 	$: tmp = getName(language);
 </script>
-<svelte:window bind:innerWidth={screenSize} />
+
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <div class="card card-hover sm:w-auto sm:m-1 w-22 m-0.5 cursor-pointer select-none" on:click={() => monClick(monster)}>
 	<div class="relative top-1 left-2 text-surface-300-600-token">
