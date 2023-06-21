@@ -1,13 +1,14 @@
 <script lang="ts">
 	import type { IndexMonster } from './+page';
 	import { page } from '$app/stores';
+	import { langs } from './langs';
 
 	export let monster: IndexMonster;
 	export let monClick: (m: IndexMonster) => void;
 
 	$: language = $page.url.searchParams.get('lang') || 'en';
 
-	$: name = ((language != 'de') ? 'loading...' : 'ladet...');
+	$: name = langs[language].loading;
 	async function getName(l: string) {
 		const monsterResponse = await fetch(`${monster.url}`);
 		const monsterJson = await monsterResponse.json();
