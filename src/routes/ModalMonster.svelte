@@ -18,7 +18,7 @@
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 
-<div class="card m-1 cursor-pointer sm:w-96 w-3/5">
+<div class="card m-1 cursor-default sm:w-96 w-3/5">
 	<div class="relative sm:text-4xl sm:left-3 sm:top-3 text-xl left-2 top-2 text-surface-300-600-token">
 		#{id}
 	</div>
