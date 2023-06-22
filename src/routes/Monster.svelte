@@ -1,5 +1,4 @@
 <script lang="ts">
-	import type { IndexMonster } from './+page';
 	import { page } from '$app/stores';
 	import { langs } from './langs';
 

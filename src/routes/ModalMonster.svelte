@@ -1,5 +1,4 @@
 <script lang="ts">
-	import type { IndexMonster } from './+page';
 	import { modalStore } from '@skeletonlabs/skeleton';
 	import { langs } from './langs';
 	import { page } from '$app/stores';
@@ -7,7 +6,7 @@
 	const id: number = $modalStore[0].meta?.id;
 	
 	const lang: string = $modalStore[0].meta?.lan;
-	const genId = $page.url.searchParams.get('gen-id') || '0';
+	const genId: number = $modalStore[0].meta?.genid;
 
 	async function loadData() {
 		const res = await fetch('/data/pokemon/' + genId + '-' + id + '.json');
