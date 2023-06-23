@@ -58,8 +58,8 @@
 		{@html svgs[lang]}
 	</span>
 </button>
-<div class="card text-xl shadow-xl py-1" data-popup="lanbox">
-	<ListBox rounded="rounded-none" class="select-none">
+<div class="card text-xl shadow-xl" data-popup="lanbox">
+	<ListBox rounded="rounded-lg" class="select-none">
 		{#each langoptions as l}
 			<ListBoxItem
 				bind:group={lang}
