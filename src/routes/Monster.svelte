@@ -38,7 +38,7 @@
 
 
 <div
-	class="card card-hover sm:w-auto sm:m-1 w-22 m-0.5 cursor-pointer select-none"
+	class="card card-hover w-auto sm:m-1 m-0.5 cursor-pointer select-none"
 	on:click={() => monClick(id)}
 	use:inview={options}
 	on:inview_enter={(event) => {
@@ -49,8 +49,8 @@
 >
 	{#if !mon}
 		<div class="relative top-1 left-2 text-surface-300-600-token">#{id}</div>
-		<div class="justify-center mx-1 w-22 h-22 sm:mx-3 sm:w-24 sm:h-24">
-			<div class="card animate-pulse variant-soft h-22 w-22 sm:h-24 sm:w-24" />
+		<div class="justify-center mx-1 w-20 h-20 sm:mx-3 sm:w-24 sm:h-24">
+			<div class="card animate-pulse variant-soft h-20 w-20 sm:h-24 sm:w-24" />
 		</div>
 		<div class=" mx-1 mb-1 text-xs text-center text-surface-800-100-token sm:mx-2 sm:mb-4">
 			{langs[language].loading}
@@ -59,9 +59,9 @@
 		<div class="relative top-1 left-2 text-surface-300-600-token">
 			#{id}
 		</div>
-		<div class="justify-center mx-1 w-22 h-22 sm:mx-3 sm:w-24 sm:h-24">
+		<div class="justify-center mx-1 w-20 h-20 sm:mx-3 sm:w-24 sm:h-24">
 			<img
-				class="h-22 w-22 sm:h-24 sm:w-24"
+				class="h-20 w-20 sm:h-24 sm:w-24"
 				src="images/pokemon/{mon.id}.png"
 				alt={mon.names[language]}
 			/>
