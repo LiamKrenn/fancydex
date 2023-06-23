@@ -34,6 +34,7 @@
 				active="variant-ringed-tertiary  text-black dark:text-white"
 				bind:group={generation}
 				name="medium"
+				aria-label="select {gen.main_region[lang]} as region"
 				value={gen.id.toString()}
 				on:click={() => updateSearchParams('gen-id', gen.id.toString())}
 				>{gen.main_region[lang]}</ListBoxItem

@@ -64,6 +64,7 @@
 			<ListBoxItem
 				bind:group={lang}
 				name="medium"
+				aria-label="select {l['language']} as language"
 				value={l['language']}
 				on:click={() => updateSearchParams('lang', l['language'])}>{l['display']}</ListBoxItem
 			>
