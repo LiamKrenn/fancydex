@@ -25,7 +25,7 @@
 </script>
 
 <button class="btn variant-filled select-none " use:popup={popupCombobox}>
-	<span class="">{generations.find((gen) => gen.id.toString() == generation)?.main_region[lang] || langs[lang]["region"]}</span>
+	{generations.find((gen) => gen.id.toString() == generation)?.main_region[lang] || langs[lang]["region"]}
 </button>
 <div class="card text-xl shadow-xl select-none" data-popup="genbox">
 	<ListBox rounded="rounded-lg">

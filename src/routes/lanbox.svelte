@@ -53,10 +53,8 @@
 	];
 </script>
 
-<button aria-label="language select button" class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
-	<span class="justify-center">
-		{@html svgs[lang]}
-	</span>
+<button aria-label="language select button justify-center" class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
+	{@html svgs[lang]}
 </button>
 <div class="card text-xl shadow-xl" data-popup="lanbox">
 	<ListBox rounded="rounded-lg" class="select-none">
