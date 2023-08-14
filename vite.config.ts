@@ -3,5 +3,5 @@ import { defineConfig, type UserConfig } from 'vite';
 import { purgeCss } from 'vite-plugin-tailwind-purgecss';
 
 export default defineConfig({
-	plugins: [sveltekit()]
+	plugins: [sveltekit(), purgeCss()]
 });
