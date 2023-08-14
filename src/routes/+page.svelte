@@ -157,3 +157,9 @@
 		</div>
 	{/if}
 </AppShell>
+
+<style>
+	.pixelated {
+		image-rendering: pixelated;
+	}
+</style>
