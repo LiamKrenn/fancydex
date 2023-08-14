@@ -84,6 +84,8 @@
 		};
 		modalStore.trigger(modal);
 	};
+
+
 </script>
 
 <svelte:head>
@@ -137,7 +139,7 @@
 	{#if genId != '0'}
 		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
 			{#each ids as id (id)}
-				<Monster {id} {monClick} />
+				<Monster {id} {monClick} {searchString}/>
 			{/each}
 		</div>
 	{:else}
