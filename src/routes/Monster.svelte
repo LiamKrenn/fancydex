@@ -91,10 +91,4 @@
 			{/if}
 		</div>
 	</div>
-
-	<style>
-		.pixelated {
-			image-rendering: pixelated;
-		}
-	</style>
 {/if}
