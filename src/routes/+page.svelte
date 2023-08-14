@@ -137,7 +137,7 @@
 	<slot />
 
 	{#if genId != '0'}
-		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1">
+		<div class="px-1 flex w-full flex-wrap flex-row justify-center m-1 pixelated">
 			{#each ids as id (id)}
 				<Monster {id} {monClick} {searchString}/>
 			{/each}

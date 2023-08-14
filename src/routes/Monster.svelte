@@ -72,7 +72,7 @@
 				/>
 			{:else}
 				<img
-					class="sm:h-36 sm:w-36 pixelated
+					class="sm:h-36 sm:w-36
 							h-20 w-20"
 					src="images/pokemon/{mon.id}.png"
 					alt={mon.names[language]}
