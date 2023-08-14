@@ -76,6 +76,8 @@
 							h-20 w-20"
 					src="images/pokemon/{mon.id}.png"
 					alt={mon.names[language]}
+					height="96px"
+					width="96px"
 				/>
 			{/if}
 		</div>
