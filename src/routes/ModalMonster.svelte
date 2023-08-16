@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { modalStore } from '@skeletonlabs/skeleton';
 	import { langs } from './langs';
-	import { page } from '$app/stores';
 
 	const id: number = $modalStore[0].meta?.id;
 
