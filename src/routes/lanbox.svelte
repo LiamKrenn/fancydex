@@ -1,17 +1,16 @@
 <script lang="ts">
 	import { ListBox, ListBoxItem, popup } from '@skeletonlabs/skeleton';
-	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
 	import type { PopupSettings } from '@skeletonlabs/skeleton';
 
 	import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
 	import { svgs } from './svgs';
 
-	const updateSearchParams = (key: string, value: string) => {
+	function updateSearchParams(key: string, value: string) {
 		const searchParams = new URLSearchParams($page.url.searchParams);
 		searchParams.set(key, value);
 		goto(`?${searchParams.toString()}`);
-	};
+	}
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	const popupCombobox: PopupSettings = {
@@ -53,7 +52,11 @@
 	];
 </script>
 
-<button aria-label="language select button justify-center" class="btn variant-ghost-surface select-none" use:popup={popupCombobox}>
+<button
+	aria-label="language select button justify-center"
+	class="btn variant-ghost-surface select-none"
+	use:popup={popupCombobox}
+>
 	{@html svgs[lang]}
 </button>
 <div class="card text-xl shadow-xl" data-popup="lanbox">

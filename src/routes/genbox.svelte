@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { ListBox, ListBoxItem, popup } from '@skeletonlabs/skeleton';
-	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
 	import type { PopupSettings } from '@skeletonlabs/skeleton';
 
 	import { generations } from './generations';
@@ -8,11 +7,11 @@
 	import { goto } from '$app/navigation';
 	import { langs } from './langs';
 
-  const updateSearchParams = (key: string, value: string) => {
+	export function updateSearchParams(key: string, value: string) {
 		const searchParams = new URLSearchParams($page.url.searchParams);
 		searchParams.set(key, value);
 		goto(`?${searchParams.toString()}`);
-	};
+	}
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: generation = $page.url.searchParams.get('gen-id') || '0';
@@ -20,12 +19,13 @@
 		event: 'click',
 		target: 'genbox',
 		closeQuery: '.listbox-item',
-    placement: 'bottom'
+		placement: 'bottom'
 	};
 </script>
 
-<button class="btn variant-filled select-none " use:popup={popupCombobox}>
-	{generations.find((gen) => gen.id.toString() == generation)?.main_region[lang] || langs[lang]["region"]}
+<button class="btn variant-filled select-none sm:ml-2 -ml-1" use:popup={popupCombobox}>
+	{generations.find((gen) => gen.id.toString() == generation)?.main_region[lang] ||
+		langs[lang]['region']}
 </button>
 <div class="card text-xl shadow-xl select-none" data-popup="genbox">
 	<ListBox rounded="rounded-lg">
