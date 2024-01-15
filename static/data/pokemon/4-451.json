@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 451, "names": {"ja": "スコルピ", "ko": "스콜피", "fr": "Rapion", "de": "Pionskora", "es": "Skorupi", "it": "Skorupi", "en": "Skorupi"}, "descriptions": {"en": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.", "it": "Attacca la preda afferrandola con gli artigli velenosi della coda, poi inietta il veleno per immobilizzarla.", "es": "Ataca con las pinzas venenosas de la cola. Tras clavarlas, inyecta una toxina que inmoviliza a la presa.", "de": "Es schlägt mit den giftigen Krallen an seinem Schweif zu. Wer von ihnen gestochen wird, bekommt ein lähmendes Gift injiziert.", "fr": "Il attaque avec les pinces empoisonnées de sa queue. Le venin se répand alors dans le corps de la victime et la paralyse.", "ko": "독이 있는 꼬리의 발톱으로 덤벼든다. 집히면 독이 스며들어 움직일 수 없게 된다.", "ja": "どくのある　しっぽの　ツメで おそいかかる。　はさまれると どくが　しみて　うごけなくなる。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 451,
+	"names": {
+		"ja": "スコルピ",
+		"ko": "스콜피",
+		"fr": "Rapion",
+		"de": "Pionskora",
+		"es": "Skorupi",
+		"it": "Skorupi",
+		"en": "Skorupi"
+	},
+	"descriptions": {
+		"en": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
+		"it": "Attacca la preda afferrandola con gli artigli velenosi della coda, poi inietta il veleno per immobilizzarla.",
+		"es": "Ataca con las pinzas venenosas de la cola. Tras clavarlas, inyecta una toxina que inmoviliza a la presa.",
+		"de": "Es schlägt mit den giftigen Krallen an seinem Schweif zu. Wer von ihnen gestochen wird, bekommt ein lähmendes Gift injiziert.",
+		"fr": "Il attaque avec les pinces empoisonnées de sa queue. Le venin se répand alors dans le corps de la victime et la paralyse.",
+		"ko": "독이 있는 꼬리의 발톱으로 덤벼든다. 집히면 독이 스며들어 움직일 수 없게 된다.",
+		"ja": "どくのある　しっぽの　ツメで おそいかかる。　はさまれると どくが　しみて　うごけなくなる。"
+	}
+}

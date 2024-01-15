@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "magby"}, "generation": "kanto", "id": 240, "names": {"ja": "ブーバー", "ko": "마그마", "fr": "Magmar", "de": "Magmar", "es": "Magmar", "it": "Magmar", "en": "Magmar"}, "descriptions": {"en": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.", "it": "Il suo corpo è perennemente in fiamme. Viene considerato una delle cause degli incendi, e per questo è temuto.", "es": "Un Pokémon cuyo cuerpo está siempre envuelto en llamas. Es temido porque se lo considera un causante potencial de incendios.", "de": "Sein Körper ist ständig in Flammen gehüllt, wodurch es als eine Ursache von Bränden gefürchtet wird.", "fr": "Tout son corps est en combustion permanente. Il est craint, car on dit qu’il cause des incendies.", "ko": "온몸이 늘 불타고 있다. 화재를 일으키는 원인 중 하나로 두려움의 대상이 되고 있다.", "ja": "ぜんしんが　つねに　もえている。 かじを　おこす　げんいんの ひとつとして　おそれられる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "magby" },
+	"generation": "kanto",
+	"id": 240,
+	"names": {
+		"ja": "ブーバー",
+		"ko": "마그마",
+		"fr": "Magmar",
+		"de": "Magmar",
+		"es": "Magmar",
+		"it": "Magmar",
+		"en": "Magmar"
+	},
+	"descriptions": {
+		"en": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.",
+		"it": "Il suo corpo è perennemente in fiamme. Viene considerato una delle cause degli incendi, e per questo è temuto.",
+		"es": "Un Pokémon cuyo cuerpo está siempre envuelto en llamas. Es temido porque se lo considera un causante potencial de incendios.",
+		"de": "Sein Körper ist ständig in Flammen gehüllt, wodurch es als eine Ursache von Bränden gefürchtet wird.",
+		"fr": "Tout son corps est en combustion permanente. Il est craint, car on dit qu’il cause des incendies.",
+		"ko": "온몸이 늘 불타고 있다. 화재를 일으키는 원인 중 하나로 두려움의 대상이 되고 있다.",
+		"ja": "ぜんしんが　つねに　もえている。 かじを　おこす　げんいんの ひとつとして　おそれられる。"
+	}
+}

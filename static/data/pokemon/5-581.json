@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "ducklett"}, "generation": "unova", "id": 580, "names": {"ja": "スワンナ", "ko": "스완나", "fr": "Lakmécygne", "de": "Swaroness", "es": "Swanna", "it": "Swanna", "en": "Swanna"}, "descriptions": {"en": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.", "it": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo del gruppo balla sempre al centro.", "es": "Comienzan a danzar al amanecer. El líder de la bandada se sitúa en el centro.", "de": "Wenn der Morgen dämmert, fangen sie an zu tanzen. Das Swaroness in der Mitte führt die Gruppe an.", "fr": "Ils se mettent à danser à la tombée de la nuit. Le Lakmécygne qui danse au centre est le chef de la troupe.", "ko": "새벽이 오면 스완나들이 춤추기 시작한다. 한가운데에서 춤추는 스완나가 무리의 우두머리다.", "ja": "よあけと　ともに　スワンナたちは おどりはじめる。まんなかで　おどる スワンナが　むれの　リーダー。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "ducklett" },
+	"generation": "unova",
+	"id": 580,
+	"names": {
+		"ja": "スワンナ",
+		"ko": "스완나",
+		"fr": "Lakmécygne",
+		"de": "Swaroness",
+		"es": "Swanna",
+		"it": "Swanna",
+		"en": "Swanna"
+	},
+	"descriptions": {
+		"en": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+		"it": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo del gruppo balla sempre al centro.",
+		"es": "Comienzan a danzar al amanecer. El líder de la bandada se sitúa en el centro.",
+		"de": "Wenn der Morgen dämmert, fangen sie an zu tanzen. Das Swaroness in der Mitte führt die Gruppe an.",
+		"fr": "Ils se mettent à danser à la tombée de la nuit. Le Lakmécygne qui danse au centre est le chef de la troupe.",
+		"ko": "새벽이 오면 스완나들이 춤추기 시작한다. 한가운데에서 춤추는 스완나가 무리의 우두머리다.",
+		"ja": "よあけと　ともに　スワンナたちは おどりはじめる。まんなかで　おどる スワンナが　むれの　リーダー。"
+	}
+}

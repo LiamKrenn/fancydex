@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "rattata"}, "generation": "kanto", "id": 19, "names": {"ja": "ラッタ", "ko": "레트라", "fr": "Rattatac", "de": "Rattikarl", "es": "Raticate", "it": "Raticate", "en": "Raticate"}, "descriptions": {"en": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.", "it": "Dispone di zampe posteriori palmate che gli permettono di nuotare nei fiumi in cerca di prede.", "es": "Gracias a las pequeñas membranas de las patas traseras, puede nadar por los ríos para capturar presas.", "de": "Die Hinterbeine dieses Pokémon verfügen über kleine Schwimmhäute. So kann es in Flüssen jagen.", "fr": "Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières.", "ko": "뒷다리에 달린 작은 물갈퀴로 강을 헤엄치는 이유는 물속에 있는 먹이를 잡기 위해서다.", "ja": "うしろあしにある　ちいさな　みずかきで かわを　およぐのは　みずのなかの エサを　とるためだ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "rattata" },
+	"generation": "kanto",
+	"id": 19,
+	"names": {
+		"ja": "ラッタ",
+		"ko": "레트라",
+		"fr": "Rattatac",
+		"de": "Rattikarl",
+		"es": "Raticate",
+		"it": "Raticate",
+		"en": "Raticate"
+	},
+	"descriptions": {
+		"en": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+		"it": "Dispone di zampe posteriori palmate che gli permettono di nuotare nei fiumi in cerca di prede.",
+		"es": "Gracias a las pequeñas membranas de las patas traseras, puede nadar por los ríos para capturar presas.",
+		"de": "Die Hinterbeine dieses Pokémon verfügen über kleine Schwimmhäute. So kann es in Flüssen jagen.",
+		"fr": "Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières.",
+		"ko": "뒷다리에 달린 작은 물갈퀴로 강을 헤엄치는 이유는 물속에 있는 먹이를 잡기 위해서다.",
+		"ja": "うしろあしにある　ちいさな　みずかきで かわを　およぐのは　みずのなかの エサを　とるためだ。"
+	}
+}

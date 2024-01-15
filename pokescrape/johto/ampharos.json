@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "flaaffy"}, "generation": "johto", "id": 180, "names": {"ja": "デンリュウ", "ko": "전룡", "fr": "Pharamp", "de": "Ampharos", "es": "Ampharos", "it": "Ampharos", "en": "Ampharos"}, "descriptions": {"en": "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.", "it": "La punta della sua coda brilla di una luce molto intensa che in passato era una preziosa guida per i marinai.", "es": "Su cola emite un brillo claro e intenso. Se lo venera desde tiempos remotos como guía de los marineros.", "de": "Seine Schweifspitze strahlt ein starkes, helles Licht aus. Auf See gilt dieses Leuchten von alters her als bedeutender Wegweiser.", "fr": "Sa queue brille d’une lumière éclatante. Depuis des temps très anciens, il est vénéré comme le guide des marins.", "ko": "꼬리는 강하고 밝게 빛난다. 뱃사람들의 길잡이로서 옛날부터 소중히 여겨져 왔다.", "ja": "シッポは　つよく　あかるく　かがやく。 ふなのりたちの　みちしるべ　として むかしから　たいせつに　されてきた。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "flaaffy" },
+	"generation": "johto",
+	"id": 180,
+	"names": {
+		"ja": "デンリュウ",
+		"ko": "전룡",
+		"fr": "Pharamp",
+		"de": "Ampharos",
+		"es": "Ampharos",
+		"it": "Ampharos",
+		"en": "Ampharos"
+	},
+	"descriptions": {
+		"en": "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
+		"it": "La punta della sua coda brilla di una luce molto intensa che in passato era una preziosa guida per i marinai.",
+		"es": "Su cola emite un brillo claro e intenso. Se lo venera desde tiempos remotos como guía de los marineros.",
+		"de": "Seine Schweifspitze strahlt ein starkes, helles Licht aus. Auf See gilt dieses Leuchten von alters her als bedeutender Wegweiser.",
+		"fr": "Sa queue brille d’une lumière éclatante. Depuis des temps très anciens, il est vénéré comme le guide des marins.",
+		"ko": "꼬리는 강하고 밝게 빛난다. 뱃사람들의 길잡이로서 옛날부터 소중히 여겨져 왔다.",
+		"ja": "シッポは　つよく　あかるく　かがやく。 ふなのりたちの　みちしるべ　として むかしから　たいせつに　されてきた。"
+	}
+}

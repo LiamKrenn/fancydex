@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "lechonk" },
+	"generation": "paldea",
+	"id": 915,
+	"names": {
+		"ja": "パフュートン",
+		"ko": "퍼퓨돈",
+		"fr": "Fragroin",
+		"de": "Fragrunz",
+		"es": "Oinkologne",
+		"it": "Oinkologne",
+		"en": "Oinkologne"
+	},
+	"descriptions": {
+		"en": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+	}
+}

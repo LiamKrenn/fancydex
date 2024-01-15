@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "nincada"}, "generation": "hoenn", "id": 290, "names": {"ja": "ヌケニン", "ko": "껍질몬", "fr": "Munja", "de": "Ninjatom", "es": "Shedinja", "it": "Shedinja", "en": "Shedinja"}, "descriptions": {"en": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.", "it": "Svolazza in giro senza muovere le ali. È un Pokémon strano: è vuoto all’interno e non respira.", "es": "Es un Pokémon muy peculiar: revolotea sin batir las alas, no respira y su cuerpo está hueco por dentro.", "de": "Ninjatom ist ein äußerst sonderbares Pokémon. Es fliegt umher, ohne seine Flügel zu bewegen, sein Körper ist hohl und es atmet nicht.", "fr": "Cet étrange Pokémon, dont le corps est comme une coquille vide, ne respire pas et peut voler sans battre des ailes.", "ko": "날개를 움직이지 않고 날아다닌다. 몸속이 텅 비어 있고 숨을 쉬지 않는 이상한 포켓몬이다.", "ja": "ハネを　うごかさずに　とびまわる。 からだの　なかは　からっぽで いきを　しない　ふしぎな　ポケモン。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "nincada" },
+	"generation": "hoenn",
+	"id": 290,
+	"names": {
+		"ja": "ヌケニン",
+		"ko": "껍질몬",
+		"fr": "Munja",
+		"de": "Ninjatom",
+		"es": "Shedinja",
+		"it": "Shedinja",
+		"en": "Shedinja"
+	},
+	"descriptions": {
+		"en": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+		"it": "Svolazza in giro senza muovere le ali. È un Pokémon strano: è vuoto all’interno e non respira.",
+		"es": "Es un Pokémon muy peculiar: revolotea sin batir las alas, no respira y su cuerpo está hueco por dentro.",
+		"de": "Ninjatom ist ein äußerst sonderbares Pokémon. Es fliegt umher, ohne seine Flügel zu bewegen, sein Körper ist hohl und es atmet nicht.",
+		"fr": "Cet étrange Pokémon, dont le corps est comme une coquille vide, ne respire pas et peut voler sans battre des ailes.",
+		"ko": "날개를 움직이지 않고 날아다닌다. 몸속이 텅 비어 있고 숨을 쉬지 않는 이상한 포켓몬이다.",
+		"ja": "ハネを　うごかさずに　とびまわる。 からだの　なかは　からっぽで いきを　しない　ふしぎな　ポケモン。"
+	}
+}

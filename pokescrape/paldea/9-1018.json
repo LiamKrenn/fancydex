@@ -1,0 +1,16 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "duraludon" },
+	"generation": "paldea",
+	"id": 884,
+	"names": {
+		"ja": "ブリジュラス",
+		"ko": "브리두라스",
+		"fr": "Pondralugon",
+		"de": "Briduradon",
+		"es": "Archaludon",
+		"it": "Archaludon",
+		"en": "Archaludon"
+	},
+	"descriptions": {}
+}

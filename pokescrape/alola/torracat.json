@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "litten"}, "generation": "alola", "id": 725, "names": {"ja": "ニャヒート", "ko": "냐오히트", "fr": "Matoufeu", "de": "Miezunder", "es": "Torracat", "it": "Torracat", "en": "Torracat"}, "descriptions": {"en": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.", "it": "Quando affronta un nemico molto forte il suo spirito combattivo e l’energia termica prodotta dal sonaglio infuocato aumentano.", "es": "Enfrentarse a un adversario formidable aviva tanto su espíritu combativo como la energía térmica de su cascabel.", "de": "Wenn es sich einem starken Gegner stellt, steigt nicht nur sein Kampfeswille, sondern auch die Heizkraft seines feurigen Glöckchens.", "fr": "Quand il fait face à un adversaire redoutable, il redouble de combativité et la puissance calorifère de sa clochette augmente.", "ko": "강적을 상대하게 되면 전투 의욕이 높아지고 동시에 불꽃 방울의 화력도 올라간다.", "ja": "きょうてきを　あいてにすると せんとういよくの　たかまりと　ともに ほのおのすずの　かりょくも　あがる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "litten" },
+	"generation": "alola",
+	"id": 725,
+	"names": {
+		"ja": "ニャヒート",
+		"ko": "냐오히트",
+		"fr": "Matoufeu",
+		"de": "Miezunder",
+		"es": "Torracat",
+		"it": "Torracat",
+		"en": "Torracat"
+	},
+	"descriptions": {
+		"en": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.",
+		"it": "Quando affronta un nemico molto forte il suo spirito combattivo e l’energia termica prodotta dal sonaglio infuocato aumentano.",
+		"es": "Enfrentarse a un adversario formidable aviva tanto su espíritu combativo como la energía térmica de su cascabel.",
+		"de": "Wenn es sich einem starken Gegner stellt, steigt nicht nur sein Kampfeswille, sondern auch die Heizkraft seines feurigen Glöckchens.",
+		"fr": "Quand il fait face à un adversaire redoutable, il redouble de combativité et la puissance calorifère de sa clochette augmente.",
+		"ko": "강적을 상대하게 되면 전투 의욕이 높아지고 동시에 불꽃 방울의 화력도 올라간다.",
+		"ja": "きょうてきを　あいてにすると せんとういよくの　たかまりと　ともに ほのおのすずの　かりょくも　あがる。"
+	}
+}

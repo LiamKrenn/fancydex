@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "buizel"}, "generation": "sinnoh", "id": 418, "names": {"ja": "フローゼル", "ko": "플로젤", "fr": "Mustéflott", "de": "Bojelin", "es": "Floatzel", "it": "Floatzel", "en": "Floatzel"}, "descriptions": {"en": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time.", "it": "Il suo galleggiante, che funge da gommone, si è sviluppato perché caccia le prede nell’acqua.", "es": "Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.", "de": "Da es seit jeher Beute im Wasser jagt, entwickelte es einen Rettungsring.", "fr": "Il a développé une bouée pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.", "ko": "수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다.", "ja": "すいちゅうの　えものを　おいかける うちに　うきぶくろが　はったつした。 ゴムボートのように　ひとを　のせる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "buizel" },
+	"generation": "sinnoh",
+	"id": 418,
+	"names": {
+		"ja": "フローゼル",
+		"ko": "플로젤",
+		"fr": "Mustéflott",
+		"de": "Bojelin",
+		"es": "Floatzel",
+		"it": "Floatzel",
+		"en": "Floatzel"
+	},
+	"descriptions": {
+		"en": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time.",
+		"it": "Il suo galleggiante, che funge da gommone, si è sviluppato perché caccia le prede nell’acqua.",
+		"es": "Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.",
+		"de": "Da es seit jeher Beute im Wasser jagt, entwickelte es einen Rettungsring.",
+		"fr": "Il a développé une bouée pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.",
+		"ko": "수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다.",
+		"ja": "すいちゅうの　えものを　おいかける うちに　うきぶくろが　はったつした。 ゴムボートのように　ひとを　のせる。"
+	}
+}

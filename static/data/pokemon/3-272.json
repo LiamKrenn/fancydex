@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "lombre"}, "generation": "hoenn", "id": 271, "names": {"ja": "ルンパッパ", "ko": "로파파", "fr": "Ludicolo", "de": "Kappalores", "es": "Ludicolo", "it": "Ludicolo", "en": "Ludicolo"}, "descriptions": {"en": "If it hears festive music, it begins moving in rhythm in order to amplify its power.", "it": "Aumenta la propria forza danzando al ritmo di una musica giocosa.", "es": "Mover su cuerpo al ritmo de música festiva puede hacer que aumente su fuerza.", "de": "Es bewegt seinen Körper zu fröhlichen Rhythmen. Auf diese Weise erhöht es seine Kraft.", "fr": "Il bouge son corps sur un rythme entraînant pour décupler ses forces.", "ko": "경쾌한 리듬에 맞춰 몸을 움직여서 파워를 증폭시키고 있다.", "ja": "ようきな　リズムに　あわせて からだを　うごかす　ことで パワーを　ぞうふくさせて　いるのだ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "lombre" },
+	"generation": "hoenn",
+	"id": 271,
+	"names": {
+		"ja": "ルンパッパ",
+		"ko": "로파파",
+		"fr": "Ludicolo",
+		"de": "Kappalores",
+		"es": "Ludicolo",
+		"it": "Ludicolo",
+		"en": "Ludicolo"
+	},
+	"descriptions": {
+		"en": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+		"it": "Aumenta la propria forza danzando al ritmo di una musica giocosa.",
+		"es": "Mover su cuerpo al ritmo de música festiva puede hacer que aumente su fuerza.",
+		"de": "Es bewegt seinen Körper zu fröhlichen Rhythmen. Auf diese Weise erhöht es seine Kraft.",
+		"fr": "Il bouge son corps sur un rythme entraînant pour décupler ses forces.",
+		"ko": "경쾌한 리듬에 맞춰 몸을 움직여서 파워를 증폭시키고 있다.",
+		"ja": "ようきな　リズムに　あわせて からだを　うごかす　ことで パワーを　ぞうふくさせて　いるのだ。"
+	}
+}

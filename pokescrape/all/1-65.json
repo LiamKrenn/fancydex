@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "kadabra"}, "generation": "kanto", "id": 64, "names": {"ja": "フーディン", "ko": "후딘", "fr": "Alakazam", "de": "Simsala", "es": "Alakazam", "it": "Alakazam", "en": "Alakazam"}, "descriptions": {"en": "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head.", "it": "Padroneggia potenti poteri psichici, con i quali si dice abbia creato i cucchiai che tiene in mano.", "es": "Posee unos poderes psíquicos extraordinarios con los que, según se dice, creó las cucharas que lleva en las manos.", "de": "Simsala verfügt über extrem starke Psycho-Kräfte. Mit ihnen soll es die Löffel erschaffen haben, die es in seinen Händen hält.", "fr": "Il dispose d’immenses pouvoirs psychiques. On raconte qu’il s’en est servi afin de créer les cuillères qu’il tient dans chaque main.", "ko": "강력한 초능력을 구사한다. 양손에 든 숟가락은 그 힘으로 만들어낸 것이라고 한다.", "ja": "きょうりょくな　ちょうのうりょくを あやつる。　りょうての　スプーンは その　ちからで　つくりだしたという。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "kadabra" },
+	"generation": "kanto",
+	"id": 64,
+	"names": {
+		"ja": "フーディン",
+		"ko": "후딘",
+		"fr": "Alakazam",
+		"de": "Simsala",
+		"es": "Alakazam",
+		"it": "Alakazam",
+		"en": "Alakazam"
+	},
+	"descriptions": {
+		"en": "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head.",
+		"it": "Padroneggia potenti poteri psichici, con i quali si dice abbia creato i cucchiai che tiene in mano.",
+		"es": "Posee unos poderes psíquicos extraordinarios con los que, según se dice, creó las cucharas que lleva en las manos.",
+		"de": "Simsala verfügt über extrem starke Psycho-Kräfte. Mit ihnen soll es die Löffel erschaffen haben, die es in seinen Händen hält.",
+		"fr": "Il dispose d’immenses pouvoirs psychiques. On raconte qu’il s’en est servi afin de créer les cuillères qu’il tient dans chaque main.",
+		"ko": "강력한 초능력을 구사한다. 양손에 든 숟가락은 그 힘으로 만들어낸 것이라고 한다.",
+		"ja": "きょうりょくな　ちょうのうりょくを あやつる。　りょうての　スプーンは その　ちからで　つくりだしたという。"
+	}
+}

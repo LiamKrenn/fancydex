@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 912,
+	"names": {
+		"ja": "クワッス",
+		"ko": "꾸왁스",
+		"fr": "Coiffeton",
+		"de": "Kwaks",
+		"es": "Quaxly",
+		"it": "Quaxly",
+		"en": "Quaxly"
+	},
+	"descriptions": {
+		"en": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+	}
+}

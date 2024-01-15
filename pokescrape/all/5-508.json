@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "herdier"}, "generation": "unova", "id": 507, "names": {"ja": "ムーランド", "ko": "바랜드", "fr": "Mastouffe", "de": "Bissbark", "es": "Stoutland", "it": "Stoutland", "en": "Stoutland"}, "descriptions": {"en": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.", "it": "Va molto fiero dei suoi splendidi baffi. Si dice che la loro lunghezza determini la sua superiorità o inferiorità rispetto ai suoi simili.", "es": "Sus impresionantes bigotes son su orgullo. Entre los de su especie se establece una jerarquía según su longitud.", "de": "Seinen üppigen Schnauzbart trägt es mit Stolz. Angeblich entscheidet dessen Länge über die Rangordnung innerhalb dieser Pokémon-Art.", "fr": "Sa moustache remarquable fait sa fierté, car sa longueur permettrait de déterminer la hiérarchie au sein de l’espèce.", "ko": "훌륭한 수염이 특징인 포켓몬이다. 그 길이로 동료들과 우열을 가린다고 한다.", "ja": "りっぱなヒゲが　じまんの　ポケモン。 その　ながさで　なかまどうしの ゆうれつが　きまると　いう。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "herdier" },
+	"generation": "unova",
+	"id": 507,
+	"names": {
+		"ja": "ムーランド",
+		"ko": "바랜드",
+		"fr": "Mastouffe",
+		"de": "Bissbark",
+		"es": "Stoutland",
+		"it": "Stoutland",
+		"en": "Stoutland"
+	},
+	"descriptions": {
+		"en": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
+		"it": "Va molto fiero dei suoi splendidi baffi. Si dice che la loro lunghezza determini la sua superiorità o inferiorità rispetto ai suoi simili.",
+		"es": "Sus impresionantes bigotes son su orgullo. Entre los de su especie se establece una jerarquía según su longitud.",
+		"de": "Seinen üppigen Schnauzbart trägt es mit Stolz. Angeblich entscheidet dessen Länge über die Rangordnung innerhalb dieser Pokémon-Art.",
+		"fr": "Sa moustache remarquable fait sa fierté, car sa longueur permettrait de déterminer la hiérarchie au sein de l’espèce.",
+		"ko": "훌륭한 수염이 특징인 포켓몬이다. 그 길이로 동료들과 우열을 가린다고 한다.",
+		"ja": "りっぱなヒゲが　じまんの　ポケモン。 その　ながさで　なかまどうしの ゆうれつが　きまると　いう。"
+	}
+}

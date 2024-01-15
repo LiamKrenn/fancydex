@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "unova", "id": 562, "names": {"ja": "デスマス", "ko": "데스마스", "fr": "Tutafeh", "de": "Makabaja", "es": "Yamask", "it": "Yamask", "en": "Yamask"}, "descriptions": {"en": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.", "it": "Spirito di un uomo dell’antichità divenuto Pokémon. Vaga tra le rovine in cerca di qualcuno che riconosca il suo volto.", "es": "Surgió del alma de una persona que vivió en tiempos remotos. Merodea por las ruinas en busca de alguien que reconozca su rostro.", "de": "Makabaja sind Seelen von Menschen aus uralten Zeiten, die zu Pokémon wurden. Sie suchen in Ruinen nach Leuten, die ihr Gesicht kennen.", "fr": "Il est né de l’âme d’un être humain d’un peuple antique. Il erre dans les ruines à la recherche de quiconque reconnaîtra son visage.", "ko": "고대인의 영혼이 포켓몬이 되어 태어났다. 자신의 얼굴을 아는 사람을 찾아 유적을 떠돈다.", "ja": "こだいじんの　たましいが　ポケモンに なった。　じぶんの　かおを　しる ひとを　さがし　いせきを　さまよう。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 562,
+	"names": {
+		"ja": "デスマス",
+		"ko": "데스마스",
+		"fr": "Tutafeh",
+		"de": "Makabaja",
+		"es": "Yamask",
+		"it": "Yamask",
+		"en": "Yamask"
+	},
+	"descriptions": {
+		"en": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
+		"it": "Spirito di un uomo dell’antichità divenuto Pokémon. Vaga tra le rovine in cerca di qualcuno che riconosca il suo volto.",
+		"es": "Surgió del alma de una persona que vivió en tiempos remotos. Merodea por las ruinas en busca de alguien que reconozca su rostro.",
+		"de": "Makabaja sind Seelen von Menschen aus uralten Zeiten, die zu Pokémon wurden. Sie suchen in Ruinen nach Leuten, die ihr Gesicht kennen.",
+		"fr": "Il est né de l’âme d’un être humain d’un peuple antique. Il erre dans les ruines à la recherche de quiconque reconnaîtra son visage.",
+		"ko": "고대인의 영혼이 포켓몬이 되어 태어났다. 자신의 얼굴을 아는 사람을 찾아 유적을 떠돈다.",
+		"ja": "こだいじんの　たましいが　ポケモンに なった。　じぶんの　かおを　しる ひとを　さがし　いせきを　さまよう。"
+	}
+}

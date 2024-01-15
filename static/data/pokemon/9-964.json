@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "finizen" },
+	"generation": "paldea",
+	"id": 963,
+	"names": {
+		"ja": "イルカマン",
+		"ko": "돌핀맨",
+		"fr": "Superdofin",
+		"de": "Delfinator",
+		"es": "Palafin",
+		"it": "Palafin",
+		"en": "Palafin"
+	},
+	"descriptions": {
+		"en": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+	}
+}

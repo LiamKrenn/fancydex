@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "johto", "id": 201, "names": {"ja": "アンノーン", "ko": "안농", "fr": "Zarbi", "de": "Icognito", "es": "Unown", "it": "Unown", "en": "Unown"}, "descriptions": {"en": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously.", "it": "Questo Pokémon pare una lettera di un alfabeto antico. A tutt’oggi rimane un mistero chi sia comparso prima, se l’alfabeto o Unown. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.", "es": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.", "de": "Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.", "fr": "Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.", "ko": "고대 문자를 닮은 모습의 포켓몬이다. 먼저 생겨난 것은 문자인가 안농인가. 연구 중이지만 아직도 수수께끼다.", "ja": "こだいの　もじに　にた　すがたの　ポケモン。 さきに　うまれたのは　もじか　アンノーンなのか。 けんきゅうちゅうだが　いまだに　なぞである。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 201,
+	"names": {
+		"ja": "アンノーン",
+		"ko": "안농",
+		"fr": "Zarbi",
+		"de": "Icognito",
+		"es": "Unown",
+		"it": "Unown",
+		"en": "Unown"
+	},
+	"descriptions": {
+		"en": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously.",
+		"it": "Questo Pokémon pare una lettera di un alfabeto antico. A tutt’oggi rimane un mistero chi sia comparso prima, se l’alfabeto o Unown. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.",
+		"es": "Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.",
+		"de": "Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.",
+		"fr": "Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.",
+		"ko": "고대 문자를 닮은 모습의 포켓몬이다. 먼저 생겨난 것은 문자인가 안농인가. 연구 중이지만 아직도 수수께끼다.",
+		"ja": "こだいの　もじに　にた　すがたの　ポケモン。 さきに　うまれたのは　もじか　アンノーンなのか。 けんきゅうちゅうだが　いまだに　なぞである。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "hoenn", "id": 380, "names": {"ja": "ラティアス", "ko": "라티아스", "fr": "Latias", "de": "Latias", "es": "Latias", "it": "Latias", "en": "Latias"}, "descriptions": {"en": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.", "it": "Estremamente intelligente, Latias è in grado di capire il linguaggio umano. Il suo corpo è ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.", "es": "Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que está cubierto como peto para refractar la luz y cambiar de aspecto.", "de": "Latias ist sehr intelligent und kann die menschliche Sprache verstehen. Es ist mit gläsernen Daunen bedeckt. Dieses Pokémon umhüllt seinen Körper mit den Daunen und kann Licht brechen, um seine Gestalt zu verändern.", "fr": "Latias est très intelligent et comprend le langage des hommes. Il est recouvert d’une espèce de duvet ressemblant à du verre. Ce Pokémon s’enveloppe dans ce duvet et reflète la lumière pour changer son apparence.", "ko": "지능이 높아 사람의 말을 이해한다. 몸을 감싼 유리 같은 깃털로 빛을 굴절시켜 모습을 바꾼다.", "ja": "ちのうが　たかく　ひとの　ことばを　りかいする。 ガラスの　ような　うもうで　からだを　つつみこみ ひかりを　くっせつさせて　すがたを　かえる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 380,
+	"names": {
+		"ja": "ラティアス",
+		"ko": "라티아스",
+		"fr": "Latias",
+		"de": "Latias",
+		"es": "Latias",
+		"it": "Latias",
+		"en": "Latias"
+	},
+	"descriptions": {
+		"en": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
+		"it": "Estremamente intelligente, Latias è in grado di capire il linguaggio umano. Il suo corpo è ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.",
+		"es": "Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que está cubierto como peto para refractar la luz y cambiar de aspecto.",
+		"de": "Latias ist sehr intelligent und kann die menschliche Sprache verstehen. Es ist mit gläsernen Daunen bedeckt. Dieses Pokémon umhüllt seinen Körper mit den Daunen und kann Licht brechen, um seine Gestalt zu verändern.",
+		"fr": "Latias est très intelligent et comprend le langage des hommes. Il est recouvert d’une espèce de duvet ressemblant à du verre. Ce Pokémon s’enveloppe dans ce duvet et reflète la lumière pour changer son apparence.",
+		"ko": "지능이 높아 사람의 말을 이해한다. 몸을 감싼 유리 같은 깃털로 빛을 굴절시켜 모습을 바꾼다.",
+		"ja": "ちのうが　たかく　ひとの　ことばを　りかいする。 ガラスの　ような　うもうで　からだを　つつみこみ ひかりを　くっせつさせて　すがたを　かえる。"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1021,
+	"names": {
+		"ja": "タケルライコ",
+		"ko": "날뛰는우레",
+		"fr": "Ire-Foudre",
+		"de": "Furienblitz",
+		"es": "Electrofuria",
+		"it": "Furiatonante",
+		"en": "Raging Bolt"
+	},
+	"descriptions": {}
+}

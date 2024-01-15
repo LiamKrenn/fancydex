@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1012,
+	"names": {
+		"ja": "チャデス",
+		"ko": "차데스",
+		"fr": "Poltchageist",
+		"de": "Mortcha",
+		"es": "Poltchageist",
+		"it": "Poltchageist",
+		"en": "Poltchageist"
+	},
+	"descriptions": {}
+}

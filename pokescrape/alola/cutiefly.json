@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "alola", "id": 742, "names": {"ja": "アブリー", "ko": "에블리", "fr": "Bombydou", "de": "Wommel", "es": "Cutiefly", "it": "Cutiefly", "en": "Cutiefly"}, "descriptions": {"en": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.", "it": "Prevede la prossima mossa del nemico percependone l’aura. Schiva agilmente i suoi colpi e poi contrattacca.", "es": "Al percibir el aura del rival, puede predecir sus movimientos y esquivarlos sin problema mientras lanza su contraataque.", "de": "Es nimmt die Aura seiner Feinde wahr und erahnt ihren nächsten Zug. So kann es Angriffen geschickt ausweichen und zurückschlagen.", "fr": "Il perçoit l’aura de son ennemi et anticipe ses mouvements. Il parvient ainsi à éviter les attaques et à riposter dans la foulée.", "ko": "상대가 내뿜는 오라로 다음 행동을 예측한다. 공격을 가볍게 피하고 반격한다.", "ja": "てきが　はっする　オーラから　つぎの こうどうを　よそくする。　こうげきを ひらりと　かわして　はんげきする。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 742,
+	"names": {
+		"ja": "アブリー",
+		"ko": "에블리",
+		"fr": "Bombydou",
+		"de": "Wommel",
+		"es": "Cutiefly",
+		"it": "Cutiefly",
+		"en": "Cutiefly"
+	},
+	"descriptions": {
+		"en": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.",
+		"it": "Prevede la prossima mossa del nemico percependone l’aura. Schiva agilmente i suoi colpi e poi contrattacca.",
+		"es": "Al percibir el aura del rival, puede predecir sus movimientos y esquivarlos sin problema mientras lanza su contraataque.",
+		"de": "Es nimmt die Aura seiner Feinde wahr und erahnt ihren nächsten Zug. So kann es Angriffen geschickt ausweichen und zurückschlagen.",
+		"fr": "Il perçoit l’aura de son ennemi et anticipe ses mouvements. Il parvient ainsi à éviter les attaques et à riposter dans la foulée.",
+		"ko": "상대가 내뿜는 오라로 다음 행동을 예측한다. 공격을 가볍게 피하고 반격한다.",
+		"ja": "てきが　はっする　オーラから　つぎの こうどうを　よそくする。　こうげきを ひらりと　かわして　はんげきする。"
+	}
+}

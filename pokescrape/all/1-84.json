@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 84, "names": {"ja": "ドードー", "ko": "두두", "fr": "Doduo", "de": "Dodu", "es": "Doduo", "it": "Doduo", "en": "Doduo"}, "descriptions": {"en": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.", "it": "Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo grazie alle zampe ben sviluppate.", "es": "Las diminutas alas apenas le permiten volar, pero puede correr a gran velocidad gracias a sus patas hiperdesarrolladas.", "de": "Es kann nicht gut fliegen, weil seine Flügel zu klein sind. Dafür kann es mit seinen starken Beinen sehr schnell laufen.", "fr": "Ses petites ailes ne lui permettent pas de voler, mais grâce à ses puissantes pattes, il peut courir très rapidement.", "ko": "날개가 짧아서 하늘을 나는 것은 서투르지만 대신 발달한 다리로 빠르게 달릴 수 있다.", "ja": "はねは　みじかく　そらをとぶのは にがてだが　そのかわり　はったつした あしで　はやく　かけることができる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 84,
+	"names": {
+		"ja": "ドードー",
+		"ko": "두두",
+		"fr": "Doduo",
+		"de": "Dodu",
+		"es": "Doduo",
+		"it": "Doduo",
+		"en": "Doduo"
+	},
+	"descriptions": {
+		"en": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+		"it": "Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo grazie alle zampe ben sviluppate.",
+		"es": "Las diminutas alas apenas le permiten volar, pero puede correr a gran velocidad gracias a sus patas hiperdesarrolladas.",
+		"de": "Es kann nicht gut fliegen, weil seine Flügel zu klein sind. Dafür kann es mit seinen starken Beinen sehr schnell laufen.",
+		"fr": "Ses petites ailes ne lui permettent pas de voler, mais grâce à ses puissantes pattes, il peut courir très rapidement.",
+		"ko": "날개가 짧아서 하늘을 나는 것은 서투르지만 대신 발달한 다리로 빠르게 달릴 수 있다.",
+		"ja": "はねは　みじかく　そらをとぶのは にがてだが　そのかわり　はったつした あしで　はやく　かけることができる。"
+	}
+}

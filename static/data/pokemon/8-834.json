@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "chewtle"}, "generation": "galar", "id": 833, "names": {"ja": "カジリガメ", "ko": "갈가부기", "fr": "Torgamord", "de": "Kamalm", "es": "Drednaw", "it": "Drednaw", "en": "Drednaw"}, "descriptions": {"en": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.", "it": "Ha un collo retrattile. Tenendosi a distanza dal nemico, lo estende all’improvviso per dare il colpo di grazia con i denti aguzzi.", "es": "Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.", "de": "Sein streckbarer Hals ermöglicht es ihm, auch entfernte Gegner zu erreichen, die es dann mit seinen scharfen Zähnen ausschaltet.", "fr": "Son cou extensible lui permet d’atteindre des ennemis éloignés en un instant pour leur porter un coup décisif avec ses crocs aiguisés.", "ko": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.", "ja": "くびが　のびちぢみする。　はなれた ところから　くびを　いっきに　のばし するどい　キバで　てきを　しとめる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "chewtle" },
+	"generation": "galar",
+	"id": 833,
+	"names": {
+		"ja": "カジリガメ",
+		"ko": "갈가부기",
+		"fr": "Torgamord",
+		"de": "Kamalm",
+		"es": "Drednaw",
+		"it": "Drednaw",
+		"en": "Drednaw"
+	},
+	"descriptions": {
+		"en": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+		"it": "Ha un collo retrattile. Tenendosi a distanza dal nemico, lo estende all’improvviso per dare il colpo di grazia con i denti aguzzi.",
+		"es": "Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.",
+		"de": "Sein streckbarer Hals ermöglicht es ihm, auch entfernte Gegner zu erreichen, die es dann mit seinen scharfen Zähnen ausschaltet.",
+		"fr": "Son cou extensible lui permet d’atteindre des ennemis éloignés en un instant pour leur porter un coup décisif avec ses crocs aiguisés.",
+		"ko": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+		"ja": "くびが　のびちぢみする。　はなれた ところから　くびを　いっきに　のばし するどい　キバで　てきを　しとめる。"
+	}
+}

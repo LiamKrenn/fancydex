@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "salandit"}, "generation": "alola", "id": 757, "names": {"ja": "エンニュート", "ko": "염뉴트", "fr": "Malamandre", "de": "Amfira", "es": "Salazzle", "it": "Salazzle", "en": "Salazzle"}, "descriptions": {"en": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.", "it": "Sembra che nelle dispute tra Salazzle prevalga sempre l’esemplare che ha il maggior numero di Salandit maschi al seguito.", "es": "Libran disputas con sus congéneres cuyo resultado, al parecer, se inclina por quien tenga un séquito de Salandit machos más numeroso.", "de": "Kommt es unter ihnen zu Streitereien, setzt sich offenbar immer das Amfira durch, das von den meisten männlichen Molunk verehrt wird.", "fr": "Les conflits entre Malamandre seraient réglés par un simple calcul : le spécimen dont la suite comporte le plus de Tritox l’emporte.", "ko": "염뉴트들의 싸움은 거느리고 있는 수컷 야도뇽의 수로 승패가 정해지는 듯하다.", "ja": "エンニュートどうしの　あらそいは ひきつれている　オスの　ヤトウモリの かずで　しょうはいが　きまるらしい。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "salandit" },
+	"generation": "alola",
+	"id": 757,
+	"names": {
+		"ja": "エンニュート",
+		"ko": "염뉴트",
+		"fr": "Malamandre",
+		"de": "Amfira",
+		"es": "Salazzle",
+		"it": "Salazzle",
+		"en": "Salazzle"
+	},
+	"descriptions": {
+		"en": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
+		"it": "Sembra che nelle dispute tra Salazzle prevalga sempre l’esemplare che ha il maggior numero di Salandit maschi al seguito.",
+		"es": "Libran disputas con sus congéneres cuyo resultado, al parecer, se inclina por quien tenga un séquito de Salandit machos más numeroso.",
+		"de": "Kommt es unter ihnen zu Streitereien, setzt sich offenbar immer das Amfira durch, das von den meisten männlichen Molunk verehrt wird.",
+		"fr": "Les conflits entre Malamandre seraient réglés par un simple calcul : le spécimen dont la suite comporte le plus de Tritox l’emporte.",
+		"ko": "염뉴트들의 싸움은 거느리고 있는 수컷 야도뇽의 수로 승패가 정해지는 듯하다.",
+		"ja": "エンニュートどうしの　あらそいは ひきつれている　オスの　ヤトウモリの かずで　しょうはいが　きまるらしい。"
+	}
+}

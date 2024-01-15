@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "alola", "id": 794, "names": {"ja": "マッシブーン", "ko": "매시붕", "fr": "Mouscoto", "de": "Masskito", "es": "Buzzwole", "it": "Buzzwole", "en": "Buzzwole"}, "descriptions": {"en": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.", "it": "Una delle Ultracreature. Non fa che mettere in mostra i propri muscoli esageratamente gonfi.", "es": "Uno de los Ultraentes. Posee una musculatura excesivamente desarrollada.", "de": "Diese Ultrabestie stellt gerne ihre extrem angeschwollenen Muskeln stolz zur Schau.", "fr": "Ce type d’Ultra-Chimère adore exhiber ses muscles gonflés à l’extrême.", "ko": "이상할 정도로 팽창하는 근육을 자랑한다. 울트라비스트의 일종.", "ja": "いじょうな　までに　ぼうちょうする きんにくを　みせつけてきた。 ウルトラビーストの　いっしゅ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 794,
+	"names": {
+		"ja": "マッシブーン",
+		"ko": "매시붕",
+		"fr": "Mouscoto",
+		"de": "Masskito",
+		"es": "Buzzwole",
+		"it": "Buzzwole",
+		"en": "Buzzwole"
+	},
+	"descriptions": {
+		"en": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
+		"it": "Una delle Ultracreature. Non fa che mettere in mostra i propri muscoli esageratamente gonfi.",
+		"es": "Uno de los Ultraentes. Posee una musculatura excesivamente desarrollada.",
+		"de": "Diese Ultrabestie stellt gerne ihre extrem angeschwollenen Muskeln stolz zur Schau.",
+		"fr": "Ce type d’Ultra-Chimère adore exhiber ses muscles gonflés à l’extrême.",
+		"ko": "이상할 정도로 팽창하는 근육을 자랑한다. 울트라비스트의 일종.",
+		"ja": "いじょうな　までに　ぼうちょうする きんにくを　みせつけてきた。 ウルトラビーストの　いっしゅ。"
+	}
+}

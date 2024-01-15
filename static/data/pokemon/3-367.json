@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "clamperl"}, "generation": "hoenn", "id": 366, "names": {"ja": "ハンテール", "ko": "헌테일", "fr": "Serpang", "de": "Aalabyss", "es": "Huntail", "it": "Huntail", "en": "Huntail"}, "descriptions": {"en": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.", "it": "Vive nelle profondità marine. Secondo le leggende, quando un Huntail si arena sulla riva è segno che sta per accadere una disgrazia.", "es": "Vive en los fondos marinos. Según una leyenda, que un Huntail aparezca varado en la playa es señal de mal augurio.", "de": "Es lebt in der Tiefsee. Einer Überlieferung zufolge geschieht etwas Unheilvolles, wenn ein Aalabyss am Strand auftaucht.", "fr": "Il habite dans les profondeurs de l’océan. Un Serpang trouvé sur la plage serait un mauvais présage.", "ko": "심해에 서식한다. 헌테일이 해변에 올라오면 불길한 일이 일어난다는 전설이 있다.", "ja": "しんかいに　せいそく。　ハンテールが はまに　うちあがると　ふきつなことが おこるという　いいつたえが　ある。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "clamperl" },
+	"generation": "hoenn",
+	"id": 366,
+	"names": {
+		"ja": "ハンテール",
+		"ko": "헌테일",
+		"fr": "Serpang",
+		"de": "Aalabyss",
+		"es": "Huntail",
+		"it": "Huntail",
+		"en": "Huntail"
+	},
+	"descriptions": {
+		"en": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+		"it": "Vive nelle profondità marine. Secondo le leggende, quando un Huntail si arena sulla riva è segno che sta per accadere una disgrazia.",
+		"es": "Vive en los fondos marinos. Según una leyenda, que un Huntail aparezca varado en la playa es señal de mal augurio.",
+		"de": "Es lebt in der Tiefsee. Einer Überlieferung zufolge geschieht etwas Unheilvolles, wenn ein Aalabyss am Strand auftaucht.",
+		"fr": "Il habite dans les profondeurs de l’océan. Un Serpang trouvé sur la plage serait un mauvais présage.",
+		"ko": "심해에 서식한다. 헌테일이 해변에 올라오면 불길한 일이 일어난다는 전설이 있다.",
+		"ja": "しんかいに　せいそく。　ハンテールが はまに　うちあがると　ふきつなことが おこるという　いいつたえが　ある。"
+	}
+}

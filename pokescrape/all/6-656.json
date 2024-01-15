@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "kalos", "id": 656, "names": {"ja": "ケロマツ", "ko": "개구마르", "fr": "Grenousse", "de": "Froxy", "es": "Froakie", "it": "Froakie", "en": "Froakie"}, "descriptions": {"en": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.", "it": "Si protegge avvolgendo il corpo in una schiuma delicata. Nonostante l’aria spensierata, scruta sempre l’ambiente circostante con molta attenzione.", "es": "Protege su piel cubriendo el cuerpo con una fina capa de burbujas. Aunque parezca despreocupado, no deja de vigilar con astucia lo que le rodea.", "de": "Es schützt seine Haut mit feinen Blasen, die seinen Körper umhüllen. Es mag unbekümmert aussehen, behält die Umgebung aber immer aufmerksam im Auge.", "fr": "Il protège son corps en l’entourant d’une mousse délicate. Malgré son apparence insouciante, ce Pokémon est en fait constamment à l’affût.", "ko": "섬세한 거품으로 몸을 감싸 피부를 보호한다. 태평한 척하면서 빈틈없이 주위를 살핀다.", "ja": "せんさいな　あわで　からだを　つつみ はだを　まもる。のんきに　みせかけて ぬけめなく　しゅういを　うかがう。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 656,
+	"names": {
+		"ja": "ケロマツ",
+		"ko": "개구마르",
+		"fr": "Grenousse",
+		"de": "Froxy",
+		"es": "Froakie",
+		"it": "Froakie",
+		"en": "Froakie"
+	},
+	"descriptions": {
+		"en": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+		"it": "Si protegge avvolgendo il corpo in una schiuma delicata. Nonostante l’aria spensierata, scruta sempre l’ambiente circostante con molta attenzione.",
+		"es": "Protege su piel cubriendo el cuerpo con una fina capa de burbujas. Aunque parezca despreocupado, no deja de vigilar con astucia lo que le rodea.",
+		"de": "Es schützt seine Haut mit feinen Blasen, die seinen Körper umhüllen. Es mag unbekümmert aussehen, behält die Umgebung aber immer aufmerksam im Auge.",
+		"fr": "Il protège son corps en l’entourant d’une mousse délicate. Malgré son apparence insouciante, ce Pokémon est en fait constamment à l’affût.",
+		"ko": "섬세한 거품으로 몸을 감싸 피부를 보호한다. 태평한 척하면서 빈틈없이 주위를 살핀다.",
+		"ja": "せんさいな　あわで　からだを　つつみ はだを　まもる。のんきに　みせかけて ぬけめなく　しゅういを　うかがう。"
+	}
+}

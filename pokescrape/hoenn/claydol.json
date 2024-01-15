@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "baltoy"}, "generation": "hoenn", "id": 343, "names": {"ja": "ネンドール", "ko": "점토도리", "fr": "Kaorine", "de": "Lepumentas", "es": "Claydol", "it": "Claydol", "en": "Claydol"}, "descriptions": {"en": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.", "it": "Pare che sia nato da un’antica bambola di argilla. Si sposta levitando a mezz’aria grazie alla telecinesi.", "es": "Dicen que surgió de una figurilla de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.", "de": "Es scheint, sein Ursprung geht auf altertümliche Lehmpuppen zurück. Durch Telekinese kann es schweben und sich bewegen.", "fr": "Ce Pokémon aurait été créé à partir d’une poupée d’argile confectionnée par une ancienne civilisation. Il se déplace en lévitant.", "ko": "고대인의 진흙인형에서 태어난 것 같다. 염력을 사용해 공중을 떠다닌다.", "ja": "こだいじんの　どろにんぎょうから うまれたらしい。　ねんりきを　つかい くうちゅうに　ういて　いどうする。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "baltoy" },
+	"generation": "hoenn",
+	"id": 343,
+	"names": {
+		"ja": "ネンドール",
+		"ko": "점토도리",
+		"fr": "Kaorine",
+		"de": "Lepumentas",
+		"es": "Claydol",
+		"it": "Claydol",
+		"en": "Claydol"
+	},
+	"descriptions": {
+		"en": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+		"it": "Pare che sia nato da un’antica bambola di argilla. Si sposta levitando a mezz’aria grazie alla telecinesi.",
+		"es": "Dicen que surgió de una figurilla de barro hecha por una antigua civilización. Usa telequinesia para levitar y moverse.",
+		"de": "Es scheint, sein Ursprung geht auf altertümliche Lehmpuppen zurück. Durch Telekinese kann es schweben und sich bewegen.",
+		"fr": "Ce Pokémon aurait été créé à partir d’une poupée d’argile confectionnée par une ancienne civilisation. Il se déplace en lévitant.",
+		"ko": "고대인의 진흙인형에서 태어난 것 같다. 염력을 사용해 공중을 떠다닌다.",
+		"ja": "こだいじんの　どろにんぎょうから うまれたらしい。　ねんりきを　つかい くうちゅうに　ういて　いどうする。"
+	}
+}

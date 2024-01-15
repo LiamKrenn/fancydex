@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "spoink"}, "generation": "hoenn", "id": 325, "names": {"ja": "ブーピッグ", "ko": "피그킹", "fr": "Groret", "de": "Groink", "es": "Grumpig", "it": "Grumpig", "en": "Grumpig"}, "descriptions": {"en": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.", "it": "Grumpig usa le perle nere che ha sul corpo per esercitare i suoi fantastici poteri. In queste occasioni danza in modo bizzarro. Le perle nere di questo Pokémon sono preziose opere d’arte.", "es": "Grumpig utiliza las perlas negras que tiene para usar fantásticos poderes mientras baila de forma muy extraña. Las perlas de este Pokémon están consideradas como valiosas obras de arte.", "de": "Groink benutzt die schwarzen Perlen an seinem Körper, um seine fantastischen Kräfte nutzen zu können. Dabei tanzt es sonderbar. Die schwarzen Perlen dieses Pokémon sind wahre Kunstwerke und ebenso wertvoll.", "fr": "Groret utilise les perles noires sur son corps pour exercer ses formidables pouvoirs. Quand il est en action, il entame une étrange danse. Les perles noires de ce Pokémon ont une valeur inestimable.", "ko": "흑진주를 이용하여 이상한 힘을 사용할 때 기묘한 스텝으로 춤을 춘다. 흑진주는 미술품으로서의 가치를 지녔다.", "ja": "くろしんじゅを　りようして　ふしぎな　ちからを つかうとき　きみょうな　ステップで　おどりだす。 くろしんじゅは　びじゅつひんの　かちを　もつ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "spoink" },
+	"generation": "hoenn",
+	"id": 325,
+	"names": {
+		"ja": "ブーピッグ",
+		"ko": "피그킹",
+		"fr": "Groret",
+		"de": "Groink",
+		"es": "Grumpig",
+		"it": "Grumpig",
+		"en": "Grumpig"
+	},
+	"descriptions": {
+		"en": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.",
+		"it": "Grumpig usa le perle nere che ha sul corpo per esercitare i suoi fantastici poteri. In queste occasioni danza in modo bizzarro. Le perle nere di questo Pokémon sono preziose opere d’arte.",
+		"es": "Grumpig utiliza las perlas negras que tiene para usar fantásticos poderes mientras baila de forma muy extraña. Las perlas de este Pokémon están consideradas como valiosas obras de arte.",
+		"de": "Groink benutzt die schwarzen Perlen an seinem Körper, um seine fantastischen Kräfte nutzen zu können. Dabei tanzt es sonderbar. Die schwarzen Perlen dieses Pokémon sind wahre Kunstwerke und ebenso wertvoll.",
+		"fr": "Groret utilise les perles noires sur son corps pour exercer ses formidables pouvoirs. Quand il est en action, il entame une étrange danse. Les perles noires de ce Pokémon ont une valeur inestimable.",
+		"ko": "흑진주를 이용하여 이상한 힘을 사용할 때 기묘한 스텝으로 춤을 춘다. 흑진주는 미술품으로서의 가치를 지녔다.",
+		"ja": "くろしんじゅを　りようして　ふしぎな　ちからを つかうとき　きみょうな　ステップで　おどりだす。 くろしんじゅは　びじゅつひんの　かちを　もつ。"
+	}
+}

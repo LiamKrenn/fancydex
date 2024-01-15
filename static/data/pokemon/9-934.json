@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "naclstack" },
+	"generation": "paldea",
+	"id": 933,
+	"names": {
+		"ja": "キョジオーン",
+		"ko": "콜로솔트",
+		"fr": "Gigansel",
+		"de": "Saltigant",
+		"es": "Garganacl",
+		"it": "Garganacl",
+		"en": "Garganacl"
+	},
+	"descriptions": {
+		"en": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+	}
+}

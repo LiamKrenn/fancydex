@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "solosis"}, "generation": "unova", "id": 577, "names": {"ja": "ダブラン", "ko": "듀란", "fr": "Méios", "de": "Mitodos", "es": "Duosion", "it": "Duosion", "en": "Duosion"}, "descriptions": {"en": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.", "it": "È un Pokémon piuttosto imprevedibile. I suoi due cervelli, separati e indipendenti, raramente sono sulla stessa lunghezza onda.", "es": "Las dos partes de su cerebro casi nunca piensan lo mismo, por lo que es imposible predecir sus intenciones.", "de": "Weil die beiden Hälften seines gespaltenen Denkapparates fast nie einer Meinung sind, ist es auf gewisse Weise unberechenbar.", "fr": "Étant donné que ses deux cerveaux sont rarement sur la même longueur d’onde, il est impossible de prédire son comportement.", "ko": "분열한 2개의 뇌는 생각이 거의 일치하지 않아 전혀 행동을 예측할 수 없다.", "ja": "ぶんれつした　２つの　のうみその かんがえは　ほぼ　いっちせず まるで　こうどうが　よめない。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "solosis" },
+	"generation": "unova",
+	"id": 577,
+	"names": {
+		"ja": "ダブラン",
+		"ko": "듀란",
+		"fr": "Méios",
+		"de": "Mitodos",
+		"es": "Duosion",
+		"it": "Duosion",
+		"en": "Duosion"
+	},
+	"descriptions": {
+		"en": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+		"it": "È un Pokémon piuttosto imprevedibile. I suoi due cervelli, separati e indipendenti, raramente sono sulla stessa lunghezza onda.",
+		"es": "Las dos partes de su cerebro casi nunca piensan lo mismo, por lo que es imposible predecir sus intenciones.",
+		"de": "Weil die beiden Hälften seines gespaltenen Denkapparates fast nie einer Meinung sind, ist es auf gewisse Weise unberechenbar.",
+		"fr": "Étant donné que ses deux cerveaux sont rarement sur la même longueur d’onde, il est impossible de prédire son comportement.",
+		"ko": "분열한 2개의 뇌는 생각이 거의 일치하지 않아 전혀 행동을 예측할 수 없다.",
+		"ja": "ぶんれつした　２つの　のうみその かんがえは　ほぼ　いっちせず まるで　こうどうが　よめない。"
+	}
+}

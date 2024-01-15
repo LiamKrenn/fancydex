@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "espurr"}, "generation": "kalos", "id": 677, "names": {"ja": "ニャオニクス", "ko": "냐오닉스", "fr": "Mistigrix", "de": "Psiaugon", "es": "Meowstic", "it": "Meowstic", "en": "Meowstic"}, "descriptions": {"en": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.", "it": "Il maschio ha un forte istinto protettivo. Se deve difendere se stesso o il suo Allenatore, attacca con una forza formidabile.", "es": "El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.", "de": "Männliche Psiaugon haben einen ausgeprägten Beschützerinstinkt. Sie sind dann am stärksten, wenn sie sich oder ihren Trainer verteidigen.", "fr": "Le mâle a un instinct de défense très développé. Il n’hésite pas à lancer une attaque à pleine puissance pour protéger ses partenaires et lui.", "ko": "수컷은 방어 본능이 강해서 자신과 파트너를 지킬 때 최대의 파워를 쓴다.", "ja": "オスは　ぼうえい　ほんのうが　つよく じぶんや　パートナーを　まもるときに さいだいきゅうの　パワーを　だす。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "espurr" },
+	"generation": "kalos",
+	"id": 677,
+	"names": {
+		"ja": "ニャオニクス",
+		"ko": "냐오닉스",
+		"fr": "Mistigrix",
+		"de": "Psiaugon",
+		"es": "Meowstic",
+		"it": "Meowstic",
+		"en": "Meowstic"
+	},
+	"descriptions": {
+		"en": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.",
+		"it": "Il maschio ha un forte istinto protettivo. Se deve difendere se stesso o il suo Allenatore, attacca con una forza formidabile.",
+		"es": "El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.",
+		"de": "Männliche Psiaugon haben einen ausgeprägten Beschützerinstinkt. Sie sind dann am stärksten, wenn sie sich oder ihren Trainer verteidigen.",
+		"fr": "Le mâle a un instinct de défense très développé. Il n’hésite pas à lancer une attaque à pleine puissance pour protéger ses partenaires et lui.",
+		"ko": "수컷은 방어 본능이 강해서 자신과 파트너를 지킬 때 최대의 파워를 쓴다.",
+		"ja": "オスは　ぼうえい　ほんのうが　つよく じぶんや　パートナーを　まもるときに さいだいきゅうの　パワーを　だす。"
+	}
+}

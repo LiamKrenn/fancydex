@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": {"name": "mareep"}, "generation": "johto", "id": 179, "names": {"ja": "モココ", "ko": "보송송", "fr": "Lainergie", "de": "Waaty", "es": "Flaaffy", "it": "Flaaffy", "en": "Flaaffy"}, "descriptions": {"en": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.", "it": "Raccoglie elettricità nel soffice manto. Alcune parti del suo corpo sono diventate interamente glabre per la troppa elettricità immagazzinata.", "es": "Su lana sedosa acumula tanta electricidad que algunas partes de su cuerpo se han quedado desprovistas de pelo.", "de": "Sein flauschiges Fell speichert Elektrizität. Zu große Mengen bewirkten aber stellenweise einen Haarausfall, wo nun glatte Haut freiliegt.", "fr": "Il accumule de l’électricité dans sa toison duveteuse. Il en a tellement stocké qu’il en a perdu sa laine par endroits.", "ko": "푹신푹신한 털에 전기를 저장한다. 너무 많이 저장해서 여기저기 반질반질하게 털이 빠져 버렸다.", "ja": "ふかふかの　けに　でんきを　ためこむ。 たくわえすぎて　ところどころ つるつるに　はげあがって　しまった。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": { "name": "mareep" },
+	"generation": "johto",
+	"id": 179,
+	"names": {
+		"ja": "モココ",
+		"ko": "보송송",
+		"fr": "Lainergie",
+		"de": "Waaty",
+		"es": "Flaaffy",
+		"it": "Flaaffy",
+		"en": "Flaaffy"
+	},
+	"descriptions": {
+		"en": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+		"it": "Raccoglie elettricità nel soffice manto. Alcune parti del suo corpo sono diventate interamente glabre per la troppa elettricità immagazzinata.",
+		"es": "Su lana sedosa acumula tanta electricidad que algunas partes de su cuerpo se han quedado desprovistas de pelo.",
+		"de": "Sein flauschiges Fell speichert Elektrizität. Zu große Mengen bewirkten aber stellenweise einen Haarausfall, wo nun glatte Haut freiliegt.",
+		"fr": "Il accumule de l’électricité dans sa toison duveteuse. Il en a tellement stocké qu’il en a perdu sa laine par endroits.",
+		"ko": "푹신푹신한 털에 전기를 저장한다. 너무 많이 저장해서 여기저기 반질반질하게 털이 빠져 버렸다.",
+		"ja": "ふかふかの　けに　でんきを　ためこむ。 たくわえすぎて　ところどころ つるつるに　はげあがって　しまった。"
+	}
+}

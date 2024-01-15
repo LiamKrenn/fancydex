@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 104, "names": {"ja": "カラカラ", "ko": "탕구리", "fr": "Osselait", "de": "Tragosso", "es": "Cubone", "it": "Cubone", "en": "Cubone"}, "descriptions": {"en": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.", "it": "Indossa il teschio della madre defunta. A volte capita che pianga vedendola in sogno, ma a ogni lacrima versata diventa più forte.", "es": "Lleva puesto el cráneo de su difunta madre. A veces llora en sueños, pero cada lágrima vertida le hace más fuerte.", "de": "Es trägt den Schädel seiner verstorbenen Mutter. Manchmal weint Tragosso, während es träumt, doch jede vergossene Träne macht es stärker.", "fr": "Il porte sur sa tête le crâne de sa défunte mère. Il lui arrive de rêver d’elle et de pleurer, mais chaque larme qu’il verse le rend plus fort.", "ko": "죽은 어미의 뼈를 머리에 쓰고 있다. 어미의 꿈을 꾸고 울기도 하지만 눈물을 흘릴 때마다 강해진다.", "ja": "しんだ　ははおやの　ホネを　かぶる。 ゆめを　みて　なくことも　あるけれど なみだを　ながすたびに　つよくなる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 104,
+	"names": {
+		"ja": "カラカラ",
+		"ko": "탕구리",
+		"fr": "Osselait",
+		"de": "Tragosso",
+		"es": "Cubone",
+		"it": "Cubone",
+		"en": "Cubone"
+	},
+	"descriptions": {
+		"en": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+		"it": "Indossa il teschio della madre defunta. A volte capita che pianga vedendola in sogno, ma a ogni lacrima versata diventa più forte.",
+		"es": "Lleva puesto el cráneo de su difunta madre. A veces llora en sueños, pero cada lágrima vertida le hace más fuerte.",
+		"de": "Es trägt den Schädel seiner verstorbenen Mutter. Manchmal weint Tragosso, während es träumt, doch jede vergossene Träne macht es stärker.",
+		"fr": "Il porte sur sa tête le crâne de sa défunte mère. Il lui arrive de rêver d’elle et de pleurer, mais chaque larme qu’il verse le rend plus fort.",
+		"ko": "죽은 어미의 뼈를 머리에 쓰고 있다. 어미의 꿈을 꾸고 울기도 하지만 눈물을 흘릴 때마다 강해진다.",
+		"ja": "しんだ　ははおやの　ホネを　かぶる。 ゆめを　みて　なくことも　あるけれど なみだを　ながすたびに　つよくなる。"
+	}
+}

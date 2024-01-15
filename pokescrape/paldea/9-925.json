@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "tandemaus" },
+	"generation": "paldea",
+	"id": 924,
+	"names": {
+		"ja": "イッカネズミ",
+		"ko": "파밀리쥐",
+		"fr": "Famignol",
+		"de": "Famieps",
+		"es": "Maushold",
+		"it": "Maushold",
+		"en": "Maushold"
+	},
+	"descriptions": {
+		"en": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+	}
+}

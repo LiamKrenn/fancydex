@@ -110,13 +110,27 @@ export const generations: Generation[] = [
 		name: 'Generation VIII',
 		games: ['Sword', 'Shield'],
 		main_region: {
-			en: 'Galar	',
+			en: 'Galar',
 			ja: 'ガラル',
-			it: 'Galar	',
-			es: 'Galar	',
-			de: 'Galar	',
-			fr: 'Galar	',
+			it: 'Galar',
+			es: 'Galar',
+			de: 'Galar',
+			fr: 'Galar',
 			ko: '가라르'
+		}
+	},
+	{
+		id: 9,
+		name: 'Generation IX',
+		games: ['Scarlet', 'Violet'],
+		main_region: {
+			en: 'Paldea',
+			ja: 'パルデア',
+			it: 'Paldea',
+			es: 'Paldea',
+			de: 'Paldea',
+			fr: 'Paldea',
+			ko: '팔데아'
 		}
 	}
 ];

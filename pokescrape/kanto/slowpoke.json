@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "kanto", "id": 79, "names": {"ja": "ヤドン", "ko": "야돈", "fr": "Ramoloss", "de": "Flegmon", "es": "Slowpoke", "it": "Slowpoke", "en": "Slowpoke"}, "descriptions": {"en": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.", "it": "Se immersa nell’acqua, la coda di Slowpoke secerne una dolce linfa che il Pokémon usa per attirare altri Pokémon e pescarli.", "es": "Hunde la cola en el agua y la usa cual caña de pescar. La sustancia dulce que secreta le sirve de cebo para atraer a sus presas.", "de": "Taucht es seine Rute ins Wasser, strömt sie ein süßes Aroma aus. Mit diesem Köder lockt es andere Pokémon an, die es dann an Land zieht.", "fr": "Lorsqu’il trempe le bout de sa queue dans l’eau, une substance sucrée s’en dégage. Il s’en sert pour appâter ses proies quand il pêche.", "ko": "꼬리를 물에 담가두면 단맛이 배어 나오기 때문에 이를 미끼로 포켓몬을 유인해서 낚는다.", "ja": "しっぽを　みずに　ひたすと　あまみが にじみでるので　それを　エサに ポケモンを　おびきよせ　つりあげる。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 79,
+	"names": {
+		"ja": "ヤドン",
+		"ko": "야돈",
+		"fr": "Ramoloss",
+		"de": "Flegmon",
+		"es": "Slowpoke",
+		"it": "Slowpoke",
+		"en": "Slowpoke"
+	},
+	"descriptions": {
+		"en": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
+		"it": "Se immersa nell’acqua, la coda di Slowpoke secerne una dolce linfa che il Pokémon usa per attirare altri Pokémon e pescarli.",
+		"es": "Hunde la cola en el agua y la usa cual caña de pescar. La sustancia dulce que secreta le sirve de cebo para atraer a sus presas.",
+		"de": "Taucht es seine Rute ins Wasser, strömt sie ein süßes Aroma aus. Mit diesem Köder lockt es andere Pokémon an, die es dann an Land zieht.",
+		"fr": "Lorsqu’il trempe le bout de sa queue dans l’eau, une substance sucrée s’en dégage. Il s’en sert pour appâter ses proies quand il pêche.",
+		"ko": "꼬리를 물에 담가두면 단맛이 배어 나오기 때문에 이를 미끼로 포켓몬을 유인해서 낚는다.",
+		"ja": "しっぽを　みずに　ひたすと　あまみが にじみでるので　それを　エサに ポケモンを　おびきよせ　つりあげる。"
+	}
+}

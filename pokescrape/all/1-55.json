@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "psyduck"}, "generation": "kanto", "id": 54, "names": {"ja": "ゴルダック", "ko": "골덕", "fr": "Akwakwak", "de": "Entoron", "es": "Golduck", "it": "Golduck", "en": "Golduck"}, "descriptions": {"en": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.", "it": "Secondo antichi racconti, Golduck trascina in acqua gli esseri umani che inquinano il fiume portandoli via con sé.", "es": "Cuenta una antigua leyenda que los Golduck arrastraban a quienes contaminaran sus ríos al fondo de las aguas.", "de": "Alten Legenden zufolge werden jene Menschen, die es wagen, seinen Fluss zu verschmutzen, von Entoron ins Wasser gezerrt und entführt.", "fr": "D’après de vieilles légendes, ce Pokémon entraînait au fond de l’eau tous ceux qui osaient souiller sa rivière.", "ko": "강을 더럽힌 사람을 물속으로 끌어들여 데려간다는 옛날이야기가 전해져 오고 있다.", "ja": "かわを　よごした　にんげんを すいちゅうに　ひきこみ　つれさる むかしばなしが　のこされている。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "psyduck" },
+	"generation": "kanto",
+	"id": 54,
+	"names": {
+		"ja": "ゴルダック",
+		"ko": "골덕",
+		"fr": "Akwakwak",
+		"de": "Entoron",
+		"es": "Golduck",
+		"it": "Golduck",
+		"en": "Golduck"
+	},
+	"descriptions": {
+		"en": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+		"it": "Secondo antichi racconti, Golduck trascina in acqua gli esseri umani che inquinano il fiume portandoli via con sé.",
+		"es": "Cuenta una antigua leyenda que los Golduck arrastraban a quienes contaminaran sus ríos al fondo de las aguas.",
+		"de": "Alten Legenden zufolge werden jene Menschen, die es wagen, seinen Fluss zu verschmutzen, von Entoron ins Wasser gezerrt und entführt.",
+		"fr": "D’après de vieilles légendes, ce Pokémon entraînait au fond de l’eau tous ceux qui osaient souiller sa rivière.",
+		"ko": "강을 더럽힌 사람을 물속으로 끌어들여 데려간다는 옛날이야기가 전해져 오고 있다.",
+		"ja": "かわを　よごした　にんげんを すいちゅうに　ひきこみ　つれさる むかしばなしが　のこされている。"
+	}
+}

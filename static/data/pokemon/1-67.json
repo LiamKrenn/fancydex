@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "machop"}, "generation": "kanto", "id": 66, "names": {"ja": "ゴーリキー", "ko": "근육몬", "fr": "Machopeur", "de": "Maschock", "es": "Machoke", "it": "Machoke", "en": "Machoke"}, "descriptions": {"en": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.", "it": "Ha un fisico vigoroso e instancabile. Aiuta le persone a trasportare carichi e a svolgere altri lavori pesanti.", "es": "Tiene una complexión tan fuerte que nunca se cansa. Suele ayudar a la gente a cargar objetos pesados.", "de": "Sein durchtrainierter Körper wird nie müde. Es hilft den Menschen, indem es schwere Sachen trägt.", "fr": "Son corps robuste ne se fatigue jamais. Il n’hésite pas à aider les gens lorsqu’il s’agit de soulever des objets très lourds.", "ko": "지치지 않는 강인한 육체를 가졌다. 무거운 물건을 옮기는 등의 일을 돕는다.", "ja": "つかれることのない　きょうじんな にくたいを　もつ。　おもい　にもつの うんぱんなどの　しごとを　てつだう。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "machop" },
+	"generation": "kanto",
+	"id": 66,
+	"names": {
+		"ja": "ゴーリキー",
+		"ko": "근육몬",
+		"fr": "Machopeur",
+		"de": "Maschock",
+		"es": "Machoke",
+		"it": "Machoke",
+		"en": "Machoke"
+	},
+	"descriptions": {
+		"en": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.",
+		"it": "Ha un fisico vigoroso e instancabile. Aiuta le persone a trasportare carichi e a svolgere altri lavori pesanti.",
+		"es": "Tiene una complexión tan fuerte que nunca se cansa. Suele ayudar a la gente a cargar objetos pesados.",
+		"de": "Sein durchtrainierter Körper wird nie müde. Es hilft den Menschen, indem es schwere Sachen trägt.",
+		"fr": "Son corps robuste ne se fatigue jamais. Il n’hésite pas à aider les gens lorsqu’il s’agit de soulever des objets très lourds.",
+		"ko": "지치지 않는 강인한 육체를 가졌다. 무거운 물건을 옮기는 등의 일을 돕는다.",
+		"ja": "つかれることのない　きょうじんな にくたいを　もつ。　おもい　にもつの うんぱんなどの　しごとを　てつだう。"
+	}
+}

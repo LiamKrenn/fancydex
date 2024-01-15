@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "gabite"}, "generation": "sinnoh", "id": 444, "names": {"ja": "ガブリアス", "ko": "한카리아스", "fr": "Carchacrok", "de": "Knakrack", "es": "Garchomp", "it": "Garchomp", "en": "Garchomp"}, "descriptions": {"en": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.", "it": "È veloce anche a terra. È in grado di abbattere le prede tra le montagne innevate e tornare nella sua tana prima di congelarsi.", "es": "Se mueve a gran velocidad incluso por tierra. Es capaz de cazar una presa en una montaña nevada y volver a su guarida sin llegar a pasar frío.", "de": "Auch am Boden bewegt es sich schnell. Es kann im verschneiten Gebirge Beute erlegen und in sein Nest bringen, bevor sein Körper auskühlt.", "fr": "Ce Pokémon très rapide même au sol capture ses proies sur les monts enneigés et rentre vite dans son antre avant que son corps ne gèle.", "ko": "지상에서도 움직임이 빠르다. 설산에서는 체온이 떨어지기 전에 먹이를 잡아 거처로 돌아간다.", "ja": "ちじょうでも　うごきは　すばやく ゆきやまで　からだが　ひえきるまえに えものを　しとめ　すみかに　もどる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "gabite" },
+	"generation": "sinnoh",
+	"id": 444,
+	"names": {
+		"ja": "ガブリアス",
+		"ko": "한카리아스",
+		"fr": "Carchacrok",
+		"de": "Knakrack",
+		"es": "Garchomp",
+		"it": "Garchomp",
+		"en": "Garchomp"
+	},
+	"descriptions": {
+		"en": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
+		"it": "È veloce anche a terra. È in grado di abbattere le prede tra le montagne innevate e tornare nella sua tana prima di congelarsi.",
+		"es": "Se mueve a gran velocidad incluso por tierra. Es capaz de cazar una presa en una montaña nevada y volver a su guarida sin llegar a pasar frío.",
+		"de": "Auch am Boden bewegt es sich schnell. Es kann im verschneiten Gebirge Beute erlegen und in sein Nest bringen, bevor sein Körper auskühlt.",
+		"fr": "Ce Pokémon très rapide même au sol capture ses proies sur les monts enneigés et rentre vite dans son antre avant que son corps ne gèle.",
+		"ko": "지상에서도 움직임이 빠르다. 설산에서는 체온이 떨어지기 전에 먹이를 잡아 거처로 돌아간다.",
+		"ja": "ちじょうでも　うごきは　すばやく ゆきやまで　からだが　ひえきるまえに えものを　しとめ　すみかに　もどる。"
+	}
+}

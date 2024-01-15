@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "electrike"}, "generation": "hoenn", "id": 309, "names": {"ja": "ライボルト", "ko": "썬더볼트", "fr": "Élecsprint", "de": "Voltenso", "es": "Manectric", "it": "Manectric", "en": "Manectric"}, "descriptions": {"en": "It rarely appears before people. It is said to nest where lightning has fallen.", "it": "Raramente si mostra agli umani. Si dice che viva nelle zone dove è caduto un fulmine.", "es": "Rara vez aparece ante la gente. Dicen que suele colocar su madriguera donde caen rayos.", "de": "Es zeigt sich selten den Menschen. Man sagt, dass es sein Nest an Orten baut, wo ein Blitz eingeschlagen hat.", "fr": "Ce Pokémon évite de se montrer aux humains. On raconte qu’il fait son nid aux endroits où la foudre s’est abattue.", "ko": "좀처럼 사람 앞에 모습을 드러내지 않는다. 번개가 떨어진 곳에 보금자리가 있다고 한다.", "ja": "ひとまえには　めったに　すがたを みせない。　かみなりの　おちた ばしょに　すみかが　あると　いう。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "electrike" },
+	"generation": "hoenn",
+	"id": 309,
+	"names": {
+		"ja": "ライボルト",
+		"ko": "썬더볼트",
+		"fr": "Élecsprint",
+		"de": "Voltenso",
+		"es": "Manectric",
+		"it": "Manectric",
+		"en": "Manectric"
+	},
+	"descriptions": {
+		"en": "It rarely appears before people. It is said to nest where lightning has fallen.",
+		"it": "Raramente si mostra agli umani. Si dice che viva nelle zone dove è caduto un fulmine.",
+		"es": "Rara vez aparece ante la gente. Dicen que suele colocar su madriguera donde caen rayos.",
+		"de": "Es zeigt sich selten den Menschen. Man sagt, dass es sein Nest an Orten baut, wo ein Blitz eingeschlagen hat.",
+		"fr": "Ce Pokémon évite de se montrer aux humains. On raconte qu’il fait son nid aux endroits où la foudre s’est abattue.",
+		"ko": "좀처럼 사람 앞에 모습을 드러내지 않는다. 번개가 떨어진 곳에 보금자리가 있다고 한다.",
+		"ja": "ひとまえには　めったに　すがたを みせない。　かみなりの　おちた ばしょに　すみかが　あると　いう。"
+	}
+}

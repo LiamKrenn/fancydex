@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "unova", "id": 509, "names": {"ja": "チョロネコ", "ko": "쌔비냥", "fr": "Chacripan", "de": "Felilou", "es": "Purrloin", "it": "Purrloin", "en": "Purrloin"}, "descriptions": {"en": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.", "it": "Lascia avvicinare il nemico distraendolo con pose ammalianti, e poi all’improvviso lo graffia ridendo.", "es": "Una vez que ha logrado distraer al rival mediante sus gestos adorables, lo araña de improviso con las garras mientras muestra un semblante risueño.", "de": "Es wiegt andere durch liebenswertes Verhalten in Sicherheit, kratzt sie dann plötzlich und amüsiert sich prächtig darüber.", "fr": "Malheur à qui se laisse berner par ses gestes adorables : une fois les gens à sa portée, il les griffe sans crier gare, en ricanant.", "ko": "귀여운 동작으로 방심시키고 상대가 다가오면 갑자기 발톱으로 할퀴고는 웃는다.", "ja": "あいくるしい　しぐさで　ゆだんさせ よってきた　あいてを　いきなり ツメで　ひっかいて　わらっている。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 509,
+	"names": {
+		"ja": "チョロネコ",
+		"ko": "쌔비냥",
+		"fr": "Chacripan",
+		"de": "Felilou",
+		"es": "Purrloin",
+		"it": "Purrloin",
+		"en": "Purrloin"
+	},
+	"descriptions": {
+		"en": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+		"it": "Lascia avvicinare il nemico distraendolo con pose ammalianti, e poi all’improvviso lo graffia ridendo.",
+		"es": "Una vez que ha logrado distraer al rival mediante sus gestos adorables, lo araña de improviso con las garras mientras muestra un semblante risueño.",
+		"de": "Es wiegt andere durch liebenswertes Verhalten in Sicherheit, kratzt sie dann plötzlich und amüsiert sich prächtig darüber.",
+		"fr": "Malheur à qui se laisse berner par ses gestes adorables : une fois les gens à sa portée, il les griffe sans crier gare, en ricanant.",
+		"ko": "귀여운 동작으로 방심시키고 상대가 다가오면 갑자기 발톱으로 할퀴고는 웃는다.",
+		"ja": "あいくるしい　しぐさで　ゆだんさせ よってきた　あいてを　いきなり ツメで　ひっかいて　わらっている。"
+	}
+}

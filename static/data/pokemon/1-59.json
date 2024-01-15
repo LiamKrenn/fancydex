@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "growlithe"}, "generation": "kanto", "id": 58, "names": {"ja": "ウインディ", "ko": "윈디", "fr": "Arcanin", "de": "Arkani", "es": "Arcanine", "it": "Arcanine", "en": "Arcanine"}, "descriptions": {"en": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.", "it": "Da sempre ammirato per la sua bellezza, corre veloce come se avesse le ali.", "es": "Muchos han quedado cautivados por su belleza desde la antigüedad. Corre ágilmente como si tuviera alas.", "de": "Dieses Pokémon verzaubert die Menschen seit Urzeiten mit seiner Schönheit. Obendrein ist es schnell und sehr wendig.", "fr": "Ce Pokémon est admiré depuis toujours pour sa beauté. Il court avec tellement de légèreté qu’on dirait qu’il vole.", "ko": "옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 마치 나는 것처럼 경쾌하게 달린다.", "ja": "むかしから　おおくの　ひとを とりこにした　うつくしい　ポケモン。 とぶように　かろやかに　はしる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "growlithe" },
+	"generation": "kanto",
+	"id": 58,
+	"names": {
+		"ja": "ウインディ",
+		"ko": "윈디",
+		"fr": "Arcanin",
+		"de": "Arkani",
+		"es": "Arcanine",
+		"it": "Arcanine",
+		"en": "Arcanine"
+	},
+	"descriptions": {
+		"en": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.",
+		"it": "Da sempre ammirato per la sua bellezza, corre veloce come se avesse le ali.",
+		"es": "Muchos han quedado cautivados por su belleza desde la antigüedad. Corre ágilmente como si tuviera alas.",
+		"de": "Dieses Pokémon verzaubert die Menschen seit Urzeiten mit seiner Schönheit. Obendrein ist es schnell und sehr wendig.",
+		"fr": "Ce Pokémon est admiré depuis toujours pour sa beauté. Il court avec tellement de légèreté qu’on dirait qu’il vole.",
+		"ko": "옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 마치 나는 것처럼 경쾌하게 달린다.",
+		"ja": "むかしから　おおくの　ひとを とりこにした　うつくしい　ポケモン。 とぶように　かろやかに　はしる。"
+	}
+}

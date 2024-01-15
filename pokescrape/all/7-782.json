@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "alola", "id": 782, "names": {"ja": "ジャラコ", "ko": "짜랑꼬", "fr": "Bébécaille", "de": "Miniras", "es": "Jangmo-o", "it": "Jangmo-o", "en": "Jangmo-o"}, "descriptions": {"en": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal.", "it": "Comunica con i suoi simili scuotendo le squame dure come il metallo.", "es": "Se comunica con sus congéneres mediante los sonidos que produce al golpear sus escamas, duras como el acero.", "de": "Es kommuniziert mit Artgenossen, indem es mit seinen Schuppen rasselt, die aus erhärtetem Fell bestehen und eine metallartige Konsistenz haben.", "fr": "Il communique avec ses congénères en faisant cliqueter ses écailles dures comme du métal.", "ko": "털이 금속처럼 단단해져서 생긴 비늘을 부딪쳐서 소리를 내고 동료와 소통한다.", "ja": "たいもうが　きんぞくのように　かたく なった　ウロコを　うちならして なかまと　コミュニケーションする。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 782,
+	"names": {
+		"ja": "ジャラコ",
+		"ko": "짜랑꼬",
+		"fr": "Bébécaille",
+		"de": "Miniras",
+		"es": "Jangmo-o",
+		"it": "Jangmo-o",
+		"en": "Jangmo-o"
+	},
+	"descriptions": {
+		"en": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal.",
+		"it": "Comunica con i suoi simili scuotendo le squame dure come il metallo.",
+		"es": "Se comunica con sus congéneres mediante los sonidos que produce al golpear sus escamas, duras como el acero.",
+		"de": "Es kommuniziert mit Artgenossen, indem es mit seinen Schuppen rasselt, die aus erhärtetem Fell bestehen und eine metallartige Konsistenz haben.",
+		"fr": "Il communique avec ses congénères en faisant cliqueter ses écailles dures comme du métal.",
+		"ko": "털이 금속처럼 단단해져서 생긴 비늘을 부딪쳐서 소리를 내고 동료와 소통한다.",
+		"ja": "たいもうが　きんぞくのように　かたく なった　ウロコを　うちならして なかまと　コミュニケーションする。"
+	}
+}

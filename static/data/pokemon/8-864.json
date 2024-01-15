@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "corsola"}, "generation": "galar", "id": 222, "names": {"ja": "サニゴーン", "ko": "산호르곤", "fr": "Corayôme", "de": "Gorgasonn", "es": "Cursola", "it": "Cursola", "en": "Cursola"}, "descriptions": {"en": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.", "it": "Il corpo di ectoplasma che avvolge la sua anima è pericolosissimo: chi lo tocca si immobilizza come se fosse stato tramutato in pietra.", "es": "Conviene tener cuidado con el cuerpo espectral que recubre su alma, pues quien lo toque podría acabar inerte como una piedra.", "de": "Vor dem geisterhaften Ektoplasma, das seine Seele umhüllt, ist Vorsicht geboten. Berührt man es, erstarrt man wie zu Stein.", "fr": "Ceux qui ont le malheur de toucher le corps spirituel qui protège son noyau se retrouveront immobilisés, comme changés en pierre.", "ko": "혼을 감싸는 영체의 몸은 주의가 필요하다. 만지면 돌처럼 움직일 수 없게 된다.", "ja": "たましいを　おおう　れいたいの からだには　ちゅうい。　ふれると いしのように　うごけなく　なるぞ。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "corsola" },
+	"generation": "galar",
+	"id": 222,
+	"names": {
+		"ja": "サニゴーン",
+		"ko": "산호르곤",
+		"fr": "Corayôme",
+		"de": "Gorgasonn",
+		"es": "Cursola",
+		"it": "Cursola",
+		"en": "Cursola"
+	},
+	"descriptions": {
+		"en": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
+		"it": "Il corpo di ectoplasma che avvolge la sua anima è pericolosissimo: chi lo tocca si immobilizza come se fosse stato tramutato in pietra.",
+		"es": "Conviene tener cuidado con el cuerpo espectral que recubre su alma, pues quien lo toque podría acabar inerte como una piedra.",
+		"de": "Vor dem geisterhaften Ektoplasma, das seine Seele umhüllt, ist Vorsicht geboten. Berührt man es, erstarrt man wie zu Stein.",
+		"fr": "Ceux qui ont le malheur de toucher le corps spirituel qui protège son noyau se retrouveront immobilisés, comme changés en pierre.",
+		"ko": "혼을 감싸는 영체의 몸은 주의가 필요하다. 만지면 돌처럼 움직일 수 없게 된다.",
+		"ja": "たましいを　おおう　れいたいの からだには　ちゅうい。　ふれると いしのように　うごけなく　なるぞ。"
+	}
+}

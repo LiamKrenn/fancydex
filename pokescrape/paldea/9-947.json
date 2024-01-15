@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "bramblin" },
+	"generation": "paldea",
+	"id": 946,
+	"names": {
+		"ja": "アノホラグサ",
+		"ko": "공푸리",
+		"fr": "Virevorreur",
+		"de": "Horrerba",
+		"es": "Brambleghast",
+		"it": "Brambleghast",
+		"en": "Brambleghast"
+	},
+	"descriptions": {
+		"en": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+	}
+}

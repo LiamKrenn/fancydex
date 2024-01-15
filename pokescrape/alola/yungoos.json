@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "alola", "id": 734, "names": {"ja": "ヤングース", "ko": "영구스", "fr": "Manglouton", "de": "Mangunior", "es": "Yungoos", "it": "Yungoos", "en": "Yungoos"}, "descriptions": {"en": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.", "it": "Gli Yungoos mangiano di tutto ma preferiscono cibo fresco o prede vive. Si vedono spesso sfilare lungo le strade alla ricerca di cibo.", "es": "Pese a ser omnívoro, siente predilección por los alimentos frescos o incluso seres vivos. Por eso marcha por los caminos en busca de presas.", "de": "Es ist zwar ein Allesfresser, bevorzugt aber frische oder lebendige Nahrung. Auf der Suche nach Beute marschiert es die Straßen entlang.", "fr": "Il mange de tout, mais aime particulièrement les proies fraîches, voire encore vives. Il erre sur les routes à leur recherche.", "ja": "なんでも　たべるが　しんせんで いきているものが　いいので　えものを さがして　みちを　ねりあるく。", "ko": "긴 몸통은 거의 위장으로 이루어져 있다. 대식가여서 식비를 무시할 수 없다."}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 734,
+	"names": {
+		"ja": "ヤングース",
+		"ko": "영구스",
+		"fr": "Manglouton",
+		"de": "Mangunior",
+		"es": "Yungoos",
+		"it": "Yungoos",
+		"en": "Yungoos"
+	},
+	"descriptions": {
+		"en": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+		"it": "Gli Yungoos mangiano di tutto ma preferiscono cibo fresco o prede vive. Si vedono spesso sfilare lungo le strade alla ricerca di cibo.",
+		"es": "Pese a ser omnívoro, siente predilección por los alimentos frescos o incluso seres vivos. Por eso marcha por los caminos en busca de presas.",
+		"de": "Es ist zwar ein Allesfresser, bevorzugt aber frische oder lebendige Nahrung. Auf der Suche nach Beute marschiert es die Straßen entlang.",
+		"fr": "Il mange de tout, mais aime particulièrement les proies fraîches, voire encore vives. Il erre sur les routes à leur recherche.",
+		"ja": "なんでも　たべるが　しんせんで いきているものが　いいので　えものを さがして　みちを　ねりあるく。",
+		"ko": "긴 몸통은 거의 위장으로 이루어져 있다. 대식가여서 식비를 무시할 수 없다."
+	}
+}

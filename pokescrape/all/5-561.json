@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "unova", "id": 561, "names": {"ja": "シンボラー", "ko": "심보러", "fr": "Cryptéro", "de": "Symvolara", "es": "Sigilyph", "it": "Sigilyph", "en": "Sigilyph"}, "descriptions": {"en": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.", "it": "Nella zona desertica sorvolata da questi Pokémon sono stati disseppelliti i resti di un’antica città.", "es": "Explorando la zona desértica que sobrevuela, se han descubierto los vestigios de lo que parece ser una antigua ciudad.", "de": "In den Wüsten, in denen man Symvolara fliegen sieht, wurden Ruinen gefunden, die man für die Überreste einer Stadt aus uralten Zeiten hält.", "fr": "En fouillant sous le sable du désert survolé par Cryptéro, on a retrouvé les vestiges de ce que l’on croit être une ville antique.", "ko": "심보러가 나는 사막 아래를 조사해 보니 고대 도시로 여겨지는 자취가 발견되었다.", "ja": "シンボラーが　とぶ　さばくのしたを ちょうさすると　こだいの　としと おもわれる　なごりが　みつかった。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 561,
+	"names": {
+		"ja": "シンボラー",
+		"ko": "심보러",
+		"fr": "Cryptéro",
+		"de": "Symvolara",
+		"es": "Sigilyph",
+		"it": "Sigilyph",
+		"en": "Sigilyph"
+	},
+	"descriptions": {
+		"en": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
+		"it": "Nella zona desertica sorvolata da questi Pokémon sono stati disseppelliti i resti di un’antica città.",
+		"es": "Explorando la zona desértica que sobrevuela, se han descubierto los vestigios de lo que parece ser una antigua ciudad.",
+		"de": "In den Wüsten, in denen man Symvolara fliegen sieht, wurden Ruinen gefunden, die man für die Überreste einer Stadt aus uralten Zeiten hält.",
+		"fr": "En fouillant sous le sable du désert survolé par Cryptéro, on a retrouvé les vestiges de ce que l’on croit être une ville antique.",
+		"ko": "심보러가 나는 사막 아래를 조사해 보니 고대 도시로 여겨지는 자취가 발견되었다.",
+		"ja": "シンボラーが　とぶ　さばくのしたを ちょうさすると　こだいの　としと おもわれる　なごりが　みつかった。"
+	}
+}

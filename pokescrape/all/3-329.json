@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "trapinch"}, "generation": "hoenn", "id": 328, "names": {"ja": "ビブラーバ", "ko": "비브라바", "fr": "Vibraninf", "de": "Vibrava", "es": "Vibrava", "it": "Vibrava", "en": "Vibrava"}, "descriptions": {"en": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.", "it": "Per far sviluppare le ali, si nutre ogni giorno di una grande quantità di prede, che succhia dopo averle sciolte con il proprio acido.", "es": "Para terminar de desarrollar sus alas, se nutre a diario de un gran número de presas, a las que disuelve con ácido antes de devorarlas.", "de": "Um das Wachstum seiner Flügel zu fördern, schlürft es täglich große Mengen an Beute, die es zuvor in Magensäure aufgelöst hat.", "fr": "Pour aider ses ailes à pousser, il se nourrit chaque jour d’un grand nombre de proies qu’il dissout en projetant de l’acide.", "ko": "날개를 성장시키기 위해 매일 대량의 먹잇감을 소화액으로 녹여 마신다.", "ja": "ハネを　せいちょう　させるために まいにち　たいりょうの　えものを しょうかえきで　とかして　すする。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "trapinch" },
+	"generation": "hoenn",
+	"id": 328,
+	"names": {
+		"ja": "ビブラーバ",
+		"ko": "비브라바",
+		"fr": "Vibraninf",
+		"de": "Vibrava",
+		"es": "Vibrava",
+		"it": "Vibrava",
+		"en": "Vibrava"
+	},
+	"descriptions": {
+		"en": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+		"it": "Per far sviluppare le ali, si nutre ogni giorno di una grande quantità di prede, che succhia dopo averle sciolte con il proprio acido.",
+		"es": "Para terminar de desarrollar sus alas, se nutre a diario de un gran número de presas, a las que disuelve con ácido antes de devorarlas.",
+		"de": "Um das Wachstum seiner Flügel zu fördern, schlürft es täglich große Mengen an Beute, die es zuvor in Magensäure aufgelöst hat.",
+		"fr": "Pour aider ses ailes à pousser, il se nourrit chaque jour d’un grand nombre de proies qu’il dissout en projetant de l’acide.",
+		"ko": "날개를 성장시키기 위해 매일 대량의 먹잇감을 소화액으로 녹여 마신다.",
+		"ja": "ハネを　せいちょう　させるために まいにち　たいりょうの　えものを しょうかえきで　とかして　すする。"
+	}
+}

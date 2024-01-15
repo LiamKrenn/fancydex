@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "unova", "id": 595, "names": {"ja": "バチュル", "ko": "파쪼옥", "fr": "Statitik", "de": "Wattzapf", "es": "Joltik", "it": "Joltik", "en": "Joltik"}, "descriptions": {"en": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.", "it": "Si attacca ad altri Pokémon per assorbirne l’energia elettrostatica. Non è raro trovarne uno sul posteriore di Yamper.", "es": "Se agarra a otros Pokémon para absorber su electricidad estática. Es muy común verlo aferrado a las posaderas de un Yamper.", "de": "Es heftet sich an andere Pokémon und saugt ihnen statische Elektrizität aus. Häufig wird es an Hinterteilen von Voldi gesichtet.", "fr": "Il s’accroche aux autres Pokémon pour aspirer leur électricité statique. On en trouve souvent collés au postérieur de Voltoutou.", "ko": "다른 포켓몬에게 달라붙어 정전기를 빨아들인다. 멍파치의 엉덩이에 자주 달라붙어 있다.", "ja": "ほかの　ポケモンに　とりついて せいでんきを　すいとる。　ワンパチの おしりに　よく　くっついている。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 595,
+	"names": {
+		"ja": "バチュル",
+		"ko": "파쪼옥",
+		"fr": "Statitik",
+		"de": "Wattzapf",
+		"es": "Joltik",
+		"it": "Joltik",
+		"en": "Joltik"
+	},
+	"descriptions": {
+		"en": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
+		"it": "Si attacca ad altri Pokémon per assorbirne l’energia elettrostatica. Non è raro trovarne uno sul posteriore di Yamper.",
+		"es": "Se agarra a otros Pokémon para absorber su electricidad estática. Es muy común verlo aferrado a las posaderas de un Yamper.",
+		"de": "Es heftet sich an andere Pokémon und saugt ihnen statische Elektrizität aus. Häufig wird es an Hinterteilen von Voldi gesichtet.",
+		"fr": "Il s’accroche aux autres Pokémon pour aspirer leur électricité statique. On en trouve souvent collés au postérieur de Voltoutou.",
+		"ko": "다른 포켓몬에게 달라붙어 정전기를 빨아들인다. 멍파치의 엉덩이에 자주 달라붙어 있다.",
+		"ja": "ほかの　ポケモンに　とりついて せいでんきを　すいとる。　ワンパチの おしりに　よく　くっついている。"
+	}
+}

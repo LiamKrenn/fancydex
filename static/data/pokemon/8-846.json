@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "galar", "id": 846, "names": {"ja": "サシカマス", "ko": "찌로꼬치", "fr": "Embrochet", "de": "Pikuda", "es": "Arrokuda", "it": "Arrokuda", "en": "Arrokuda"}, "descriptions": {"en": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.", "it": "Quando ha la pancia piena i suoi movimenti si fanno estremamente lenti e rischia di finire inghiottito da un Cramorant.", "es": "Cuando tiene el estómago lleno, le cuesta moverse y corre el riesgo de ser engullido por algún Cramorant.", "de": "Seine Bewegungsfreiheit ist stark eingeschränkt, wenn es vollgefressen ist. So wird es zu leichter Beute für Urgl, das es im Ganzen verschlingt.", "fr": "Lorsqu’il a le ventre plein, il a beaucoup plus de mal à se déplacer, et c’est à ce moment précis qu’il se fait gober par les Nigosier.", "ko": "배가 불러서 현저히 움직임이 둔해지면 윽우지가 통째로 삼켜버린다.", "ja": "はらいっぱいで　きょくたんに うごきが　にぶった　ところを ウッウに　まるのみに　される。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 846,
+	"names": {
+		"ja": "サシカマス",
+		"ko": "찌로꼬치",
+		"fr": "Embrochet",
+		"de": "Pikuda",
+		"es": "Arrokuda",
+		"it": "Arrokuda",
+		"en": "Arrokuda"
+	},
+	"descriptions": {
+		"en": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.",
+		"it": "Quando ha la pancia piena i suoi movimenti si fanno estremamente lenti e rischia di finire inghiottito da un Cramorant.",
+		"es": "Cuando tiene el estómago lleno, le cuesta moverse y corre el riesgo de ser engullido por algún Cramorant.",
+		"de": "Seine Bewegungsfreiheit ist stark eingeschränkt, wenn es vollgefressen ist. So wird es zu leichter Beute für Urgl, das es im Ganzen verschlingt.",
+		"fr": "Lorsqu’il a le ventre plein, il a beaucoup plus de mal à se déplacer, et c’est à ce moment précis qu’il se fait gober par les Nigosier.",
+		"ko": "배가 불러서 현저히 움직임이 둔해지면 윽우지가 통째로 삼켜버린다.",
+		"ja": "はらいっぱいで　きょくたんに うごきが　にぶった　ところを ウッウに　まるのみに　される。"
+	}
+}

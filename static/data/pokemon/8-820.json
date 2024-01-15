@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "skwovet"}, "generation": "galar", "id": 819, "names": {"ja": "ヨクバリス", "ko": "요씽리스", "fr": "Rongrigou", "de": "Schlaraffel", "es": "Greedent", "it": "Greedent", "en": "Greedent"}, "descriptions": {"en": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.", "it": "Un Pokémon che si incontra spesso a Galar. Ha denti eccezionali, con i quali rosicchia anche le bacche più dure.", "de": "Diesem Pokémon begegnet man häufig in Galar. Es ist sehr stolz auf seine Zähne, mit denen es jede noch so harte Beerenschale knacken kann.", "fr": "On rencontre souvent ce Pokémon à Galar. Aucune coquille de Baie ne résiste à ses incisives, dont il est très fier.", "ko": "아무리 단단한 나무열매 껍질도 이빨로 아작아작 갉아 먹는다. 가라르에서 쉽게 볼 수 있는 포켓몬이다.", "ja": "どんなに　かたい　きのみの　からも じまんの　はで　ボリボリ　かじる。 ガラルでは　よく　みる　ポケモン。", "es": "Se obceca tanto en acumular bayas en la cola que no se da ni cuenta de cuando tiene demasiadas y se le acaban cayendo."}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "skwovet" },
+	"generation": "galar",
+	"id": 819,
+	"names": {
+		"ja": "ヨクバリス",
+		"ko": "요씽리스",
+		"fr": "Rongrigou",
+		"de": "Schlaraffel",
+		"es": "Greedent",
+		"it": "Greedent",
+		"en": "Greedent"
+	},
+	"descriptions": {
+		"en": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
+		"it": "Un Pokémon che si incontra spesso a Galar. Ha denti eccezionali, con i quali rosicchia anche le bacche più dure.",
+		"de": "Diesem Pokémon begegnet man häufig in Galar. Es ist sehr stolz auf seine Zähne, mit denen es jede noch so harte Beerenschale knacken kann.",
+		"fr": "On rencontre souvent ce Pokémon à Galar. Aucune coquille de Baie ne résiste à ses incisives, dont il est très fier.",
+		"ko": "아무리 단단한 나무열매 껍질도 이빨로 아작아작 갉아 먹는다. 가라르에서 쉽게 볼 수 있는 포켓몬이다.",
+		"ja": "どんなに　かたい　きのみの　からも じまんの　はで　ボリボリ　かじる。 ガラルでは　よく　みる　ポケモン。",
+		"es": "Se obceca tanto en acumular bayas en la cola que no se da ni cuenta de cuando tiene demasiadas y se le acaban cayendo."
+	}
+}

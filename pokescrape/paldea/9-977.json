@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 977,
+	"names": {
+		"ja": "ヘイラッシャ",
+		"ko": "어써러셔",
+		"fr": "Oyacata",
+		"de": "Heerashai",
+		"es": "Dondozo",
+		"it": "Dondozo",
+		"en": "Dondozo"
+	},
+	"descriptions": {
+		"en": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+	}
+}

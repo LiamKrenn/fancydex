@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "staravia"}, "generation": "sinnoh", "id": 397, "names": {"ja": "ムクホーク", "ko": "찌르호크", "fr": "Étouraptor", "de": "Staraptor", "es": "Staraptor", "it": "Staraptor", "en": "Staraptor"}, "descriptions": {"en": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.", "it": "Per diventare Staraptor, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.", "es": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.", "de": "Wird Staravia zu Staraptor, verlässt es die Gruppe und lebt allein. Seine Spannweite ist gigantisch.", "fr": "Lorsque Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très développées.", "ko": "찌르호크가 되면 무리에서 떨어져 혼자서 살아간다. 강인한 날개를 가지고 있다.", "ja": "ムクホークに　なると　むれから はなれて　１ぴきで　いきていく。 きょうじんな　つばさを　もっている。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "staravia" },
+	"generation": "sinnoh",
+	"id": 397,
+	"names": {
+		"ja": "ムクホーク",
+		"ko": "찌르호크",
+		"fr": "Étouraptor",
+		"de": "Staraptor",
+		"es": "Staraptor",
+		"it": "Staraptor",
+		"en": "Staraptor"
+	},
+	"descriptions": {
+		"en": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.",
+		"it": "Per diventare Staraptor, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.",
+		"es": "Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.",
+		"de": "Wird Staravia zu Staraptor, verlässt es die Gruppe und lebt allein. Seine Spannweite ist gigantisch.",
+		"fr": "Lorsque Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très développées.",
+		"ko": "찌르호크가 되면 무리에서 떨어져 혼자서 살아간다. 강인한 날개를 가지고 있다.",
+		"ja": "ムクホークに　なると　むれから はなれて　１ぴきで　いきていく。 きょうじんな　つばさを　もっている。"
+	}
+}

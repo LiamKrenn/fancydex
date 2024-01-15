@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "greavard" },
+	"generation": "paldea",
+	"id": 971,
+	"names": {
+		"ja": "ハカドッグ",
+		"ko": "묘두기",
+		"fr": "Tomberro",
+		"de": "Friedwuff",
+		"es": "Houndstone",
+		"it": "Houndstone",
+		"en": "Houndstone"
+	},
+	"descriptions": {
+		"en": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+	}
+}

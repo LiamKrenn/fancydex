@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "helioptile"}, "generation": "kalos", "id": 694, "names": {"ja": "エレザード", "ko": "일레도리자드", "fr": "Iguolta", "de": "Elezard", "es": "Heliolisk", "it": "Heliolisk", "en": "Heliolisk"}, "descriptions": {"en": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.", "it": "L’energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli.", "es": "Al extender su gorguera y exponerse a la luz solar, genera la energía eléctrica suficiente para cubrir el consumo de una metrópoli entera.", "de": "Stellt es seine kragenartigen Hautlappen auf und absorbiert damit Sonnenlicht, kann ein Elezard genug Strom für eine Großstadt produzieren.", "fr": "Lorsqu’il déploie sa collerette pour emmagasiner la lumière du soleil, il génère à lui seul assez d’électricité pour alimenter une grande ville.", "ko": "깃을 펼쳐 태양광을 받으면 대도시에서 사용할 수 있는 전기를 혼자서 발전한다.", "ja": "えりまきを　ひろげて　たいようこうを あびると　だいとかいで　つかわれる でんきを　１ぴきで　はつでんする。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "helioptile" },
+	"generation": "kalos",
+	"id": 694,
+	"names": {
+		"ja": "エレザード",
+		"ko": "일레도리자드",
+		"fr": "Iguolta",
+		"de": "Elezard",
+		"es": "Heliolisk",
+		"it": "Heliolisk",
+		"en": "Heliolisk"
+	},
+	"descriptions": {
+		"en": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+		"it": "L’energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli.",
+		"es": "Al extender su gorguera y exponerse a la luz solar, genera la energía eléctrica suficiente para cubrir el consumo de una metrópoli entera.",
+		"de": "Stellt es seine kragenartigen Hautlappen auf und absorbiert damit Sonnenlicht, kann ein Elezard genug Strom für eine Großstadt produzieren.",
+		"fr": "Lorsqu’il déploie sa collerette pour emmagasiner la lumière du soleil, il génère à lui seul assez d’électricité pour alimenter une grande ville.",
+		"ko": "깃을 펼쳐 태양광을 받으면 대도시에서 사용할 수 있는 전기를 혼자서 발전한다.",
+		"ja": "えりまきを　ひろげて　たいようこうを あびると　だいとかいで　つかわれる でんきを　１ぴきで　はつでんする。"
+	}
+}

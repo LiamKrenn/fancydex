@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "smoliv" },
+	"generation": "paldea",
+	"id": 928,
+	"names": {
+		"ja": "オリーニョ",
+		"ko": "올리뇨",
+		"fr": "Olivado",
+		"de": "Olivinio",
+		"es": "Dolliv",
+		"it": "Dolliv",
+		"en": "Dolliv"
+	},
+	"descriptions": {
+		"en": "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "sizzlipede"}, "generation": "galar", "id": 850, "names": {"ja": "マルヤクデ", "ko": "다태우지네", "fr": "Scolocendre", "de": "Infernopod", "es": "Centiskorch", "it": "Centiskorch", "en": "Centiskorch"}, "descriptions": {"en": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.", "it": "Ha una natura aggressiva. Il suo corpo incandescente lo rende molto pericoloso, così come le sue lunghe zanne appuntite.", "es": "Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.", "de": "Es ist angriffslustig veranlagt. Sein entflammter Körper und sein großes, scharfes Mundwerkzeug stellen eine enorme Gefahr dar.", "fr": "Il est de nature agressive. Non seulement son corps brûlant est dangereux, mais il possède en plus d’énormes crocs très pointus.", "ko": "공격적인 성질을 가졌다. 탄 몸도 위험하지만 큰 이빨도 날카롭다.", "ja": "こうげきてきな　せいしつ。 やけた　からだも　きけんだが おおきな　キバも　するどいぞ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "sizzlipede" },
+	"generation": "galar",
+	"id": 850,
+	"names": {
+		"ja": "マルヤクデ",
+		"ko": "다태우지네",
+		"fr": "Scolocendre",
+		"de": "Infernopod",
+		"es": "Centiskorch",
+		"it": "Centiskorch",
+		"en": "Centiskorch"
+	},
+	"descriptions": {
+		"en": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
+		"it": "Ha una natura aggressiva. Il suo corpo incandescente lo rende molto pericoloso, così come le sue lunghe zanne appuntite.",
+		"es": "Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.",
+		"de": "Es ist angriffslustig veranlagt. Sein entflammter Körper und sein großes, scharfes Mundwerkzeug stellen eine enorme Gefahr dar.",
+		"fr": "Il est de nature agressive. Non seulement son corps brûlant est dangereux, mais il possède en plus d’énormes crocs très pointus.",
+		"ko": "공격적인 성질을 가졌다. 탄 몸도 위험하지만 큰 이빨도 날카롭다.",
+		"ja": "こうげきてきな　せいしつ。 やけた　からだも　きけんだが おおきな　キバも　するどいぞ。"
+	}
+}

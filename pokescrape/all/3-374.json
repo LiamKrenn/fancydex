@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "hoenn", "id": 374, "names": {"ja": "ダンバル", "ko": "메탕", "fr": "Terhal", "de": "Tanhel", "es": "Beldum", "it": "Beldum", "en": "Beldum"}, "descriptions": {"en": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.", "it": "Nel suo corpo, le cui cellule sono composte da calamite, scorre forza magnetica al posto del sangue.", "es": "Las células de su cuerpo están hechas de imanes. En lugar de sangre, una fuerza magnética recorre su cuerpo.", "de": "Die Zellen seines Körpers bestehen aus Magneten. Anstelle von Blut fließt magnetische Energie durch Tanhel.", "fr": "Les cellules de son corps sont composées d’aimants. Une force magnétique coule dans ses veines à la place du sang.", "ko": "몸의 세포가 자석으로 되어 있다. 혈액 대신에 자력이 온몸에 흐른다.", "ja": "からだの　さいぼうは　じしゃくで できている。　けつえきの　かわりに じりょくが　ぜんしんを　めぐる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 374,
+	"names": {
+		"ja": "ダンバル",
+		"ko": "메탕",
+		"fr": "Terhal",
+		"de": "Tanhel",
+		"es": "Beldum",
+		"it": "Beldum",
+		"en": "Beldum"
+	},
+	"descriptions": {
+		"en": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.",
+		"it": "Nel suo corpo, le cui cellule sono composte da calamite, scorre forza magnetica al posto del sangue.",
+		"es": "Las células de su cuerpo están hechas de imanes. En lugar de sangre, una fuerza magnética recorre su cuerpo.",
+		"de": "Die Zellen seines Körpers bestehen aus Magneten. Anstelle von Blut fließt magnetische Energie durch Tanhel.",
+		"fr": "Les cellules de son corps sont composées d’aimants. Une force magnétique coule dans ses veines à la place du sang.",
+		"ko": "몸의 세포가 자석으로 되어 있다. 혈액 대신에 자력이 온몸에 흐른다.",
+		"ja": "からだの　さいぼうは　じしゃくで できている。　けつえきの　かわりに じりょくが　ぜんしんを　めぐる。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "charcadet" },
+	"generation": "paldea",
+	"id": 935,
+	"names": {
+		"ja": "グレンアルマ",
+		"ko": "카디나르마",
+		"fr": "Carmadura",
+		"de": "Crimanzo",
+		"es": "Armarouge",
+		"it": "Armarouge",
+		"en": "Armarouge"
+	},
+	"descriptions": {
+		"en": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+	}
+}

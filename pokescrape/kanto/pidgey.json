@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 16, "names": {"ja": "ポッポ", "ko": "구구", "fr": "Roucool", "de": "Taubsi", "es": "Pidgey", "it": "Pidgey", "en": "Pidgey"}, "descriptions": {"en": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.", "it": "Di indole docile, preferisce gettare sabbia verso il nemico per proteggersi piuttosto che attaccarlo.", "es": "Su docilidad es tal que suelen defenderse levantando arena en lugar de contraatacar.", "de": "Ein sanftmütiges Pokémon, welches lieber Sand zum Schutz aufwirbelt, als zurückzuschlagen.", "fr": "De nature très docile, il préfère projeter du sable pour se défendre plutôt que contre-attaquer.", "ko": "얌전한 성격이라 습격당해도 반격하지 않고 모래를 뿌려서 몸을 지키는 경우가 많다.", "ja": "おとなしい　せいかくで　おそわれても はんげき　せずに　すなを　かけて みを　まもることが　おおい。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 16,
+	"names": {
+		"ja": "ポッポ",
+		"ko": "구구",
+		"fr": "Roucool",
+		"de": "Taubsi",
+		"es": "Pidgey",
+		"it": "Pidgey",
+		"en": "Pidgey"
+	},
+	"descriptions": {
+		"en": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+		"it": "Di indole docile, preferisce gettare sabbia verso il nemico per proteggersi piuttosto che attaccarlo.",
+		"es": "Su docilidad es tal que suelen defenderse levantando arena en lugar de contraatacar.",
+		"de": "Ein sanftmütiges Pokémon, welches lieber Sand zum Schutz aufwirbelt, als zurückzuschlagen.",
+		"fr": "De nature très docile, il préfère projeter du sable pour se défendre plutôt que contre-attaquer.",
+		"ko": "얌전한 성격이라 습격당해도 반격하지 않고 모래를 뿌려서 몸을 지키는 경우가 많다.",
+		"ja": "おとなしい　せいかくで　おそわれても はんげき　せずに　すなを　かけて みを　まもることが　おおい。"
+	}
+}

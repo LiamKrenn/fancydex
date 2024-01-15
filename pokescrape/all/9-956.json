@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "flittle" },
+	"generation": "paldea",
+	"id": 955,
+	"names": {
+		"ja": "クエスパトラ",
+		"ko": "클레스퍼트라",
+		"fr": "Cléopsytra",
+		"de": "Psiopatra",
+		"es": "Espathra",
+		"it": "Espathra",
+		"en": "Espathra"
+	},
+	"descriptions": {
+		"en": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+	}
+}

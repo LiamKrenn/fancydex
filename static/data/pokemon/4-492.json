@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 492, "names": {"ja": "シェイミ", "ko": "쉐이미", "fr": "Shaymin", "de": "Shaymin", "es": "Shaymin", "it": "Shaymin", "en": "Shaymin"}, "descriptions": {"en": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.", "it": "Si narra che Shaymin si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.", "es": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.", "de": "Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt.", "fr": "Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.", "ko": "그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.", "ja": "グラシデアのはなが　さく　きせつ かんしゃの　こころを　とどけるために とびたつと　いわれている。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 492,
+	"names": {
+		"ja": "シェイミ",
+		"ko": "쉐이미",
+		"fr": "Shaymin",
+		"de": "Shaymin",
+		"es": "Shaymin",
+		"it": "Shaymin",
+		"en": "Shaymin"
+	},
+	"descriptions": {
+		"en": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.",
+		"it": "Si narra che Shaymin si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.",
+		"es": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.",
+		"de": "Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt.",
+		"fr": "Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.",
+		"ko": "그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.",
+		"ja": "グラシデアのはなが　さく　きせつ かんしゃの　こころを　とどけるために とびたつと　いわれている。"
+	}
+}

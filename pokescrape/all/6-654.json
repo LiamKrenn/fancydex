@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "fennekin"}, "generation": "kalos", "id": 653, "names": {"ja": "テールナー", "ko": "테르나", "fr": "Roussil", "de": "Rutena", "es": "Braixen", "it": "Braixen", "en": "Braixen"}, "descriptions": {"en": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.", "it": "Incendia il rametto che ha nella coda semplicemente estraendolo, grazie alla frizione del pelo. Lo usa anche per mandare segnali ai suoi compagni.", "es": "Al extraer la rama que tiene en la cola, esta prende debido a la fricción. Usa esa rama candente para enviar señales a sus compañeros.", "de": "Sein Zweig entzündet sich durch die Reibung, die beim Herausziehen aus seinem Schweif entsteht. Mit der Flamme sendet es Signale an Kameraden.", "fr": "Quand il saisit la branche plantée dans sa queue, elle prend feu par friction. Il peut communiquer avec ses congénères en agitant ce bâton enflammé.", "ko": "나뭇가지를 꼬리에서 뽑을 때 마찰로 불이 붙는다. 나뭇가지의 불꽃을 흔들어 동료에게 신호를 보낸다.", "ja": "きのえだを　しっぽから　ひきぬくとき まさつで　ちゃっか。えだの　ほのおを ふって　なかまに　あいずを　おくる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "fennekin" },
+	"generation": "kalos",
+	"id": 653,
+	"names": {
+		"ja": "テールナー",
+		"ko": "테르나",
+		"fr": "Roussil",
+		"de": "Rutena",
+		"es": "Braixen",
+		"it": "Braixen",
+		"en": "Braixen"
+	},
+	"descriptions": {
+		"en": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+		"it": "Incendia il rametto che ha nella coda semplicemente estraendolo, grazie alla frizione del pelo. Lo usa anche per mandare segnali ai suoi compagni.",
+		"es": "Al extraer la rama que tiene en la cola, esta prende debido a la fricción. Usa esa rama candente para enviar señales a sus compañeros.",
+		"de": "Sein Zweig entzündet sich durch die Reibung, die beim Herausziehen aus seinem Schweif entsteht. Mit der Flamme sendet es Signale an Kameraden.",
+		"fr": "Quand il saisit la branche plantée dans sa queue, elle prend feu par friction. Il peut communiquer avec ses congénères en agitant ce bâton enflammé.",
+		"ko": "나뭇가지를 꼬리에서 뽑을 때 마찰로 불이 붙는다. 나뭇가지의 불꽃을 흔들어 동료에게 신호를 보낸다.",
+		"ja": "きのえだを　しっぽから　ひきぬくとき まさつで　ちゃっか。えだの　ほのおを ふって　なかまに　あいずを　おくる。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "omanyte"}, "generation": "kanto", "id": 138, "names": {"ja": "オムスター", "ko": "암스타", "fr": "Amonistar", "de": "Amoroso", "es": "Omastar", "it": "Omastar", "en": "Omastar"}, "descriptions": {"en": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.", "it": "Le sue zanne affilate possono frantumare anche le pietre, ma può attaccare solo le prede a portata di tentacolo.", "es": "Posee unos colmillos afilados con los que puede partir piedras, pero solo ataca a presas que se hallan al alcance de sus tentáculos.", "de": "Mit seinen scharfen Zähnen ist es imstande, selbst Felsen zu zermalmen. Angreifen kann es jedoch nur Beute in Reichweite seiner Tentakel.", "fr": "Ses crocs sont capables de broyer la roche, mais il ne peut s’attaquer qu’aux proies à portée de ses tentacules.", "ko": "날카로운 이빨은 바위도 부수지만 촉수가 닿는 범위 안의 먹이만 공격할 수 있다.", "ja": "するどいキバは　いわも　くだくが しょくしゅの　とどく　はんいの えものしか　おそえないのだ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "omanyte" },
+	"generation": "kanto",
+	"id": 138,
+	"names": {
+		"ja": "オムスター",
+		"ko": "암스타",
+		"fr": "Amonistar",
+		"de": "Amoroso",
+		"es": "Omastar",
+		"it": "Omastar",
+		"en": "Omastar"
+	},
+	"descriptions": {
+		"en": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
+		"it": "Le sue zanne affilate possono frantumare anche le pietre, ma può attaccare solo le prede a portata di tentacolo.",
+		"es": "Posee unos colmillos afilados con los que puede partir piedras, pero solo ataca a presas que se hallan al alcance de sus tentáculos.",
+		"de": "Mit seinen scharfen Zähnen ist es imstande, selbst Felsen zu zermalmen. Angreifen kann es jedoch nur Beute in Reichweite seiner Tentakel.",
+		"fr": "Ses crocs sont capables de broyer la roche, mais il ne peut s’attaquer qu’aux proies à portée de ses tentacules.",
+		"ko": "날카로운 이빨은 바위도 부수지만 촉수가 닿는 범위 안의 먹이만 공격할 수 있다.",
+		"ja": "するどいキバは　いわも　くだくが しょくしゅの　とどく　はんいの えものしか　おそえないのだ。"
+	}
+}

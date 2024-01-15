@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "unova", "id": 633, "names": {"ja": "モノズ", "ko": "모노두", "fr": "Solochi", "de": "Kapuno", "es": "Deino", "it": "Deino", "en": "Deino"}, "descriptions": {"en": "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.", "it": "È cieco e si orienta mordicchiando tutto ciò che ha intorno.", "es": "Al no poder ver, su forma de orientarse y percibir el entorno consiste en chocarse a diestro y siniestro, mordiendo todo lo que se encuentra.", "de": "Da es nichts sehen kann, beißt es zur Orientierung in alles hinein, was sich in seiner Umgebung befindet.", "fr": "Comme il ne voit rien, il se repère en mâchouillant tout ce qui se trouve autour de lui.", "ko": "눈이 보이지 않아 닥치는 대로 물면서 본인 주위의 상황을 파악한다.", "ja": "めが　みえないので　てあたりしだい かみついて　じぶんの　まわりの じょうきょうを　はあく　している。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 633,
+	"names": {
+		"ja": "モノズ",
+		"ko": "모노두",
+		"fr": "Solochi",
+		"de": "Kapuno",
+		"es": "Deino",
+		"it": "Deino",
+		"en": "Deino"
+	},
+	"descriptions": {
+		"en": "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+		"it": "È cieco e si orienta mordicchiando tutto ciò che ha intorno.",
+		"es": "Al no poder ver, su forma de orientarse y percibir el entorno consiste en chocarse a diestro y siniestro, mordiendo todo lo que se encuentra.",
+		"de": "Da es nichts sehen kann, beißt es zur Orientierung in alles hinein, was sich in seiner Umgebung befindet.",
+		"fr": "Comme il ne voit rien, il se repère en mâchouillant tout ce qui se trouve autour de lui.",
+		"ko": "눈이 보이지 않아 닥치는 대로 물면서 본인 주위의 상황을 파악한다.",
+		"ja": "めが　みえないので　てあたりしだい かみついて　じぶんの　まわりの じょうきょうを　はあく　している。"
+	}
+}

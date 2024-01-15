@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": null, "generation": "kalos", "id": 676, "names": {"ja": "トリミアン", "ko": "트리미앙", "fr": "Couafarel", "de": "Coiffwaff", "es": "Furfrou", "it": "Furfrou", "en": "Furfrou"}, "descriptions": {"en": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.", "it": "Se non viene tagliato, il suo pelo continua a crescere a dismisura. Si lascia tosare solamente dalle persone di cui si fida.", "es": "El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.", "de": "Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.", "fr": "Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.", "ko": "가만히 두면 털이 점점 자라지만 신뢰하는 자가 아니면 커트를 허락하지 않는다.", "ja": "ほうっておくと　たいもうは　どんどん のびつづけるが　しんらいした ものにしか　カットは　ゆるさない。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 676,
+	"names": {
+		"ja": "トリミアン",
+		"ko": "트리미앙",
+		"fr": "Couafarel",
+		"de": "Coiffwaff",
+		"es": "Furfrou",
+		"it": "Furfrou",
+		"en": "Furfrou"
+	},
+	"descriptions": {
+		"en": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+		"it": "Se non viene tagliato, il suo pelo continua a crescere a dismisura. Si lascia tosare solamente dalle persone di cui si fida.",
+		"es": "El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.",
+		"de": "Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.",
+		"fr": "Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.",
+		"ko": "가만히 두면 털이 점점 자라지만 신뢰하는 자가 아니면 커트를 허락하지 않는다.",
+		"ja": "ほうっておくと　たいもうは　どんどん のびつづけるが　しんらいした ものにしか　カットは　ゆるさない。"
+	}
+}

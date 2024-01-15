@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "minccino"}, "generation": "unova", "id": 572, "names": {"ja": "チラチーノ", "ko": "치라치노", "fr": "Pashmilla", "de": "Chillabell", "es": "Cinccino", "it": "Cinccino", "en": "Cinccino"}, "descriptions": {"en": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.", "it": "Il grasso speciale che ricopre la sua pelliccia può deviare gli attacchi ed è venduto a caro prezzo sul mercato.", "es": "Su pelaje está recubierto por una grasa especial que repele los ataques enemigos y por la que se llegan a pagar auténticas fortunas.", "de": "Sein Fell ist mit einem körpereigenen Öl bedeckt, das Attacken abwehren kann. Öl von Chillabell ist wertvoll und wird zu hohen Preisen gehandelt.", "fr": "La sécrétion huileuse de ses poils lui permet de dévier les attaques. Elle s’arrache à prix d’or sur les marchés.", "ko": "특별한 기름이 스며든 털은 공격을 받아넘긴다. 기름은 높은 가격에 거래되고 있다.", "ja": "とくべつな　あぶらの　しみた　けは こうげきを　うけながす。　あぶらは たかねで　とりひき　されている。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "minccino" },
+	"generation": "unova",
+	"id": 572,
+	"names": {
+		"ja": "チラチーノ",
+		"ko": "치라치노",
+		"fr": "Pashmilla",
+		"de": "Chillabell",
+		"es": "Cinccino",
+		"it": "Cinccino",
+		"en": "Cinccino"
+	},
+	"descriptions": {
+		"en": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
+		"it": "Il grasso speciale che ricopre la sua pelliccia può deviare gli attacchi ed è venduto a caro prezzo sul mercato.",
+		"es": "Su pelaje está recubierto por una grasa especial que repele los ataques enemigos y por la que se llegan a pagar auténticas fortunas.",
+		"de": "Sein Fell ist mit einem körpereigenen Öl bedeckt, das Attacken abwehren kann. Öl von Chillabell ist wertvoll und wird zu hohen Preisen gehandelt.",
+		"fr": "La sécrétion huileuse de ses poils lui permet de dévier les attaques. Elle s’arrache à prix d’or sur les marchés.",
+		"ko": "특별한 기름이 스며든 털은 공격을 받아넘긴다. 기름은 높은 가격에 거래되고 있다.",
+		"ja": "とくべつな　あぶらの　しみた　けは こうげきを　うけながす。　あぶらは たかねで　とりひき　されている。"
+	}
+}

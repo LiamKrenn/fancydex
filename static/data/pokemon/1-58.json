@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 58, "names": {"ja": "ガーディ", "ko": "가디", "fr": "Caninos", "de": "Fukano", "es": "Growlithe", "it": "Growlithe", "en": "Growlithe"}, "descriptions": {"en": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.", "it": "Di indole molto leale, abbaia furiosamente contro chiunque minacci di attaccare il suo Allenatore.", "es": "Extremadamente fiel, ladrará furioso a cualquiera que suponga una amenaza para su Entrenador con tal de defenderlo.", "de": "Es ist sehr loyal und bellt jeden Gegner furchtlos an, um seinen Trainer vor Schaden zu bewahren.", "fr": "Très fidèle, il aboie de toutes ses forces pour protéger son Dresseur d’Origine quand un danger le guette.", "ko": "충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다.", "ja": "ちゅうじつな　せいかくで　おやの トレーナーを　まもるため　ひっしに あいてに　ほえかかる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 58,
+	"names": {
+		"ja": "ガーディ",
+		"ko": "가디",
+		"fr": "Caninos",
+		"de": "Fukano",
+		"es": "Growlithe",
+		"it": "Growlithe",
+		"en": "Growlithe"
+	},
+	"descriptions": {
+		"en": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.",
+		"it": "Di indole molto leale, abbaia furiosamente contro chiunque minacci di attaccare il suo Allenatore.",
+		"es": "Extremadamente fiel, ladrará furioso a cualquiera que suponga una amenaza para su Entrenador con tal de defenderlo.",
+		"de": "Es ist sehr loyal und bellt jeden Gegner furchtlos an, um seinen Trainer vor Schaden zu bewahren.",
+		"fr": "Très fidèle, il aboie de toutes ses forces pour protéger son Dresseur d’Origine quand un danger le guette.",
+		"ko": "충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다.",
+		"ja": "ちゅうじつな　せいかくで　おやの トレーナーを　まもるため　ひっしに あいてに　ほえかかる。"
+	}
+}

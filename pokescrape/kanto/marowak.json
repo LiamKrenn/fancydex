@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "cubone"}, "generation": "kanto", "id": 104, "names": {"ja": "ガラガラ", "ko": "텅구리", "fr": "Ossatueur", "de": "Knogga", "es": "Marowak", "it": "Marowak", "en": "Marowak"}, "descriptions": {"en": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.", "it": "Evolvendosi è diventato tutt’uno con il teschio della madre che prima indossava e ha acquisito un temperamento violento.", "es": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.", "de": "Durch die Entwicklung wurde der Schädel seiner Mutter, den es stets trug, zu einem Teil von ihm und es bekam einen aggressiven Charakter.", "fr": "En évoluant, il est devenu violent, et le crâne de sa mère qu’il portait a fusionné avec sa tête.", "ko": "진화로 인해 쓰고 있던 어미의 뼈는 일체화되었고 성격은 더욱 난폭해졌다.", "ja": "しんかして　かぶっていた　ははおやの ホネが　いったいかして　そのうえ きょうぼうな　せいかくに　かわった。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "cubone" },
+	"generation": "kanto",
+	"id": 104,
+	"names": {
+		"ja": "ガラガラ",
+		"ko": "텅구리",
+		"fr": "Ossatueur",
+		"de": "Knogga",
+		"es": "Marowak",
+		"it": "Marowak",
+		"en": "Marowak"
+	},
+	"descriptions": {
+		"en": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.",
+		"it": "Evolvendosi è diventato tutt’uno con il teschio della madre che prima indossava e ha acquisito un temperamento violento.",
+		"es": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.",
+		"de": "Durch die Entwicklung wurde der Schädel seiner Mutter, den es stets trug, zu einem Teil von ihm und es bekam einen aggressiven Charakter.",
+		"fr": "En évoluant, il est devenu violent, et le crâne de sa mère qu’il portait a fusionné avec sa tête.",
+		"ko": "진화로 인해 쓰고 있던 어미의 뼈는 일체화되었고 성격은 더욱 난폭해졌다.",
+		"ja": "しんかして　かぶっていた　ははおやの ホネが　いったいかして　そのうえ きょうぼうな　せいかくに　かわった。"
+	}
+}

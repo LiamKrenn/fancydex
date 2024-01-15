@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 991,
+	"names": {
+		"ja": "テツノツツミ",
+		"ko": "무쇠보따리",
+		"fr": "Hotte-de-Fer",
+		"de": "Eisenbündel",
+		"es": "Ferrosaco",
+		"it": "Saccoferreo",
+		"en": "Iron Bundle"
+	},
+	"descriptions": {
+		"en": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+	}
+}

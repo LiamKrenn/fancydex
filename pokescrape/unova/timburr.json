@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "unova", "id": 532, "names": {"ja": "ドッコラー", "ko": "으랏차", "fr": "Charpenti", "de": "Praktibalk", "es": "Timburr", "it": "Timburr", "en": "Timburr"}, "descriptions": {"en": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.", "it": "Quando diventa capace di reggere travi di legno tre volte più grandi di lui, l’evoluzione è vicina.", "es": "Cuando logra transportar una viga de madera que triplica su altura y peso, es señal de que va a evolucionar.", "de": "Man sagt, seine Entwicklung stehe dann kurz bevor, wenn es einen Holzbalken heben kann, der dreimal so groß und schwer ist wie es selbst.", "fr": "Lorsque Charpenti est capable de soulever une poutre faisant trois fois son poids, le jour de son évolution est proche.", "ko": "자신의 3배 정도의 각목을 들 수 있게 된 으랏차는 머지않아 진화하게 된다.", "ja": "じぶんの　３ばいくらいの　かくざいを もつように　なった　ドッコラーは しんかの　ひが　ちかい。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 532,
+	"names": {
+		"ja": "ドッコラー",
+		"ko": "으랏차",
+		"fr": "Charpenti",
+		"de": "Praktibalk",
+		"es": "Timburr",
+		"it": "Timburr",
+		"en": "Timburr"
+	},
+	"descriptions": {
+		"en": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+		"it": "Quando diventa capace di reggere travi di legno tre volte più grandi di lui, l’evoluzione è vicina.",
+		"es": "Cuando logra transportar una viga de madera que triplica su altura y peso, es señal de que va a evolucionar.",
+		"de": "Man sagt, seine Entwicklung stehe dann kurz bevor, wenn es einen Holzbalken heben kann, der dreimal so groß und schwer ist wie es selbst.",
+		"fr": "Lorsque Charpenti est capable de soulever une poutre faisant trois fois son poids, le jour de son évolution est proche.",
+		"ko": "자신의 3배 정도의 각목을 들 수 있게 된 으랏차는 머지않아 진화하게 된다.",
+		"ja": "じぶんの　３ばいくらいの　かくざいを もつように　なった　ドッコラーは しんかの　ひが　ちかい。"
+	}
+}

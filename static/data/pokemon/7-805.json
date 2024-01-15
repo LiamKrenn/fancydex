@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "alola", "id": 805, "names": {"ja": "ツンデツンデ", "ko": "차곡차곡", "fr": "Ama-Ama", "de": "Muramura", "es": "Stakataka", "it": "Stakataka", "en": "Stakataka"}, "descriptions": {"en": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.", "it": "Questa misteriosa forma di vita sembra essere un’Ultracreatura. Se all’improvviso un muro si muove e attacca, in realtà si tratta di lui.", "es": "Extraña criatura que podría ser un Ultraente. Parece un muro rocoso hasta que se mueve de repente y ataca.", "de": "Diese rätselhafte Lebensform ist vermutlich eine Ultrabestie. Sie sieht aus wie eine Steinmauer, bis sie sich plötzlich bewegt und angreift.", "fr": "On suppose que cette mystérieuse forme de vie est une Ultra-Chimère. Si un mur se met en branle et vous attaque sans prévenir, c’est lui.", "ko": "UB 같은 수수께끼의 생명체. 갑자기 움직이기 시작해서 덮쳐온 돌담의 정체는 이 녀석이다.", "ja": "ＵＢらしき　なぞの　せいめいたい。 とつぜん　うごきだして　おそってきた いしがきの　しょうたいは　こいつだ。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 805,
+	"names": {
+		"ja": "ツンデツンデ",
+		"ko": "차곡차곡",
+		"fr": "Ama-Ama",
+		"de": "Muramura",
+		"es": "Stakataka",
+		"it": "Stakataka",
+		"en": "Stakataka"
+	},
+	"descriptions": {
+		"en": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+		"it": "Questa misteriosa forma di vita sembra essere un’Ultracreatura. Se all’improvviso un muro si muove e attacca, in realtà si tratta di lui.",
+		"es": "Extraña criatura que podría ser un Ultraente. Parece un muro rocoso hasta que se mueve de repente y ataca.",
+		"de": "Diese rätselhafte Lebensform ist vermutlich eine Ultrabestie. Sie sieht aus wie eine Steinmauer, bis sie sich plötzlich bewegt und angreift.",
+		"fr": "On suppose que cette mystérieuse forme de vie est une Ultra-Chimère. Si un mur se met en branle et vous attaque sans prévenir, c’est lui.",
+		"ko": "UB 같은 수수께끼의 생명체. 갑자기 움직이기 시작해서 덮쳐온 돌담의 정체는 이 녀석이다.",
+		"ja": "ＵＢらしき　なぞの　せいめいたい。 とつぜん　うごきだして　おそってきた いしがきの　しょうたいは　こいつだ。"
+	}
+}

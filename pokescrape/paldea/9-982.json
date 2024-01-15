@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "dunsparce" },
+	"generation": "paldea",
+	"id": 206,
+	"names": {
+		"ja": "ノココッチ",
+		"ko": "노고고치",
+		"fr": "Deusolourdo",
+		"de": "Dummimisel",
+		"es": "Dudunsparce",
+		"it": "Dudunsparce",
+		"en": "Dudunsparce"
+	},
+	"descriptions": {
+		"en": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
+	}
+}

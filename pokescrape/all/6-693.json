@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "clauncher"}, "generation": "kalos", "id": 692, "names": {"ja": "ブロスター", "ko": "블로스터", "fr": "Gamblast", "de": "Wummer", "es": "Clawitzer", "it": "Clawitzer", "en": "Clawitzer"}, "descriptions": {"en": "Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.", "it": "L’arto destro è una sorta di cannone da cui spara proiettili d’acqua marina tanto potenti da affondare una petroliera.", "es": "Con el cañón de su brazo derecho dispara proyectiles de agua marina con tanta potencia que son capaces de hundir un petrolero.", "de": "Mit seiner rechten Schere, die ihm als Kanone dient, feuert es Geschosse aus Meerwasser ab, die selbst Tankschiffe versenken können.", "fr": "Sa pince droite est un canon pouvant projeter des obus d’eau assez puissants pour couler un navire-citerne.", "ko": "오른팔은 해수 포탄을 발사하는 대포다. 유조선을 가라앉게 할 정도의 위력이다.", "ja": "みぎうでは　かいすいの　ほうだんを はっしゃする　たいほう。　タンカーを しずめてしまうほどの　いりょくだ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "clauncher" },
+	"generation": "kalos",
+	"id": 692,
+	"names": {
+		"ja": "ブロスター",
+		"ko": "블로스터",
+		"fr": "Gamblast",
+		"de": "Wummer",
+		"es": "Clawitzer",
+		"it": "Clawitzer",
+		"en": "Clawitzer"
+	},
+	"descriptions": {
+		"en": "Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.",
+		"it": "L’arto destro è una sorta di cannone da cui spara proiettili d’acqua marina tanto potenti da affondare una petroliera.",
+		"es": "Con el cañón de su brazo derecho dispara proyectiles de agua marina con tanta potencia que son capaces de hundir un petrolero.",
+		"de": "Mit seiner rechten Schere, die ihm als Kanone dient, feuert es Geschosse aus Meerwasser ab, die selbst Tankschiffe versenken können.",
+		"fr": "Sa pince droite est un canon pouvant projeter des obus d’eau assez puissants pour couler un navire-citerne.",
+		"ko": "오른팔은 해수 포탄을 발사하는 대포다. 유조선을 가라앉게 할 정도의 위력이다.",
+		"ja": "みぎうでは　かいすいの　ほうだんを はっしゃする　たいほう。　タンカーを しずめてしまうほどの　いりょくだ。"
+	}
+}

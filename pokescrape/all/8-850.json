@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "galar", "id": 850, "names": {"ja": "ヤクデ", "ko": "태우지네", "fr": "Grillepattes", "de": "Thermopod", "es": "Sizzlipede", "it": "Sizzlipede", "en": "Sizzlipede"}, "descriptions": {"en": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.", "it": "Stritola le prede con il suo corpo ardente e, quando sono belle abbrustolite, le divora.", "es": "Oprime a sus presas con su cuerpo candente. Una vez bien tostadas, las devora con fruición.", "de": "Es nimmt Beute mit seinem aufgeheizten Körper in die Mangel. Sobald sie gut durchgebraten ist, frisst es sie genüsslich.", "fr": "Il enserre fermement ses proies avec son corps brûlant et, quand elles sont bien grillées, il les dévore.", "ko": "발열된 몸으로 먹이를 세게 조른다. 알맞게 구워지면 우적우적 먹어버린다.", "ja": "はつねつした　からだで　えものを しめあげる。　こんがり　やけたら むしゃむしゃ　いただくのだ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 850,
+	"names": {
+		"ja": "ヤクデ",
+		"ko": "태우지네",
+		"fr": "Grillepattes",
+		"de": "Thermopod",
+		"es": "Sizzlipede",
+		"it": "Sizzlipede",
+		"en": "Sizzlipede"
+	},
+	"descriptions": {
+		"en": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.",
+		"it": "Stritola le prede con il suo corpo ardente e, quando sono belle abbrustolite, le divora.",
+		"es": "Oprime a sus presas con su cuerpo candente. Una vez bien tostadas, las devora con fruición.",
+		"de": "Es nimmt Beute mit seinem aufgeheizten Körper in die Mangel. Sobald sie gut durchgebraten ist, frisst es sie genüsslich.",
+		"fr": "Il enserre fermement ses proies avec son corps brûlant et, quand elles sont bien grillées, il les dévore.",
+		"ko": "발열된 몸으로 먹이를 세게 조른다. 알맞게 구워지면 우적우적 먹어버린다.",
+		"ja": "はつねつした　からだで　えものを しめあげる。　こんがり　やけたら むしゃむしゃ　いただくのだ。"
+	}
+}

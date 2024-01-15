@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "kanto", "id": 100, "names": {"ja": "ビリリダマ", "ko": "찌리리공", "fr": "Voltorbe", "de": "Voltobal", "es": "Voltorb", "it": "Voltorb", "en": "Voltorb"}, "descriptions": {"en": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.", "it": "Si dice che abbia un aspetto simile a una Poké Ball per passare inosservato. Tende ad autodistruggersi al minimo stimolo.", "es": "Se dice que se camufla como una Poké Ball. Al más mínimo estímulo se autodestruirá.", "de": "Man sagt, es tarne sich als Pokéball, um sich zu schützen. Allerdings zerstört es sich schon bei der kleinsten äußeren Einwirkung selbst.", "fr": "On dit qu’il se déguise en Poké Ball. Il s’autodétruit à la moindre stimulation.", "ko": "몬스터볼과 닮은 것은 보호색으로 위장하기 위해서라고 전해지나 의외로 쉽게 자폭한다.", "ja": "モンスターボールに　にているのは ほごしょくの　ためだと　いわれるが いがいと　かんたんに　じばくする。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 100,
+	"names": {
+		"ja": "ビリリダマ",
+		"ko": "찌리리공",
+		"fr": "Voltorbe",
+		"de": "Voltobal",
+		"es": "Voltorb",
+		"it": "Voltorb",
+		"en": "Voltorb"
+	},
+	"descriptions": {
+		"en": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.",
+		"it": "Si dice che abbia un aspetto simile a una Poké Ball per passare inosservato. Tende ad autodistruggersi al minimo stimolo.",
+		"es": "Se dice que se camufla como una Poké Ball. Al más mínimo estímulo se autodestruirá.",
+		"de": "Man sagt, es tarne sich als Pokéball, um sich zu schützen. Allerdings zerstört es sich schon bei der kleinsten äußeren Einwirkung selbst.",
+		"fr": "On dit qu’il se déguise en Poké Ball. Il s’autodétruit à la moindre stimulation.",
+		"ko": "몬스터볼과 닮은 것은 보호색으로 위장하기 위해서라고 전해지나 의외로 쉽게 자폭한다.",
+		"ja": "モンスターボールに　にているのは ほごしょくの　ためだと　いわれるが いがいと　かんたんに　じばくする。"
+	}
+}

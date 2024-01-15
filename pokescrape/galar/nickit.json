@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "galar", "id": 827, "names": {"ja": "クスネ", "ko": "훔처우", "fr": "Goupilou", "de": "Kleptifux", "es": "Nickit", "it": "Nickit", "en": "Nickit"}, "descriptions": {"en": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.", "it": "È scaltro e molto prudente. Quando ruba il cibo, scappa cancellando le sue orme con la coda.", "es": "Prudente y astuto, borra con la cola las huellas que deja al huir tras robarle el alimento a otro Pokémon.", "de": "Es ist sehr vorsichtig und gerissen. Nachdem es Futter stibitzt hat, macht es sich davon und verwischt dabei seine Spuren mit seinem Schweif.", "fr": "Rusé et vigilant, il prend la poudre d’escampette après avoir volé de la nourriture en prenant soin d’effacer ses traces de pas avec sa queue.", "ko": "조심성이 많고 교활하다. 먹이를 훔치고는 꼬리로 발자국을 지우며 도망간다.", "ja": "ようじん　ぶかく　ずるがしこい。 エサを　ぬすむと　しっぽで あしあとを　けしながら　にげるのだ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 827,
+	"names": {
+		"ja": "クスネ",
+		"ko": "훔처우",
+		"fr": "Goupilou",
+		"de": "Kleptifux",
+		"es": "Nickit",
+		"it": "Nickit",
+		"en": "Nickit"
+	},
+	"descriptions": {
+		"en": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
+		"it": "È scaltro e molto prudente. Quando ruba il cibo, scappa cancellando le sue orme con la coda.",
+		"es": "Prudente y astuto, borra con la cola las huellas que deja al huir tras robarle el alimento a otro Pokémon.",
+		"de": "Es ist sehr vorsichtig und gerissen. Nachdem es Futter stibitzt hat, macht es sich davon und verwischt dabei seine Spuren mit seinem Schweif.",
+		"fr": "Rusé et vigilant, il prend la poudre d’escampette après avoir volé de la nourriture en prenant soin d’effacer ses traces de pas avec sa queue.",
+		"ko": "조심성이 많고 교활하다. 먹이를 훔치고는 꼬리로 발자국을 지우며 도망간다.",
+		"ja": "ようじん　ぶかく　ずるがしこい。 エサを　ぬすむと　しっぽで あしあとを　けしながら　にげるのだ。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "floragato" },
+	"generation": "paldea",
+	"id": 907,
+	"names": {
+		"ja": "マスカーニャ",
+		"ko": "마스카나",
+		"fr": "Miascarade",
+		"de": "Maskagato",
+		"es": "Meowscarada",
+		"it": "Meowscarada",
+		"en": "Meowscarada"
+	},
+	"descriptions": {
+		"en": "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what’s going on."
+	}
+}

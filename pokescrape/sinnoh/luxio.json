@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "shinx"}, "generation": "sinnoh", "id": 403, "names": {"ja": "ルクシオ", "ko": "럭시오", "fr": "Luxio", "de": "Luxio", "es": "Luxio", "it": "Luxio", "en": "Luxio"}, "descriptions": {"en": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind.", "it": "Se incontra un nemico, si prepara alla lotta estraendo gli artigli dotati di una potenza pari a 1 milione di volt.", "es": "Cuando encuentra a un adversario, se prepara para combatir sacando las garras, que emiten una corriente eléctrica de un millón de voltios.", "de": "Sieht es Gegner, macht es sich kampfbereit, indem es die Krallen an den Pfoten ausfährt, welche eine Million Volt austeilen können.", "fr": "Quand il croise un ennemi, il se prépare au combat en sortant ses griffes dont les coups ont une puissance qui atteint un million de volts.", "ko": "적을 만나면 100만 볼트의 위력을 가진 발톱을 드러내어 싸움에 대비한다.", "ja": "てきに　であうと　１００まんボルトの いりょくを　もつ　ツメを　あしから だして　たたかいに　そなえる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "shinx" },
+	"generation": "sinnoh",
+	"id": 403,
+	"names": {
+		"ja": "ルクシオ",
+		"ko": "럭시오",
+		"fr": "Luxio",
+		"de": "Luxio",
+		"es": "Luxio",
+		"it": "Luxio",
+		"en": "Luxio"
+	},
+	"descriptions": {
+		"en": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind.",
+		"it": "Se incontra un nemico, si prepara alla lotta estraendo gli artigli dotati di una potenza pari a 1 milione di volt.",
+		"es": "Cuando encuentra a un adversario, se prepara para combatir sacando las garras, que emiten una corriente eléctrica de un millón de voltios.",
+		"de": "Sieht es Gegner, macht es sich kampfbereit, indem es die Krallen an den Pfoten ausfährt, welche eine Million Volt austeilen können.",
+		"fr": "Quand il croise un ennemi, il se prépare au combat en sortant ses griffes dont les coups ont une puissance qui atteint un million de volts.",
+		"ko": "적을 만나면 100만 볼트의 위력을 가진 발톱을 드러내어 싸움에 대비한다.",
+		"ja": "てきに　であうと　１００まんボルトの いりょくを　もつ　ツメを　あしから だして　たたかいに　そなえる。"
+	}
+}

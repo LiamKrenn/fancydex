@@ -1,0 +1,16 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1020,
+	"names": {
+		"ja": "ウガツホムラ",
+		"ko": "꿰뚫는화염",
+		"fr": "Feu-Perçant",
+		"de": "Keilflamme",
+		"es": "Flamariete",
+		"it": "Vampeaguzze",
+		"en": "Gouging Fire"
+	},
+	"descriptions": {}
+}

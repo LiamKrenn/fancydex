@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "unova", "id": 647, "names": {"ja": "ケルディオ", "ko": "케르디오", "fr": "Keldeo", "de": "Keldeo", "es": "Keldeo", "it": "Keldeo", "en": "Keldeo"}, "descriptions": {"en": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.", "it": "Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza.", "es": "A base de superar encarnizados combates, su cuerno se fortalece y, entonces, despierta su verdadero poder.", "de": "Man sagt, wenn Keldeo schwere Kämpfe übersteht und das Horn an seiner Stirn stärker wird, erwache irgendwann seine wahre Kraft.", "fr": "Lorsqu’il livre un combat difficile, la corne sur son front se renforce et se développe, ce qui éveillerait sa véritable puissance.", "ko": "혹독한 싸움을 이겨내고 이마의 뿔이 단련되면 진정한 힘이 각성한다고 한다.", "ja": "きびしい　たたかいを　くぐりぬけて ひたいの　ツノが　きたえられると しんの　ちからが　めざめるという。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 647,
+	"names": {
+		"ja": "ケルディオ",
+		"ko": "케르디오",
+		"fr": "Keldeo",
+		"de": "Keldeo",
+		"es": "Keldeo",
+		"it": "Keldeo",
+		"en": "Keldeo"
+	},
+	"descriptions": {
+		"en": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
+		"it": "Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza.",
+		"es": "A base de superar encarnizados combates, su cuerno se fortalece y, entonces, despierta su verdadero poder.",
+		"de": "Man sagt, wenn Keldeo schwere Kämpfe übersteht und das Horn an seiner Stirn stärker wird, erwache irgendwann seine wahre Kraft.",
+		"fr": "Lorsqu’il livre un combat difficile, la corne sur son front se renforce et se développe, ce qui éveillerait sa véritable puissance.",
+		"ko": "혹독한 싸움을 이겨내고 이마의 뿔이 단련되면 진정한 힘이 각성한다고 한다.",
+		"ja": "きびしい　たたかいを　くぐりぬけて ひたいの　ツノが　きたえられると しんの　ちからが　めざめるという。"
+	}
+}

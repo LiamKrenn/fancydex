@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "unova", "id": 550, "names": {"ja": "バスラオ", "ko": "배쓰나이", "fr": "Bargantua", "de": "Barschuft", "es": "Basculin", "it": "Basculin", "en": "Basculin"}, "descriptions": {"en": "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities.", "it": "Utilizzati in passato in cucina, i Basculin Forma Linearossa erano ritenuti adatti ai giovani per la loro carne ad alto contenuto di grassi.", "es": "Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.", "de": "Früher standen sie oft auf dem Speiseplan. Das Fleisch rotliniger Exemplare war wegen seines hohen Fettanteils bei jungen Leuten sehr beliebt.", "fr": "On l’utilisait autrefois en cuisine. La chair grasse des Bargantua à motif rouge était plutôt destinée aux jeunes.", "ko": "옛날에는 식탁에 올랐다. 적색근 배쓰나이의 살코기는 기름이 많아 젊은 층이 좋아한다.", "ja": "むかしは　しょくたくに　のぼった。 あかすじの　バスラオの　みは あぶらが　おおく　わかものむき。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 550,
+	"names": {
+		"ja": "バスラオ",
+		"ko": "배쓰나이",
+		"fr": "Bargantua",
+		"de": "Barschuft",
+		"es": "Basculin",
+		"it": "Basculin",
+		"en": "Basculin"
+	},
+	"descriptions": {
+		"en": "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities.",
+		"it": "Utilizzati in passato in cucina, i Basculin Forma Linearossa erano ritenuti adatti ai giovani per la loro carne ad alto contenuto di grassi.",
+		"es": "Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.",
+		"de": "Früher standen sie oft auf dem Speiseplan. Das Fleisch rotliniger Exemplare war wegen seines hohen Fettanteils bei jungen Leuten sehr beliebt.",
+		"fr": "On l’utilisait autrefois en cuisine. La chair grasse des Bargantua à motif rouge était plutôt destinée aux jeunes.",
+		"ko": "옛날에는 식탁에 올랐다. 적색근 배쓰나이의 살코기는 기름이 많아 젊은 층이 좋아한다.",
+		"ja": "むかしは　しょくたくに　のぼった。 あかすじの　バスラオの　みは あぶらが　おおく　わかものむき。"
+	}
+}

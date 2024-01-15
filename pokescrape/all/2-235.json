@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": null, "generation": "johto", "id": 235, "names": {"ja": "ドーブル", "ko": "루브도", "fr": "Queulorior", "de": "Farbeagle", "es": "Smeargle", "it": "Smeargle", "en": "Smeargle"}, "descriptions": {"en": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.", "it": "Traccia dei segni con il fluido prodotto dalla punta della coda. Gli appassionati comprano le sue opere a caro prezzo.", "es": "Dibuja marcas con el líquido que secreta por la cola. Algunos de sus admiradores han llegado a pagar auténticas fortunas por ellas.", "de": "Mit der Flüssigkeit, die aus seiner Schweifspitze austritt, hinterlässt es Markierungen. Die besten werden unter Fans zu hohen Preisen gehandelt.", "fr": "Il se sert du liquide qui sort de sa queue pour dessiner sa marque. Ses fans s’arrachent ses plus beaux tracés à prix d’or.", "ko": "꼬리 끝에서 나오는 체액으로 마크를 그린다. 마크에 따라서는 마니아에게 비싼 값에 거래된다.", "ja": "シッポの　さきから　でる　たいえきで マークを　えがく。　マークに　よっては マニアに　たかねで　とりひきされる。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 235,
+	"names": {
+		"ja": "ドーブル",
+		"ko": "루브도",
+		"fr": "Queulorior",
+		"de": "Farbeagle",
+		"es": "Smeargle",
+		"it": "Smeargle",
+		"en": "Smeargle"
+	},
+	"descriptions": {
+		"en": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+		"it": "Traccia dei segni con il fluido prodotto dalla punta della coda. Gli appassionati comprano le sue opere a caro prezzo.",
+		"es": "Dibuja marcas con el líquido que secreta por la cola. Algunos de sus admiradores han llegado a pagar auténticas fortunas por ellas.",
+		"de": "Mit der Flüssigkeit, die aus seiner Schweifspitze austritt, hinterlässt es Markierungen. Die besten werden unter Fans zu hohen Preisen gehandelt.",
+		"fr": "Il se sert du liquide qui sort de sa queue pour dessiner sa marque. Ses fans s’arrachent ses plus beaux tracés à prix d’or.",
+		"ko": "꼬리 끝에서 나오는 체액으로 마크를 그린다. 마크에 따라서는 마니아에게 비싼 값에 거래된다.",
+		"ja": "シッポの　さきから　でる　たいえきで マークを　えがく。　マークに　よっては マニアに　たかねで　とりひきされる。"
+	}
+}

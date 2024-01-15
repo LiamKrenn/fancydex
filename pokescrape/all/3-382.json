@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "hoenn", "id": 382, "names": {"ja": "カイオーガ", "ko": "가이오가", "fr": "Kyogre", "de": "Kyogre", "es": "Kyogre", "it": "Kyogre", "en": "Kyogre"}, "descriptions": {"en": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.", "it": "Si dice che questo Pokémon abbia un profondo legame con le distese dei mari. Le leggende narrano dei suoi continui scontri con Groudon per ottenere l’energia della natura.", "es": "A Kyogre siempre se le ha descrito como el Pokémon que expandió los océanos. Varias leyendas cuentan que libró combates contra Groudon en repetidas ocasiones para tener el control de la energía de la naturaleza.", "de": "Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft.", "fr": "Un Pokémon considéré comme l’avatar des océans. Selon les légendes, il a disputé de nombreux combats avec Groudon pour contrôler l’énergie de la nature.", "ko": "바다의 화신이라 전해지는 포켓몬. 자연의 힘을 갈구하여 그란돈과 사투를 반복한다는 전설이 있다.", "ja": "うみの　けしん　と つたわる　ポケモン。 しぜんのエネルギーを　もとめて　グラードンと あらそいを　くりかえした　でんせつが　ある。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 382,
+	"names": {
+		"ja": "カイオーガ",
+		"ko": "가이오가",
+		"fr": "Kyogre",
+		"de": "Kyogre",
+		"es": "Kyogre",
+		"it": "Kyogre",
+		"en": "Kyogre"
+	},
+	"descriptions": {
+		"en": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
+		"it": "Si dice che questo Pokémon abbia un profondo legame con le distese dei mari. Le leggende narrano dei suoi continui scontri con Groudon per ottenere l’energia della natura.",
+		"es": "A Kyogre siempre se le ha descrito como el Pokémon que expandió los océanos. Varias leyendas cuentan que libró combates contra Groudon en repetidas ocasiones para tener el control de la energía de la naturaleza.",
+		"de": "Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft.",
+		"fr": "Un Pokémon considéré comme l’avatar des océans. Selon les légendes, il a disputé de nombreux combats avec Groudon pour contrôler l’énergie de la nature.",
+		"ko": "바다의 화신이라 전해지는 포켓몬. 자연의 힘을 갈구하여 그란돈과 사투를 반복한다는 전설이 있다.",
+		"ja": "うみの　けしん　と つたわる　ポケモン。 しぜんのエネルギーを　もとめて　グラードンと あらそいを　くりかえした　でんせつが　ある。"
+	}
+}

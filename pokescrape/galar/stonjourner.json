@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "galar", "id": 874, "names": {"ja": "イシヘンジン", "ko": "돌헨진", "fr": "Dolman", "de": "Humanolith", "es": "Stonjourner", "it": "Stonjourner", "en": "Stonjourner"}, "descriptions": {"en": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.", "it": "Ogni anno, in un giorno stabilito, hanno l’usanza di radunarsi giungendo da ogni dove per poi disporsi in cerchio.", "es": "Una vez al año y en una fecha concreta, tienen la costumbre de aparecer de la nada para reunirse y formar un círculo.", "de": "Sie haben die Angewohnheit, sich einmal im Jahr zu einer bestimmten Zeit wie aus dem Nichts zu versammeln und in einem Kreis aufzustellen.", "fr": "Tous les ans à la même date, ils arrivent de nulle part pour se réunir en cercle. C’est une de leurs coutumes.", "ko": "1년에 1번 정해진 일시에 어디선가 모여 둥글게 늘어서는 습성이 있다.", "ja": "１ねんに　いちど　きまった　にちじに どこから　ともなく　あつまり　わに なって　ならぶ　しゅうせいが　ある。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 874,
+	"names": {
+		"ja": "イシヘンジン",
+		"ko": "돌헨진",
+		"fr": "Dolman",
+		"de": "Humanolith",
+		"es": "Stonjourner",
+		"it": "Stonjourner",
+		"en": "Stonjourner"
+	},
+	"descriptions": {
+		"en": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
+		"it": "Ogni anno, in un giorno stabilito, hanno l’usanza di radunarsi giungendo da ogni dove per poi disporsi in cerchio.",
+		"es": "Una vez al año y en una fecha concreta, tienen la costumbre de aparecer de la nada para reunirse y formar un círculo.",
+		"de": "Sie haben die Angewohnheit, sich einmal im Jahr zu einer bestimmten Zeit wie aus dem Nichts zu versammeln und in einem Kreis aufzustellen.",
+		"fr": "Tous les ans à la même date, ils arrivent de nulle part pour se réunir en cercle. C’est une de leurs coutumes.",
+		"ko": "1년에 1번 정해진 일시에 어디선가 모여 둥글게 늘어서는 습성이 있다.",
+		"ja": "１ねんに　いちど　きまった　にちじに どこから　ともなく　あつまり　わに なって　ならぶ　しゅうせいが　ある。"
+	}
+}

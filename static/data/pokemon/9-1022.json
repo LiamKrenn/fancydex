@@ -1,0 +1,16 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1022,
+	"names": {
+		"ja": "テツノイワオ",
+		"ko": "무쇠암석",
+		"fr": "Roc-de-Fer",
+		"de": "Eisenfels",
+		"es": "Ferromole",
+		"it": "Massoferreo",
+		"en": "Iron Boulder"
+	},
+	"descriptions": {}
+}

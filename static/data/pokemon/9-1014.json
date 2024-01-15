@@ -1,0 +1,16 @@
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1014,
+	"names": {
+		"ja": "イイネイヌ",
+		"ko": "조타구",
+		"fr": "Félicanis",
+		"de": "Boninu",
+		"es": "Okidogi",
+		"it": "Okidogi",
+		"en": "Okidogi"
+	},
+	"descriptions": {}
+}

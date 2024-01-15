@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1017,
+	"names": {
+		"ja": "オーガポン",
+		"ko": "오거폰",
+		"fr": "Ogerpon",
+		"de": "Ogerpon",
+		"es": "Ogerpon",
+		"it": "Ogerpon",
+		"en": "Ogerpon"
+	},
+	"descriptions": {}
+}

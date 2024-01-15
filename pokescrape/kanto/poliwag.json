@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "kanto", "id": 60, "names": {"ja": "ニョロモ", "ko": "발챙이", "fr": "Ptitard", "de": "Quapsel", "es": "Poliwag", "it": "Poliwag", "en": "Poliwag"}, "descriptions": {"en": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.", "it": "Nei fiumi dalla corrente impetuosa, si attacca alle rocce utilizzando le spesse labbra come una ventosa.", "es": "En ríos de aguas bravas, usa sus gruesos labios a modo de ventosa para adherirse a las rocas.", "de": "In schnell fließenden Flüssen hält es sich mithilfe seiner dicken Lippen, die als Saugnapf fungieren, an Felsen fest.", "fr": "Dans les rivières au courant puissant, il se sert de ses lèvres épaisses comme d’une ventouse pour s’accrocher aux rochers.", "ko": "유속이 빠른 강에서는 두꺼운 입술을 흡반처럼 사용해 바위에 달라붙는다.", "ja": "ながれが　はやい　かわでは　ぶあつい くちびるを　きゅうばんのように いわに　くっつけて　しがみつく。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 60,
+	"names": {
+		"ja": "ニョロモ",
+		"ko": "발챙이",
+		"fr": "Ptitard",
+		"de": "Quapsel",
+		"es": "Poliwag",
+		"it": "Poliwag",
+		"en": "Poliwag"
+	},
+	"descriptions": {
+		"en": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+		"it": "Nei fiumi dalla corrente impetuosa, si attacca alle rocce utilizzando le spesse labbra come una ventosa.",
+		"es": "En ríos de aguas bravas, usa sus gruesos labios a modo de ventosa para adherirse a las rocas.",
+		"de": "In schnell fließenden Flüssen hält es sich mithilfe seiner dicken Lippen, die als Saugnapf fungieren, an Felsen fest.",
+		"fr": "Dans les rivières au courant puissant, il se sert de ses lèvres épaisses comme d’une ventouse pour s’accrocher aux rochers.",
+		"ko": "유속이 빠른 강에서는 두꺼운 입술을 흡반처럼 사용해 바위에 달라붙는다.",
+		"ja": "ながれが　はやい　かわでは　ぶあつい くちびるを　きゅうばんのように いわに　くっつけて　しがみつく。"
+	}
+}

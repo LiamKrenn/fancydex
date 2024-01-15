@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "charcadet" },
+	"generation": "paldea",
+	"id": 935,
+	"names": {
+		"ja": "ソウブレイズ",
+		"ko": "파라블레이즈",
+		"fr": "Malvalame",
+		"de": "Azugladis",
+		"es": "Ceruledge",
+		"it": "Ceruledge",
+		"en": "Ceruledge"
+	},
+	"descriptions": {
+		"en": "An old set of armor steeped in grudges caused this Pokémon’s evolution. Ceruledge cuts its enemies to pieces without mercy."
+	}
+}

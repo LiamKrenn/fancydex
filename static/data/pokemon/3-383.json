@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "hoenn", "id": 383, "names": {"ja": "グラードン", "ko": "그란돈", "fr": "Groudon", "de": "Groudon", "es": "Groudon", "it": "Groudon", "en": "Groudon"}, "descriptions": {"en": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.", "it": "L’energia della natura può causare l’archeorisveglio di questo Pokémon, facendolo tornare al suo aspetto originario. Può produrre fiumi di magma in grado di espandere le terre emerse.", "es": "Groudon se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede crear magma para expandir los continentes.", "de": "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern.", "fr": "Grâce à l’énergie de la nature, il peut accomplir sa Primo-Résurgence pour retrouver son apparence originelle. Ce pouvoir lui permet de créer du magma pour étendre les continents.", "ko": "자연의 힘에 의해 원시회귀하여 원래의 모습을 되찾는다. 그 힘은 마그마를 만들어내며 대지를 확장한다.", "ja": "しぜんのエネルギーに　よって　ゲンシカイキし ほんらいの　すがたを　とりもどす。そのちからは マグマを　うみだし　だいちを　ひろげる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 383,
+	"names": {
+		"ja": "グラードン",
+		"ko": "그란돈",
+		"fr": "Groudon",
+		"de": "Groudon",
+		"es": "Groudon",
+		"it": "Groudon",
+		"en": "Groudon"
+	},
+	"descriptions": {
+		"en": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+		"it": "L’energia della natura può causare l’archeorisveglio di questo Pokémon, facendolo tornare al suo aspetto originario. Può produrre fiumi di magma in grado di espandere le terre emerse.",
+		"es": "Groudon se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede crear magma para expandir los continentes.",
+		"de": "Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern.",
+		"fr": "Grâce à l’énergie de la nature, il peut accomplir sa Primo-Résurgence pour retrouver son apparence originelle. Ce pouvoir lui permet de créer du magma pour étendre les continents.",
+		"ko": "자연의 힘에 의해 원시회귀하여 원래의 모습을 되찾는다. 그 힘은 마그마를 만들어내며 대지를 확장한다.",
+		"ja": "しぜんのエネルギーに　よって　ゲンシカイキし ほんらいの　すがたを　とりもどす。そのちからは マグマを　うみだし　だいちを　ひろげる。"
+	}
+}

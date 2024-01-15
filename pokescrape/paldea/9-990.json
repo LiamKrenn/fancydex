@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 990,
+	"names": {
+		"ja": "テツノワダチ",
+		"ko": "무쇠바퀴",
+		"fr": "Roue-de-Fer",
+		"de": "Eisenrad",
+		"es": "Ferrodada",
+		"it": "Solcoferreo",
+		"en": "Iron Treads"
+	},
+	"descriptions": {
+		"en": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+	}
+}

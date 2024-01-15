@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "alola", "id": 749, "names": {"ja": "ドロバンコ", "ko": "머드나기", "fr": "Tiboudet", "de": "Pampuli", "es": "Mudbray", "it": "Mudbray", "en": "Mudbray"}, "descriptions": {"en": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.", "it": "Ricoprendosi le zampe con il fango che produce masticando terra riesce a percorrere senza scivolare anche i sentieri più accidentati.", "es": "Tras recubrir sus patas con el lodo que crea masticando tierra, puede recorrer los peores caminos sin temor a resbalar.", "de": "Es frisst Erde und verwandelt sie in Schlamm, den es an seine Hufe schmiert. Damit kann es selbst unwegsames Gelände ohne Rutschen überqueren.", "fr": "Il mâche de la terre pour créer une boue dont il s’enduit les jambes. Celle-ci lui permet alors d’arpenter même les routes accidentées.", "ko": "흙을 먹어서 만든 진흙을 다리에 바르면 험한 길에서도 미끄러지지 않고 걸을 수 있게 된다.", "ja": "つちを　たべて　つくった　どろを あしに　ぬりつけると　あくろでも すべらず　あるけるようになるのだ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 749,
+	"names": {
+		"ja": "ドロバンコ",
+		"ko": "머드나기",
+		"fr": "Tiboudet",
+		"de": "Pampuli",
+		"es": "Mudbray",
+		"it": "Mudbray",
+		"en": "Mudbray"
+	},
+	"descriptions": {
+		"en": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
+		"it": "Ricoprendosi le zampe con il fango che produce masticando terra riesce a percorrere senza scivolare anche i sentieri più accidentati.",
+		"es": "Tras recubrir sus patas con el lodo que crea masticando tierra, puede recorrer los peores caminos sin temor a resbalar.",
+		"de": "Es frisst Erde und verwandelt sie in Schlamm, den es an seine Hufe schmiert. Damit kann es selbst unwegsames Gelände ohne Rutschen überqueren.",
+		"fr": "Il mâche de la terre pour créer une boue dont il s’enduit les jambes. Celle-ci lui permet alors d’arpenter même les routes accidentées.",
+		"ko": "흙을 먹어서 만든 진흙을 다리에 바르면 험한 길에서도 미끄러지지 않고 걸을 수 있게 된다.",
+		"ja": "つちを　たべて　つくった　どろを あしに　ぬりつけると　あくろでも すべらず　あるけるようになるのだ。"
+	}
+}

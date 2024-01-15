@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "eevee"}, "generation": "johto", "id": 133, "names": {"ja": "ブラッキー", "ko": "블래키", "fr": "Noctali", "de": "Nachtara", "es": "Umbreon", "it": "Umbreon", "en": "Umbreon"}, "descriptions": {"en": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.", "it": "I cerchi sul corpo emettono un bagliore giallo quando è agitato o nelle notti di luna piena.", "es": "En las noches de luna llena, o cuando se exalta, le empiezan a brillar los anillos de color dorado.", "de": "Bei Vollmond oder bei Aufregung leuchten die ringförmigen Muster auf seinem Körper gelb auf.", "fr": "Les nuits de pleine lune, ou s’il est agité, les anneaux sur sa peau se mettent à briller.", "ko": "보름달이 뜬 밤이나 흥분했을 때 전신의 고리 무늬가 노랗게 빛난다.", "ja": "まんげつの　よるや　こうふん したとき　ぜんしんの　わっかもようは きいろく　ひかる。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "eevee" },
+	"generation": "johto",
+	"id": 133,
+	"names": {
+		"ja": "ブラッキー",
+		"ko": "블래키",
+		"fr": "Noctali",
+		"de": "Nachtara",
+		"es": "Umbreon",
+		"it": "Umbreon",
+		"en": "Umbreon"
+	},
+	"descriptions": {
+		"en": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
+		"it": "I cerchi sul corpo emettono un bagliore giallo quando è agitato o nelle notti di luna piena.",
+		"es": "En las noches de luna llena, o cuando se exalta, le empiezan a brillar los anillos de color dorado.",
+		"de": "Bei Vollmond oder bei Aufregung leuchten die ringförmigen Muster auf seinem Körper gelb auf.",
+		"fr": "Les nuits de pleine lune, ou s’il est agité, les anneaux sur sa peau se mettent à briller.",
+		"ko": "보름달이 뜬 밤이나 흥분했을 때 전신의 고리 무늬가 노랗게 빛난다.",
+		"ja": "まんげつの　よるや　こうふん したとき　ぜんしんの　わっかもようは きいろく　ひかる。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "kanto", "id": 137, "names": {"ja": "ポリゴン", "ko": "폴리곤", "fr": "Porygon", "de": "Porygon", "es": "Porygon", "it": "Porygon", "en": "Porygon"}, "descriptions": {"en": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.", "it": "Negli ultimi anni ha assunto un ruolo di rilevanza nel cyberspazio, in cui si aggira per assicurarsi che non ci siano dati sospetti.", "es": "Durante los últimos años, ha estado muy activo en el ciberespacio comprobando que no haya datos sospechosos.", "de": "In den letzten Jahren nahm es im Cyberspace bei der Suche nach verdächtigen Daten eine aktive Rolle ein.", "fr": "Ces dernières années, il s’est rendu très utile dans le cyberespace, qu’il arpente pour s’assurer qu’il n’y a aucune donnée suspecte.", "ko": "근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다.", "ja": "きんねんは　でんのう　くうかんで だいかつやく。　あやしい　データが　 ないか　チェックして　まわっている。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 137,
+	"names": {
+		"ja": "ポリゴン",
+		"ko": "폴리곤",
+		"fr": "Porygon",
+		"de": "Porygon",
+		"es": "Porygon",
+		"it": "Porygon",
+		"en": "Porygon"
+	},
+	"descriptions": {
+		"en": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.",
+		"it": "Negli ultimi anni ha assunto un ruolo di rilevanza nel cyberspazio, in cui si aggira per assicurarsi che non ci siano dati sospetti.",
+		"es": "Durante los últimos años, ha estado muy activo en el ciberespacio comprobando que no haya datos sospechosos.",
+		"de": "In den letzten Jahren nahm es im Cyberspace bei der Suche nach verdächtigen Daten eine aktive Rolle ein.",
+		"fr": "Ces dernières années, il s’est rendu très utile dans le cyberespace, qu’il arpente pour s’assurer qu’il n’y a aucune donnée suspecte.",
+		"ko": "근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다.",
+		"ja": "きんねんは　でんのう　くうかんで だいかつやく。　あやしい　データが　 ないか　チェックして　まわっている。"
+	}
+}

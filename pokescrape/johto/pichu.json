@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "johto", "id": 172, "names": {"ja": "ピチュー", "ko": "피츄", "fr": "Pichu", "de": "Pichu", "es": "Pichu", "it": "Pichu", "en": "Pichu"}, "descriptions": {"en": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept.", "it": "Le sacche elettriche sulle sue guance sono molto piccole e, se fuoriesce anche solo un po’ di elettricità, resta fulminato.", "es": "Las bolsas de electricidad de sus mejillas son muy pequeñas y, a poco que se desborden, recibe una fuerte descarga.", "de": "Tritt auch nur eine geringe Menge Elektrizität aus seinen kleinen Backentaschen aus, bekommt es einen Schlag.", "fr": "Les poches électriques de ses joues sont très petites. Lorsqu’elles sont surchargées, il s’électrocute lui-même.", "ko": "볼의 전기 주머니가 작아서 조금이라도 전기가 넘치게 되면 자기 자신이 감전되어 버린다.", "ja": "ほほの　でんきぶくろは　ちいさく ちょっとでも　でんきが　あふれると じぶんじしんが　しびれてしまう。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 172,
+	"names": {
+		"ja": "ピチュー",
+		"ko": "피츄",
+		"fr": "Pichu",
+		"de": "Pichu",
+		"es": "Pichu",
+		"it": "Pichu",
+		"en": "Pichu"
+	},
+	"descriptions": {
+		"en": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept.",
+		"it": "Le sacche elettriche sulle sue guance sono molto piccole e, se fuoriesce anche solo un po’ di elettricità, resta fulminato.",
+		"es": "Las bolsas de electricidad de sus mejillas son muy pequeñas y, a poco que se desborden, recibe una fuerte descarga.",
+		"de": "Tritt auch nur eine geringe Menge Elektrizität aus seinen kleinen Backentaschen aus, bekommt es einen Schlag.",
+		"fr": "Les poches électriques de ses joues sont très petites. Lorsqu’elles sont surchargées, il s’électrocute lui-même.",
+		"ko": "볼의 전기 주머니가 작아서 조금이라도 전기가 넘치게 되면 자기 자신이 감전되어 버린다.",
+		"ja": "ほほの　でんきぶくろは　ちいさく ちょっとでも　でんきが　あふれると じぶんじしんが　しびれてしまう。"
+	}
+}

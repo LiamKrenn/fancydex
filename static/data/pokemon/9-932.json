@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 932,
+	"names": {
+		"ja": "コジオ",
+		"ko": "베베솔트",
+		"fr": "Selutin",
+		"de": "Geosali",
+		"es": "Nacli",
+		"it": "Nacli",
+		"en": "Nacli"
+	},
+	"descriptions": {
+		"en": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body."
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 993,
+	"names": {
+		"ja": "テツノコウベ",
+		"ko": "무쇠머리",
+		"fr": "Têtes-de-Fer",
+		"de": "Eisenhals",
+		"es": "Ferrocuello",
+		"it": "Colloferreo",
+		"en": "Iron Jugulis"
+	},
+	"descriptions": {
+		"en": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+	}
+}

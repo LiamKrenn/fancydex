@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "cosmoem"}, "generation": "alola", "id": 790, "names": {"ja": "ソルガレオ", "ko": "솔가레오", "fr": "Solgaleo", "de": "Solgaleo", "es": "Solgaleo", "it": "Solgaleo", "en": "Solgaleo"}, "descriptions": {"en": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.", "it": "Un tempo veniva chiamato “la creatura che si nutre di sole”. Emana dal corpo un’energia luminosa inesauribile.", "es": "Antiguamente era conocido como la Criatura que se Nutre del Sol. Emite sin cesar una energía luminosa.", "de": "Einst wurde es „Sonnenverschlinger“ genannt. Es strahlt unerschöpfliche Lichtenergie aus.", "fr": "Jadis, on le surnommait « celui qui dévore le soleil ». Une lumière inextinguible rayonne de son corps.", "ko": "태양을 삼키는 짐승이라고 불렸다. 굉장한 양의 빛 에너지를 방출한다.", "ja": "たいようを　くらいし　けもの　と かつて　よばれた。　むじんぞうの ひかりエネルギーを　ほうしゅつする。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "cosmoem" },
+	"generation": "alola",
+	"id": 790,
+	"names": {
+		"ja": "ソルガレオ",
+		"ko": "솔가레오",
+		"fr": "Solgaleo",
+		"de": "Solgaleo",
+		"es": "Solgaleo",
+		"it": "Solgaleo",
+		"en": "Solgaleo"
+	},
+	"descriptions": {
+		"en": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
+		"it": "Un tempo veniva chiamato “la creatura che si nutre di sole”. Emana dal corpo un’energia luminosa inesauribile.",
+		"es": "Antiguamente era conocido como la Criatura que se Nutre del Sol. Emite sin cesar una energía luminosa.",
+		"de": "Einst wurde es „Sonnenverschlinger“ genannt. Es strahlt unerschöpfliche Lichtenergie aus.",
+		"fr": "Jadis, on le surnommait « celui qui dévore le soleil ». Une lumière inextinguible rayonne de son corps.",
+		"ko": "태양을 삼키는 짐승이라고 불렸다. 굉장한 양의 빛 에너지를 방출한다.",
+		"ja": "たいようを　くらいし　けもの　と かつて　よばれた。　むじんぞうの ひかりエネルギーを　ほうしゅつする。"
+	}
+}

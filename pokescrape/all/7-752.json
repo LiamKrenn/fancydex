@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "dewpider"}, "generation": "alola", "id": 751, "names": {"ja": "オニシズクモ", "ko": "깨비물거미", "fr": "Tarenbulle", "de": "Aranestro", "es": "Araquanid", "it": "Araquanid", "en": "Araquanid"}, "descriptions": {"en": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.", "it": "Tiene un Dewpider nella bolla e se ne prende cura lasciando che si nutra dei suoi avanzi.", "es": "Cuida de pequeños Dewpider acogiéndolos en su burbuja de agua y dejando que se alimenten de los restos de las presas que ha ingerido.", "de": "Es lässt Araqua in der Wasserblase um seinen Kopf Platz nehmen und kümmert sich um es, indem es ihm Futterreste überlässt.", "fr": "Il prend soin de petits Araqua en les abritant dans sa bulle et en les laissant grignoter les restes de ses repas.", "ko": "머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐준다.", "ja": "あたまの　すいほうの　なかに シズクモを　いれて　えさの　のこりを たべさせながら　せわを　するのだ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "dewpider" },
+	"generation": "alola",
+	"id": 751,
+	"names": {
+		"ja": "オニシズクモ",
+		"ko": "깨비물거미",
+		"fr": "Tarenbulle",
+		"de": "Aranestro",
+		"es": "Araquanid",
+		"it": "Araquanid",
+		"en": "Araquanid"
+	},
+	"descriptions": {
+		"en": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food.",
+		"it": "Tiene un Dewpider nella bolla e se ne prende cura lasciando che si nutra dei suoi avanzi.",
+		"es": "Cuida de pequeños Dewpider acogiéndolos en su burbuja de agua y dejando que se alimenten de los restos de las presas que ha ingerido.",
+		"de": "Es lässt Araqua in der Wasserblase um seinen Kopf Platz nehmen und kümmert sich um es, indem es ihm Futterreste überlässt.",
+		"fr": "Il prend soin de petits Araqua en les abritant dans sa bulle et en les laissant grignoter les restes de ses repas.",
+		"ko": "머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐준다.",
+		"ja": "あたまの　すいほうの　なかに シズクモを　いれて　えさの　のこりを たべさせながら　せわを　するのだ。"
+	}
+}

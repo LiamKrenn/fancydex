@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": null, "generation": "unova", "id": 613, "names": {"ja": "クマシュン", "ko": "코고미", "fr": "Polarhume", "de": "Petznief", "es": "Cubchoo", "it": "Cubchoo", "en": "Cubchoo"}, "descriptions": {"en": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.", "it": "Prima di sferrare una mossa, tira su con il naso. Il freddo intenso contenuto nel suo muco è alla base delle sue mosse di tipo Ghiaccio.", "es": "Antes de ejecutar un movimiento, se sorbe los mocos. El frío intenso de estos constituye la base de sus movimientos de tipo Hielo.", "de": "Es zieht vor jeder Attacke die Nase hoch. Die extreme Kälte in seinem Nasenschleim liefert die Energie für seine Eis-Attacken.", "fr": "Il renifle avant d’utiliser une capacité. Le froid intense contenu dans sa morve lui permet de lancer les capacités de type Glace.", "ko": "기술을 사용하기 전에 코를 훌쩍인다. 콧물에 포함된 강한 냉기가 얼음 기술의 근원이다.", "ja": "わざを　だすまえに　はなを　すする。 はなみずに　ふくまれる　つよい れいきが　こおりの　わざの　もとだ。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 613,
+	"names": {
+		"ja": "クマシュン",
+		"ko": "코고미",
+		"fr": "Polarhume",
+		"de": "Petznief",
+		"es": "Cubchoo",
+		"it": "Cubchoo",
+		"en": "Cubchoo"
+	},
+	"descriptions": {
+		"en": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+		"it": "Prima di sferrare una mossa, tira su con il naso. Il freddo intenso contenuto nel suo muco è alla base delle sue mosse di tipo Ghiaccio.",
+		"es": "Antes de ejecutar un movimiento, se sorbe los mocos. El frío intenso de estos constituye la base de sus movimientos de tipo Hielo.",
+		"de": "Es zieht vor jeder Attacke die Nase hoch. Die extreme Kälte in seinem Nasenschleim liefert die Energie für seine Eis-Attacken.",
+		"fr": "Il renifle avant d’utiliser une capacité. Le froid intense contenu dans sa morve lui permet de lancer les capacités de type Glace.",
+		"ko": "기술을 사용하기 전에 코를 훌쩍인다. 콧물에 포함된 강한 냉기가 얼음 기술의 근원이다.",
+		"ja": "わざを　だすまえに　はなを　すする。 はなみずに　ふくまれる　つよい れいきが　こおりの　わざの　もとだ。"
+	}
+}

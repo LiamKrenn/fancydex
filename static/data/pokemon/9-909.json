@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 909,
+	"names": {
+		"ja": "ホゲータ",
+		"ko": "뜨아거",
+		"fr": "Chochodile",
+		"de": "Krokel",
+		"es": "Fuecoco",
+		"it": "Fuecoco",
+		"en": "Fuecoco"
+	},
+	"descriptions": {
+		"en": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+	}
+}

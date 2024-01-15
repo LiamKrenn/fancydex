@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "metang"}, "generation": "hoenn", "id": 375, "names": {"ja": "メタグロス", "ko": "메타그로스", "fr": "Métalosse", "de": "Metagross", "es": "Metagross", "it": "Metagross", "en": "Metagross"}, "descriptions": {"en": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.", "it": "È il risultato della fusione di due Metang. Per sconfiggere i nemici si serve del suo cervello, equiparabile a un supercomputer.", "es": "Formado a partir de la unión de dos Metang. Emplea su inteligencia, comparable a la de un superordenador, para derrotar a sus rivales.", "de": "Dieses Pokémon entstand aus der Fusion zweier Metang. Es bezwingt Gegner mithilfe seiner Intelligenz, die der eines Supercomputers gleicht.", "fr": "Né de la fusion de deux Métang, il vient à bout de ses ennemis grâce à son cerveau qui est aussi performant qu’un superordinateur.", "ko": "2마리의 메탕구가 합체한 모습이다. 슈퍼컴퓨터 수준의 두뇌를 사용해 적을 쓰러뜨린다.", "ja": "２ひきの　メタングが　がったいした すがた。　スーパーコンピュータなみの ずのうを　くしして　てきを　たおす。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "metang" },
+	"generation": "hoenn",
+	"id": 375,
+	"names": {
+		"ja": "メタグロス",
+		"ko": "메타그로스",
+		"fr": "Métalosse",
+		"de": "Metagross",
+		"es": "Metagross",
+		"it": "Metagross",
+		"en": "Metagross"
+	},
+	"descriptions": {
+		"en": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.",
+		"it": "È il risultato della fusione di due Metang. Per sconfiggere i nemici si serve del suo cervello, equiparabile a un supercomputer.",
+		"es": "Formado a partir de la unión de dos Metang. Emplea su inteligencia, comparable a la de un superordenador, para derrotar a sus rivales.",
+		"de": "Dieses Pokémon entstand aus der Fusion zweier Metang. Es bezwingt Gegner mithilfe seiner Intelligenz, die der eines Supercomputers gleicht.",
+		"fr": "Né de la fusion de deux Métang, il vient à bout de ses ennemis grâce à son cerveau qui est aussi performant qu’un superordinateur.",
+		"ko": "2마리의 메탕구가 합체한 모습이다. 슈퍼컴퓨터 수준의 두뇌를 사용해 적을 쓰러뜨린다.",
+		"ja": "２ひきの　メタングが　がったいした すがた。　スーパーコンピュータなみの ずのうを　くしして　てきを　たおす。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "girafarig" },
+	"generation": "paldea",
+	"id": 203,
+	"names": {
+		"ja": "リキキリン",
+		"ko": "키키링",
+		"fr": "Farigiraf",
+		"de": "Farigiraf",
+		"es": "Farigiraf",
+		"it": "Farigiraf",
+		"en": "Farigiraf"
+	},
+	"descriptions": {
+		"en": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+	}
+}

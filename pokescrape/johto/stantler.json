@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "johto", "id": 234, "names": {"ja": "オドシシ", "ko": "노라키", "fr": "Cerfrousse", "de": "Damhirplex", "es": "Stantler", "it": "Stantler", "en": "Stantler"}, "descriptions": {"en": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia.", "it": "Le magnifiche corna ramificate di Stantler venivano vendute a caro prezzo come ornamenti preziosi. Questo ha causato una caccia indiscriminata di questo Pokémon fin quasi all’estinzione.", "es": "Hace tiempo, se comerciaba con la magnífica cornamenta de Stantler. Se vendía como obra de arte a alto precio. Los interesados en cornamentas de valor incalculable empezaron a cazarlos y casi provocan su extinción.", "de": "Damhirplex hat ein prächtiges Geweih, für das hohe Preise gezahlt werden. Daher wurde dieses Pokémon gejagt und wäre beinahe ausgestorben.", "fr": "Les superbes bois de Cerfrousse étaient vendus très cher comme œuvres d’art. Ce Pokémon fut chassé et l’espèce proche de l’extinction à cause des gens qui recherchaient leurs précieux bois.", "ko": "멋지게 생긴 뿔은 미술품으로 비싸게 팔리기 때문에 멸종 직전까지 남획됐었던 포켓몬이다.", "ja": "みごとな　かたちの　ツノは　びじゅつひん　として たかく　うれた　ために　ぜつめつ　すんぜんまで らんかくされた　ことのある　ポケモン。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 234,
+	"names": {
+		"ja": "オドシシ",
+		"ko": "노라키",
+		"fr": "Cerfrousse",
+		"de": "Damhirplex",
+		"es": "Stantler",
+		"it": "Stantler",
+		"en": "Stantler"
+	},
+	"descriptions": {
+		"en": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia.",
+		"it": "Le magnifiche corna ramificate di Stantler venivano vendute a caro prezzo come ornamenti preziosi. Questo ha causato una caccia indiscriminata di questo Pokémon fin quasi all’estinzione.",
+		"es": "Hace tiempo, se comerciaba con la magnífica cornamenta de Stantler. Se vendía como obra de arte a alto precio. Los interesados en cornamentas de valor incalculable empezaron a cazarlos y casi provocan su extinción.",
+		"de": "Damhirplex hat ein prächtiges Geweih, für das hohe Preise gezahlt werden. Daher wurde dieses Pokémon gejagt und wäre beinahe ausgestorben.",
+		"fr": "Les superbes bois de Cerfrousse étaient vendus très cher comme œuvres d’art. Ce Pokémon fut chassé et l’espèce proche de l’extinction à cause des gens qui recherchaient leurs précieux bois.",
+		"ko": "멋지게 생긴 뿔은 미술품으로 비싸게 팔리기 때문에 멸종 직전까지 남획됐었던 포켓몬이다.",
+		"ja": "みごとな　かたちの　ツノは　びじゅつひん　として たかく　うれた　ために　ぜつめつ　すんぜんまで らんかくされた　ことのある　ポケモン。"
+	}
+}

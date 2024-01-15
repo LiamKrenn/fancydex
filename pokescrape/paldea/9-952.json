@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "capsakid" },
+	"generation": "paldea",
+	"id": 951,
+	"names": {
+		"ja": "スコヴィラン",
+		"ko": "스코빌런",
+		"fr": "Scovilain",
+		"de": "Halupenjo",
+		"es": "Scovillain",
+		"it": "Scovillain",
+		"en": "Scovillain"
+	},
+	"descriptions": {
+		"en": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+	}
+}

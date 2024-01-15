@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "fidough" },
+	"generation": "paldea",
+	"id": 926,
+	"names": {
+		"ja": "バウッツェル",
+		"ko": "바우첼",
+		"fr": "Briochien",
+		"de": "Backel",
+		"es": "Dachsbun",
+		"it": "Dachsbun",
+		"en": "Dachsbun"
+	},
+	"descriptions": {
+		"en": "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+	}
+}

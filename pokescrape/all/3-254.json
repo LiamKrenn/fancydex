@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "grovyle"}, "generation": "hoenn", "id": 253, "names": {"ja": "ジュカイン", "ko": "나무킹", "fr": "Jungko", "de": "Gewaldro", "es": "Sceptile", "it": "Sceptile", "en": "Sceptile"}, "descriptions": {"en": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.", "it": "Sulla schiena di Sceptile crescono alcuni semi che si dice siano ricchi di nutrienti per gli alberi. Questo Pokémon coltiva amorevolmente le sue piante nella foresta.", "es": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.", "de": "Auf Gewaldros Rücken wachsen Samen. Darin sind Nährstoffe, die Bäume beleben können. Dieses Pokémon achtet mit viel Fürsorge darauf, dass die Bäume seines Waldes prächtig gedeihen.", "fr": "Jungko a des graines qui lui poussent sur le dos. On dit qu’elles regorgent de nutriments qui revitalisent les arbres. Ce Pokémon s’occupe des forêts avec amour.", "ko": "등의 씨앗에는 나무를 건강하게 만드는 영양이 많이 채워져 있다고 전해진다. 숲의 나무를 소중히 키우고 있는 포켓몬이다.", "ja": "せなかの　タネには　じゅもくを　げんきにする えいようが　たくさん　つまっていると　いわれる。 もりの　きを　だいじに　そだてている　ポケモン。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "grovyle" },
+	"generation": "hoenn",
+	"id": 253,
+	"names": {
+		"ja": "ジュカイン",
+		"ko": "나무킹",
+		"fr": "Jungko",
+		"de": "Gewaldro",
+		"es": "Sceptile",
+		"it": "Sceptile",
+		"en": "Sceptile"
+	},
+	"descriptions": {
+		"en": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
+		"it": "Sulla schiena di Sceptile crescono alcuni semi che si dice siano ricchi di nutrienti per gli alberi. Questo Pokémon coltiva amorevolmente le sue piante nella foresta.",
+		"es": "A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.",
+		"de": "Auf Gewaldros Rücken wachsen Samen. Darin sind Nährstoffe, die Bäume beleben können. Dieses Pokémon achtet mit viel Fürsorge darauf, dass die Bäume seines Waldes prächtig gedeihen.",
+		"fr": "Jungko a des graines qui lui poussent sur le dos. On dit qu’elles regorgent de nutriments qui revitalisent les arbres. Ce Pokémon s’occupe des forêts avec amour.",
+		"ko": "등의 씨앗에는 나무를 건강하게 만드는 영양이 많이 채워져 있다고 전해진다. 숲의 나무를 소중히 키우고 있는 포켓몬이다.",
+		"ja": "せなかの　タネには　じゅもくを　げんきにする えいようが　たくさん　つまっていると　いわれる。 もりの　きを　だいじに　そだてている　ポケモン。"
+	}
+}

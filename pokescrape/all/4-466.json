@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "electabuzz"}, "generation": "sinnoh", "id": 125, "names": {"ja": "エレキブル", "ko": "에레키블", "fr": "Élekable", "de": "Elevoltek", "es": "Electivire", "it": "Electivire", "en": "Electivire"}, "descriptions": {"en": "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts.", "it": "È uno dei Pokémon di tipo Elettro che producono più elettricità. Rilascia scariche ad alto voltaggio dalla punta delle code.", "es": "Es de los Pokémon de tipo Eléctrico que más electricidad producen. Genera una corriente de alta tensión desde las puntas de las colas.", "de": "Elevoltek gehört zu jenen Elektro-Pokémon, die den meisten Strom erzeugen können. Mit seinen Schweifspitzen entlädt es Starkstrom.", "fr": "La quantité d’électricité qu’il génère est énorme, même pour un Pokémon Électrik. Il inflige de fortes décharges du bout de ses queues.", "ko": "발전량은 전기포켓몬 중에서도 손꼽히는 수준이다. 꼬리 끝에서 고압 전류를 방전한다.", "ja": "はつでんりょうは　でんきポケモン さいこうクラス。　しっぽの　さきから こうあつでんりゅうを　ほうでんする。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "electabuzz" },
+	"generation": "sinnoh",
+	"id": 125,
+	"names": {
+		"ja": "エレキブル",
+		"ko": "에레키블",
+		"fr": "Élekable",
+		"de": "Elevoltek",
+		"es": "Electivire",
+		"it": "Electivire",
+		"en": "Electivire"
+	},
+	"descriptions": {
+		"en": "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts.",
+		"it": "È uno dei Pokémon di tipo Elettro che producono più elettricità. Rilascia scariche ad alto voltaggio dalla punta delle code.",
+		"es": "Es de los Pokémon de tipo Eléctrico que más electricidad producen. Genera una corriente de alta tensión desde las puntas de las colas.",
+		"de": "Elevoltek gehört zu jenen Elektro-Pokémon, die den meisten Strom erzeugen können. Mit seinen Schweifspitzen entlädt es Starkstrom.",
+		"fr": "La quantité d’électricité qu’il génère est énorme, même pour un Pokémon Électrik. Il inflige de fortes décharges du bout de ses queues.",
+		"ko": "발전량은 전기포켓몬 중에서도 손꼽히는 수준이다. 꼬리 끝에서 고압 전류를 방전한다.",
+		"ja": "はつでんりょうは　でんきポケモン さいこうクラス。　しっぽの　さきから こうあつでんりゅうを　ほうでんする。"
+	}
+}

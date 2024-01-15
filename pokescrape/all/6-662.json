@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "fletchling"}, "generation": "kalos", "id": 661, "names": {"ja": "ヒノヤコマ", "ko": "불화살빈", "fr": "Braisillon", "de": "Dartignis", "es": "Fletchinder", "it": "Fletchinder", "en": "Fletchinder"}, "descriptions": {"en": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.", "it": "È molto territoriale e aggressivo. Si contende il territorio di caccia con gli altri Fletchinder.", "es": "Defienden su territorio con suma agresividad. Se pelean entre sí por el control de las áreas de caza.", "de": "Dieses kriegerische Pokémon hat ein stark ausgeprägtes Revierverhalten. Es kämpft mit anderen Dartignis um Futterplätze.", "fr": "De nature belliqueuse, il dispose d’un fort instinct territorial. Quand il chasse, il se dispute régulièrement les proies avec ses congénères.", "ko": "영역에 대한 개념이 매우 강하고 호전적이다. 먹이 먹는 장소를 두고 불화살빈끼리 싸운다.", "ja": "なわばりいしきが　とても　つよく こうせんてき。　えさばを　めぐり ヒノヤコマどうしで　あらそう。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "fletchling" },
+	"generation": "kalos",
+	"id": 661,
+	"names": {
+		"ja": "ヒノヤコマ",
+		"ko": "불화살빈",
+		"fr": "Braisillon",
+		"de": "Dartignis",
+		"es": "Fletchinder",
+		"it": "Fletchinder",
+		"en": "Fletchinder"
+	},
+	"descriptions": {
+		"en": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.",
+		"it": "È molto territoriale e aggressivo. Si contende il territorio di caccia con gli altri Fletchinder.",
+		"es": "Defienden su territorio con suma agresividad. Se pelean entre sí por el control de las áreas de caza.",
+		"de": "Dieses kriegerische Pokémon hat ein stark ausgeprägtes Revierverhalten. Es kämpft mit anderen Dartignis um Futterplätze.",
+		"fr": "De nature belliqueuse, il dispose d’un fort instinct territorial. Quand il chasse, il se dispute régulièrement les proies avec ses congénères.",
+		"ko": "영역에 대한 개념이 매우 강하고 호전적이다. 먹이 먹는 장소를 두고 불화살빈끼리 싸운다.",
+		"ja": "なわばりいしきが　とても　つよく こうせんてき。　えさばを　めぐり ヒノヤコマどうしで　あらそう。"
+	}
+}

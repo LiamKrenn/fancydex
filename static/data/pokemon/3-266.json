@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "wurmple"}, "generation": "hoenn", "id": 265, "names": {"ja": "カラサリス", "ko": "실쿤", "fr": "Armulys", "de": "Schaloko", "es": "Silcoon", "it": "Silcoon", "en": "Silcoon"}, "descriptions": {"en": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard.", "it": "In passato si pensava che Silcoon resistesse alla fame senza ingerire nulla fino all’evoluzione. Tuttavia, ora si presume che il Pokémon plachi la sua sete bevendo l’acqua piovana che si posa sul suo bozzolo.", "es": "Se pensaba que Silcoon podía aguantar el hambre y no consumir nada antes de evolucionar. Sin embargo, ahora se cree que sacia su sed bebiendo el agua de la lluvia que se le queda sobre la seda del capullo.", "de": "Bisher nahm man an, dass Schaloko vor seiner Entwicklung hungert und überhaupt nichts zu sich nimmt. Nun aber wird behauptet, dass es seinen Durst mit Regenwasser löscht, das sich auf seiner seidigen Hülle sammelt.", "fr": "On pensait qu’Armulys pouvait résister à la faim et ne consommait rien avant son évolution. On sait maintenant que ce Pokémon étanche sa soif en récupérant l’eau de pluie déposée sur sa soie.", "ko": "진화할 때까지 아무것도 먹지 않고 참는 것으로 여겨져 왔으나 아무래도 실에 맺힌 빗방울로 갈증을 푸는 것 같다.", "ja": "しんかするまで　なにも　たべずに　たえていると かんがえられていたが　どうやら　いとに　ついた あまみずで　かわきを　いやしているらしい。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "wurmple" },
+	"generation": "hoenn",
+	"id": 265,
+	"names": {
+		"ja": "カラサリス",
+		"ko": "실쿤",
+		"fr": "Armulys",
+		"de": "Schaloko",
+		"es": "Silcoon",
+		"it": "Silcoon",
+		"en": "Silcoon"
+	},
+	"descriptions": {
+		"en": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard.",
+		"it": "In passato si pensava che Silcoon resistesse alla fame senza ingerire nulla fino all’evoluzione. Tuttavia, ora si presume che il Pokémon plachi la sua sete bevendo l’acqua piovana che si posa sul suo bozzolo.",
+		"es": "Se pensaba que Silcoon podía aguantar el hambre y no consumir nada antes de evolucionar. Sin embargo, ahora se cree que sacia su sed bebiendo el agua de la lluvia que se le queda sobre la seda del capullo.",
+		"de": "Bisher nahm man an, dass Schaloko vor seiner Entwicklung hungert und überhaupt nichts zu sich nimmt. Nun aber wird behauptet, dass es seinen Durst mit Regenwasser löscht, das sich auf seiner seidigen Hülle sammelt.",
+		"fr": "On pensait qu’Armulys pouvait résister à la faim et ne consommait rien avant son évolution. On sait maintenant que ce Pokémon étanche sa soif en récupérant l’eau de pluie déposée sur sa soie.",
+		"ko": "진화할 때까지 아무것도 먹지 않고 참는 것으로 여겨져 왔으나 아무래도 실에 맺힌 빗방울로 갈증을 푸는 것 같다.",
+		"ja": "しんかするまで　なにも　たべずに　たえていると かんがえられていたが　どうやら　いとに　ついた あまみずで　かわきを　いやしているらしい。"
+	}
+}

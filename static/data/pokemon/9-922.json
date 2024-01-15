@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "pawmi" },
+	"generation": "paldea",
+	"id": 921,
+	"names": {
+		"ja": "パモット",
+		"ko": "빠모트",
+		"fr": "Pohmotte",
+		"de": "Pamamo",
+		"es": "Pawmo",
+		"it": "Pawmo",
+		"en": "Pawmo"
+	},
+	"descriptions": {
+		"en": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+	}
+}

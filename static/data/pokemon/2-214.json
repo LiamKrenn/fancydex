@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "johto", "id": 214, "names": {"ja": "ヘラクロス", "ko": "헤라크로스", "fr": "Scarhino", "de": "Skaraborn", "es": "Heracross", "it": "Heracross", "en": "Heracross"}, "descriptions": {"en": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.", "it": "Questo Pokémon va molto fiero della sua forza erculea, che gli permette di sollevare senza fatica oggetti 100 volte più pesanti di lui.", "es": "Este Pokémon muestra una fuerza hercúlea, que le permite levantar cien veces su propio peso sin inmutarse.", "de": "Dieses Pokémon ist stolz auf seine Stärke. Es kann mit Leichtigkeit das Hundertfache seines eigenen Körpergewichts stemmen.", "fr": "Ce Pokémon est fier de sa force colossale qui lui permet de soulever cent fois son propre poids avec facilité.", "ko": "자신 몸무게의 100배에 달하는 무게도 거뜬히 들어 올리는 괴력을 자랑하는 포켓몬이다.", "ja": "じぶんの　たいじゅうの　１００ばいの おもさでも　かるがる　もちあげる かいりき　じまんの　ポケモン。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 214,
+	"names": {
+		"ja": "ヘラクロス",
+		"ko": "헤라크로스",
+		"fr": "Scarhino",
+		"de": "Skaraborn",
+		"es": "Heracross",
+		"it": "Heracross",
+		"en": "Heracross"
+	},
+	"descriptions": {
+		"en": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
+		"it": "Questo Pokémon va molto fiero della sua forza erculea, che gli permette di sollevare senza fatica oggetti 100 volte più pesanti di lui.",
+		"es": "Este Pokémon muestra una fuerza hercúlea, que le permite levantar cien veces su propio peso sin inmutarse.",
+		"de": "Dieses Pokémon ist stolz auf seine Stärke. Es kann mit Leichtigkeit das Hundertfache seines eigenen Körpergewichts stemmen.",
+		"fr": "Ce Pokémon est fier de sa force colossale qui lui permet de soulever cent fois son propre poids avec facilité.",
+		"ko": "자신 몸무게의 100배에 달하는 무게도 거뜬히 들어 올리는 괴력을 자랑하는 포켓몬이다.",
+		"ja": "じぶんの　たいじゅうの　１００ばいの おもさでも　かるがる　もちあげる かいりき　じまんの　ポケモン。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "pichu"}, "generation": "kanto", "id": 172, "names": {"ja": "ピカチュウ", "ko": "피카츄", "fr": "Pikachu", "de": "Pikachu", "es": "Pikachu", "it": "Pikachu", "en": "Pikachu"}, "descriptions": {"en": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.", "it": "I Pikachu si salutano fra loro unendo le code e facendovi passare elettricità attraverso.", "es": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.", "de": "Pikachu begrüßen einander, indem sie ihre Schweife aneinanderreiben und eine Ladung Strom durch diese gleiten lassen.", "fr": "Les Pikachu se disent bonjour en se frottant la queue et en y faisant passer du courant électrique.", "ko": "서로의 꼬리를 붙여서 전기를 흐르게 하는 게 피카츄 사이의 인사법이다.", "ja": "おたがいの　しっぽを　くっつけて でんきを　ながしあうのが ピカチュウ　どうしの　あいさつだ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "pichu" },
+	"generation": "kanto",
+	"id": 172,
+	"names": {
+		"ja": "ピカチュウ",
+		"ko": "피카츄",
+		"fr": "Pikachu",
+		"de": "Pikachu",
+		"es": "Pikachu",
+		"it": "Pikachu",
+		"en": "Pikachu"
+	},
+	"descriptions": {
+		"en": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.",
+		"it": "I Pikachu si salutano fra loro unendo le code e facendovi passare elettricità attraverso.",
+		"es": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
+		"de": "Pikachu begrüßen einander, indem sie ihre Schweife aneinanderreiben und eine Ladung Strom durch diese gleiten lassen.",
+		"fr": "Les Pikachu se disent bonjour en se frottant la queue et en y faisant passer du courant électrique.",
+		"ko": "서로의 꼬리를 붙여서 전기를 흐르게 하는 게 피카츄 사이의 인사법이다.",
+		"ja": "おたがいの　しっぽを　くっつけて でんきを　ながしあうのが ピカチュウ　どうしの　あいさつだ。"
+	}
+}

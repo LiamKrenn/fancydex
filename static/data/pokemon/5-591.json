@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "foongus"}, "generation": "unova", "id": 590, "names": {"ja": "モロバレル", "ko": "뽀록나", "fr": "Gaulet", "de": "Hutsassa", "es": "Amoonguss", "it": "Amoonguss", "en": "Amoonguss"}, "descriptions": {"en": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.", "it": "Generalmente non si muove molto. Di solito si limita a stare immobile vicino a qualche Poké Ball caduta.", "es": "Por lo general no se mueve demasiado. Suele permanecer quieto al lado de Poké Balls que haya por el suelo.", "de": "Die meiste Zeit über bewegt es sich kaum und steht einfach nur regungslos neben Pokébällen, die am Boden liegen.", "fr": "Ce Pokémon a tendance à très peu se déplacer. Quand il voit une Poké Ball abandonnée au sol, il reste immobile à côté.", "ko": "평상시에는 잘 움직이지 않는다. 떨어져 있는 몬스터볼 옆에서 그저 가만히 대기할 뿐이다.", "ja": "ふだんは　あんまり　うごかない。 おちている　モンスターボールの そばで　ただじっと　している。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "foongus" },
+	"generation": "unova",
+	"id": 590,
+	"names": {
+		"ja": "モロバレル",
+		"ko": "뽀록나",
+		"fr": "Gaulet",
+		"de": "Hutsassa",
+		"es": "Amoonguss",
+		"it": "Amoonguss",
+		"en": "Amoonguss"
+	},
+	"descriptions": {
+		"en": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
+		"it": "Generalmente non si muove molto. Di solito si limita a stare immobile vicino a qualche Poké Ball caduta.",
+		"es": "Por lo general no se mueve demasiado. Suele permanecer quieto al lado de Poké Balls que haya por el suelo.",
+		"de": "Die meiste Zeit über bewegt es sich kaum und steht einfach nur regungslos neben Pokébällen, die am Boden liegen.",
+		"fr": "Ce Pokémon a tendance à très peu se déplacer. Quand il voit une Poké Ball abandonnée au sol, il reste immobile à côté.",
+		"ko": "평상시에는 잘 움직이지 않는다. 떨어져 있는 몬스터볼 옆에서 그저 가만히 대기할 뿐이다.",
+		"ja": "ふだんは　あんまり　うごかない。 おちている　モンスターボールの そばで　ただじっと　している。"
+	}
+}

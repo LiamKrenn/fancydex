@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "applin" },
+	"generation": "paldea",
+	"id": 840,
+	"names": {
+		"ja": "カミッチュ",
+		"ko": "과미르",
+		"fr": "Pomdramour",
+		"de": "Sirapfel",
+		"es": "Dipplin",
+		"it": "Dipplin",
+		"en": "Dipplin"
+	},
+	"descriptions": {}
+}

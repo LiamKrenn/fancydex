@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "kalos", "id": 686, "names": {"ja": "マーイーカ", "ko": "오케이징", "fr": "Sepiatop", "de": "Iscalar", "es": "Inkay", "it": "Inkay", "en": "Inkay"}, "descriptions": {"en": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.", "it": "Fa perdere ai nemici lo spirito combattivo grazie alla luce lampeggiante che emette dal suo corpo e ne approfitta per scappare.", "es": "Los destellos de luz intermitente que emite aplacan el ánimo de lucha del enemigo, tras lo que aprovecha para esconderse.", "de": "Es lässt die Punkte auf seinem Körper blinken, um Gegnern den Kampfeswillen zu rauben. Diesen Moment nutzt es dann, um zu fliehen.", "fr": "Il sape la combativité de son adversaire en faisant clignoter son corps lumineux, puis profite de cet instant de répit pour s’enfuir.", "ko": "상대를 향해 발광체를 깜빡여서 전의를 상실시킨다. 그 틈에 도망간다.", "ja": "てきに　はっこうたいの　てんめつを あびせて　せんいを　なくしてしまう。 その　すきに　にげだすのだ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 686,
+	"names": {
+		"ja": "マーイーカ",
+		"ko": "오케이징",
+		"fr": "Sepiatop",
+		"de": "Iscalar",
+		"es": "Inkay",
+		"it": "Inkay",
+		"en": "Inkay"
+	},
+	"descriptions": {
+		"en": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
+		"it": "Fa perdere ai nemici lo spirito combattivo grazie alla luce lampeggiante che emette dal suo corpo e ne approfitta per scappare.",
+		"es": "Los destellos de luz intermitente que emite aplacan el ánimo de lucha del enemigo, tras lo que aprovecha para esconderse.",
+		"de": "Es lässt die Punkte auf seinem Körper blinken, um Gegnern den Kampfeswillen zu rauben. Diesen Moment nutzt es dann, um zu fliehen.",
+		"fr": "Il sape la combativité de son adversaire en faisant clignoter son corps lumineux, puis profite de cet instant de répit pour s’enfuir.",
+		"ko": "상대를 향해 발광체를 깜빡여서 전의를 상실시킨다. 그 틈에 도망간다.",
+		"ja": "てきに　はっこうたいの　てんめつを あびせて　せんいを　なくしてしまう。 その　すきに　にげだすのだ。"
+	}
+}

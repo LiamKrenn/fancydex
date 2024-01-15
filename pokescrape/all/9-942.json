@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 942,
+	"names": {
+		"ja": "オラチフ",
+		"ko": "오라티프",
+		"fr": "Grondogue",
+		"de": "Mobtiff",
+		"es": "Maschiff",
+		"it": "Maschiff",
+		"en": "Maschiff"
+	},
+	"descriptions": {
+		"en": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+	}
+}

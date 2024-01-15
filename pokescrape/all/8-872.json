@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": null, "generation": "galar", "id": 872, "names": {"ja": "ユキハミ", "ko": "누니머기", "fr": "Frissonille", "de": "Snomnom", "es": "Snom", "it": "Snom", "en": "Snom"}, "descriptions": {"en": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.", "it": "Si nutre della neve accumulatasi sul terreno. Più ne mangia, più gli aculei sul suo dorso diventano grandi.", "es": "Se nutre de la nieve acumulada en el terreno. Cuanta más ingiere, más imponentes se vuelven las púas que presenta en el lomo.", "de": "Es frisst den Schnee, der sich am Boden angesammelt hat. Je mehr es frisst, desto größer werden die Stacheln auf seinem Rücken.", "fr": "Il se nourrit de la neige entassée sur le sol. Plus il en mange, plus les épines sur son dos grandissent.", "ko": "땅에 쌓인 눈을 먹는다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자란다.", "ja": "じめんに　つもった　ゆきを　たべる。 たくさん　たべれば　たべるほど せなかの　トゲは　りっぱに　そだつ。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 872,
+	"names": {
+		"ja": "ユキハミ",
+		"ko": "누니머기",
+		"fr": "Frissonille",
+		"de": "Snomnom",
+		"es": "Snom",
+		"it": "Snom",
+		"en": "Snom"
+	},
+	"descriptions": {
+		"en": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+		"it": "Si nutre della neve accumulatasi sul terreno. Più ne mangia, più gli aculei sul suo dorso diventano grandi.",
+		"es": "Se nutre de la nieve acumulada en el terreno. Cuanta más ingiere, más imponentes se vuelven las púas que presenta en el lomo.",
+		"de": "Es frisst den Schnee, der sich am Boden angesammelt hat. Je mehr es frisst, desto größer werden die Stacheln auf seinem Rücken.",
+		"fr": "Il se nourrit de la neige entassée sur le sol. Plus il en mange, plus les épines sur son dos grandissent.",
+		"ko": "땅에 쌓인 눈을 먹는다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자란다.",
+		"ja": "じめんに　つもった　ゆきを　たべる。 たくさん　たべれば　たべるほど せなかの　トゲは　りっぱに　そだつ。"
+	}
+}

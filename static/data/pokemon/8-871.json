@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "galar", "id": 871, "names": {"ja": "バチンウニ", "ko": "찌르성게", "fr": "Wattapik", "de": "Britzigel", "es": "Pincurchin", "it": "Pincurchin", "en": "Pincurchin"}, "descriptions": {"en": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.", "it": "Ogni singolo aculeo è carico di elettricità. Quando se ne rompe uno, continua a emettere scariche elettriche per tre ore.", "es": "Acumula electricidad en cada una de sus púas. Aunque estas se rompan, son capaces de seguir descargando energía durante 3 h.", "de": "In jedem einzelnen seiner Stacheln speichert es Elektrizität. Selbst abgebrochene Stacheln sind noch drei Stunden lang geladen.", "fr": "Chacune de ses épines est chargée en électricité. S’il en perd une, celle-ci continue d’émettre un courant électrique pendant trois heures.", "ko": "가시 하나하나에 전기를 비축하고 있다. 부러진 가시도 3시간 동안 방전을 계속한다.", "ja": "トゲの　１ぽん　１ぽんに　でんきを たくわえる。　おれた　トゲでも ３じかんは　ほうでんを　つづけるぞ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 871,
+	"names": {
+		"ja": "バチンウニ",
+		"ko": "찌르성게",
+		"fr": "Wattapik",
+		"de": "Britzigel",
+		"es": "Pincurchin",
+		"it": "Pincurchin",
+		"en": "Pincurchin"
+	},
+	"descriptions": {
+		"en": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
+		"it": "Ogni singolo aculeo è carico di elettricità. Quando se ne rompe uno, continua a emettere scariche elettriche per tre ore.",
+		"es": "Acumula electricidad en cada una de sus púas. Aunque estas se rompan, son capaces de seguir descargando energía durante 3 h.",
+		"de": "In jedem einzelnen seiner Stacheln speichert es Elektrizität. Selbst abgebrochene Stacheln sind noch drei Stunden lang geladen.",
+		"fr": "Chacune de ses épines est chargée en électricité. S’il en perd une, celle-ci continue d’émettre un courant électrique pendant trois heures.",
+		"ko": "가시 하나하나에 전기를 비축하고 있다. 부러진 가시도 3시간 동안 방전을 계속한다.",
+		"ja": "トゲの　１ぽん　１ぽんに　でんきを たくわえる。　おれた　トゲでも ３じかんは　ほうでんを　つづけるぞ。"
+	}
+}

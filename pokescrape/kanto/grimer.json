@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "kanto", "id": 88, "names": {"ja": "ベトベター", "ko": "질퍽이", "fr": "Tadmorv", "de": "Sleima", "es": "Grimer", "it": "Grimer", "en": "Grimer"}, "descriptions": {"en": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.", "it": "Formato da fanghi tossici solidificati, emana un tanfo nauseabondo ed è impossibile toccarlo. Dove passa lui non cresce più nemmeno l’erba.", "es": "Está hecho de lodo endurecido. Pocos se atreven a tocarlo debido a su pestilencia y composición nociva. Allá por donde pasa no crece la hierba.", "de": "Sleima ist aus erhärtetem Schlamm entstanden. Es riecht sehr penetrant und man sollte es nicht berühren. Wo es hintritt, wächst kein Gras mehr.", "fr": "Ce tas de fange sent si mauvais qu’il est impossible de le toucher. Plus rien ne pousse dans son sillage putride.", "ko": "진흙이 뭉쳐져서 태어났다. 악취 때문에 건드릴 엄두가 안 나고 지나간 자리에는 풀 한 포기 나지 않는다.", "ja": "ヘドロが　かたまって　うまれた。 くさくて　さわることが　できないし とおったあとには　くさも　はえない。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 88,
+	"names": {
+		"ja": "ベトベター",
+		"ko": "질퍽이",
+		"fr": "Tadmorv",
+		"de": "Sleima",
+		"es": "Grimer",
+		"it": "Grimer",
+		"en": "Grimer"
+	},
+	"descriptions": {
+		"en": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+		"it": "Formato da fanghi tossici solidificati, emana un tanfo nauseabondo ed è impossibile toccarlo. Dove passa lui non cresce più nemmeno l’erba.",
+		"es": "Está hecho de lodo endurecido. Pocos se atreven a tocarlo debido a su pestilencia y composición nociva. Allá por donde pasa no crece la hierba.",
+		"de": "Sleima ist aus erhärtetem Schlamm entstanden. Es riecht sehr penetrant und man sollte es nicht berühren. Wo es hintritt, wächst kein Gras mehr.",
+		"fr": "Ce tas de fange sent si mauvais qu’il est impossible de le toucher. Plus rien ne pousse dans son sillage putride.",
+		"ko": "진흙이 뭉쳐져서 태어났다. 악취 때문에 건드릴 엄두가 안 나고 지나간 자리에는 풀 한 포기 나지 않는다.",
+		"ja": "ヘドロが　かたまって　うまれた。 くさくて　さわることが　できないし とおったあとには　くさも　はえない。"
+	}
+}

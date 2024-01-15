@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "johto", "id": 165, "names": {"ja": "レディバ", "ko": "레디바", "fr": "Coxy", "de": "Ledyba", "es": "Ledyba", "it": "Ledyba", "en": "Ledyba"}, "descriptions": {"en": "These very cowardly Pokémon join together and use Reflect to protect their nest.", "it": "È un Pokémon incredibilmente timido. Protegge il nido usando Riflesso assieme ai suoi simili.", "es": "Un Pokémon bastante temeroso. Junto con sus congéneres, protege su nido usando Reflejo.", "de": "Es ist ein sehr scheues Pokémon. Gemeinsam mit seinen Artgenossen nutzt es Reflektor, um sein Nest zu beschützen.", "fr": "Extrêmement timide, ce Pokémon défend le nid qu’il partage avec ses congénères en utilisant Protection.", "ko": "매우 겁이 많은 포켓몬이다. 동료와 함께 리플렉터를 펼쳐서 보금자리를 지키고 있다.", "ja": "とっても　おくびょうな　ポケモン。 なかまと　いっしょに　リフレクターを はって　すを　まもって　いるのだ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 165,
+	"names": {
+		"ja": "レディバ",
+		"ko": "레디바",
+		"fr": "Coxy",
+		"de": "Ledyba",
+		"es": "Ledyba",
+		"it": "Ledyba",
+		"en": "Ledyba"
+	},
+	"descriptions": {
+		"en": "These very cowardly Pokémon join together and use Reflect to protect their nest.",
+		"it": "È un Pokémon incredibilmente timido. Protegge il nido usando Riflesso assieme ai suoi simili.",
+		"es": "Un Pokémon bastante temeroso. Junto con sus congéneres, protege su nido usando Reflejo.",
+		"de": "Es ist ein sehr scheues Pokémon. Gemeinsam mit seinen Artgenossen nutzt es Reflektor, um sein Nest zu beschützen.",
+		"fr": "Extrêmement timide, ce Pokémon défend le nid qu’il partage avec ses congénères en utilisant Protection.",
+		"ko": "매우 겁이 많은 포켓몬이다. 동료와 함께 리플렉터를 펼쳐서 보금자리를 지키고 있다.",
+		"ja": "とっても　おくびょうな　ポケモン。 なかまと　いっしょに　リフレクターを はって　すを　まもって　いるのだ。"
+	}
+}

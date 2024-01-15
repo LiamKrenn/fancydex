@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "johto", "id": 155, "names": {"ja": "ヒノアラシ", "ko": "브케인", "fr": "Héricendre", "de": "Feurigel", "es": "Cyndaquil", "it": "Cyndaquil", "en": "Cyndaquil"}, "descriptions": {"en": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.", "it": "Cyndaquil si protegge grazie alle fiamme che gli ardono sul dorso. Le fiamme divampano impetuose se il Pokémon è adirato. Tuttavia, quando è stanco diventano fiammelle innocue dalla combustione incompleta.", "es": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.", "de": "Feurigel lässt Flammen aus seinem Rücken lodern, wenn es sich schützen muss. Die Flammen sind sehr stark, wenn dieses Pokémon wütend ist. Ist es aber müde, flackern die Flammen nur unregelmäßig und schwach.", "fr": "Héricendre se protège en faisant jaillir des flammes de son dos. Ces flammes peuvent être violentes si le Pokémon est en colère. Cependant, s’il est fatigué, seules quelques flammèches vacillent laborieusement.", "ko": "등에서 불꽃을 내뿜어 몸을 지킨다. 화났을 때의 불꽃은 기운차지만 지쳤을 때는 불완전연소한다.", "ja": "せなかから　ほのおを　ふきあげて　みを　まもる。 おこった　ときの　ほのおは　いきおいが　いいが つかれている　ときは　ふかんぜんねんしょうする。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 155,
+	"names": {
+		"ja": "ヒノアラシ",
+		"ko": "브케인",
+		"fr": "Héricendre",
+		"de": "Feurigel",
+		"es": "Cyndaquil",
+		"it": "Cyndaquil",
+		"en": "Cyndaquil"
+	},
+	"descriptions": {
+		"en": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.",
+		"it": "Cyndaquil si protegge grazie alle fiamme che gli ardono sul dorso. Le fiamme divampano impetuose se il Pokémon è adirato. Tuttavia, quando è stanco diventano fiammelle innocue dalla combustione incompleta.",
+		"es": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+		"de": "Feurigel lässt Flammen aus seinem Rücken lodern, wenn es sich schützen muss. Die Flammen sind sehr stark, wenn dieses Pokémon wütend ist. Ist es aber müde, flackern die Flammen nur unregelmäßig und schwach.",
+		"fr": "Héricendre se protège en faisant jaillir des flammes de son dos. Ces flammes peuvent être violentes si le Pokémon est en colère. Cependant, s’il est fatigué, seules quelques flammèches vacillent laborieusement.",
+		"ko": "등에서 불꽃을 내뿜어 몸을 지킨다. 화났을 때의 불꽃은 기운차지만 지쳤을 때는 불완전연소한다.",
+		"ja": "せなかから　ほのおを　ふきあげて　みを　まもる。 おこった　ときの　ほのおは　いきおいが　いいが つかれている　ときは　ふかんぜんねんしょうする。"
+	}
+}

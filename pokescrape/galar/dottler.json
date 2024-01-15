@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "blipbug"}, "generation": "galar", "id": 824, "names": {"ja": "レドームシ", "ko": "레돔벌레", "fr": "Coléodôme", "de": "Keradar", "es": "Dottler", "it": "Dottler", "en": "Dottler"}, "descriptions": {"en": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.", "it": "Continua a crescere dentro il suo guscio. In attesa dell’evoluzione, percepisce il mondo esterno grazie ai suoi poteri psichici.", "es": "Está en constante crecimiento dentro del caparazón. Mientras se prepara para evolucionar, examina el exterior con sus poderes psíquicos.", "de": "Im Inneren seines Panzers wächst es. Während es sich auf die Entwicklung vorbereitet, prüft es mit seinen Psycho-Kräften, was im Freien geschieht.", "fr": "Il se développe dans sa coquille et se prépare à évoluer en sondant les alentours grâce à ses pouvoirs psychiques.", "ko": "껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.", "ja": "からの　なかで　せいちょうちゅう。 サイコパワーで　そとの　ようすを うかがい　しんかに　そなえている。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "blipbug" },
+	"generation": "galar",
+	"id": 824,
+	"names": {
+		"ja": "レドームシ",
+		"ko": "레돔벌레",
+		"fr": "Coléodôme",
+		"de": "Keradar",
+		"es": "Dottler",
+		"it": "Dottler",
+		"en": "Dottler"
+	},
+	"descriptions": {
+		"en": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
+		"it": "Continua a crescere dentro il suo guscio. In attesa dell’evoluzione, percepisce il mondo esterno grazie ai suoi poteri psichici.",
+		"es": "Está en constante crecimiento dentro del caparazón. Mientras se prepara para evolucionar, examina el exterior con sus poderes psíquicos.",
+		"de": "Im Inneren seines Panzers wächst es. Während es sich auf die Entwicklung vorbereitet, prüft es mit seinen Psycho-Kräften, was im Freien geschieht.",
+		"fr": "Il se développe dans sa coquille et se prépare à évoluer en sondant les alentours grâce à ses pouvoirs psychiques.",
+		"ko": "껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.",
+		"ja": "からの　なかで　せいちょうちゅう。 サイコパワーで　そとの　ようすを うかがい　しんかに　そなえている。"
+	}
+}

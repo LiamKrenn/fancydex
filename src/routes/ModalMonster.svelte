@@ -59,8 +59,10 @@
 	>
 		{#if !mon}
 			{langs[lang].loading}
-		{:else}
+		{:else if mon.descriptions[lang] == 'undefined'}
 			{mon.descriptions[lang]}
+		{:else}
+			{langs[lang].descr_not_avail}
 		{/if}
 	</div>
 </div>

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "yanma"}, "generation": "sinnoh", "id": 193, "names": {"ja": "メガヤンマ", "ko": "메가자리", "fr": "Yanmega", "de": "Yanmega", "es": "Yanmega", "it": "Yanmega", "en": "Yanmega"}, "descriptions": {"en": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.", "it": "Riesce a volare comodamente anche trasportando un adulto con le sue sei zampe. Si bilancia con la coda.", "es": "Con sus seis patas puede llevar a un adulto y volar con comodidad. Se equilibra con las alas de su cola.", "de": "Es kann mühelos einen Erwachsenen umhertragen. Die Federn an seinem Hinterteil stabilisieren seinen Flug.", "fr": "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier.", "ko": "6개의 다리로 어른을 껴안고도 너끈히 날 수 있다. 꼬리의 날개로 균형을 잡는다.", "ja": "６ほんの　あしで　おとなを　かかえて らくらくと　とぶ　ことが　できる。 しっぽの　はねで　バランスを　とる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "yanma" },
+	"generation": "sinnoh",
+	"id": 193,
+	"names": {
+		"ja": "メガヤンマ",
+		"ko": "메가자리",
+		"fr": "Yanmega",
+		"de": "Yanmega",
+		"es": "Yanmega",
+		"it": "Yanmega",
+		"en": "Yanmega"
+	},
+	"descriptions": {
+		"en": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
+		"it": "Riesce a volare comodamente anche trasportando un adulto con le sue sei zampe. Si bilancia con la coda.",
+		"es": "Con sus seis patas puede llevar a un adulto y volar con comodidad. Se equilibra con las alas de su cola.",
+		"de": "Es kann mühelos einen Erwachsenen umhertragen. Die Federn an seinem Hinterteil stabilisieren seinen Flug.",
+		"fr": "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier.",
+		"ko": "6개의 다리로 어른을 껴안고도 너끈히 날 수 있다. 꼬리의 날개로 균형을 잡는다.",
+		"ja": "６ほんの　あしで　おとなを　かかえて らくらくと　とぶ　ことが　できる。 しっぽの　はねで　バランスを　とる。"
+	}
+}

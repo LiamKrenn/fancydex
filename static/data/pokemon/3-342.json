@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "corphish"}, "generation": "hoenn", "id": 341, "names": {"ja": "シザリガー", "ko": "가재장군", "fr": "Colhomard", "de": "Krebutack", "es": "Crawdaunt", "it": "Crawdaunt", "en": "Crawdaunt"}, "descriptions": {"en": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.", "it": "Ama la lotta. Il malcapitato che si avvicina alla sua tana verrà brutalmente malmenato.", "es": "Le encanta pelear, debido a su naturaleza. Si alguien se acerca a su madriguera, le propinará una paliza sin ningún tipo de miramiento.", "de": "Es ist sehr rauflustig. Nähert sich ein Gegner seinem Unterschlupf, geht es gnadenlos auf ihn los.", "fr": "Il adore se battre et frappe comme une brute tous ceux qui approchent de sa mare.", "ko": "싸움을 좋아하는 성격. 거처에 가까이 오는 상대를 가차 없이 때려눕힌다.", "ja": "たたかいを　このむ　せいかく。 すみかに　ちかづく　あいてを ようしゃなく　たたきのめす。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "corphish" },
+	"generation": "hoenn",
+	"id": 341,
+	"names": {
+		"ja": "シザリガー",
+		"ko": "가재장군",
+		"fr": "Colhomard",
+		"de": "Krebutack",
+		"es": "Crawdaunt",
+		"it": "Crawdaunt",
+		"en": "Crawdaunt"
+	},
+	"descriptions": {
+		"en": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+		"it": "Ama la lotta. Il malcapitato che si avvicina alla sua tana verrà brutalmente malmenato.",
+		"es": "Le encanta pelear, debido a su naturaleza. Si alguien se acerca a su madriguera, le propinará una paliza sin ningún tipo de miramiento.",
+		"de": "Es ist sehr rauflustig. Nähert sich ein Gegner seinem Unterschlupf, geht es gnadenlos auf ihn los.",
+		"fr": "Il adore se battre et frappe comme une brute tous ceux qui approchent de sa mare.",
+		"ko": "싸움을 좋아하는 성격. 거처에 가까이 오는 상대를 가차 없이 때려눕힌다.",
+		"ja": "たたかいを　このむ　せいかく。 すみかに　ちかづく　あいてを ようしゃなく　たたきのめす。"
+	}
+}

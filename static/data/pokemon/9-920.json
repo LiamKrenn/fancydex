@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "nymble" },
+	"generation": "paldea",
+	"id": 919,
+	"names": {
+		"ja": "エクスレッグ",
+		"ko": "엑스레그",
+		"fr": "Gambex",
+		"de": "Lextremo",
+		"es": "Lokix",
+		"it": "Lokix",
+		"en": "Lokix"
+	},
+	"descriptions": {
+		"en": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+	}
+}

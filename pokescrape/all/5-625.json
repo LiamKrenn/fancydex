@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "pawniard"}, "generation": "unova", "id": 624, "names": {"ja": "キリキザン", "ko": "절각참", "fr": "Scalproie", "de": "Caesurio", "es": "Bisharp", "it": "Bisharp", "en": "Bisharp"}, "descriptions": {"en": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.", "it": "Affronta spesso Fraxure in violenti scontri per il controllo dei territori in cui si trovano le pietre che usa per affilare le sue lame.", "es": "Libra encarnizados combates con los Fraxure por el control de los emplazamientos donde se hallan las piedras con las que afila sus cuchillas.", "de": "Sie streiten sich mit Sharfax aufs Heftigste um das Vorrecht auf Orte mit Felsen, an denen sie ihre Klingen schärfen können.", "fr": "Sa recherche des meilleurs endroits où trouver des pierres pour affûter ses lames le conduit souvent à affronter des Incisache.", "ko": "칼날을 가는 돌의 장소를 두고 액슨도와 격렬하게 싸움을 벌인다.", "ja": "やいばを　とぐ　いしが　ある ばしょを　めぐって　オノンドと はげしい　あらそいを　くりひろげる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "pawniard" },
+	"generation": "unova",
+	"id": 624,
+	"names": {
+		"ja": "キリキザン",
+		"ko": "절각참",
+		"fr": "Scalproie",
+		"de": "Caesurio",
+		"es": "Bisharp",
+		"it": "Bisharp",
+		"en": "Bisharp"
+	},
+	"descriptions": {
+		"en": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+		"it": "Affronta spesso Fraxure in violenti scontri per il controllo dei territori in cui si trovano le pietre che usa per affilare le sue lame.",
+		"es": "Libra encarnizados combates con los Fraxure por el control de los emplazamientos donde se hallan las piedras con las que afila sus cuchillas.",
+		"de": "Sie streiten sich mit Sharfax aufs Heftigste um das Vorrecht auf Orte mit Felsen, an denen sie ihre Klingen schärfen können.",
+		"fr": "Sa recherche des meilleurs endroits où trouver des pierres pour affûter ses lames le conduit souvent à affronter des Incisache.",
+		"ko": "칼날을 가는 돌의 장소를 두고 액슨도와 격렬하게 싸움을 벌인다.",
+		"ja": "やいばを　とぐ　いしが　ある ばしょを　めぐって　オノンドと はげしい　あらそいを　くりひろげる。"
+	}
+}

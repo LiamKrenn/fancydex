@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "alola", "id": 728, "names": {"ja": "アシマリ", "ko": "누리공", "fr": "Otaquin", "de": "Robball", "es": "Popplio", "it": "Popplio", "en": "Popplio"}, "descriptions": {"en": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.", "it": "Si allena con impegno tutti i giorni fino a quando non è in grado di produrre palloncini d’acqua abbastanza grandi e utili ai suoi scopi.", "es": "Entrena con ahínco a diario hasta que por fin es capaz de crear globos de un tamaño y eficacia adecuados.", "de": "Es trainiert jeden Tag fleißig, um irgendwann eine Blase zu erschaffen, welche die perfekte Form und Größe vorweist.", "fr": "Il s’entraîne sans relâche tous les jours pour réussir à créer de gros ballons de bonne qualité.", "ko": "매일 열심히 연습하면 결국에는 커다랗고 성능 좋은 벌룬을 만들 수 있게 된다.", "ja": "まいにち　けんめいに　れんしゅうして ようやく　おおきくて　こうせいのうな バルーンを　つくれるようになるのだ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 728,
+	"names": {
+		"ja": "アシマリ",
+		"ko": "누리공",
+		"fr": "Otaquin",
+		"de": "Robball",
+		"es": "Popplio",
+		"it": "Popplio",
+		"en": "Popplio"
+	},
+	"descriptions": {
+		"en": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
+		"it": "Si allena con impegno tutti i giorni fino a quando non è in grado di produrre palloncini d’acqua abbastanza grandi e utili ai suoi scopi.",
+		"es": "Entrena con ahínco a diario hasta que por fin es capaz de crear globos de un tamaño y eficacia adecuados.",
+		"de": "Es trainiert jeden Tag fleißig, um irgendwann eine Blase zu erschaffen, welche die perfekte Form und Größe vorweist.",
+		"fr": "Il s’entraîne sans relâche tous les jours pour réussir à créer de gros ballons de bonne qualité.",
+		"ko": "매일 열심히 연습하면 결국에는 커다랗고 성능 좋은 벌룬을 만들 수 있게 된다.",
+		"ja": "まいにち　けんめいに　れんしゅうして ようやく　おおきくて　こうせいのうな バルーンを　つくれるようになるのだ。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "abra"}, "generation": "kanto", "id": 63, "names": {"ja": "ユンゲラー", "ko": "윤겔라", "fr": "Kadabra", "de": "Kadabra", "es": "Kadabra", "it": "Kadabra", "en": "Kadabra"}, "descriptions": {"en": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.", "it": "La potenza della sua psicocinesi è immensa. Immagazzina i suoi poteri psichici nella stella sulla fronte, preparandosi all’evoluzione.", "es": "La potencia de su telequinesis es inmensa. Acumula poder psíquico en la estrella de la frente como preparativo de cara a su evolución.", "de": "Kadabra verfügt über enorme psychokinetische Macht. Als Vorbereitung für seine Entwicklung speichert es im Stern auf der Stirn Psycho-Kräfte.", "fr": "Incroyablement doué en télékinésie, il concentre son énergie psychique dans l’étoile sur son front en prévision de son évolution.", "ko": "염동력의 위력은 절대적이다. 진화에 대비하여 이마에 있는 별에 사이코 파워를 비축하고 있다.", "ja": "ねんりきの　いりょくは　ぜつだい。 しんかに　そなえて　ひたいの　ほしに サイコパワーを　たくわえている。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "abra" },
+	"generation": "kanto",
+	"id": 63,
+	"names": {
+		"ja": "ユンゲラー",
+		"ko": "윤겔라",
+		"fr": "Kadabra",
+		"de": "Kadabra",
+		"es": "Kadabra",
+		"it": "Kadabra",
+		"en": "Kadabra"
+	},
+	"descriptions": {
+		"en": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.",
+		"it": "La potenza della sua psicocinesi è immensa. Immagazzina i suoi poteri psichici nella stella sulla fronte, preparandosi all’evoluzione.",
+		"es": "La potencia de su telequinesis es inmensa. Acumula poder psíquico en la estrella de la frente como preparativo de cara a su evolución.",
+		"de": "Kadabra verfügt über enorme psychokinetische Macht. Als Vorbereitung für seine Entwicklung speichert es im Stern auf der Stirn Psycho-Kräfte.",
+		"fr": "Incroyablement doué en télékinésie, il concentre son énergie psychique dans l’étoile sur son front en prévision de son évolution.",
+		"ko": "염동력의 위력은 절대적이다. 진화에 대비하여 이마에 있는 별에 사이코 파워를 비축하고 있다.",
+		"ja": "ねんりきの　いりょくは　ぜつだい。 しんかに　そなえて　ひたいの　ほしに サイコパワーを　たくわえている。"
+	}
+}

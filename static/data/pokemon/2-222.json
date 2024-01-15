@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "johto", "id": 222, "names": {"ja": "サニーゴ", "ko": "코산호", "fr": "Corayon", "de": "Corasonn", "es": "Corsola", "it": "Corsola", "en": "Corsola"}, "descriptions": {"en": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.", "it": "Vive nei mari più caldi. Anticamente, numerosi esemplari di questo Pokémon vivevano anche lungo le coste di Galar.", "es": "Habita en mares cálidos. Antiguamente vivían en las aguas costeras de Galar un gran número de ejemplares.", "de": "Es lebt in warmen Meeren. Vor langer Zeit konnte man große Scharen dieses Pokémon auch an den Küsten Galars antreffen.", "fr": "Ces Pokémon habitués des mers chaudes se trouvaient autrefois en masse sur les côtes de Galar.", "ko": "따뜻한 바다에 서식한다. 태고에는 가라르 근해에서도 많은 수가 서식했었다.", "ja": "あたたかい　うみで　くらす。 たいこは　ガラルきんかい　にも かずおおく　せいそく　していた。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 222,
+	"names": {
+		"ja": "サニーゴ",
+		"ko": "코산호",
+		"fr": "Corayon",
+		"de": "Corasonn",
+		"es": "Corsola",
+		"it": "Corsola",
+		"en": "Corsola"
+	},
+	"descriptions": {
+		"en": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
+		"it": "Vive nei mari più caldi. Anticamente, numerosi esemplari di questo Pokémon vivevano anche lungo le coste di Galar.",
+		"es": "Habita en mares cálidos. Antiguamente vivían en las aguas costeras de Galar un gran número de ejemplares.",
+		"de": "Es lebt in warmen Meeren. Vor langer Zeit konnte man große Scharen dieses Pokémon auch an den Küsten Galars antreffen.",
+		"fr": "Ces Pokémon habitués des mers chaudes se trouvaient autrefois en masse sur les côtes de Galar.",
+		"ko": "따뜻한 바다에 서식한다. 태고에는 가라르 근해에서도 많은 수가 서식했었다.",
+		"ja": "あたたかい　うみで　くらす。 たいこは　ガラルきんかい　にも かずおおく　せいそく　していた。"
+	}
+}

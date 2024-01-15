@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "scatterbug"}, "generation": "kalos", "id": 664, "names": {"ja": "コフーライ", "ko": "분떠도리", "fr": "Pérégrain", "de": "Puponcho", "es": "Spewpa", "it": "Spewpa", "en": "Spewpa"}, "descriptions": {"en": "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder.", "it": "Il becco dei Pokémon uccello non può neppure scalfire il suo durissimo corpo. Si difende spargendo scaglie.", "es": "Su cuerpo es tan duro que ni siquiera los Pokémon pájaro pueden hacerle el menor rasguño con sus picos. Esparce polvo de escamas para defenderse.", "de": "Der Schnabel eines Vogel-Pokémon kann seinem harten Körper keinen Kratzer zufügen. Es verteidigt sich, indem es Puder spuckt.", "fr": "Même les becs acérés des Pokémon Oiseaux ne parviennent pas à meurtrir son corps très dur. Il se défend en crachant de la poudre.", "ko": "단단한 몸은 새포켓몬의 부리로도 상처 하나 입지 않는다. 가루를 뿌려서 방어한다.", "ja": "かたい　からだは　とりポケモンの クチバシでも　キズひとつ　つかない。 コナを　まきちらして　ぼうせんする。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "scatterbug" },
+	"generation": "kalos",
+	"id": 664,
+	"names": {
+		"ja": "コフーライ",
+		"ko": "분떠도리",
+		"fr": "Pérégrain",
+		"de": "Puponcho",
+		"es": "Spewpa",
+		"it": "Spewpa",
+		"en": "Spewpa"
+	},
+	"descriptions": {
+		"en": "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder.",
+		"it": "Il becco dei Pokémon uccello non può neppure scalfire il suo durissimo corpo. Si difende spargendo scaglie.",
+		"es": "Su cuerpo es tan duro que ni siquiera los Pokémon pájaro pueden hacerle el menor rasguño con sus picos. Esparce polvo de escamas para defenderse.",
+		"de": "Der Schnabel eines Vogel-Pokémon kann seinem harten Körper keinen Kratzer zufügen. Es verteidigt sich, indem es Puder spuckt.",
+		"fr": "Même les becs acérés des Pokémon Oiseaux ne parviennent pas à meurtrir son corps très dur. Il se défend en crachant de la poudre.",
+		"ko": "단단한 몸은 새포켓몬의 부리로도 상처 하나 입지 않는다. 가루를 뿌려서 방어한다.",
+		"ja": "かたい　からだは　とりポケモンの クチバシでも　キズひとつ　つかない。 コナを　まきちらして　ぼうせんする。"
+	}
+}

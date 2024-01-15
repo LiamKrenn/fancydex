@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "tepig"}, "generation": "unova", "id": 498, "names": {"ja": "チャオブー", "ko": "차오꿀", "fr": "Grotichon", "de": "Ferkokel", "es": "Pignite", "it": "Pignite", "en": "Pignite"}, "descriptions": {"en": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.", "it": "Quando la fiamma interna arde intensa, diventa più rapido e scattante. Nei momenti critici esala fumo.", "es": "Cuando las llamas de su interior se avivan, aumenta su velocidad y agilidad. Emite humo si está en peligro.", "de": "Lodert das Feuer in ihm auf, bewegt es sich geschmeidiger und schneller. Bei Gefahr lässt es ordentlich Dampf ab.", "fr": "Quand le feu dans son corps s’embrase, sa vitesse et son agilité augmentent. En cas d’urgence, il crache de la fumée.", "ko": "체내의 불꽃이 타오르면 움직임이 더 빠르고 예리해진다. 위급해지면 연기를 뿜어낸다.", "ja": "たいないの　ほのおが　もえあがると うごきの　キレと　スピードが　ます。 ピンチになると　けむりを　ふきだす。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "tepig" },
+	"generation": "unova",
+	"id": 498,
+	"names": {
+		"ja": "チャオブー",
+		"ko": "차오꿀",
+		"fr": "Grotichon",
+		"de": "Ferkokel",
+		"es": "Pignite",
+		"it": "Pignite",
+		"en": "Pignite"
+	},
+	"descriptions": {
+		"en": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+		"it": "Quando la fiamma interna arde intensa, diventa più rapido e scattante. Nei momenti critici esala fumo.",
+		"es": "Cuando las llamas de su interior se avivan, aumenta su velocidad y agilidad. Emite humo si está en peligro.",
+		"de": "Lodert das Feuer in ihm auf, bewegt es sich geschmeidiger und schneller. Bei Gefahr lässt es ordentlich Dampf ab.",
+		"fr": "Quand le feu dans son corps s’embrase, sa vitesse et son agilité augmentent. En cas d’urgence, il crache de la fumée.",
+		"ko": "체내의 불꽃이 타오르면 움직임이 더 빠르고 예리해진다. 위급해지면 연기를 뿜어낸다.",
+		"ja": "たいないの　ほのおが　もえあがると うごきの　キレと　スピードが　ます。 ピンチになると　けむりを　ふきだす。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "yamask"}, "generation": "unova", "id": 562, "names": {"ja": "デスカーン", "ko": "데스니칸", "fr": "Tutankafer", "de": "Echnatoll", "es": "Cofagrigus", "it": "Cofagrigus", "en": "Cofagrigus"}, "descriptions": {"en": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.", "it": "Viene spesso raffigurato sulle pareti di antichi sepolcri come simbolo dell’opulenza dei re.", "es": "Aparece representado en los muros de antiguas sepulturas como símbolo de riqueza de reyes de antaño.", "de": "Darstellungen von Echnatoll auf den Wänden alter Königsgräber sind ein Zeichen dafür, dass der dort begrabene Regent wohlhabend war.", "fr": "On le voit souvent représenté sur les murs des vieilles sépultures des rois en tant que symbole de leur richesse.", "ko": "오래된 묘지의 벽을 보면 왕의 부를 드러내고자 그려져 있는 경우가 많다.", "ja": "ふるい　おはかの　かべに　おうさまの とみの　しょうちょう　として えがかれて　いることが　おおい。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "yamask" },
+	"generation": "unova",
+	"id": 562,
+	"names": {
+		"ja": "デスカーン",
+		"ko": "데스니칸",
+		"fr": "Tutankafer",
+		"de": "Echnatoll",
+		"es": "Cofagrigus",
+		"it": "Cofagrigus",
+		"en": "Cofagrigus"
+	},
+	"descriptions": {
+		"en": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.",
+		"it": "Viene spesso raffigurato sulle pareti di antichi sepolcri come simbolo dell’opulenza dei re.",
+		"es": "Aparece representado en los muros de antiguas sepulturas como símbolo de riqueza de reyes de antaño.",
+		"de": "Darstellungen von Echnatoll auf den Wänden alter Königsgräber sind ein Zeichen dafür, dass der dort begrabene Regent wohlhabend war.",
+		"fr": "On le voit souvent représenté sur les murs des vieilles sépultures des rois en tant que symbole de leur richesse.",
+		"ko": "오래된 묘지의 벽을 보면 왕의 부를 드러내고자 그려져 있는 경우가 많다.",
+		"ja": "ふるい　おはかの　かべに　おうさまの とみの　しょうちょう　として えがかれて　いることが　おおい。"
+	}
+}

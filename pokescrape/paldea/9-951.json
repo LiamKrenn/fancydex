@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 951,
+	"names": {
+		"ja": "カプサイジ",
+		"ko": "캡싸이",
+		"fr": "Pimito",
+		"de": "Chilingel",
+		"es": "Capsakid",
+		"it": "Capsakid",
+		"en": "Capsakid"
+	},
+	"descriptions": {
+		"en": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+	}
+}

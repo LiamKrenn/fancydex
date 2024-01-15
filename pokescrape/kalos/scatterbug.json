@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "kalos", "id": 664, "names": {"ja": "コフキムシ", "ko": "분이벌레", "fr": "Lépidonille", "de": "Purmel", "es": "Scatterbug", "it": "Scatterbug", "en": "Scatterbug"}, "descriptions": {"en": "The powder that covers its body regulates its temperature, so it can live in any region or climate.", "it": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere in qualsiasi condizione climatica.", "es": "Gracias al polvo de escamas que lo recubre y regula su temperatura, puede vivir en cualquier región, sin importar las características del terreno o el clima.", "de": "Es reguliert seine Körpertemperatur mit dem Puder, das seinen Körper bedeckt, und kommt deswegen in jedem Klima und jeder Region zurecht.", "fr": "La poudre qui recouvre son corps l’aide à réguler sa température. Il peut s’adapter à tous les climats.", "ko": "몸을 덮은 가루가 체온을 조절하고 있어 어떤 기후나 풍토의 지역에서도 살 수 있다.", "ja": "からだを　おおう　こなが　たいおんを ちょうせつするので　どんな　きこうや ふうどの　ちいきでも　くらせる。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 664,
+	"names": {
+		"ja": "コフキムシ",
+		"ko": "분이벌레",
+		"fr": "Lépidonille",
+		"de": "Purmel",
+		"es": "Scatterbug",
+		"it": "Scatterbug",
+		"en": "Scatterbug"
+	},
+	"descriptions": {
+		"en": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+		"it": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere in qualsiasi condizione climatica.",
+		"es": "Gracias al polvo de escamas que lo recubre y regula su temperatura, puede vivir en cualquier región, sin importar las características del terreno o el clima.",
+		"de": "Es reguliert seine Körpertemperatur mit dem Puder, das seinen Körper bedeckt, und kommt deswegen in jedem Klima und jeder Region zurecht.",
+		"fr": "La poudre qui recouvre son corps l’aide à réguler sa température. Il peut s’adapter à tous les climats.",
+		"ko": "몸을 덮은 가루가 체온을 조절하고 있어 어떤 기후나 풍토의 지역에서도 살 수 있다.",
+		"ja": "からだを　おおう　こなが　たいおんを ちょうせつするので　どんな　きこうや ふうどの　ちいきでも　くらせる。"
+	}
+}

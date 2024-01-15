@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "elekid"}, "generation": "kanto", "id": 239, "names": {"ja": "エレブー", "ko": "에레브", "fr": "Élektek", "de": "Elektek", "es": "Electabuzz", "it": "Electabuzz", "en": "Electabuzz"}, "descriptions": {"en": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.", "it": "All’arrivo di un temporale questi Pokémon si raggruppano intorno agli alberi alti, aspettando immobili che cada un fulmine.", "es": "Al desatarse una tormenta, se reúnen en torno a los árboles de mayor altura y esperan inmóviles a que caiga algún rayo.", "de": "Bei Gewittern versammeln sich Elektek in der Nähe von hohen Bäumen, wo sie regungslos auf Blitzeinschläge warten.", "fr": "Quand un orage approche, ils se réunissent tous autour d’un grand arbre et attendent patiemment que la foudre s’abatte.", "ko": "폭풍이 치면 높은 나무 주위에 모여 번개가 떨어지기를 가만히 기다린다.", "ja": "あらしが　くると　たかい　きの まわりに　あつまり　かみなりが おちるのを　じっと　まちつづける。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "elekid" },
+	"generation": "kanto",
+	"id": 239,
+	"names": {
+		"ja": "エレブー",
+		"ko": "에레브",
+		"fr": "Élektek",
+		"de": "Elektek",
+		"es": "Electabuzz",
+		"it": "Electabuzz",
+		"en": "Electabuzz"
+	},
+	"descriptions": {
+		"en": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
+		"it": "All’arrivo di un temporale questi Pokémon si raggruppano intorno agli alberi alti, aspettando immobili che cada un fulmine.",
+		"es": "Al desatarse una tormenta, se reúnen en torno a los árboles de mayor altura y esperan inmóviles a que caiga algún rayo.",
+		"de": "Bei Gewittern versammeln sich Elektek in der Nähe von hohen Bäumen, wo sie regungslos auf Blitzeinschläge warten.",
+		"fr": "Quand un orage approche, ils se réunissent tous autour d’un grand arbre et attendent patiemment que la foudre s’abatte.",
+		"ko": "폭풍이 치면 높은 나무 주위에 모여 번개가 떨어지기를 가만히 기다린다.",
+		"ja": "あらしが　くると　たかい　きの まわりに　あつまり　かみなりが おちるのを　じっと　まちつづける。"
+	}
+}

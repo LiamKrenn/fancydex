@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "cyndaquil"}, "generation": "johto", "id": 155, "names": {"ja": "マグマラシ", "ko": "마그케인", "fr": "Feurisson", "de": "Igelavar", "es": "Quilava", "it": "Quilava", "en": "Quilava"}, "descriptions": {"en": "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.", "it": "Quilava tiene a bada il nemico grazie all’intensità delle sue fiamme e a getti di aria rovente. Questo Pokémon sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.", "es": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo que producen. También aprovecha su espectacular agilidad para esquivar ataques a la vez que abrasa al rival con sus llamas.", "de": "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft auf Distanz. Dieses Pokémon nutzt seine außergewöhnliche Gewandtheit dazu, Angriffen auszuweichen und seinen Gegner gleichzeitig zu versengen.", "fr": "Feurisson garde ses ennemis à distance grâce à l’intensité de ses flammes et à des rafales d’air brûlant. Ce Pokémon utilise son incroyable agilité pour éviter les attaques, tout en enflammant ses ennemis.", "ko": "불꽃의 기세와 열풍으로 위협한다. 재빠른 몸동작으로 상대의 공격을 피하면서 동시에 불꽃으로 태운다.", "ja": "ほのおの　いきおいと　ねっぷうで　いかくする。 すばやい　みのこなしで　あいての　こうげきを かわしながら　どうじに　ほのおで　もやす。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "cyndaquil" },
+	"generation": "johto",
+	"id": 155,
+	"names": {
+		"ja": "マグマラシ",
+		"ko": "마그케인",
+		"fr": "Feurisson",
+		"de": "Igelavar",
+		"es": "Quilava",
+		"it": "Quilava",
+		"en": "Quilava"
+	},
+	"descriptions": {
+		"en": "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.",
+		"it": "Quilava tiene a bada il nemico grazie all’intensità delle sue fiamme e a getti di aria rovente. Questo Pokémon sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.",
+		"es": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo que producen. También aprovecha su espectacular agilidad para esquivar ataques a la vez que abrasa al rival con sus llamas.",
+		"de": "Igelavar hält seine Gegner mit Flammen und Böen heißer Luft auf Distanz. Dieses Pokémon nutzt seine außergewöhnliche Gewandtheit dazu, Angriffen auszuweichen und seinen Gegner gleichzeitig zu versengen.",
+		"fr": "Feurisson garde ses ennemis à distance grâce à l’intensité de ses flammes et à des rafales d’air brûlant. Ce Pokémon utilise son incroyable agilité pour éviter les attaques, tout en enflammant ses ennemis.",
+		"ko": "불꽃의 기세와 열풍으로 위협한다. 재빠른 몸동작으로 상대의 공격을 피하면서 동시에 불꽃으로 태운다.",
+		"ja": "ほのおの　いきおいと　ねっぷうで　いかくする。 すばやい　みのこなしで　あいての　こうげきを かわしながら　どうじに　ほのおで　もやす。"
+	}
+}

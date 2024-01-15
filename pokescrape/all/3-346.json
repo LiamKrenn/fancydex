@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "lileep"}, "generation": "hoenn", "id": 345, "names": {"ja": "ユレイドル", "ko": "릴리요", "fr": "Vacilys", "de": "Wielie", "es": "Cradily", "it": "Cradily", "en": "Cradily"}, "descriptions": {"en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.", "it": "Cattura le prede con i tentacoli e le scioglie con un fluido digestivo, assorbendone così le sostanze nutritive.", "es": "Atrapa a sus presas con los tentáculos y enseguida las disuelve con sus jugos gástricos para absorber los nutrientes.", "de": "Sobald es mit seinen Tentakeln Beute erfasst hat, löst es diese mit seiner Verdauungsflüssigkeit auf und absorbiert ihre Nährstoffe.", "fr": "Il attrape ses proies à l’aide de ses tentacules, puis les dissout immédiatement avec ses sucs digestifs pour en absorber les nutriments.", "ko": "촉수로 먹이를 잡은 후 그대로 소화액으로 녹여 영양분을 흡수한다.", "ja": "しょくしゅで　えものを　つかまえると そのまま　しょうかえきで　とかして えいようぶんを　きゅうしゅうする。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "lileep" },
+	"generation": "hoenn",
+	"id": 345,
+	"names": {
+		"ja": "ユレイドル",
+		"ko": "릴리요",
+		"fr": "Vacilys",
+		"de": "Wielie",
+		"es": "Cradily",
+		"it": "Cradily",
+		"en": "Cradily"
+	},
+	"descriptions": {
+		"en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+		"it": "Cattura le prede con i tentacoli e le scioglie con un fluido digestivo, assorbendone così le sostanze nutritive.",
+		"es": "Atrapa a sus presas con los tentáculos y enseguida las disuelve con sus jugos gástricos para absorber los nutrientes.",
+		"de": "Sobald es mit seinen Tentakeln Beute erfasst hat, löst es diese mit seiner Verdauungsflüssigkeit auf und absorbiert ihre Nährstoffe.",
+		"fr": "Il attrape ses proies à l’aide de ses tentacules, puis les dissout immédiatement avec ses sucs digestifs pour en absorber les nutriments.",
+		"ko": "촉수로 먹이를 잡은 후 그대로 소화액으로 녹여 영양분을 흡수한다.",
+		"ja": "しょくしゅで　えものを　つかまえると そのまま　しょうかえきで　とかして えいようぶんを　きゅうしゅうする。"
+	}
+}

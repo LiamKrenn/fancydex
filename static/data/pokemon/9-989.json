@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 989,
+	"names": {
+		"es": "Pelarena",
+		"ja": "スナノケガワ",
+		"ko": "모래털가죽",
+		"fr": "Pelage-Sablé",
+		"de": "Sandfell",
+		"it": "Peldisabbia",
+		"en": "Sandy Shocks"
+	},
+	"descriptions": {
+		"en": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+	}
+}

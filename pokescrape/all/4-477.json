@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "dusclops"}, "generation": "sinnoh", "id": 356, "names": {"ja": "ヨノワール", "ko": "야느와르몽", "fr": "Noctunoir", "de": "Zwirrfinst", "es": "Dusknoir", "it": "Dusknoir", "en": "Dusknoir"}, "descriptions": {"en": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely.", "it": "Divora la preda in un boccone con la bocca che ha sulla pancia, si nutre del suo spirito e ne sputa fuori il corpo.", "es": "Engulle a los rivales con la boca del estómago y, tras haber devorado el alma, escupe el cuerpo.", "de": "Es verschluckt Beute im Ganzen mit dem Maul an seinem Bauch, verspeist aber nur ihre Seele. Den Körper spuckt es wieder aus.", "fr": "Il dévore l’âme de ses ennemis en les engloutissant dans sa bouche ventrale. Il recrache ensuite leur enveloppe corporelle.", "ko": "노린 상대를 배의 입으로 통째로 삼킨다. 영혼만 먹은 뒤 육체는 뱉어내고 떠난다.", "ja": "ねらった　あいてを　はらのくちで まるのみ。　たましいだけを　くい にくたいは　はきだし　さっていく。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "dusclops" },
+	"generation": "sinnoh",
+	"id": 356,
+	"names": {
+		"ja": "ヨノワール",
+		"ko": "야느와르몽",
+		"fr": "Noctunoir",
+		"de": "Zwirrfinst",
+		"es": "Dusknoir",
+		"it": "Dusknoir",
+		"en": "Dusknoir"
+	},
+	"descriptions": {
+		"en": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely.",
+		"it": "Divora la preda in un boccone con la bocca che ha sulla pancia, si nutre del suo spirito e ne sputa fuori il corpo.",
+		"es": "Engulle a los rivales con la boca del estómago y, tras haber devorado el alma, escupe el cuerpo.",
+		"de": "Es verschluckt Beute im Ganzen mit dem Maul an seinem Bauch, verspeist aber nur ihre Seele. Den Körper spuckt es wieder aus.",
+		"fr": "Il dévore l’âme de ses ennemis en les engloutissant dans sa bouche ventrale. Il recrache ensuite leur enveloppe corporelle.",
+		"ko": "노린 상대를 배의 입으로 통째로 삼킨다. 영혼만 먹은 뒤 육체는 뱉어내고 떠난다.",
+		"ja": "ねらった　あいてを　はらのくちで まるのみ。　たましいだけを　くい にくたいは　はきだし　さっていく。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },"evolves_from_species": { "name": "ursaring" },"generation": "galar","id": 217,"names": {"ja": "ガチグマ","ko": "다투곰","fr": "Ursaking","de": "Ursaluna","it": "Ursaluna","en": "Ursaluna","es": "Ursaluna"},"descriptions": {"en": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.","ja": "ヒスイの地に　敷かれし　湿地の土こそ 頑丈なる体躯と　泥炭を　自在に　扱う 新たな　器量　もたらしたと　考察す。","ko": "히스이 땅에 펼쳐진 습지의 토양 덕분에 튼튼한 몸과 함께, 이탄을 자유롭게 다루는 새로운 재주를 익히게 된 것으로 추측된다.","fr": "Je pense que ce sont les étendues marécageuses de Hisui qui ont doté ce Pokémon d’un corps robuste et d’une aptitude à manipuler la tourbe.","de": "Vermutlich ist das sumpfige Gelände Hisuis der Grund für seine robuste Statur sowie die neu errungene Fähigkeit, Torf nach Belieben manipulieren zu können.","it": "Ritengo che sia stato il terreno palustre di Hisui ad averlo reso nerboruto e ad avergli donato la facoltà di manipolare la torba a suo piacere.","es": "Tengo la teoría de que el terreno pantanoso de Hisui favoreció el desarrollo de su constitución robusta, así como su capacidad de manipular la turba a voluntad."}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "ursaring" },
+	"generation": "galar",
+	"id": 217,
+	"names": {
+		"ja": "ガチグマ",
+		"ko": "다투곰",
+		"fr": "Ursaking",
+		"de": "Ursaluna",
+		"it": "Ursaluna",
+		"en": "Ursaluna",
+		"es": "Ursaluna"
+	},
+	"descriptions": {
+		"en": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
+		"ja": "ヒスイの地に　敷かれし　湿地の土こそ 頑丈なる体躯と　泥炭を　自在に　扱う 新たな　器量　もたらしたと　考察す。",
+		"ko": "히스이 땅에 펼쳐진 습지의 토양 덕분에 튼튼한 몸과 함께, 이탄을 자유롭게 다루는 새로운 재주를 익히게 된 것으로 추측된다.",
+		"fr": "Je pense que ce sont les étendues marécageuses de Hisui qui ont doté ce Pokémon d’un corps robuste et d’une aptitude à manipuler la tourbe.",
+		"de": "Vermutlich ist das sumpfige Gelände Hisuis der Grund für seine robuste Statur sowie die neu errungene Fähigkeit, Torf nach Belieben manipulieren zu können.",
+		"it": "Ritengo che sia stato il terreno palustre di Hisui ad averlo reso nerboruto e ad avergli donato la facoltà di manipolare la torba a suo piacere.",
+		"es": "Tengo la teoría de que el terreno pantanoso de Hisui favoreció el desarrollo de su constitución robusta, así como su capacidad de manipular la turba a voluntad."
+	}
+}

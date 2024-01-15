@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 967,
+	"names": {
+		"ja": "モトトカゲ",
+		"ko": "모토마",
+		"fr": "Motorizard",
+		"de": "Mopex",
+		"es": "Cyclizar",
+		"it": "Cyclizar",
+		"en": "Cyclizar"
+	},
+	"descriptions": {
+		"en": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+	}
+}

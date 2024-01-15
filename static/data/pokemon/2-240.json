@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "johto", "id": 240, "names": {"ja": "ブビィ", "ko": "마그비", "fr": "Magby", "de": "Magby", "es": "Magby", "it": "Magby", "en": "Magby"}, "descriptions": {"en": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.", "it": "Vive nei pressi dei vulcani. Dopo una faticosa giornata, si gode un rilassante bagno nel magma.", "es": "Vive en los alrededores de los volcanes. Al final del día, se baña en magma para aliviar el cansancio.", "de": "Es lebt in der Nähe von Vulkanen. Nach einem anstrengenden Tag badet es in Magma und schöpft so neue Energie.", "fr": "Il vit près des volcans. À la fin de la journée, il se détend dans un bon bain de magma.", "ko": "화산 주위에 살고 있다. 하루를 마칠 때에는 마그마에 잠겨 피로를 푼다.", "ja": "かざんの　まわりに　すんでいる。 いちにちの　おわりには　マグマに つかり　つかれを　いやしている。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 240,
+	"names": {
+		"ja": "ブビィ",
+		"ko": "마그비",
+		"fr": "Magby",
+		"de": "Magby",
+		"es": "Magby",
+		"it": "Magby",
+		"en": "Magby"
+	},
+	"descriptions": {
+		"en": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.",
+		"it": "Vive nei pressi dei vulcani. Dopo una faticosa giornata, si gode un rilassante bagno nel magma.",
+		"es": "Vive en los alrededores de los volcanes. Al final del día, se baña en magma para aliviar el cansancio.",
+		"de": "Es lebt in der Nähe von Vulkanen. Nach einem anstrengenden Tag badet es in Magma und schöpft so neue Energie.",
+		"fr": "Il vit près des volcans. À la fin de la journée, il se détend dans un bon bain de magma.",
+		"ko": "화산 주위에 살고 있다. 하루를 마칠 때에는 마그마에 잠겨 피로를 푼다.",
+		"ja": "かざんの　まわりに　すんでいる。 いちにちの　おわりには　マグマに つかり　つかれを　いやしている。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 915,
+	"names": {
+		"ja": "グルトン",
+		"ko": "맛보돈",
+		"fr": "Gourmelet",
+		"de": "Ferkuli",
+		"es": "Lechonk",
+		"it": "Lechonk",
+		"en": "Lechonk"
+	},
+	"descriptions": {
+		"en": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+	}
+}

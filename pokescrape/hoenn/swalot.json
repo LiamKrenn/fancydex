@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "gulpin"}, "generation": "hoenn", "id": 316, "names": {"ja": "マルノーム", "ko": "꿀꺽몬", "fr": "Avaltout", "de": "Schlukwech", "es": "Swalot", "it": "Swalot", "en": "Swalot"}, "descriptions": {"en": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.", "it": "Swalot non ha denti, così quando mangia ingoia ogni cosa intera, senza masticare. Quando sbadiglia, la sua bocca enorme si apre a mo’ di voragine. È così grande che potrebbe contenere persino uno pneumatico.", "es": "Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problema.", "de": "Schlukwech hat keine Zähne. Alles was es isst, schluckt es im Ganzen herunter. Sein Maul ist so riesig, dass mit Leichtigkeit ein Autoreifen hineinpassen würde.", "fr": "Avaltout n’a pas de dents, ce qui le force à tout avaler en une bouchée. Quand il bâille, sa bouche prend une taille impressionnante, et on pourrait y placer une roue de voiture.", "ko": "이빨이 하나도 없어서 무엇이든 통째로 삼킨다. 최대한 벌린 입은 정말 커서 자동차 타이어마저도 쑥 들어간다.", "ja": "はが　１ぽんも　ないので　なんでも　まるのみ。 いっぱいに　あけた　くちは　とても　おおきく じどうしゃの　タイヤだって　すっぽり　はいるぞ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "gulpin" },
+	"generation": "hoenn",
+	"id": 316,
+	"names": {
+		"ja": "マルノーム",
+		"ko": "꿀꺽몬",
+		"fr": "Avaltout",
+		"de": "Schlukwech",
+		"es": "Swalot",
+		"it": "Swalot",
+		"en": "Swalot"
+	},
+	"descriptions": {
+		"en": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
+		"it": "Swalot non ha denti, così quando mangia ingoia ogni cosa intera, senza masticare. Quando sbadiglia, la sua bocca enorme si apre a mo’ di voragine. È così grande che potrebbe contenere persino uno pneumatico.",
+		"es": "Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problema.",
+		"de": "Schlukwech hat keine Zähne. Alles was es isst, schluckt es im Ganzen herunter. Sein Maul ist so riesig, dass mit Leichtigkeit ein Autoreifen hineinpassen würde.",
+		"fr": "Avaltout n’a pas de dents, ce qui le force à tout avaler en une bouchée. Quand il bâille, sa bouche prend une taille impressionnante, et on pourrait y placer une roue de voiture.",
+		"ko": "이빨이 하나도 없어서 무엇이든 통째로 삼킨다. 최대한 벌린 입은 정말 커서 자동차 타이어마저도 쑥 들어간다.",
+		"ja": "はが　１ぽんも　ないので　なんでも　まるのみ。 いっぱいに　あけた　くちは　とても　おおきく じどうしゃの　タイヤだって　すっぽり　はいるぞ。"
+	}
+}

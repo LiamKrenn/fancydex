@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "unova", "id": 632, "names": {"ja": "アイアント", "ko": "아이앤트", "fr": "Fermite", "de": "Fermicula", "es": "Durant", "it": "Durant", "en": "Durant"}, "descriptions": {"en": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.", "it": "Le grandi mandibole possono frantumare anche la roccia. Lotta con la colonia per proteggere le sue Uova da Sandaconda.", "es": "Con sus grandes mandíbulas puede destrozar incluso rocas. Lucha en grupo para proteger sus larvas del ataque de los Sandaconda.", "de": "Ihre mächtigen Kiefer können Felsen zerbeißen. Sie rotten sich zu Gruppen zusammen, um ihre Eier vor Sanaconda zu beschützen.", "fr": "Sa grande mâchoire réduit même les rochers en miettes. Il se bat avec sa colonie pour protéger ses Œufs des attaques des Dunaconda.", "ko": "큰 턱은 암석도 깨물어 부순다. 사다이사로부터 알을 지키기 위해 무리 지어 싸운다.", "ja": "おおきなアゴは　がんせきをも　かみ くだく。　サダイジャから　タマゴを まもるため　むれで　たたかう。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 632,
+	"names": {
+		"ja": "アイアント",
+		"ko": "아이앤트",
+		"fr": "Fermite",
+		"de": "Fermicula",
+		"es": "Durant",
+		"it": "Durant",
+		"en": "Durant"
+	},
+	"descriptions": {
+		"en": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+		"it": "Le grandi mandibole possono frantumare anche la roccia. Lotta con la colonia per proteggere le sue Uova da Sandaconda.",
+		"es": "Con sus grandes mandíbulas puede destrozar incluso rocas. Lucha en grupo para proteger sus larvas del ataque de los Sandaconda.",
+		"de": "Ihre mächtigen Kiefer können Felsen zerbeißen. Sie rotten sich zu Gruppen zusammen, um ihre Eier vor Sanaconda zu beschützen.",
+		"fr": "Sa grande mâchoire réduit même les rochers en miettes. Il se bat avec sa colonie pour protéger ses Œufs des attaques des Dunaconda.",
+		"ko": "큰 턱은 암석도 깨물어 부순다. 사다이사로부터 알을 지키기 위해 무리 지어 싸운다.",
+		"ja": "おおきなアゴは　がんせきをも　かみ くだく。　サダイジャから　タマゴを まもるため　むれで　たたかう。"
+	}
+}

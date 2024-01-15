@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "kalos", "id": 650, "names": {"ja": "ハリマロン", "ko": "도치마론", "fr": "Marisson", "de": "Igamaro", "es": "Chespin", "it": "Chespin", "en": "Chespin"}, "descriptions": {"en": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.", "it": "Ha schiena e testa coperte da un guscio talmente resistente che non farebbe una piega nemmeno se ci passasse sopra un tir.", "es": "La robusta coraza que le recubre la cabeza y la espalda lo protege de tal manera que podría chocar contra un camión y permanecer impasible.", "de": "Sein Kopf und Rücken werden von einer harten Hülle bedeckt, die so robust ist, dass sie selbst einer Kollision mit einem LKW standhalten würde.", "fr": "Sa tête et son dos sont recouverts d’une carapace tellement dure que même une collision avec un camion ne lui ferait rien.", "ko": "머리와 등이 단단한 껍데기로 덮여 있기 때문에 트럭이 부딪혀와도 아무렇지 않다.", "ja": "あたまと　せなかを　かたい　カラで おおわれているため　トラックが ぶつかってきても　へっちゃらだ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 650,
+	"names": {
+		"ja": "ハリマロン",
+		"ko": "도치마론",
+		"fr": "Marisson",
+		"de": "Igamaro",
+		"es": "Chespin",
+		"it": "Chespin",
+		"en": "Chespin"
+	},
+	"descriptions": {
+		"en": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
+		"it": "Ha schiena e testa coperte da un guscio talmente resistente che non farebbe una piega nemmeno se ci passasse sopra un tir.",
+		"es": "La robusta coraza que le recubre la cabeza y la espalda lo protege de tal manera que podría chocar contra un camión y permanecer impasible.",
+		"de": "Sein Kopf und Rücken werden von einer harten Hülle bedeckt, die so robust ist, dass sie selbst einer Kollision mit einem LKW standhalten würde.",
+		"fr": "Sa tête et son dos sont recouverts d’une carapace tellement dure que même une collision avec un camion ne lui ferait rien.",
+		"ko": "머리와 등이 단단한 껍데기로 덮여 있기 때문에 트럭이 부딪혀와도 아무렇지 않다.",
+		"ja": "あたまと　せなかを　かたい　カラで おおわれているため　トラックが ぶつかってきても　へっちゃらだ。"
+	}
+}

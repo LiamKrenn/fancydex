@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "oshawott"}, "generation": "unova", "id": 501, "names": {"ja": "フタチマル", "ko": "쌍검자비", "fr": "Mateloutre", "de": "Zwottronin", "es": "Dewott", "it": "Dewott", "en": "Dewott"}, "descriptions": {"en": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.", "it": "Le loro conchiglie sono tutte diverse nella forma e ogni Dewott si allena duramente per imparare a usarle.", "es": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.", "de": "Jedes Zwottronin eignet sich über strenges Training einen völlig eigenen Muschelkampfstil an.", "fr": "Chaque Mateloutre a sa propre technique d’escrime au coupillage, acquise grâce à un entraînement drastique.", "ko": "혹독한 수행 끝에 쌍검자비마다 다른 형태의 가리비칼 다루는 기술을 습득한다.", "ja": "きびしい　しゅぎょうの　すえ フタチマルごとに　ことなる　かたの ホタチさばきを　しゅうとく　する。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "oshawott" },
+	"generation": "unova",
+	"id": 501,
+	"names": {
+		"ja": "フタチマル",
+		"ko": "쌍검자비",
+		"fr": "Mateloutre",
+		"de": "Zwottronin",
+		"es": "Dewott",
+		"it": "Dewott",
+		"en": "Dewott"
+	},
+	"descriptions": {
+		"en": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.",
+		"it": "Le loro conchiglie sono tutte diverse nella forma e ogni Dewott si allena duramente per imparare a usarle.",
+		"es": "Tras un exhaustivo entrenamiento, Dewott puede dominar diversas técnicas para usar con sus vieiras.",
+		"de": "Jedes Zwottronin eignet sich über strenges Training einen völlig eigenen Muschelkampfstil an.",
+		"fr": "Chaque Mateloutre a sa propre technique d’escrime au coupillage, acquise grâce à un entraînement drastique.",
+		"ko": "혹독한 수행 끝에 쌍검자비마다 다른 형태의 가리비칼 다루는 기술을 습득한다.",
+		"ja": "きびしい　しゅぎょうの　すえ フタチマルごとに　ことなる　かたの ホタチさばきを　しゅうとく　する。"
+	}
+}

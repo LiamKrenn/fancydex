@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "galar", "id": 837, "names": {"ja": "タンドン", "ko": "탄동", "fr": "Charbi", "de": "Klonkett", "es": "Rolycoly", "it": "Rolycoly", "en": "Rolycoly"}, "descriptions": {"en": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.", "it": "Corre in lungo e in largo come un monociclo anche sulle strade sassose più accidentate. Vive grazie alla combustione del carbone.", "es": "Recorre incluso los caminos más impracticables y pedregosos como si de un monociclo se tratase. La combustión de carbón es su fuente vital.", "de": "Auch auf steinigen, schlecht befahrbaren Wegen fährt es problemlos, als wäre es ein Einrad. Es verbrennt Steinkohle, um zu überleben.", "fr": "Il parcourt sans difficulté les sentiers rocheux accidentés à la manière d’un monocycle. Il a besoin de brûler du charbon pour vivre.", "ko": "바위투성이의 거친 길을 아무렇지도 않게 일륜차처럼 달린다. 석탄을 태워서 살고 있다.", "ja": "いわだらけの　あくろを　ものともせず いちりんしゃのように　はしりまわる。 せきたんを　もやして　いきている。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 837,
+	"names": {
+		"ja": "タンドン",
+		"ko": "탄동",
+		"fr": "Charbi",
+		"de": "Klonkett",
+		"es": "Rolycoly",
+		"it": "Rolycoly",
+		"en": "Rolycoly"
+	},
+	"descriptions": {
+		"en": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
+		"it": "Corre in lungo e in largo come un monociclo anche sulle strade sassose più accidentate. Vive grazie alla combustione del carbone.",
+		"es": "Recorre incluso los caminos más impracticables y pedregosos como si de un monociclo se tratase. La combustión de carbón es su fuente vital.",
+		"de": "Auch auf steinigen, schlecht befahrbaren Wegen fährt es problemlos, als wäre es ein Einrad. Es verbrennt Steinkohle, um zu überleben.",
+		"fr": "Il parcourt sans difficulté les sentiers rocheux accidentés à la manière d’un monocycle. Il a besoin de brûler du charbon pour vivre.",
+		"ko": "바위투성이의 거친 길을 아무렇지도 않게 일륜차처럼 달린다. 석탄을 태워서 살고 있다.",
+		"ja": "いわだらけの　あくろを　ものともせず いちりんしゃのように　はしりまわる。 せきたんを　もやして　いきている。"
+	}
+}

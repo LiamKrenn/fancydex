@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "charmander"}, "generation": "kanto", "id": 4, "names": {"ja": "リザード", "ko": "리자드", "fr": "Reptincel", "de": "Glutexo", "es": "Charmeleon", "it": "Charmeleon", "en": "Charmeleon"}, "descriptions": {"en": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.", "it": "Se s’infervora nella lotta, sputa potenti fiamme che inceneriscono l’area circostante.", "es": "Si se exalta en combate, expulsa intensas llamaradas que incineran todo a su alrededor.", "de": "Steigert es sich in einen Kampf hinein, spuckt es Flammen, die alles in seiner Umgebung niederbrennen.", "fr": "S’il s’excite pendant un combat, il crache de grandes flammes, brûlant tout ce qui se trouve aux alentours.", "ko": "싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다.", "ja": "たたかいで　きもちが　たかぶると しゃくねつの　ほのおを　ふきながら あたりを　もやしてまわる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "charmander" },
+	"generation": "kanto",
+	"id": 4,
+	"names": {
+		"ja": "リザード",
+		"ko": "리자드",
+		"fr": "Reptincel",
+		"de": "Glutexo",
+		"es": "Charmeleon",
+		"it": "Charmeleon",
+		"en": "Charmeleon"
+	},
+	"descriptions": {
+		"en": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+		"it": "Se s’infervora nella lotta, sputa potenti fiamme che inceneriscono l’area circostante.",
+		"es": "Si se exalta en combate, expulsa intensas llamaradas que incineran todo a su alrededor.",
+		"de": "Steigert es sich in einen Kampf hinein, spuckt es Flammen, die alles in seiner Umgebung niederbrennen.",
+		"fr": "S’il s’excite pendant un combat, il crache de grandes flammes, brûlant tout ce qui se trouve aux alentours.",
+		"ko": "싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다.",
+		"ja": "たたかいで　きもちが　たかぶると しゃくねつの　ほのおを　ふきながら あたりを　もやしてまわる。"
+	}
+}

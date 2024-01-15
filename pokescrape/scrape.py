@@ -9,7 +9,7 @@ import os
 langs = ["en", "ja-Hrkt", "it", "es", "de", "fr", "ko"]
 missingdata = {}
 c = 0
-for i in range(8):
+for i in range(9):
     response = requests.get(f"https://pokeapi.co/api/v2/generation/{i+1}/")
     data = json.loads(response.text)
     for pokemon in data["pokemon_species"]:

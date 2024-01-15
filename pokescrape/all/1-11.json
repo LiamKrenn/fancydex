@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "caterpie"}, "generation": "kanto", "id": 10, "names": {"ja": "トランセル", "ko": "단데기", "fr": "Chrysacier", "de": "Safcon", "es": "Metapod", "it": "Metapod", "en": "Metapod"}, "descriptions": {"en": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.", "it": "La corazza esterna è robusta ma l’interno è molle. Per questo non è in grado di resistere ad attacchi particolarmente veementi.", "es": "Aunque cuenta con una coraza muy dura, tiene un cuerpo bastante blando. Un ataque violento puede acabar con él.", "de": "In seiner harten Schale ist ein weicher Körper. Einem brutalen Angriff hat es nichts entgegenzusetzen.", "fr": "Bien que son corps soit entouré d’une carapace solide, l’intérieur est si mou qu’il ne résisterait pas à une attaque violente.", "ko": "단단한 껍질로 둘러싸여 있지만 안은 부드럽기 때문에 강한 공격에는 버티지 못한다.", "ja": "かたい　カラに　つつまれているが なかみは　やわらかいので つよい　こうげきには　たえられない。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "caterpie" },
+	"generation": "kanto",
+	"id": 10,
+	"names": {
+		"ja": "トランセル",
+		"ko": "단데기",
+		"fr": "Chrysacier",
+		"de": "Safcon",
+		"es": "Metapod",
+		"it": "Metapod",
+		"en": "Metapod"
+	},
+	"descriptions": {
+		"en": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+		"it": "La corazza esterna è robusta ma l’interno è molle. Per questo non è in grado di resistere ad attacchi particolarmente veementi.",
+		"es": "Aunque cuenta con una coraza muy dura, tiene un cuerpo bastante blando. Un ataque violento puede acabar con él.",
+		"de": "In seiner harten Schale ist ein weicher Körper. Einem brutalen Angriff hat es nichts entgegenzusetzen.",
+		"fr": "Bien que son corps soit entouré d’une carapace solide, l’intérieur est si mou qu’il ne résisterait pas à une attaque violente.",
+		"ko": "단단한 껍질로 둘러싸여 있지만 안은 부드럽기 때문에 강한 공격에는 버티지 못한다.",
+		"ja": "かたい　カラに　つつまれているが なかみは　やわらかいので つよい　こうげきには　たえられない。"
+	}
+}

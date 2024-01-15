@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 994,
+	"names": {
+		"ja": "テツノドクガ",
+		"ko": "무쇠독나방",
+		"fr": "Mite-de-Fer",
+		"de": "Eisenfalter",
+		"es": "Ferropolilla",
+		"it": "Falenaferrea",
+		"en": "Iron Moth"
+	},
+	"descriptions": {
+		"en": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+	}
+}

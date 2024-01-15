@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "unova", "id": 513, "names": {"ja": "バオップ", "ko": "바오프", "fr": "Flamajou", "de": "Grillmak", "es": "Pansear", "it": "Pansear", "en": "Pansear"}, "descriptions": {"en": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.", "it": "Vive nelle grotte vulcaniche. L’interno del ciuffo che ha in testa brucia a una temperatura di 300 °C.", "es": "Vive en cuevas volcánicas. El interior de su mata de pelo arde, llegando a alcanzar hasta 300 °C.", "de": "Das Feuer in seinem Kopfbüschel erreicht Temperaturen von bis zu 300 °C. Es ist in Vulkanhöhlen zu Hause.", "fr": "Il vit dans les cratères des volcans. L’intérieur de la mèche qu’il a sur la tête peut atteindre 300 °C.", "ko": "화산 동굴에서 산다. 머리의 송아리 속이 불타고 있어 300도나 되는 높은 온도가 된다.", "ja": "かざんの　ほらあなで　くらす。 あたまの　ふさの　なかが　もえていて ３００どの　こうおんになる。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 513,
+	"names": {
+		"ja": "バオップ",
+		"ko": "바오프",
+		"fr": "Flamajou",
+		"de": "Grillmak",
+		"es": "Pansear",
+		"it": "Pansear",
+		"en": "Pansear"
+	},
+	"descriptions": {
+		"en": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+		"it": "Vive nelle grotte vulcaniche. L’interno del ciuffo che ha in testa brucia a una temperatura di 300 °C.",
+		"es": "Vive en cuevas volcánicas. El interior de su mata de pelo arde, llegando a alcanzar hasta 300 °C.",
+		"de": "Das Feuer in seinem Kopfbüschel erreicht Temperaturen von bis zu 300 °C. Es ist in Vulkanhöhlen zu Hause.",
+		"fr": "Il vit dans les cratères des volcans. L’intérieur de la mèche qu’il a sur la tête peut atteindre 300 °C.",
+		"ko": "화산 동굴에서 산다. 머리의 송아리 속이 불타고 있어 300도나 되는 높은 온도가 된다.",
+		"ja": "かざんの　ほらあなで　くらす。 あたまの　ふさの　なかが　もえていて ３００どの　こうおんになる。"
+	}
+}

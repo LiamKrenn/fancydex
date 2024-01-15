@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "unova", "id": 539, "names": {"ja": "ダゲキ", "ko": "타격귀", "fr": "Karaclée", "de": "Karadonis", "es": "Sawk", "it": "Sawk", "en": "Sawk"}, "descriptions": {"en": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.", "it": "Grazie al suo intenso allenamento, può infliggere micidiali colpi di karate capaci di dividere in due le acque dell’oceano.", "es": "Cuando un Sawk ha entrenado duro, es capaz de separar las aguas del océano con la potencia de sus técnicas de kárate.", "de": "Der Karateschlag eines perfekt durchtrainierten Karadonis’ hat genug Wucht, um selbst das Meer zu spalten.", "fr": "Après avoir suivi un entraînement intensif, la puissance du tranchant de sa main est telle qu’il peut fendre la mer en deux.", "ko": "단련하고 단련한 타격귀가 사용하는 필살 태권당수는 바다도 가를 정도의 파괴력을 지녔다.", "ja": "きたえに　きたえた　ダゲキが くりだす　ひっさつ　からてチョップは うみも　わるほどの　はかいりょく。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 539,
+	"names": {
+		"ja": "ダゲキ",
+		"ko": "타격귀",
+		"fr": "Karaclée",
+		"de": "Karadonis",
+		"es": "Sawk",
+		"it": "Sawk",
+		"en": "Sawk"
+	},
+	"descriptions": {
+		"en": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
+		"it": "Grazie al suo intenso allenamento, può infliggere micidiali colpi di karate capaci di dividere in due le acque dell’oceano.",
+		"es": "Cuando un Sawk ha entrenado duro, es capaz de separar las aguas del océano con la potencia de sus técnicas de kárate.",
+		"de": "Der Karateschlag eines perfekt durchtrainierten Karadonis’ hat genug Wucht, um selbst das Meer zu spalten.",
+		"fr": "Après avoir suivi un entraînement intensif, la puissance du tranchant de sa main est telle qu’il peut fendre la mer en deux.",
+		"ko": "단련하고 단련한 타격귀가 사용하는 필살 태권당수는 바다도 가를 정도의 파괴력을 지녔다.",
+		"ja": "きたえに　きたえた　ダゲキが くりだす　ひっさつ　からてチョップは うみも　わるほどの　はかいりょく。"
+	}
+}

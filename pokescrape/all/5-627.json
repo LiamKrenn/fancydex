@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": null, "generation": "unova", "id": 627, "names": {"ja": "ワシボン", "ko": "수리둥보", "fr": "Furaiglon", "de": "Geronimatz", "es": "Rufflet", "it": "Rufflet", "en": "Rufflet"}, "descriptions": {"en": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.", "it": "La sua stretta riduce in frantumi anche le bacche più dure. È un attaccabrighe e sfida chiunque gli capiti a tiro.", "es": "Es capaz de partir hasta la baya más dura gracias a la fuerza de sus extremidades. Belicoso por naturaleza, planta cara a cualquiera.", "de": "Seine starken Klauen können selbst harte Beeren zermalmen. Es ist so streitsüchtig, dass es jeden zum Kampf herausfordert, dem es begegnet.", "fr": "Sa poigne est telle qu’il peut réduire en miettes les plus dures des Baies. Belliqueux de nature, il n’hésite pas à défier tout le monde.", "ko": "딱딱한 나무열매도 산산조각 내는 악력을 가졌다. 쉽게 다투고 아무에게나 승부를 건다.", "ja": "かたい　きのみも　こなごなに　くだく あくりょく。　ケンカっぱやく だれにでも　しょうぶを　しかける。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 627,
+	"names": {
+		"ja": "ワシボン",
+		"ko": "수리둥보",
+		"fr": "Furaiglon",
+		"de": "Geronimatz",
+		"es": "Rufflet",
+		"it": "Rufflet",
+		"en": "Rufflet"
+	},
+	"descriptions": {
+		"en": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
+		"it": "La sua stretta riduce in frantumi anche le bacche più dure. È un attaccabrighe e sfida chiunque gli capiti a tiro.",
+		"es": "Es capaz de partir hasta la baya más dura gracias a la fuerza de sus extremidades. Belicoso por naturaleza, planta cara a cualquiera.",
+		"de": "Seine starken Klauen können selbst harte Beeren zermalmen. Es ist so streitsüchtig, dass es jeden zum Kampf herausfordert, dem es begegnet.",
+		"fr": "Sa poigne est telle qu’il peut réduire en miettes les plus dures des Baies. Belliqueux de nature, il n’hésite pas à défier tout le monde.",
+		"ko": "딱딱한 나무열매도 산산조각 내는 악력을 가졌다. 쉽게 다투고 아무에게나 승부를 건다.",
+		"ja": "かたい　きのみも　こなごなに　くだく あくりょく。　ケンカっぱやく だれにでも　しょうぶを　しかける。"
+	}
+}

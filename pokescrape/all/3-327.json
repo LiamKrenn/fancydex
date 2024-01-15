@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "hoenn", "id": 327, "names": {"ja": "パッチール", "ko": "얼루기", "fr": "Spinda", "de": "Pandir", "es": "Spinda", "it": "Spinda", "en": "Spinda"}, "descriptions": {"en": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!", "it": "Ogni Spinda ha un motivo maculato unico. Grazie ai suoi movimenti incerti, riesce a schivare brillantemente gli attacchi nemici.", "es": "Los dibujos en el pelaje de cada Spinda son diferentes. Esquiva de forma asombrosa los ataques de los rivales gracias a sus tambaleos.", "de": "Jedes Pandir hat ein anderes Fleckenmuster. Mit seinem taumelnden Gang weicht es gegnerischen Angriffen souverän aus.", "fr": "Chaque Spinda possède un pelage unique. Ce Pokémon esquive les attaques de son adversaire grâce à d’imprévisibles oscillations.", "ko": "개체마다 얼룩무늬가 다르다. 비틀거리는 움직임으로 상대의 공격을 절묘하게 피한다.", "ja": "１ぴきずつ　ブチもようは　ことなる。 フラフラした　うごきで　あいての こうげきを　ぜつみょうに　かわすぞ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 327,
+	"names": {
+		"ja": "パッチール",
+		"ko": "얼루기",
+		"fr": "Spinda",
+		"de": "Pandir",
+		"es": "Spinda",
+		"it": "Spinda",
+		"en": "Spinda"
+	},
+	"descriptions": {
+		"en": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
+		"it": "Ogni Spinda ha un motivo maculato unico. Grazie ai suoi movimenti incerti, riesce a schivare brillantemente gli attacchi nemici.",
+		"es": "Los dibujos en el pelaje de cada Spinda son diferentes. Esquiva de forma asombrosa los ataques de los rivales gracias a sus tambaleos.",
+		"de": "Jedes Pandir hat ein anderes Fleckenmuster. Mit seinem taumelnden Gang weicht es gegnerischen Angriffen souverän aus.",
+		"fr": "Chaque Spinda possède un pelage unique. Ce Pokémon esquive les attaques de son adversaire grâce à d’imprévisibles oscillations.",
+		"ko": "개체마다 얼룩무늬가 다르다. 비틀거리는 움직임으로 상대의 공격을 절묘하게 피한다.",
+		"ja": "１ぴきずつ　ブチもようは　ことなる。 フラフラした　うごきで　あいての こうげきを　ぜつみょうに　かわすぞ。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "wooper" },
+	"generation": "paldea",
+	"id": 194,
+	"names": {
+		"ja": "ドオー",
+		"ko": "토오",
+		"fr": "Terraiste",
+		"de": "Suelord",
+		"es": "Clodsire",
+		"it": "Clodsire",
+		"en": "Clodsire"
+	},
+	"descriptions": {
+		"en": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+	}
+}

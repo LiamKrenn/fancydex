@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1006,
+	"names": {
+		"ja": "テツノブジン",
+		"ko": "무쇠무인",
+		"fr": "Garde-de-Fer",
+		"de": "Eisenkrieger",
+		"es": "Ferropaladín",
+		"it": "Eroeferreo",
+		"en": "Iron Valiant"
+	},
+	"descriptions": {
+		"en": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
+	}
+}

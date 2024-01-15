@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "drilbur"}, "generation": "unova", "id": 529, "names": {"ja": "ドリュウズ", "ko": "몰드류", "fr": "Minotaupe", "de": "Stalobor", "es": "Excadrill", "it": "Excadrill", "en": "Excadrill"}, "descriptions": {"en": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.", "it": "Conosciuto anche come “re delle trivelle”, questo Pokémon è capace di scavare sottoterra a una velocità di 150 km/h.", "es": "Se lo conoce como el Rey del Taladro. Puede horadar túneles bajo tierra a una velocidad de 150 km/h.", "de": "Es wird auch der „Bohrkönig“ genannt. Bei seinen Bohrmanövern im Erdreich erreicht es eine Spitzengeschwindigkeit von 150 km/h.", "fr": "On l’appelle le « roi de la vrille ». Il creuse la terre à une vitesse pouvant atteindre 150 km/h.", "ko": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.", "ja": "べつめい　ドリルキング。 ちちゅうを　ほりすすむ　そくどは じそく１５０キロに　たっする。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "drilbur" },
+	"generation": "unova",
+	"id": 529,
+	"names": {
+		"ja": "ドリュウズ",
+		"ko": "몰드류",
+		"fr": "Minotaupe",
+		"de": "Stalobor",
+		"es": "Excadrill",
+		"it": "Excadrill",
+		"en": "Excadrill"
+	},
+	"descriptions": {
+		"en": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
+		"it": "Conosciuto anche come “re delle trivelle”, questo Pokémon è capace di scavare sottoterra a una velocità di 150 km/h.",
+		"es": "Se lo conoce como el Rey del Taladro. Puede horadar túneles bajo tierra a una velocidad de 150 km/h.",
+		"de": "Es wird auch der „Bohrkönig“ genannt. Bei seinen Bohrmanövern im Erdreich erreicht es eine Spitzengeschwindigkeit von 150 km/h.",
+		"fr": "On l’appelle le « roi de la vrille ». Il creuse la terre à une vitesse pouvant atteindre 150 km/h.",
+		"ko": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.",
+		"ja": "べつめい　ドリルキング。 ちちゅうを　ほりすすむ　そくどは じそく１５０キロに　たっする。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "bisharp" },
+	"generation": "paldea",
+	"id": 625,
+	"names": {
+		"ja": "ドドゲザン",
+		"ko": "대도각참",
+		"fr": "Scalpereur",
+		"de": "Gladimperio",
+		"es": "Kingambit",
+		"it": "Kingambit",
+		"en": "Kingambit"
+	},
+	"descriptions": {
+		"en": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+	}
+}

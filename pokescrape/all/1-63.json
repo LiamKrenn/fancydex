@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 63, "names": {"ja": "ケーシィ", "ko": "캐이시", "fr": "Abra", "de": "Abra", "es": "Abra", "it": "Abra", "en": "Abra"}, "descriptions": {"en": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away.", "it": "È in grado di teletrasportarsi mentre dorme. Si dice che più profondo sia il suo sonno, più possa spostarsi lontano.", "es": "Puede teletransportarse mientras duerme. Se dice que, cuanto más profundo sea su sueño, mayor será la distancia a la que se desplace.", "de": "Es kann sich im Schlaf teleportieren. Je tiefer Abra schläft, desto weiter entfernt soll der Ort sein, an den es sich teleportiert.", "fr": "Il peut se téléporter en dormant. On dit que plus son sommeil est profond, plus il se téléporte loin.", "ko": "잠이 든 상태에서 순간이동이 가능하다. 깊이 잠들수록 먼 곳으로 이동한다고 한다.", "ja": "ねむったまま　テレポート　できる。 ねむりが　ふかいほど　はなれた ばしょに　いどうする　という。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 63,
+	"names": {
+		"ja": "ケーシィ",
+		"ko": "캐이시",
+		"fr": "Abra",
+		"de": "Abra",
+		"es": "Abra",
+		"it": "Abra",
+		"en": "Abra"
+	},
+	"descriptions": {
+		"en": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away.",
+		"it": "È in grado di teletrasportarsi mentre dorme. Si dice che più profondo sia il suo sonno, più possa spostarsi lontano.",
+		"es": "Puede teletransportarse mientras duerme. Se dice que, cuanto más profundo sea su sueño, mayor será la distancia a la que se desplace.",
+		"de": "Es kann sich im Schlaf teleportieren. Je tiefer Abra schläft, desto weiter entfernt soll der Ort sein, an den es sich teleportiert.",
+		"fr": "Il peut se téléporter en dormant. On dit que plus son sommeil est profond, plus il se téléporte loin.",
+		"ko": "잠이 든 상태에서 순간이동이 가능하다. 깊이 잠들수록 먼 곳으로 이동한다고 한다.",
+		"ja": "ねむったまま　テレポート　できる。 ねむりが　ふかいほど　はなれた ばしょに　いどうする　という。"
+	}
+}

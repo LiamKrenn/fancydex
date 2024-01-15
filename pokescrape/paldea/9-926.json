@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 926,
+	"names": {
+		"ja": "パピモッチ",
+		"ko": "쫀도기",
+		"fr": "Pâtachiot",
+		"de": "Hefel",
+		"es": "Fidough",
+		"it": "Fidough",
+		"en": "Fidough"
+	},
+	"descriptions": {
+		"en": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+	}
+}

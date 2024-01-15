@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "zubat"}, "generation": "kanto", "id": 41, "names": {"ja": "ゴルバット", "ko": "골뱃", "fr": "Nosferalto", "de": "Golbat", "es": "Golbat", "it": "Golbat", "en": "Golbat"}, "descriptions": {"en": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.", "it": "Cammina agilmente con i piccoli piedi. Si avvicina di soppiatto alle prede addormentate per azzannarle e berne il sangue.", "es": "Camina con soltura sobre sus pequeñas patas. Se acerca con sigilo a su presa mientras esta duerme y le clava los colmillos para chuparle la sangre.", "de": "Golbat kann trotz seiner kleinen Beine geschickt laufen. Es schleicht sich an schlafende Beute an, stößt seine Zähne in sie und schlürft ihr Blut.", "fr": "Il se déplace habilement sur ses petites pattes, s’approche silencieusement de sa proie endormie, et lui suce le sang à l’aide de ses crocs.", "ko": "작은 다리로 능숙하게 걷는다. 자고 있는 먹이에게 살며시 다가가 이빨을 꽂아 피를 빨아먹는다.", "ja": "ちいさな　あしで　きように　あるく。 ねている　エモノに　しのびより キバを　つきたて　ちを　すするのだ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "zubat" },
+	"generation": "kanto",
+	"id": 41,
+	"names": {
+		"ja": "ゴルバット",
+		"ko": "골뱃",
+		"fr": "Nosferalto",
+		"de": "Golbat",
+		"es": "Golbat",
+		"it": "Golbat",
+		"en": "Golbat"
+	},
+	"descriptions": {
+		"en": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.",
+		"it": "Cammina agilmente con i piccoli piedi. Si avvicina di soppiatto alle prede addormentate per azzannarle e berne il sangue.",
+		"es": "Camina con soltura sobre sus pequeñas patas. Se acerca con sigilo a su presa mientras esta duerme y le clava los colmillos para chuparle la sangre.",
+		"de": "Golbat kann trotz seiner kleinen Beine geschickt laufen. Es schleicht sich an schlafende Beute an, stößt seine Zähne in sie und schlürft ihr Blut.",
+		"fr": "Il se déplace habilement sur ses petites pattes, s’approche silencieusement de sa proie endormie, et lui suce le sang à l’aide de ses crocs.",
+		"ko": "작은 다리로 능숙하게 걷는다. 자고 있는 먹이에게 살며시 다가가 이빨을 꽂아 피를 빨아먹는다.",
+		"ja": "ちいさな　あしで　きように　あるく。 ねている　エモノに　しのびより キバを　つきたて　ちを　すするのだ。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 968,
+	"names": {
+		"ja": "ミミズズ",
+		"ko": "꿈트렁",
+		"fr": "Ferdeter",
+		"de": "Schlurm",
+		"es": "Orthworm",
+		"it": "Orthworm",
+		"en": "Orthworm"
+	},
+	"descriptions": {
+		"en": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+	}
+}

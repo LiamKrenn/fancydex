@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 950,
+	"names": {
+		"ja": "ガケガニ",
+		"ko": "절벼게",
+		"fr": "Craparoi",
+		"de": "Klibbe",
+		"es": "Klawf",
+		"it": "Klawf",
+		"en": "Klawf"
+	},
+	"descriptions": {
+		"en": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws."
+	}
+}

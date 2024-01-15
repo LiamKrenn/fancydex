@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 453, "names": {"ja": "グレッグル", "ko": "삐딱구리", "fr": "Cradopaud", "de": "Glibunkel", "es": "Croagunk", "it": "Croagunk", "en": "Croagunk"}, "descriptions": {"en": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.", "it": "Se diluito, il suo veleno ha proprietà medicinali. È diventato popolare da quando una casa farmaceutica ne ha fatto la sua mascotte.", "es": "Su veneno posee propiedades medicinales si se diluye. Se ha vuelto muy popular desde que una empresa farmacéutica lo adoptó como mascota.", "de": "Verdünnt man sein Gift, wird es zu Medizin. Seit es zum Maskottchen eines Pharmakonzerns wurde, hat es viele neue Fans gewonnen.", "fr": "Dilué, son poison sert de remède. Cela lui a valu de devenir la mascotte populaire d’une entreprise de produits pharmaceutiques.", "ko": "독을 희석하면 약이 된다. 제약 회사의 마스코트가 된 후로 인기가 많아졌다.", "ja": "どくを　うすめると　くすりに　なる。 やくひんがいしゃの　マスコットに なって　にんきものに　なった。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 453,
+	"names": {
+		"ja": "グレッグル",
+		"ko": "삐딱구리",
+		"fr": "Cradopaud",
+		"de": "Glibunkel",
+		"es": "Croagunk",
+		"it": "Croagunk",
+		"en": "Croagunk"
+	},
+	"descriptions": {
+		"en": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
+		"it": "Se diluito, il suo veleno ha proprietà medicinali. È diventato popolare da quando una casa farmaceutica ne ha fatto la sua mascotte.",
+		"es": "Su veneno posee propiedades medicinales si se diluye. Se ha vuelto muy popular desde que una empresa farmacéutica lo adoptó como mascota.",
+		"de": "Verdünnt man sein Gift, wird es zu Medizin. Seit es zum Maskottchen eines Pharmakonzerns wurde, hat es viele neue Fans gewonnen.",
+		"fr": "Dilué, son poison sert de remède. Cela lui a valu de devenir la mascotte populaire d’une entreprise de produits pharmaceutiques.",
+		"ko": "독을 희석하면 약이 된다. 제약 회사의 마스코트가 된 후로 인기가 많아졌다.",
+		"ja": "どくを　うすめると　くすりに　なる。 やくひんがいしゃの　マスコットに なって　にんきものに　なった。"
+	}
+}

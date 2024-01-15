@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "hoenn", "id": 351, "names": {"ja": "ポワルン", "ko": "캐스퐁", "fr": "Morphéo", "de": "Formeo", "es": "Castform", "it": "Castform", "en": "Castform"}, "descriptions": {"en": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!", "it": "Il suo aspetto cambia con le condizioni atmosferiche. Più il tempo è brutto, più diventa aggressivo.", "es": "El tiempo atmosférico cambia tanto su aspecto como su estado de ánimo. Cuanto más arrecia, más agresivo se vuelve.", "de": "Seine Gestalt ändert sich abhängig vom Wetter. Je ungestümer dieses ist, desto gröber wird auch sein Charakter.", "fr": "Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif.", "ko": "날씨에 따라 모습이 바뀐다. 날씨가 궂을수록 성질도 난폭해진다.", "ja": "てんきに　よって　すがたが　かわる。 きしょうが　あらくなるほど きしょうも　あらっぽく　なってくる。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 351,
+	"names": {
+		"ja": "ポワルン",
+		"ko": "캐스퐁",
+		"fr": "Morphéo",
+		"de": "Formeo",
+		"es": "Castform",
+		"it": "Castform",
+		"en": "Castform"
+	},
+	"descriptions": {
+		"en": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
+		"it": "Il suo aspetto cambia con le condizioni atmosferiche. Più il tempo è brutto, più diventa aggressivo.",
+		"es": "El tiempo atmosférico cambia tanto su aspecto como su estado de ánimo. Cuanto más arrecia, más agresivo se vuelve.",
+		"de": "Seine Gestalt ändert sich abhängig vom Wetter. Je ungestümer dieses ist, desto gröber wird auch sein Charakter.",
+		"fr": "Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif.",
+		"ko": "날씨에 따라 모습이 바뀐다. 날씨가 궂을수록 성질도 난폭해진다.",
+		"ja": "てんきに　よって　すがたが　かわる。 きしょうが　あらくなるほど きしょうも　あらっぽく　なってくる。"
+	}
+}

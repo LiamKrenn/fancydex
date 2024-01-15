@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "kabuto"}, "generation": "kanto", "id": 140, "names": {"ja": "カブトプス", "ko": "투구푸스", "fr": "Kabutops", "de": "Kabutops", "es": "Kabutops", "it": "Kabutops", "en": "Kabutops"}, "descriptions": {"en": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.", "it": "Questo feroce Pokémon dell’antichità viveva nei mari caldi. Le cause della sua estinzione sono ignote.", "es": "Se desconoce el motivo de la extinción de este feroz Pokémon prehistórico que habitaba en los cálidos mares de antaño.", "de": "Es ist unklar, warum dieses brutale urzeitliche Pokémon, das in warmen Meeren lebte, letztendlich ausstarb.", "fr": "Nul ne sait pourquoi il s’est éteint. Ce Pokémon préhistorique féroce vivait dans les mers chaudes.", "ko": "멸종한 이유는 불명확하다. 따듯한 바다에 살고 있던 난폭한 고대의 포켓몬이다.", "ja": "ぜつめつの　りゆうは　ふめい。 あたたかい　うみに　くらしていた きょうぼうな　こだいのポケモン。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "kabuto" },
+	"generation": "kanto",
+	"id": 140,
+	"names": {
+		"ja": "カブトプス",
+		"ko": "투구푸스",
+		"fr": "Kabutops",
+		"de": "Kabutops",
+		"es": "Kabutops",
+		"it": "Kabutops",
+		"en": "Kabutops"
+	},
+	"descriptions": {
+		"en": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
+		"it": "Questo feroce Pokémon dell’antichità viveva nei mari caldi. Le cause della sua estinzione sono ignote.",
+		"es": "Se desconoce el motivo de la extinción de este feroz Pokémon prehistórico que habitaba en los cálidos mares de antaño.",
+		"de": "Es ist unklar, warum dieses brutale urzeitliche Pokémon, das in warmen Meeren lebte, letztendlich ausstarb.",
+		"fr": "Nul ne sait pourquoi il s’est éteint. Ce Pokémon préhistorique féroce vivait dans les mers chaudes.",
+		"ko": "멸종한 이유는 불명확하다. 따듯한 바다에 살고 있던 난폭한 고대의 포켓몬이다.",
+		"ja": "ぜつめつの　りゆうは　ふめい。 あたたかい　うみに　くらしていた きょうぼうな　こだいのポケモン。"
+	}
+}

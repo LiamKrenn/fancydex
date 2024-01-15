@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "nincada"}, "generation": "hoenn", "id": 290, "names": {"ja": "テッカニン", "ko": "아이스크", "fr": "Ninjask", "de": "Ninjask", "es": "Ninjask", "it": "Ninjask", "en": "Ninjask"}, "descriptions": {"en": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.", "it": "È così rapido che si dice sia in grado di schivare qualsiasi attacco. Ama nutrirsi della linfa degli alberi.", "es": "Este Pokémon es tan rápido que, según dicen, puede esquivar cualquier ataque. Le encanta alimentarse de la dulce savia de los árboles.", "de": "Dieses Pokémon ist so schnell, dass es jedem Angriff ausweichen kann. Es ernährt sich am liebsten von süßem Baumsaft.", "fr": "Ce Pokémon est tellement rapide qu’on le dit capable d’éviter toutes les attaques. Il adore se nourrir de la sève sucrée des arbres.", "ko": "어떤 공격이든 피할 수 있다고 이야기될 정도로 빠른 포켓몬이다. 달콤한 수액을 매우 좋아한다.", "ja": "どんな　こうげきでも　よけてしまうと いわれるほど　すばやい　ポケモン。 あまい　じゅえきが　だいこうぶつ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "nincada" },
+	"generation": "hoenn",
+	"id": 290,
+	"names": {
+		"ja": "テッカニン",
+		"ko": "아이스크",
+		"fr": "Ninjask",
+		"de": "Ninjask",
+		"es": "Ninjask",
+		"it": "Ninjask",
+		"en": "Ninjask"
+	},
+	"descriptions": {
+		"en": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+		"it": "È così rapido che si dice sia in grado di schivare qualsiasi attacco. Ama nutrirsi della linfa degli alberi.",
+		"es": "Este Pokémon es tan rápido que, según dicen, puede esquivar cualquier ataque. Le encanta alimentarse de la dulce savia de los árboles.",
+		"de": "Dieses Pokémon ist so schnell, dass es jedem Angriff ausweichen kann. Es ernährt sich am liebsten von süßem Baumsaft.",
+		"fr": "Ce Pokémon est tellement rapide qu’on le dit capable d’éviter toutes les attaques. Il adore se nourrir de la sève sucrée des arbres.",
+		"ko": "어떤 공격이든 피할 수 있다고 이야기될 정도로 빠른 포켓몬이다. 달콤한 수액을 매우 좋아한다.",
+		"ja": "どんな　こうげきでも　よけてしまうと いわれるほど　すばやい　ポケモン。 あまい　じゅえきが　だいこうぶつ。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1002,
+	"names": {
+		"ja": "パオジアン",
+		"ko": "파오젠",
+		"fr": "Baojian",
+		"de": "Baojian",
+		"es": "Chien-Pao",
+		"it": "Chien-Pao",
+		"en": "Chien-Pao"
+	},
+	"descriptions": {
+		"en": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+	}
+}

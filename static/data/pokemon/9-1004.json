@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1004,
+	"names": {
+		"ja": "イーユイ",
+		"ko": "위유이",
+		"fr": "Yuyu",
+		"de": "Yuyu",
+		"es": "Chi-Yu",
+		"it": "Chi-Yu",
+		"en": "Chi-Yu"
+	},
+	"descriptions": {
+		"en": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+	}
+}

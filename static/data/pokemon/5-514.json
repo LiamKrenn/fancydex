@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "pansear"}, "generation": "unova", "id": 513, "names": {"ja": "バオッキー", "ko": "바오키", "fr": "Flamoutan", "de": "Grillchita", "es": "Simisear", "it": "Simisear", "en": "Simisear"}, "descriptions": {"en": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.", "it": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci.", "es": "Cuando se emociona, echa chispas por la cola y la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.", "de": "Freut es sich, erhitzt sich sein Körper und aus seinem Kopf und Schweif sprühen Funken. Es liebt Süßigkeiten.", "fr": "Quand il est excité, des flammèches brûlantes dansent sur sa tête et sa queue. Il raffole des choses sucrées.", "ko": "흥분하면 머리나 꼬리에서 불티가 날아올라 뜨거워진다. 왜인지 달콤한 것을 매우 좋아한다.", "ja": "こうふんすると　あたまや　しっぽから ひのこが　まいあがって　あつくなる。 なぜか　あまいものが　だいこうぶつ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "pansear" },
+	"generation": "unova",
+	"id": 513,
+	"names": {
+		"ja": "バオッキー",
+		"ko": "바오키",
+		"fr": "Flamoutan",
+		"de": "Grillchita",
+		"es": "Simisear",
+		"it": "Simisear",
+		"en": "Simisear"
+	},
+	"descriptions": {
+		"en": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+		"it": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci.",
+		"es": "Cuando se emociona, echa chispas por la cola y la cabeza, y calienta su cuerpo. Por alguna razón le encantan los dulces.",
+		"de": "Freut es sich, erhitzt sich sein Körper und aus seinem Kopf und Schweif sprühen Funken. Es liebt Süßigkeiten.",
+		"fr": "Quand il est excité, des flammèches brûlantes dansent sur sa tête et sa queue. Il raffole des choses sucrées.",
+		"ko": "흥분하면 머리나 꼬리에서 불티가 날아올라 뜨거워진다. 왜인지 달콤한 것을 매우 좋아한다.",
+		"ja": "こうふんすると　あたまや　しっぽから ひのこが　まいあがって　あつくなる。 なぜか　あまいものが　だいこうぶつ。"
+	}
+}

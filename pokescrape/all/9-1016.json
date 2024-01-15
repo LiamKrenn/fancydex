@@ -1,0 +1,16 @@
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1016,
+	"names": {
+		"ja": "キチキギス",
+		"ko": "기로치",
+		"fr": "Favianos",
+		"de": "Beatori",
+		"es": "Fezandipiti",
+		"it": "Fezandipiti",
+		"en": "Fezandipiti"
+	},
+	"descriptions": {}
+}

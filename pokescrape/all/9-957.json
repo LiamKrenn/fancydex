@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 957,
+	"names": {
+		"ja": "カヌチャン",
+		"ko": "어리짱",
+		"fr": "Forgerette",
+		"de": "Forgita",
+		"es": "Tinkatink",
+		"it": "Tinkatink",
+		"en": "Tinkatink"
+	},
+	"descriptions": {
+		"en": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
+	}
+}

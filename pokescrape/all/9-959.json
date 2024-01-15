@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": { "name": "tinkatuff" },
+	"generation": "paldea",
+	"id": 958,
+	"names": {
+		"ja": "デカヌチャン",
+		"ko": "두드리짱",
+		"fr": "Forgelina",
+		"de": "Granforgita",
+		"es": "Tinkaton",
+		"it": "Tinkaton",
+		"en": "Tinkaton"
+	},
+	"descriptions": {
+		"en": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+	}
+}

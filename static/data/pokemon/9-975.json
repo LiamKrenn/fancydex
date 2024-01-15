@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "cetoddle" },
+	"generation": "paldea",
+	"id": 974,
+	"names": {
+		"ja": "ハルクジラ",
+		"ko": "우락고래",
+		"fr": "Balbalèze",
+		"de": "Kolowal",
+		"es": "Cetitan",
+		"it": "Cetitan",
+		"en": "Cetitan"
+	},
+	"descriptions": {
+		"en": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+	}
+}

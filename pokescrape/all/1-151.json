@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "kanto", "id": 151, "names": {"ja": "ミュウ", "ko": "뮤", "fr": "Mew", "de": "Mew", "es": "Mew", "it": "Mew", "en": "Mew"}, "descriptions": {"en": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.", "it": "Osservando al microscopio la pelle di Mew si può constatare che è ricoperta da una fitta peluria, corta e fine.", "es": "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.", "de": "Wenn man Mews Haut mithilfe eines Mikroskops betrachtet, so erkennt man ein Fell aus vielen feinen und kurzen Härchen.", "fr": "À l’aide d’un microscope, on peut distinguer le pelage extrêmement court, fin et délicat de ce Pokémon.", "ko": "현미경으로 관찰하면 매우 짧고 가는 털이 촘촘하게 나 있다.", "ja": "けんびきょうで　のぞいてみたら ひじょうに　みじかくて　ほそい こまやかな　たいもうが　はえていた。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 151,
+	"names": {
+		"ja": "ミュウ",
+		"ko": "뮤",
+		"fr": "Mew",
+		"de": "Mew",
+		"es": "Mew",
+		"it": "Mew",
+		"en": "Mew"
+	},
+	"descriptions": {
+		"en": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
+		"it": "Osservando al microscopio la pelle di Mew si può constatare che è ricoperta da una fitta peluria, corta e fine.",
+		"es": "Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.",
+		"de": "Wenn man Mews Haut mithilfe eines Mikroskops betrachtet, so erkennt man ein Fell aus vielen feinen und kurzen Härchen.",
+		"fr": "À l’aide d’un microscope, on peut distinguer le pelage extrêmement court, fin et délicat de ce Pokémon.",
+		"ko": "현미경으로 관찰하면 매우 짧고 가는 털이 촘촘하게 나 있다.",
+		"ja": "けんびきょうで　のぞいてみたら ひじょうに　みじかくて　ほそい こまやかな　たいもうが　はえていた。"
+	}
+}

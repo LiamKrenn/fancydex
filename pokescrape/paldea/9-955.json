@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 955,
+	"names": {
+		"ja": "ヒラヒナ",
+		"ko": "하느라기",
+		"fr": "Flotillon",
+		"de": "Flattutu",
+		"es": "Flittle",
+		"it": "Flittle",
+		"en": "Flittle"
+	},
+	"descriptions": {
+		"en": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+	}
+}

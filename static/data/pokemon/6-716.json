@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "kalos", "id": 716, "names": {"ja": "ゼルネアス", "ko": "제르네아스", "fr": "Xerneas", "de": "Xerneas", "es": "Xerneas", "it": "Xerneas", "en": "Xerneas"}, "descriptions": {"en": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.", "it": "Si dice che possieda l’immortalità e che possa farne dono agli altri quando le sue corna brillano dei colori dell’arcobaleno.", "es": "Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.", "de": "Es heißt, dieses Pokémon spende ewiges Leben, sobald das Geweih auf seinem Haupt in sieben verschiedenen Farben leuchtet.", "fr": "D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.", "ko": "머리의 뿔이 일곱 빛깔로 빛날 때 영원한 생명을 나눠준다고 전해진다.", "ja": "あたまの　ツノが　なないろに かがやくとき　えいえんの　いのちを わけあたえると　いわれている。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 716,
+	"names": {
+		"ja": "ゼルネアス",
+		"ko": "제르네아스",
+		"fr": "Xerneas",
+		"de": "Xerneas",
+		"es": "Xerneas",
+		"it": "Xerneas",
+		"en": "Xerneas"
+	},
+	"descriptions": {
+		"en": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+		"it": "Si dice che possieda l’immortalità e che possa farne dono agli altri quando le sue corna brillano dei colori dell’arcobaleno.",
+		"es": "Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.",
+		"de": "Es heißt, dieses Pokémon spende ewiges Leben, sobald das Geweih auf seinem Haupt in sieben verschiedenen Farben leuchtet.",
+		"fr": "D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.",
+		"ko": "머리의 뿔이 일곱 빛깔로 빛날 때 영원한 생명을 나눠준다고 전해진다.",
+		"ja": "あたまの　ツノが　なないろに かがやくとき　えいえんの　いのちを わけあたえると　いわれている。"
+	}
+}

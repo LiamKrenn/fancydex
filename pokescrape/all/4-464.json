@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "rhydon"}, "generation": "sinnoh", "id": 112, "names": {"ja": "ドサイドン", "ko": "거대코뿌리", "fr": "Rhinastoc", "de": "Rihornior", "es": "Rhyperior", "it": "Rhyperior", "en": "Rhyperior"}, "descriptions": {"en": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.", "it": "Respinge gli attacchi con la sua Copertura e approfitta del momento di esitazione dell’avversario per perforarlo con il suo trapano.", "es": "Repele los ataques usando un Protector y aprovecha el momento en que el rival baja la guardia para perforarlo con su taladro.", "de": "Mit seinem Schützer wehrt es Angriffe ab und durchsticht dann den verdutzten Gegner mit seinem Bohrer, auf den es sehr stolz ist.", "fr": "Il repousse les attaques avec ses Protecteurs et profite du moment où l’adversaire est déstabilisé pour le transpercer avec sa vrille, dont il est fier.", "ko": "프로텍터로 공격을 튕겨내고 상대가 풀이 죽으면 특징적인 드릴로 관통한다.", "ja": "プロテクターで　こうげきを　はじき あいてが　ひるんだ　ところを じまんの　ドリルで　つらぬく。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "rhydon" },
+	"generation": "sinnoh",
+	"id": 112,
+	"names": {
+		"ja": "ドサイドン",
+		"ko": "거대코뿌리",
+		"fr": "Rhinastoc",
+		"de": "Rihornior",
+		"es": "Rhyperior",
+		"it": "Rhyperior",
+		"en": "Rhyperior"
+	},
+	"descriptions": {
+		"en": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.",
+		"it": "Respinge gli attacchi con la sua Copertura e approfitta del momento di esitazione dell’avversario per perforarlo con il suo trapano.",
+		"es": "Repele los ataques usando un Protector y aprovecha el momento en que el rival baja la guardia para perforarlo con su taladro.",
+		"de": "Mit seinem Schützer wehrt es Angriffe ab und durchsticht dann den verdutzten Gegner mit seinem Bohrer, auf den es sehr stolz ist.",
+		"fr": "Il repousse les attaques avec ses Protecteurs et profite du moment où l’adversaire est déstabilisé pour le transpercer avec sa vrille, dont il est fier.",
+		"ko": "프로텍터로 공격을 튕겨내고 상대가 풀이 죽으면 특징적인 드릴로 관통한다.",
+		"ja": "プロテクターで　こうげきを　はじき あいてが　ひるんだ　ところを じまんの　ドリルで　つらぬく。"
+	}
+}

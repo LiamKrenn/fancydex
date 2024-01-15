@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "chikorita"}, "generation": "johto", "id": 152, "names": {"ja": "ベイリーフ", "ko": "베이리프", "fr": "Macronium", "de": "Lorblatt", "es": "Bayleef", "it": "Bayleef", "en": "Bayleef"}, "descriptions": {"en": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.", "it": "Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L’aroma emanato da questo germoglio ha un effetto energizzante sull’uomo.", "es": "Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.", "de": "Lorblatts Nacken ist mit zusammengerollten Blättern behangen. In jedem Blatt befindet sich ein kleiner Trieb eines Baumes. Der Duft dieses Triebes bringt Menschen auf Trab.", "fr": "Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d’elles se trouve une pousse d’arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent.", "ko": "목 주변의 둥그렇게 말린 잎사귀 안에는 작은 새싹 한 개가 나 있다. 그 향기는 사람을 기운 나게 한다.", "ja": "くびの　まわりの　くるりと　まいた　はっぱの なかには　ちいさな　きのめが　１こ　なっている。 その　かおりは　ひとを　げんきに　させるぞ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "chikorita" },
+	"generation": "johto",
+	"id": 152,
+	"names": {
+		"ja": "ベイリーフ",
+		"ko": "베이리프",
+		"fr": "Macronium",
+		"de": "Lorblatt",
+		"es": "Bayleef",
+		"it": "Bayleef",
+		"en": "Bayleef"
+	},
+	"descriptions": {
+		"en": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+		"it": "Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L’aroma emanato da questo germoglio ha un effetto energizzante sull’uomo.",
+		"es": "Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.",
+		"de": "Lorblatts Nacken ist mit zusammengerollten Blättern behangen. In jedem Blatt befindet sich ein kleiner Trieb eines Baumes. Der Duft dieses Triebes bringt Menschen auf Trab.",
+		"fr": "Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d’elles se trouve une pousse d’arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent.",
+		"ko": "목 주변의 둥그렇게 말린 잎사귀 안에는 작은 새싹 한 개가 나 있다. 그 향기는 사람을 기운 나게 한다.",
+		"ja": "くびの　まわりの　くるりと　まいた　はっぱの なかには　ちいさな　きのめが　１こ　なっている。 その　かおりは　ひとを　げんきに　させるぞ。"
+	}
+}

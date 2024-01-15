@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 948,
+	"names": {
+		"ja": "ノノクラゲ",
+		"ko": "들눈해",
+		"fr": "Terracool",
+		"de": "Tentagra",
+		"es": "Toedscool",
+		"it": "Toedscool",
+		"en": "Toedscool"
+	},
+	"descriptions": {
+		"en": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
+	}
+}

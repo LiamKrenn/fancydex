@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "johto", "id": 244, "names": {"ja": "エンテイ", "ko": "앤테이", "fr": "Entei", "de": "Entei", "es": "Entei", "it": "Entei", "en": "Entei"}, "descriptions": {"en": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.", "it": "Entei rappresenta l’ardore del magma. Si narra che questo Pokémon sia nato dall’eruzione di un vulcano. Emette lingue di fuoco così violente da incenerire tutto ciò che lambiscono.", "es": "Entei contiene el fulgor del magma en su interior. Se cree que este Pokémon nació de la erupción de un volcán. Escupe numerosas ráfagas de fuego que devoran y reducen a cenizas todo lo que tocan.", "de": "Entei verfügt über die Leidenschaft von Magma. Dieses Pokémon wurde bei einem Vulkanausbruch geboren und bringt Feuersbrünste hervor, die alles auslöschen, was mit ihnen in Kontakt kommt.", "fr": "Entei incarne la colère du magma. On pense que ce Pokémon est né suite à l’éruption d’un volcan. Il peut envoyer d’énormes jets de flammes qui calcinent tout ce qu’ils touchent.", "ko": "마그마의 정열이 깃들어 있는 포켓몬이다. 화산 분화 속에서 태어났다고 여겨지며 모든 것을 태워버리는 불꽃을 뿜어 올린다.", "ja": "マグマの　じょうねつを　やどした　ポケモン。 かざんの　ふんかから　うまれたと　かんがえられ すべてを　やきつくす　ほのおを　ふきあげる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 244,
+	"names": {
+		"ja": "エンテイ",
+		"ko": "앤테이",
+		"fr": "Entei",
+		"de": "Entei",
+		"es": "Entei",
+		"it": "Entei",
+		"en": "Entei"
+	},
+	"descriptions": {
+		"en": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+		"it": "Entei rappresenta l’ardore del magma. Si narra che questo Pokémon sia nato dall’eruzione di un vulcano. Emette lingue di fuoco così violente da incenerire tutto ciò che lambiscono.",
+		"es": "Entei contiene el fulgor del magma en su interior. Se cree que este Pokémon nació de la erupción de un volcán. Escupe numerosas ráfagas de fuego que devoran y reducen a cenizas todo lo que tocan.",
+		"de": "Entei verfügt über die Leidenschaft von Magma. Dieses Pokémon wurde bei einem Vulkanausbruch geboren und bringt Feuersbrünste hervor, die alles auslöschen, was mit ihnen in Kontakt kommt.",
+		"fr": "Entei incarne la colère du magma. On pense que ce Pokémon est né suite à l’éruption d’un volcan. Il peut envoyer d’énormes jets de flammes qui calcinent tout ce qu’ils touchent.",
+		"ko": "마그마의 정열이 깃들어 있는 포켓몬이다. 화산 분화 속에서 태어났다고 여겨지며 모든 것을 태워버리는 불꽃을 뿜어 올린다.",
+		"ja": "マグマの　じょうねつを　やどした　ポケモン。 かざんの　ふんかから　うまれたと　かんがえられ すべてを　やきつくす　ほのおを　ふきあげる。"
+	}
+}

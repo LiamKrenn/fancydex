@@ -1,0 +1,18 @@
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 940,
+	"names": {
+		"ja": "カイデン",
+		"ko": "찌리비",
+		"fr": "Zapétrel",
+		"de": "Voltrel",
+		"es": "Wattrel",
+		"it": "Wattrel",
+		"en": "Wattrel"
+	},
+	"descriptions": {
+		"en": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+	}
+}

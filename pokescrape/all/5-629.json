@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "unova", "id": 629, "names": {"ja": "バルチャイ", "ko": "벌차이", "fr": "Vostourno", "de": "Skallyk", "es": "Vullaby", "it": "Vullaby", "en": "Vullaby"}, "descriptions": {"en": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.", "it": "Cresce così velocemente che il teschio gli va presto stretto. I teschi smessi restano nel nido e vengono usati dalle generazioni successive.", "es": "Deja en el nido las calaveras que va descartando a medida que crece con celeridad para que las reutilicen futuras generaciones.", "de": "Sie werden rasend schnell größer. Wenn sie aus Schädelwindeln herauswachsen, werden diese von jüngeren Nestgefährten getragen.", "fr": "Il grandit vite. Au sein du nid, les petits Vostourno héritent des couches en crâne de leurs aînés.", "ko": "금방 크게 성장하므로 엉덩이의 해골은 둥지 안에서 대물림되어 계속 사용된다.", "ja": "すぐに　おおきく　そだつので おしりの　ガイコツは　すの　なかで おさがりとして　つかいまわされる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 629,
+	"names": {
+		"ja": "バルチャイ",
+		"ko": "벌차이",
+		"fr": "Vostourno",
+		"de": "Skallyk",
+		"es": "Vullaby",
+		"it": "Vullaby",
+		"en": "Vullaby"
+	},
+	"descriptions": {
+		"en": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
+		"it": "Cresce così velocemente che il teschio gli va presto stretto. I teschi smessi restano nel nido e vengono usati dalle generazioni successive.",
+		"es": "Deja en el nido las calaveras que va descartando a medida que crece con celeridad para que las reutilicen futuras generaciones.",
+		"de": "Sie werden rasend schnell größer. Wenn sie aus Schädelwindeln herauswachsen, werden diese von jüngeren Nestgefährten getragen.",
+		"fr": "Il grandit vite. Au sein du nid, les petits Vostourno héritent des couches en crâne de leurs aînés.",
+		"ko": "금방 크게 성장하므로 엉덩이의 해골은 둥지 안에서 대물림되어 계속 사용된다.",
+		"ja": "すぐに　おおきく　そだつので おしりの　ガイコツは　すの　なかで おさがりとして　つかいまわされる。"
+	}
+}

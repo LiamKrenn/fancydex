@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "johto", "id": 177, "names": {"ja": "ネイティ", "ko": "네이티", "fr": "Natu", "de": "Natu", "es": "Natu", "it": "Natu", "en": "Natu"}, "descriptions": {"en": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.", "it": "Poiché le sue ali non sono ancora ben sviluppate, è costretto ad andarsene in giro saltellando. Sembra sempre intento a fissare qualcosa.", "es": "Se desplaza dando saltitos porque sus alas no han crecido lo suficiente. Siempre está mirando algo fijamente.", "de": "Da seine Flügel nicht voll ausgebildet sind, bewegt es sich hüpfend fort. Seinen Blick hat es stets starr auf ein Ziel gerichtet.", "fr": "Ses ailes ne sont pas assez développées donc il ne peut se déplacer qu’en sautillant. Il fixe toujours quelque chose du regard.", "ko": "날개가 아직 잘 발달하지 못해서 점프하듯 이동한다. 항상 뭔가를 바라보고 있다.", "ja": "はねが　そだちきって　おらず とびはねるようにして　いどうする。 いつも　なにかを　みつめている。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 177,
+	"names": {
+		"ja": "ネイティ",
+		"ko": "네이티",
+		"fr": "Natu",
+		"de": "Natu",
+		"es": "Natu",
+		"it": "Natu",
+		"en": "Natu"
+	},
+	"descriptions": {
+		"en": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
+		"it": "Poiché le sue ali non sono ancora ben sviluppate, è costretto ad andarsene in giro saltellando. Sembra sempre intento a fissare qualcosa.",
+		"es": "Se desplaza dando saltitos porque sus alas no han crecido lo suficiente. Siempre está mirando algo fijamente.",
+		"de": "Da seine Flügel nicht voll ausgebildet sind, bewegt es sich hüpfend fort. Seinen Blick hat es stets starr auf ein Ziel gerichtet.",
+		"fr": "Ses ailes ne sont pas assez développées donc il ne peut se déplacer qu’en sautillant. Il fixe toujours quelque chose du regard.",
+		"ko": "날개가 아직 잘 발달하지 못해서 점프하듯 이동한다. 항상 뭔가를 바라보고 있다.",
+		"ja": "はねが　そだちきって　おらず とびはねるようにして　いどうする。 いつも　なにかを　みつめている。"
+	}
+}

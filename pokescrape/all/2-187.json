@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "johto", "id": 187, "names": {"ja": "ハネッコ", "ko": "통통코", "fr": "Granivol", "de": "Hoppspross", "es": "Hoppip", "it": "Hoppip", "en": "Hoppip"}, "descriptions": {"de": "Es lässt sich vom Wind treiben. Manchmal verirrt es sich, wenn es von einem Windstoß davon- geweht wird.", "en": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.", "it": "Hoppip fluttua nell’aria trasportato dal vento. Se percepisce l’avvicinarsi di una forte corrente, Hoppip unisce le foglie con quelle dei suoi simili per non essere spazzato via.", "es": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.", "fr": "Ce Pokémon flotte à la dérive, porté par le vent. S’il sent qu’un vent très fort approche, Granivol attache ses feuilles aux autres Granivol pour ne pas être emporté par la bourrasque.", "ko": "바람을 타고 둥둥 떠다니는 포켓몬이다. 강풍의 기척을 느끼면 동료끼리 잎사귀를 휘감아 날아가지 않도록 준비한다.", "ja": "かぜに　のって　ふわふわ　ただよう　ポケモン。 きょうふうの　けはいを　かんじると　なかまどうし はっぱを　からめ　とばされない　じゅんびをする。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 187,
+	"names": {
+		"ja": "ハネッコ",
+		"ko": "통통코",
+		"fr": "Granivol",
+		"de": "Hoppspross",
+		"es": "Hoppip",
+		"it": "Hoppip",
+		"en": "Hoppip"
+	},
+	"descriptions": {
+		"de": "Es lässt sich vom Wind treiben. Manchmal verirrt es sich, wenn es von einem Windstoß davon- geweht wird.",
+		"en": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+		"it": "Hoppip fluttua nell’aria trasportato dal vento. Se percepisce l’avvicinarsi di una forte corrente, Hoppip unisce le foglie con quelle dei suoi simili per non essere spazzato via.",
+		"es": "Este Pokémon flota en el aire y se deja llevar. Cuando percibe que el viento va a cambiar a fuerte, Hoppip entrelaza sus hojas con otros Hoppip para hacer resistencia y evitar salir volando por la fuerza de la corriente.",
+		"fr": "Ce Pokémon flotte à la dérive, porté par le vent. S’il sent qu’un vent très fort approche, Granivol attache ses feuilles aux autres Granivol pour ne pas être emporté par la bourrasque.",
+		"ko": "바람을 타고 둥둥 떠다니는 포켓몬이다. 강풍의 기척을 느끼면 동료끼리 잎사귀를 휘감아 날아가지 않도록 준비한다.",
+		"ja": "かぜに　のって　ふわふわ　ただよう　ポケモン。 きょうふうの　けはいを　かんじると　なかまどうし はっぱを　からめ　とばされない　じゅんびをする。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "farfetchd"}, "generation": "galar", "id": 83, "names": {"ja": "ネギガナイト", "ko": "창파나이트", "fr": "Palarticho", "de": "Lauchzelot", "es": "Sirfetch’d", "it": "Sirfetch’d", "en": "Sirfetch’d"}, "descriptions": {"en": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.", "it": "Devia gli attacchi usando la dura foglia del porro e contrattacca con il gambo affilato. Usa il porro sia come arma che come cibo.", "es": "Repele ataques con las hojas de su duro puerro y contraataca con su tallo afilado. El puerro que le sirve de armamento sigue siendo comestible.", "de": "Der Lauch dient ihm als Waffe und zur Abwehr, aber viele essen ihn auch. Mit den harten Blättern pariert es und mit der scharfen Stange kontert es.", "fr": "Il pare les attaques avec le tranchant de son solide poireau, et contre-attaque avec la pointe de la tige. Son arme est également comestible.", "ko": "단단한 파잎으로 공격을 받아넘기고 날카로운 줄기로 반격한다. 파는 무기인 동시에 식재료다.", "ja": "かたいネギの　はで　こうげきを いなし　するどい　クキで　はんげき。 ネギは　ぶぐで　あり　しょくざい。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "farfetchd" },
+	"generation": "galar",
+	"id": 83,
+	"names": {
+		"ja": "ネギガナイト",
+		"ko": "창파나이트",
+		"fr": "Palarticho",
+		"de": "Lauchzelot",
+		"es": "Sirfetch’d",
+		"it": "Sirfetch’d",
+		"en": "Sirfetch’d"
+	},
+	"descriptions": {
+		"en": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
+		"it": "Devia gli attacchi usando la dura foglia del porro e contrattacca con il gambo affilato. Usa il porro sia come arma che come cibo.",
+		"es": "Repele ataques con las hojas de su duro puerro y contraataca con su tallo afilado. El puerro que le sirve de armamento sigue siendo comestible.",
+		"de": "Der Lauch dient ihm als Waffe und zur Abwehr, aber viele essen ihn auch. Mit den harten Blättern pariert es und mit der scharfen Stange kontert es.",
+		"fr": "Il pare les attaques avec le tranchant de son solide poireau, et contre-attaque avec la pointe de la tige. Son arme est également comestible.",
+		"ko": "단단한 파잎으로 공격을 받아넘기고 날카로운 줄기로 반격한다. 파는 무기인 동시에 식재료다.",
+		"ja": "かたいネギの　はで　こうげきを いなし　するどい　クキで　はんげき。 ネギは　ぶぐで　あり　しょくざい。"
+	}
+}

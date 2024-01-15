@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "roggenrola"}, "generation": "unova", "id": 524, "names": {"ja": "ガントル", "ko": "암트르", "fr": "Géolithe", "de": "Sedimantur", "es": "Boldore", "it": "Boldore", "en": "Boldore"}, "descriptions": {"en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.", "it": "Perlustra la zona intorno a sé servendosi dei rumori. Se irritato, insegue chi lo ha importunato senza cambiare orientamento del corpo.", "es": "Se vale del sonido para percibir el entorno. Si alguien despierta su ira, lo perseguirá sin cambiar la orientación del cuerpo.", "de": "Es nimmt die Umgebung über akustische Reize wahr. Ärgerliche Störenfriede kann es verfolgen, ohne sich ihnen zuwenden zu müssen.", "fr": "Il sonde les environs grâce au son. Lorsqu’un importun le met en colère, il se lance à sa poursuite sans changer l’orientation de son corps.", "ko": "소리로 주위 상황을 살핀다. 화나게 하면 몸의 방향을 바꾸지 않은 채로 쫓아온다.", "ja": "おとで　まわりの　ようすを　さぐる。 おこらせると　からだの　むきを かえないまま　おってくる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "roggenrola" },
+	"generation": "unova",
+	"id": 524,
+	"names": {
+		"ja": "ガントル",
+		"ko": "암트르",
+		"fr": "Géolithe",
+		"de": "Sedimantur",
+		"es": "Boldore",
+		"it": "Boldore",
+		"en": "Boldore"
+	},
+	"descriptions": {
+		"en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+		"it": "Perlustra la zona intorno a sé servendosi dei rumori. Se irritato, insegue chi lo ha importunato senza cambiare orientamento del corpo.",
+		"es": "Se vale del sonido para percibir el entorno. Si alguien despierta su ira, lo perseguirá sin cambiar la orientación del cuerpo.",
+		"de": "Es nimmt die Umgebung über akustische Reize wahr. Ärgerliche Störenfriede kann es verfolgen, ohne sich ihnen zuwenden zu müssen.",
+		"fr": "Il sonde les environs grâce au son. Lorsqu’un importun le met en colère, il se lance à sa poursuite sans changer l’orientation de son corps.",
+		"ko": "소리로 주위 상황을 살핀다. 화나게 하면 몸의 방향을 바꾸지 않은 채로 쫓아온다.",
+		"ja": "おとで　まわりの　ようすを　さぐる。 おこらせると　からだの　むきを かえないまま　おってくる。"
+	}
+}

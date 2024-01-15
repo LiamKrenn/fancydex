@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 960,
+	"names": {
+		"ja": "ウミディグダ",
+		"ko": "바다그다",
+		"fr": "Taupikeau",
+		"de": "Schligda",
+		"es": "Wiglett",
+		"it": "Wiglett",
+		"en": "Wiglett"
+	},
+	"descriptions": {
+		"en": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+	}
+}

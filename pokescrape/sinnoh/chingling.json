@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 433, "names": {"ja": "リーシャン", "ko": "랑딸랑", "fr": "Korillon", "de": "Klingplim", "es": "Chingling", "it": "Chingling", "en": "Chingling"}, "descriptions": {"en": "This Pokémon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing.", "it": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.", "es": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un tintineo.", "de": "In seinem Maul befindet sich eine Kugel, die beim Hopsen ein klingelndes Geräusch erzeugt.", "fr": "Quand il sautille, l’orbe qu’il a dans la bouche s’agite et tinte comme une cloche.", "ko": "뛰어오르면 입안에 있는 구슬이 사방에 반사되어 방울 같은 음색을 만들어 낸다.", "ja": "とびはねると　くちのなかにある たまが　あちこちに　はんしゃして すずのような　ねいろと　なる。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 433,
+	"names": {
+		"ja": "リーシャン",
+		"ko": "랑딸랑",
+		"fr": "Korillon",
+		"de": "Klingplim",
+		"es": "Chingling",
+		"it": "Chingling",
+		"en": "Chingling"
+	},
+	"descriptions": {
+		"en": "This Pokémon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing.",
+		"it": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.",
+		"es": "Tiene una esfera en la boca. Cuando salta, la esfera rebota y emite un tintineo.",
+		"de": "In seinem Maul befindet sich eine Kugel, die beim Hopsen ein klingelndes Geräusch erzeugt.",
+		"fr": "Quand il sautille, l’orbe qu’il a dans la bouche s’agite et tinte comme une cloche.",
+		"ko": "뛰어오르면 입안에 있는 구슬이 사방에 반사되어 방울 같은 음색을 만들어 낸다.",
+		"ja": "とびはねると　くちのなかにある たまが　あちこちに　はんしゃして すずのような　ねいろと　なる。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "alola", "id": 774, "names": {"ja": "メテノ", "ko": "메테노", "fr": "Météno", "de": "Meteno", "es": "Minior", "it": "Minior", "en": "Minior"}, "descriptions": {"en": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.", "it": "Il suo guscio esterno è estremamente resistente, ma quando precipita dallo strato d’ozono l’impatto con il suolo lo fa andare in mille pezzi.", "es": "Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.", "de": "Seine äußere Schale ist zwar sehr robust, durch den Aufprall auf der Oberfläche des Planeten zersplittert sie allerdings.", "fr": "Sa carapace, pourtant très solide, éclate en mille morceaux quand il s’écrase sur la terre en tombant du ciel.", "ko": "겉껍질은 매우 튼튼하지만 지상에 낙하할 때의 충격으로 산산이 조각나 버린다.", "ja": "がいかくは　とても　がんじょうだが ちじょうに　らっかする　ショックで こっぱみじんに　くだけてしまう。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 774,
+	"names": {
+		"ja": "メテノ",
+		"ko": "메테노",
+		"fr": "Météno",
+		"de": "Meteno",
+		"es": "Minior",
+		"it": "Minior",
+		"en": "Minior"
+	},
+	"descriptions": {
+		"en": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
+		"it": "Il suo guscio esterno è estremamente resistente, ma quando precipita dallo strato d’ozono l’impatto con il suolo lo fa andare in mille pezzi.",
+		"es": "Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.",
+		"de": "Seine äußere Schale ist zwar sehr robust, durch den Aufprall auf der Oberfläche des Planeten zersplittert sie allerdings.",
+		"fr": "Sa carapace, pourtant très solide, éclate en mille morceaux quand il s’écrase sur la terre en tombant du ciel.",
+		"ko": "겉껍질은 매우 튼튼하지만 지상에 낙하할 때의 충격으로 산산이 조각나 버린다.",
+		"ja": "がいかくは　とても　がんじょうだが ちじょうに　らっかする　ショックで こっぱみじんに　くだけてしまう。"
+	}
+}

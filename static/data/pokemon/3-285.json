@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "hoenn", "id": 285, "names": {"ja": "キノココ", "ko": "버섯꼬", "fr": "Balignon", "de": "Knilz", "es": "Shroomish", "it": "Shroomish", "en": "Shroomish"}, "descriptions": {"en": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.", "it": "In caso di pericolo Shroomish agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo Pokémon sono così tossiche da far appassire fiori e piante.", "es": "Si Shroomish siente peligro, agita el cuerpo y libera esporas venenosas por la cabeza. Estas esporas son tan tóxicas que pueden hacer que se marchiten los árboles y hasta las malas hierbas.", "de": "Wenn Knilz Gefahr wittert, schüttelt es seinen Körper und verteilt Sporen von seinem Kopf. Diese Sporen sind so giftig, dass Bäume und Gräser davon eingehen.", "fr": "Lorsque Balignon sent un danger, il secoue son corps et répand ses spores du haut de sa tête. Les spores de ce Pokémon sont si toxiques qu’elles font dépérir les arbres et les herbes.", "ko": "위험을 느끼면 몸을 흔들어 머리의 정수리에서 포자를 뿌린다. 풀과 나무가 시들 정도의 맹독이다.", "ja": "きけんを　かんじると　からだを　ふるわせて あたまの　てっぺんから　ほうしを　ばらまくぞ。 くさきも　しおれてしまうほどの　もうどくだ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 285,
+	"names": {
+		"ja": "キノココ",
+		"ko": "버섯꼬",
+		"fr": "Balignon",
+		"de": "Knilz",
+		"es": "Shroomish",
+		"it": "Shroomish",
+		"en": "Shroomish"
+	},
+	"descriptions": {
+		"en": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
+		"it": "In caso di pericolo Shroomish agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo Pokémon sono così tossiche da far appassire fiori e piante.",
+		"es": "Si Shroomish siente peligro, agita el cuerpo y libera esporas venenosas por la cabeza. Estas esporas son tan tóxicas que pueden hacer que se marchiten los árboles y hasta las malas hierbas.",
+		"de": "Wenn Knilz Gefahr wittert, schüttelt es seinen Körper und verteilt Sporen von seinem Kopf. Diese Sporen sind so giftig, dass Bäume und Gräser davon eingehen.",
+		"fr": "Lorsque Balignon sent un danger, il secoue son corps et répand ses spores du haut de sa tête. Les spores de ce Pokémon sont si toxiques qu’elles font dépérir les arbres et les herbes.",
+		"ko": "위험을 느끼면 몸을 흔들어 머리의 정수리에서 포자를 뿌린다. 풀과 나무가 시들 정도의 맹독이다.",
+		"ja": "きけんを　かんじると　からだを　ふるわせて あたまの　てっぺんから　ほうしを　ばらまくぞ。 くさきも　しおれてしまうほどの　もうどくだ。"
+	}
+}

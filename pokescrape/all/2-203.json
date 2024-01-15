@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "johto", "id": 203, "names": {"ja": "キリンリキ", "ko": "키링키", "fr": "Girafarig", "de": "Girafarig", "es": "Girafarig", "it": "Girafarig", "en": "Girafarig"}, "descriptions": {"en": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.", "it": "La testa posteriore di Girafarig contiene un cervello minuto, troppo piccolo per pensare. Tuttavia, questa testolina non dorme mai, così può rimanere di sorveglianza 24 ore su 24.", "es": "La cabeza trasera de Girafarig tiene un cerebro muy pequeño para pensar, pero, como no le hace falta dormir, al menos puede hacer de centinela las 24 horas del día.", "de": "Der Kopf an Girafarigs Hinterteil verfügt nur über ein kleines Gehirn, mit dem es nicht denken kann. Dieses Gehirn benötigt jedoch keinen Schlaf und ist somit in der Lage, die Umgebung rund um die Uhr im Auge zu behalten.", "fr": "La tête à l’arrière de Girafarig abrite un cerveau trop petit pour penser. En revanche, cette tête arrière n’a pas besoin de dormir, ce qui lui permet de monter la garde tout le temps.", "ko": "꼬리의 뇌는 생각을 할 수 없을 정도로 작지만 자지 않아도 괜찮아서 24시간 주변을 계속 망보고 있다.", "ja": "しっぽの　のうは　かんがえごとが　できないほど ちいさいけど　ねむらなくても　へいき　なので ２４じかん　あたりを　みはりつづけて　いるぞ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 203,
+	"names": {
+		"ja": "キリンリキ",
+		"ko": "키링키",
+		"fr": "Girafarig",
+		"de": "Girafarig",
+		"es": "Girafarig",
+		"it": "Girafarig",
+		"en": "Girafarig"
+	},
+	"descriptions": {
+		"en": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+		"it": "La testa posteriore di Girafarig contiene un cervello minuto, troppo piccolo per pensare. Tuttavia, questa testolina non dorme mai, così può rimanere di sorveglianza 24 ore su 24.",
+		"es": "La cabeza trasera de Girafarig tiene un cerebro muy pequeño para pensar, pero, como no le hace falta dormir, al menos puede hacer de centinela las 24 horas del día.",
+		"de": "Der Kopf an Girafarigs Hinterteil verfügt nur über ein kleines Gehirn, mit dem es nicht denken kann. Dieses Gehirn benötigt jedoch keinen Schlaf und ist somit in der Lage, die Umgebung rund um die Uhr im Auge zu behalten.",
+		"fr": "La tête à l’arrière de Girafarig abrite un cerveau trop petit pour penser. En revanche, cette tête arrière n’a pas besoin de dormir, ce qui lui permet de monter la garde tout le temps.",
+		"ko": "꼬리의 뇌는 생각을 할 수 없을 정도로 작지만 자지 않아도 괜찮아서 24시간 주변을 계속 망보고 있다.",
+		"ja": "しっぽの　のうは　かんがえごとが　できないほど ちいさいけど　ねむらなくても　へいき　なので ２４じかん　あたりを　みはりつづけて　いるぞ。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "kanto", "id": 10, "names": {"ja": "キャタピー", "ko": "캐터피", "fr": "Chenipan", "de": "Raupy", "es": "Caterpie", "it": "Caterpie", "en": "Caterpie"}, "descriptions": {"en": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.", "it": "Le ventose sulle sue corte zampe gli permettono di affrontare ogni salita e di scalare senza fatica qualsiasi muro.", "es": "Sus cortas patas están recubiertas de ventosas que le permiten subir incansable por muros y cuestas.", "de": "Es hat Saugnäpfe an den Beinchen, mit denen es mühelos Steigungen und Mauern erklimmen kann.", "fr": "Ses petites pattes munies de ventouses lui permettent de monter les pentes et de grimper aux murs sans se fatiguer.", "ko": "다리는 짧지만 빨판으로 되어 있어 비탈길이나 벽에서도 지치지 않고 나아간다.", "ja": "あしは　みじかいが　きゅうばんに なっているので　さかでも　かべでも くたびれることなく　すすんでいく。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 10,
+	"names": {
+		"ja": "キャタピー",
+		"ko": "캐터피",
+		"fr": "Chenipan",
+		"de": "Raupy",
+		"es": "Caterpie",
+		"it": "Caterpie",
+		"en": "Caterpie"
+	},
+	"descriptions": {
+		"en": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+		"it": "Le ventose sulle sue corte zampe gli permettono di affrontare ogni salita e di scalare senza fatica qualsiasi muro.",
+		"es": "Sus cortas patas están recubiertas de ventosas que le permiten subir incansable por muros y cuestas.",
+		"de": "Es hat Saugnäpfe an den Beinchen, mit denen es mühelos Steigungen und Mauern erklimmen kann.",
+		"fr": "Ses petites pattes munies de ventouses lui permettent de monter les pentes et de grimper aux murs sans se fatiguer.",
+		"ko": "다리는 짧지만 빨판으로 되어 있어 비탈길이나 벽에서도 지치지 않고 나아간다.",
+		"ja": "あしは　みじかいが　きゅうばんに なっているので　さかでも　かべでも くたびれることなく　すすんでいく。"
+	}
+}

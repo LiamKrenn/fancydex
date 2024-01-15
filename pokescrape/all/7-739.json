@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "alola", "id": 739, "names": {"ja": "マケンカニ", "ko": "오기지게", "fr": "Crabagarre", "de": "Krabbox", "es": "Crabrawler", "it": "Crabrawler", "en": "Crabrawler"}, "descriptions": {"en": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.", "it": "A volte si arrampica sugli Exeggutor, prendendoli per vere palme. Per tutta risposta, questi si adirano, lo scaraventano a terra e lo calpestano.", "es": "A veces trepa por Exeggutor al confundirlo con una palmera de verdad. Este, presa de la ira, se desembaraza de él a sacudidas y lo pisotea.", "de": "Manchmal hält es ein Kokowei für eine Palme und klettert es hinauf. Dieses schüttelt es dann wütend ab und verpasst ihm einen Tritt.", "fr": "Il grimpe parfois sur un Noadkoko qu’il a pris pour un cocotier. Il se fait alors éjecter puis piétiner par le Noadkoko courroucé.", "ko": "야자나무로 착각하고 나시에 오르는 일도 있다. 분노를 사 내동댕이쳐진 다음 짓밟힌다.", "ja": "ヤシのきと　まちがえて　ナッシーに のぼることもある。　いかりを　かって ふりおとされて　ふみつけられる。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 739,
+	"names": {
+		"ja": "マケンカニ",
+		"ko": "오기지게",
+		"fr": "Crabagarre",
+		"de": "Krabbox",
+		"es": "Crabrawler",
+		"it": "Crabrawler",
+		"en": "Crabrawler"
+	},
+	"descriptions": {
+		"en": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
+		"it": "A volte si arrampica sugli Exeggutor, prendendoli per vere palme. Per tutta risposta, questi si adirano, lo scaraventano a terra e lo calpestano.",
+		"es": "A veces trepa por Exeggutor al confundirlo con una palmera de verdad. Este, presa de la ira, se desembaraza de él a sacudidas y lo pisotea.",
+		"de": "Manchmal hält es ein Kokowei für eine Palme und klettert es hinauf. Dieses schüttelt es dann wütend ab und verpasst ihm einen Tritt.",
+		"fr": "Il grimpe parfois sur un Noadkoko qu’il a pris pour un cocotier. Il se fait alors éjecter puis piétiner par le Noadkoko courroucé.",
+		"ko": "야자나무로 착각하고 나시에 오르는 일도 있다. 분노를 사 내동댕이쳐진 다음 짓밟힌다.",
+		"ja": "ヤシのきと　まちがえて　ナッシーに のぼることもある。　いかりを　かって ふりおとされて　ふみつけられる。"
+	}
+}

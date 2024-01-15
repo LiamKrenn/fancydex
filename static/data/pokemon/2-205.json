@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "pineco"}, "generation": "johto", "id": 204, "names": {"ja": "フォレトス", "ko": "쏘콘", "fr": "Foretress", "de": "Forstellka", "es": "Forretress", "it": "Forretress", "en": "Forretress"}, "descriptions": {"en": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.", "it": "L’istante in cui ingoia la preda è l’unico momento in cui è possibile sbirciare nella sua conchiglia. Nessuno sa esattamente come sia fatto.", "es": "El momento en el que engulle a su presa es el único instante donde muestra su cuerpo, pero hasta ahora ningún humano lo ha visto.", "de": "Sein Inneres ist nur kurz sichtbar, wenn es flugs seine Beute verschlingt. Bisher hat es noch kein Mensch geschafft, einen Blick hineinzuwerfen.", "fr": "On ne peut voir l’intérieur de sa carapace que lorsqu’il engloutit sa nourriture, mais il est si rapide que personne n’a encore jamais réussi.", "ko": "먹이를 삼키는 순간에는 껍질 안의 모습이 나타나지만 그 모습을 본 자는 아직 없다.", "ja": "えものを　のみこむ　いっしゅんだけ カラの　なかみが　あらわれるが　その すがたを　みたものは　まだいない。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "pineco" },
+	"generation": "johto",
+	"id": 204,
+	"names": {
+		"ja": "フォレトス",
+		"ko": "쏘콘",
+		"fr": "Foretress",
+		"de": "Forstellka",
+		"es": "Forretress",
+		"it": "Forretress",
+		"en": "Forretress"
+	},
+	"descriptions": {
+		"en": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
+		"it": "L’istante in cui ingoia la preda è l’unico momento in cui è possibile sbirciare nella sua conchiglia. Nessuno sa esattamente come sia fatto.",
+		"es": "El momento en el que engulle a su presa es el único instante donde muestra su cuerpo, pero hasta ahora ningún humano lo ha visto.",
+		"de": "Sein Inneres ist nur kurz sichtbar, wenn es flugs seine Beute verschlingt. Bisher hat es noch kein Mensch geschafft, einen Blick hineinzuwerfen.",
+		"fr": "On ne peut voir l’intérieur de sa carapace que lorsqu’il engloutit sa nourriture, mais il est si rapide que personne n’a encore jamais réussi.",
+		"ko": "먹이를 삼키는 순간에는 껍질 안의 모습이 나타나지만 그 모습을 본 자는 아직 없다.",
+		"ja": "えものを　のみこむ　いっしゅんだけ カラの　なかみが　あらわれるが　その すがたを　みたものは　まだいない。"
+	}
+}

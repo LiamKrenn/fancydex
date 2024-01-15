@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "geodude"}, "generation": "kanto", "id": 74, "names": {"ja": "ゴローン", "ko": "데구리", "fr": "Gravalanch", "de": "Georok", "es": "Graveler", "it": "Graveler", "en": "Graveler"}, "descriptions": {"en": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.", "it": "Spesso viene visto rotolare giù per i sentieri di montagna, travolgendo tutto ciò che incontra.", "es": "Se le suele ver rodando montaña abajo. No evita los obstáculos, sino que los arrolla.", "de": "Es rollt sich gerne Gebirgspfade hinunter. Dabei ist es ihm egal, wer oder was sich in seinem Weg befindet.", "fr": "Il dévale les sentiers de montagne et traverse les obstacles en les pulvérisant.", "ko": "산길에서 자주 굴러다닌다. 가는 길에 무엇이 있든 전혀 신경 쓰지 않는다.", "ja": "やまみちを　よく　ころがっている。 とおりみちに　なにが　あろうと いっさい　きに　していない。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "geodude" },
+	"generation": "kanto",
+	"id": 74,
+	"names": {
+		"ja": "ゴローン",
+		"ko": "데구리",
+		"fr": "Gravalanch",
+		"de": "Georok",
+		"es": "Graveler",
+		"it": "Graveler",
+		"en": "Graveler"
+	},
+	"descriptions": {
+		"en": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.",
+		"it": "Spesso viene visto rotolare giù per i sentieri di montagna, travolgendo tutto ciò che incontra.",
+		"es": "Se le suele ver rodando montaña abajo. No evita los obstáculos, sino que los arrolla.",
+		"de": "Es rollt sich gerne Gebirgspfade hinunter. Dabei ist es ihm egal, wer oder was sich in seinem Weg befindet.",
+		"fr": "Il dévale les sentiers de montagne et traverse les obstacles en les pulvérisant.",
+		"ko": "산길에서 자주 굴러다닌다. 가는 길에 무엇이 있든 전혀 신경 쓰지 않는다.",
+		"ja": "やまみちを　よく　ころがっている。 とおりみちに　なにが　あろうと いっさい　きに　していない。"
+	}
+}

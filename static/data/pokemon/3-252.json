@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "hoenn", "id": 252, "names": {"ja": "キモリ", "ko": "나무지기", "fr": "Arcko", "de": "Geckarbor", "es": "Treecko", "it": "Treecko", "en": "Treecko"}, "descriptions": {"en": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.", "it": "Treecko ha classe, è calmo e posato: non si lascia mai prendere dal panico. Quando affronta un nemico più grande di lui, lo fissa dritto negli occhi senza la minima esitazione.", "es": "Treecko es tranquilo y tiene gran capacidad de autocontrol; no pierde la calma en ninguna situación. Si algún rival se le queda mirando fijamente, le devolverá la mirada sin ceder ni lo más mínimo de su territorio.", "de": "Geckarbor ist ruhig und beherrscht, es gerät niemals in Panik. Wenn es ein stärkerer Feind zornig anstarrt, erwidert es den bösen Blick, weicht aber keinen Millimeter zurück.", "fr": "Arcko est cool, calme et serein. Il ne panique jamais, quelle que soit la situation. Quand un ennemi plus gros que lui lui lance un regard de défi, ce Pokémon reste stoïque et ne cède pas un centimètre de terrain.", "ko": "침착 냉정 어떤 일에도 동요하지 않는다. 체격이 큰 포켓몬이 노려봐도 한 발짝도 물러서지 않고 같이 노려본다.", "ja": "ちんちゃく　れいせい　なにごとにも　どうじない。 からだの　おおきな　ポケモンに　にらまれても いっぽも　ひかずに　にらみかえすぞ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 252,
+	"names": {
+		"ja": "キモリ",
+		"ko": "나무지기",
+		"fr": "Arcko",
+		"de": "Geckarbor",
+		"es": "Treecko",
+		"it": "Treecko",
+		"en": "Treecko"
+	},
+	"descriptions": {
+		"en": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+		"it": "Treecko ha classe, è calmo e posato: non si lascia mai prendere dal panico. Quando affronta un nemico più grande di lui, lo fissa dritto negli occhi senza la minima esitazione.",
+		"es": "Treecko es tranquilo y tiene gran capacidad de autocontrol; no pierde la calma en ninguna situación. Si algún rival se le queda mirando fijamente, le devolverá la mirada sin ceder ni lo más mínimo de su territorio.",
+		"de": "Geckarbor ist ruhig und beherrscht, es gerät niemals in Panik. Wenn es ein stärkerer Feind zornig anstarrt, erwidert es den bösen Blick, weicht aber keinen Millimeter zurück.",
+		"fr": "Arcko est cool, calme et serein. Il ne panique jamais, quelle que soit la situation. Quand un ennemi plus gros que lui lui lance un regard de défi, ce Pokémon reste stoïque et ne cède pas un centimètre de terrain.",
+		"ko": "침착 냉정 어떤 일에도 동요하지 않는다. 체격이 큰 포켓몬이 노려봐도 한 발짝도 물러서지 않고 같이 노려본다.",
+		"ja": "ちんちゃく　れいせい　なにごとにも　どうじない。 からだの　おおきな　ポケモンに　にらまれても いっぽも　ひかずに　にらみかえすぞ。"
+	}
+}

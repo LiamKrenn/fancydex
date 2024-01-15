@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "misdreavus"}, "generation": "sinnoh", "id": 200, "names": {"ja": "ムウマージ", "ko": "무우마직", "fr": "Magirêve", "de": "Traunmagil", "es": "Mismagius", "it": "Mismagius", "en": "Mismagius"}, "descriptions": {"en": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue.", "it": "Infligge tormenti al nemico recitando formule malefiche che causano terribili emicranie o provocano spaventose visioni.", "es": "Murmura conjuros para atormentar al enemigo y provocarle dolores de cabeza insoportables o visiones terroríficas.", "de": "Es verursacht schreckliche Qualen, indem es Flüche flüstert, die schlimme Kopfschmerzen und fürchterliche Halluzinationen auslösen.", "fr": "Il susurre des malédictions pour tourmenter ses ennemis et leur infliger de terribles migraines ou des hallucinations terrifiantes.", "ko": "저주의 말을 중얼거리며 심한 두통이나 무서운 환상을 보여 줘서 괴롭힌다.", "ja": "のろいの　ことばを　つぶやいて ひどい　ずつうや　おそろしい まぼろしを　みせて　くるしめる。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "misdreavus" },
+	"generation": "sinnoh",
+	"id": 200,
+	"names": {
+		"ja": "ムウマージ",
+		"ko": "무우마직",
+		"fr": "Magirêve",
+		"de": "Traunmagil",
+		"es": "Mismagius",
+		"it": "Mismagius",
+		"en": "Mismagius"
+	},
+	"descriptions": {
+		"en": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue.",
+		"it": "Infligge tormenti al nemico recitando formule malefiche che causano terribili emicranie o provocano spaventose visioni.",
+		"es": "Murmura conjuros para atormentar al enemigo y provocarle dolores de cabeza insoportables o visiones terroríficas.",
+		"de": "Es verursacht schreckliche Qualen, indem es Flüche flüstert, die schlimme Kopfschmerzen und fürchterliche Halluzinationen auslösen.",
+		"fr": "Il susurre des malédictions pour tourmenter ses ennemis et leur infliger de terribles migraines ou des hallucinations terrifiantes.",
+		"ko": "저주의 말을 중얼거리며 심한 두통이나 무서운 환상을 보여 줘서 괴롭힌다.",
+		"ja": "のろいの　ことばを　つぶやいて ひどい　ずつうや　おそろしい まぼろしを　みせて　くるしめる。"
+	}
+}

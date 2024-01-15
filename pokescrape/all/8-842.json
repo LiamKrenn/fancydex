@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "applin"}, "generation": "galar", "id": 840, "names": {"ja": "タルップル", "ko": "단지래플", "fr": "Dratatin", "de": "Schlapfel", "es": "Appletun", "it": "Appletun", "en": "Appletun"}, "descriptions": {"en": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.", "it": "È ricoperto di una specie di sciroppo. La buccia sulla sua schiena, particolarmente dolce, una volta veniva data ai bambini per merenda.", "es": "Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.", "de": "Sein Körper wird von süßem Nektar bedeckt und die Schale auf seinem Rücken ist besonders süß. Früher war diese ein Leckerbissen für Kinder.", "fr": "Son corps est recouvert de nectar. La peau de son dos, particulièrement sucrée, constituait jadis le goûter des enfants.", "ko": "달콤한 꿀로 몸이 둘러싸여 있다. 등의 껍질은 특히 더 달콤해서 옛날에는 어린이 간식이었다.", "ja": "あまい　みつで　からだが　おおわれ せなかの　かわは　とくに　あまく むかしは　こどもの　おやつだった。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "applin" },
+	"generation": "galar",
+	"id": 840,
+	"names": {
+		"ja": "タルップル",
+		"ko": "단지래플",
+		"fr": "Dratatin",
+		"de": "Schlapfel",
+		"es": "Appletun",
+		"it": "Appletun",
+		"en": "Appletun"
+	},
+	"descriptions": {
+		"en": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+		"it": "È ricoperto di una specie di sciroppo. La buccia sulla sua schiena, particolarmente dolce, una volta veniva data ai bambini per merenda.",
+		"es": "Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.",
+		"de": "Sein Körper wird von süßem Nektar bedeckt und die Schale auf seinem Rücken ist besonders süß. Früher war diese ein Leckerbissen für Kinder.",
+		"fr": "Son corps est recouvert de nectar. La peau de son dos, particulièrement sucrée, constituait jadis le goûter des enfants.",
+		"ko": "달콤한 꿀로 몸이 둘러싸여 있다. 등의 껍질은 특히 더 달콤해서 옛날에는 어린이 간식이었다.",
+		"ja": "あまい　みつで　からだが　おおわれ せなかの　かわは　とくに　あまく むかしは　こどもの　おやつだった。"
+	}
+}

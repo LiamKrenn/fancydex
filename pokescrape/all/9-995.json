@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 995,
+	"names": {
+		"ja": "テツノイバラ",
+		"ko": "무쇠가시",
+		"fr": "Épine-de-Fer",
+		"de": "Eisendorn",
+		"es": "Ferropúas",
+		"it": "Spineferree",
+		"en": "Iron Thorns"
+	},
+	"descriptions": {
+		"en": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+	}
+}

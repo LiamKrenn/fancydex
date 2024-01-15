@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "litleo"}, "generation": "kalos", "id": 667, "names": {"ja": "カエンジシ", "ko": "화염레오", "fr": "Némélios", "de": "Pyroleo", "es": "Pyroar", "it": "Pyroar", "en": "Pyroar"}, "descriptions": {"en": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat.", "it": "Con il suo soffio, infiamma l’aria a una temperatura di 6.000 °C, ma evita di farlo con le prede perché preferisce la carne cruda.", "es": "Su aliento alcanza temperaturas de 6000 ºC, aunque no lo emplea contra sus presas, ya que prefiere la carne más bien cruda.", "de": "Es kann 6 000 °C heiße Atemluft ausstoßen, die es jedoch nicht bei der Jagd verwendet. Seine Beute verspeist es nämlich lieber roh.", "fr": "Son souffle enflammé atteint les 6 000 °C, mais il ne l’utilise jamais contre ses proies. Il préfère en effet la viande crue.", "ko": "섭씨 6000도의 숨결을 내뱉지만 먹이에는 사용하지 않는다. 고기는 날것을 좋아하기 때문이다.", "ja": "せっし　６０００どの　いきを　はくが えものには　つかわない。　にくは なまの　ほうが　このみ　だから。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "litleo" },
+	"generation": "kalos",
+	"id": 667,
+	"names": {
+		"ja": "カエンジシ",
+		"ko": "화염레오",
+		"fr": "Némélios",
+		"de": "Pyroleo",
+		"es": "Pyroar",
+		"it": "Pyroar",
+		"en": "Pyroar"
+	},
+	"descriptions": {
+		"en": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat.",
+		"it": "Con il suo soffio, infiamma l’aria a una temperatura di 6.000 °C, ma evita di farlo con le prede perché preferisce la carne cruda.",
+		"es": "Su aliento alcanza temperaturas de 6000 ºC, aunque no lo emplea contra sus presas, ya que prefiere la carne más bien cruda.",
+		"de": "Es kann 6 000 °C heiße Atemluft ausstoßen, die es jedoch nicht bei der Jagd verwendet. Seine Beute verspeist es nämlich lieber roh.",
+		"fr": "Son souffle enflammé atteint les 6 000 °C, mais il ne l’utilise jamais contre ses proies. Il préfère en effet la viande crue.",
+		"ko": "섭씨 6000도의 숨결을 내뱉지만 먹이에는 사용하지 않는다. 고기는 날것을 좋아하기 때문이다.",
+		"ja": "せっし　６０００どの　いきを　はくが えものには　つかわない。　にくは なまの　ほうが　このみ　だから。"
+	}
+}

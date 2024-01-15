@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "hoenn", "id": 371, "names": {"ja": "タツベイ", "ko": "아공이", "fr": "Draby", "de": "Kindwurm", "es": "Bagon", "it": "Bagon", "en": "Bagon"}, "descriptions": {"en": "Bagon is a solitary Pokémon that doesn’t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.", "it": "Vive in solitudine senza formare branchi. È dotato di una testa così dura da poter spaccare in due rocce granitiche con un solo colpo.", "es": "Vive en solitario, sin formar manadas, y posee una cabeza dura como la piedra que le permite hacer añicos rocas enormes de un solo golpe.", "de": "Es lebt in Einsamkeit, ohne Gruppen zu bilden. Sein steinharter Schädel kann mit einem Schlag einen massiven Felsen entzweihauen.", "fr": "La tête de ce Pokémon solitaire est si solide qu’il est capable de fendre en deux un rocher d’un seul coup.", "ko": "무리를 짓지 않고 혼자서 지낸다. 단단한 화석을 단 일격으로 두 동강 내버리는 돌머리를 가졌다.", "ja": "むれを　つくらず　１ぴきで　くらす。 いちげきで　かたい　がんせきを まっぷたつにする　いしあたまをもつ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 371,
+	"names": {
+		"ja": "タツベイ",
+		"ko": "아공이",
+		"fr": "Draby",
+		"de": "Kindwurm",
+		"es": "Bagon",
+		"it": "Bagon",
+		"en": "Bagon"
+	},
+	"descriptions": {
+		"en": "Bagon is a solitary Pokémon that doesn’t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.",
+		"it": "Vive in solitudine senza formare branchi. È dotato di una testa così dura da poter spaccare in due rocce granitiche con un solo colpo.",
+		"es": "Vive en solitario, sin formar manadas, y posee una cabeza dura como la piedra que le permite hacer añicos rocas enormes de un solo golpe.",
+		"de": "Es lebt in Einsamkeit, ohne Gruppen zu bilden. Sein steinharter Schädel kann mit einem Schlag einen massiven Felsen entzweihauen.",
+		"fr": "La tête de ce Pokémon solitaire est si solide qu’il est capable de fendre en deux un rocher d’un seul coup.",
+		"ko": "무리를 짓지 않고 혼자서 지낸다. 단단한 화석을 단 일격으로 두 동강 내버리는 돌머리를 가졌다.",
+		"ja": "むれを　つくらず　１ぴきで　くらす。 いちげきで　かたい　がんせきを まっぷたつにする　いしあたまをもつ。"
+	}
+}

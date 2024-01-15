@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "wynaut"}, "generation": "johto", "id": 360, "names": {"ja": "ソーナンス", "ko": "마자용", "fr": "Qulbutoké", "de": "Woingenau", "es": "Wobbuffet", "it": "Wobbuffet", "en": "Wobbuffet"}, "descriptions": {"en": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.", "it": "Vive nel silenzio e nell’oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.", "es": "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.", "de": "Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.", "fr": "Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier.", "ko": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.", "ja": "まっくろな　シッポを　かくすため くらやみで　ひっそりと　いきている。 じぶんからは　こうげき　しない。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "wynaut" },
+	"generation": "johto",
+	"id": 360,
+	"names": {
+		"ja": "ソーナンス",
+		"ko": "마자용",
+		"fr": "Qulbutoké",
+		"de": "Woingenau",
+		"es": "Wobbuffet",
+		"it": "Wobbuffet",
+		"en": "Wobbuffet"
+	},
+	"descriptions": {
+		"en": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+		"it": "Vive nel silenzio e nell’oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.",
+		"es": "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.",
+		"de": "Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.",
+		"fr": "Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier.",
+		"ko": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.",
+		"ja": "まっくろな　シッポを　かくすため くらやみで　ひっそりと　いきている。 じぶんからは　こうげき　しない。"
+	}
+}

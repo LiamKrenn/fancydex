@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 974,
+	"names": {
+		"ja": "アルクジラ",
+		"ko": "터벅고래",
+		"fr": "Piétacé",
+		"de": "Flaniwal",
+		"es": "Cetoddle",
+		"it": "Cetoddle",
+		"en": "Cetoddle"
+	},
+	"descriptions": {
+		"en": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+	}
+}

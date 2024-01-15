@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1008,
+	"names": {
+		"ja": "ミライドン",
+		"ko": "미라이돈",
+		"fr": "Miraidon",
+		"de": "Miraidon",
+		"es": "Miraidon",
+		"it": "Miraidon",
+		"en": "Miraidon"
+	},
+	"descriptions": {
+		"en": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
+	}
+}

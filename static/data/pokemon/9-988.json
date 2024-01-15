@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 988,
+	"names": {
+		"ja": "チヲハウハネ",
+		"ko": "땅을기는날개",
+		"fr": "Rampe-Ailes",
+		"de": "Kriechflügel",
+		"es": "Reptalada",
+		"it": "Alirasenti",
+		"en": "Slither Wing"
+	},
+	"descriptions": {
+		"en": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+	}
+}

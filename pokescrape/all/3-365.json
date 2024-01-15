@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "sealeo"}, "generation": "hoenn", "id": 364, "names": {"ja": "トドゼルガ", "ko": "씨카이저", "fr": "Kaimorse", "de": "Walraisa", "es": "Walrein", "it": "Walrein", "en": "Walrein"}, "descriptions": {"en": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.", "it": "Le sue zanne continuano a crescere per tutta la vita. Se si spezzano mentre lotta, tornano forti e robuste nell’arco di un anno.", "es": "Sus colmillos nunca dejan de crecer. Aunque los pierda en un combate, al cabo de un año ya los habrá regenerado por completo.", "de": "Die Stoßzähne wachsen sein Leben lang. Selbst, wenn sie im Kampf abbrechen, erreichen sie nach nur einem Jahr wieder ihre alte imposante Größe.", "fr": "Ses défenses poussent tout au long de sa vie. Si l’une d’elles se brise au cours d’un combat, au bout d’un an, elle aura repoussé entièrement.", "ko": "이빨은 평생 자란다. 싸우다 부러져도 1년이 지나면 원래의 훌륭한 이빨로 복원된다.", "ja": "キバは　いっしょう　のびつづける。 たたかいで　おれても　１ねんあれば もとの　りっぱな　キバに　もどる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "sealeo" },
+	"generation": "hoenn",
+	"id": 364,
+	"names": {
+		"ja": "トドゼルガ",
+		"ko": "씨카이저",
+		"fr": "Kaimorse",
+		"de": "Walraisa",
+		"es": "Walrein",
+		"it": "Walrein",
+		"en": "Walrein"
+	},
+	"descriptions": {
+		"en": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
+		"it": "Le sue zanne continuano a crescere per tutta la vita. Se si spezzano mentre lotta, tornano forti e robuste nell’arco di un anno.",
+		"es": "Sus colmillos nunca dejan de crecer. Aunque los pierda en un combate, al cabo de un año ya los habrá regenerado por completo.",
+		"de": "Die Stoßzähne wachsen sein Leben lang. Selbst, wenn sie im Kampf abbrechen, erreichen sie nach nur einem Jahr wieder ihre alte imposante Größe.",
+		"fr": "Ses défenses poussent tout au long de sa vie. Si l’une d’elles se brise au cours d’un combat, au bout d’un an, elle aura repoussé entièrement.",
+		"ko": "이빨은 평생 자란다. 싸우다 부러져도 1년이 지나면 원래의 훌륭한 이빨로 복원된다.",
+		"ja": "キバは　いっしょう　のびつづける。 たたかいで　おれても　１ねんあれば もとの　りっぱな　キバに　もどる。"
+	}
+}

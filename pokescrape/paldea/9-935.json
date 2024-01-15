@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 935,
+	"names": {
+		"ja": "カルボウ",
+		"ko": "카르본",
+		"fr": "Charbambin",
+		"de": "Knarbon",
+		"es": "Charcadet",
+		"it": "Charcadet",
+		"en": "Charcadet"
+	},
+	"descriptions": {
+		"en": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+	}
+}

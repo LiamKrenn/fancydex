@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "johto", "id": 236, "names": {"ja": "バルキー", "ko": "배루키", "fr": "Debugant", "de": "Rabauz", "es": "Tyrogue", "it": "Tyrogue", "en": "Tyrogue"}, "descriptions": {"en": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.", "it": "Anche se è piccolo, non bisogna abbassare la guardia: quando trova un avversario che fa al caso suo, inizia subito a tempestarlo di colpi.", "es": "Su pequeño tamaño no debe ser motivo para subestimarlo, ya que se liará de inmediato a golpes con cualquier rival que estime oportuno.", "de": "Es ist zwar nicht groß, geht aber entschlossen zum Angriff über, sobald es einen angemessenen Gegner sichtet. Vorsicht ist also geboten.", "fr": "Même s’il est petit, il vaut mieux ne pas l’ignorer : quand il trouve un adversaire à sa hauteur, il frappe fort et souvent sans prévenir.", "ko": "만만한 상대를 발견하면 바로 공격해오기 때문에 몸집이 작아도 방심은 할 수 없다.", "ja": "てごろな　あいてを　みつけると すぐに　なぐりかかってくるので ちいさくても　ゆだんならない。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 236,
+	"names": {
+		"ja": "バルキー",
+		"ko": "배루키",
+		"fr": "Debugant",
+		"de": "Rabauz",
+		"es": "Tyrogue",
+		"it": "Tyrogue",
+		"en": "Tyrogue"
+	},
+	"descriptions": {
+		"en": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
+		"it": "Anche se è piccolo, non bisogna abbassare la guardia: quando trova un avversario che fa al caso suo, inizia subito a tempestarlo di colpi.",
+		"es": "Su pequeño tamaño no debe ser motivo para subestimarlo, ya que se liará de inmediato a golpes con cualquier rival que estime oportuno.",
+		"de": "Es ist zwar nicht groß, geht aber entschlossen zum Angriff über, sobald es einen angemessenen Gegner sichtet. Vorsicht ist also geboten.",
+		"fr": "Même s’il est petit, il vaut mieux ne pas l’ignorer : quand il trouve un adversaire à sa hauteur, il frappe fort et souvent sans prévenir.",
+		"ko": "만만한 상대를 발견하면 바로 공격해오기 때문에 몸집이 작아도 방심은 할 수 없다.",
+		"ja": "てごろな　あいてを　みつけると すぐに　なぐりかかってくるので ちいさくても　ゆだんならない。"
+	}
+}

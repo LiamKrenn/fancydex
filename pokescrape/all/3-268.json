@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "wurmple"}, "generation": "hoenn", "id": 265, "names": {"ja": "マユルド", "ko": "카스쿤", "fr": "Blindalys", "de": "Panekon", "es": "Cascoon", "it": "Cascoon", "en": "Cascoon"}, "descriptions": {"en": "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch.", "it": "In caso di aggressione Cascoon rimane immobile indipendentemente dalla violenza dell’attacco subito. Questo lo aiuta a evitare di indebolire il suo corpo in vista dell’evoluzione. Non dimentica mai il dolore provato.", "es": "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho mucho daño, puesto que, si se moviera, perdería fuerzas para evolucionar. Nunca olvida el daño que le han hecho.", "de": "Wenn es angegriffen wird, bewegt sich Panekon in keiner Weise, egal, wie schwer es dabei verletzt wird. Wenn es sich bewegen würde, wäre sein Körper zu schwach für seine Entwicklung. Die Schmerzen allerdings vergisst es nie.", "fr": "Lorsqu’il est attaqué, Blindalys reste immobile, même s’il a très mal. En effet, s’il bougeait, son corps serait affaibli lors de son évolution. En revanche, ce Pokémon n’oubliera pas la douleur endurée.", "ko": "움직이면 튼튼한 몸으로 진화할 수 없어서 아무리 괴롭혀도 가만히 있는다. 그때 느낀 아픔을 계속 잊지 않는다.", "ja": "うごくと　つよい　からだに　しんか　できないので どんなに　いためつけられても　じっと　している。 そのとき　うけた　いたみは　ずっと　わすれない。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "wurmple" },
+	"generation": "hoenn",
+	"id": 265,
+	"names": {
+		"ja": "マユルド",
+		"ko": "카스쿤",
+		"fr": "Blindalys",
+		"de": "Panekon",
+		"es": "Cascoon",
+		"it": "Cascoon",
+		"en": "Cascoon"
+	},
+	"descriptions": {
+		"en": "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch.",
+		"it": "In caso di aggressione Cascoon rimane immobile indipendentemente dalla violenza dell’attacco subito. Questo lo aiuta a evitare di indebolire il suo corpo in vista dell’evoluzione. Non dimentica mai il dolore provato.",
+		"es": "Si atacan a Cascoon, se queda inmóvil aunque le hayan hecho mucho daño, puesto que, si se moviera, perdería fuerzas para evolucionar. Nunca olvida el daño que le han hecho.",
+		"de": "Wenn es angegriffen wird, bewegt sich Panekon in keiner Weise, egal, wie schwer es dabei verletzt wird. Wenn es sich bewegen würde, wäre sein Körper zu schwach für seine Entwicklung. Die Schmerzen allerdings vergisst es nie.",
+		"fr": "Lorsqu’il est attaqué, Blindalys reste immobile, même s’il a très mal. En effet, s’il bougeait, son corps serait affaibli lors de son évolution. En revanche, ce Pokémon n’oubliera pas la douleur endurée.",
+		"ko": "움직이면 튼튼한 몸으로 진화할 수 없어서 아무리 괴롭혀도 가만히 있는다. 그때 느낀 아픔을 계속 잊지 않는다.",
+		"ja": "うごくと　つよい　からだに　しんか　できないので どんなに　いためつけられても　じっと　している。 そのとき　うけた　いたみは　ずっと　わすれない。"
+	}
+}

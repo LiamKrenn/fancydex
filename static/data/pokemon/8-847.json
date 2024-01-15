@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "arrokuda"}, "generation": "galar", "id": 846, "names": {"ja": "カマスジョー", "ko": "꼬치조", "fr": "Hastacuda", "de": "Barrakiefa", "es": "Barraskewda", "it": "Barraskewda", "en": "Barraskewda"}, "descriptions": {"en": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.", "it": "Fa girare rapidamente la coda e carica a tutta forza, trafiggendo le sue prede a una velocità di 100 nodi.", "es": "Hace girar su aleta caudal para impulsarse y arremeter contra la presa, a la que ensarta a una velocidad que supera los 100 nudos.", "de": "Es lässt seine Schwanzflosse rotieren und stößt mit einem Mal zu. Es durchsticht seine Beute mit einer Geschwindigkeit von über 100 Knoten.", "fr": "Il charge d’un coup en faisant tourner sa nageoire caudale. Il peut transpercer ses proies à une vitesse dépassant les 100 nœuds.", "ko": "꼬리지느러미를 회전시켜 단번에 돌격한다. 100노트를 넘는 속도로 먹이를 관통한다.", "ja": "おびれを　かいてんさせ　いっきに とつげき。　１００ノットを　こえる そくどで　えものを　つらぬくぞ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "arrokuda" },
+	"generation": "galar",
+	"id": 846,
+	"names": {
+		"ja": "カマスジョー",
+		"ko": "꼬치조",
+		"fr": "Hastacuda",
+		"de": "Barrakiefa",
+		"es": "Barraskewda",
+		"it": "Barraskewda",
+		"en": "Barraskewda"
+	},
+	"descriptions": {
+		"en": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+		"it": "Fa girare rapidamente la coda e carica a tutta forza, trafiggendo le sue prede a una velocità di 100 nodi.",
+		"es": "Hace girar su aleta caudal para impulsarse y arremeter contra la presa, a la que ensarta a una velocidad que supera los 100 nudos.",
+		"de": "Es lässt seine Schwanzflosse rotieren und stößt mit einem Mal zu. Es durchsticht seine Beute mit einer Geschwindigkeit von über 100 Knoten.",
+		"fr": "Il charge d’un coup en faisant tourner sa nageoire caudale. Il peut transpercer ses proies à une vitesse dépassant les 100 nœuds.",
+		"ko": "꼬리지느러미를 회전시켜 단번에 돌격한다. 100노트를 넘는 속도로 먹이를 관통한다.",
+		"ja": "おびれを　かいてんさせ　いっきに とつげき。　１００ノットを　こえる そくどで　えものを　つらぬくぞ。"
+	}
+}

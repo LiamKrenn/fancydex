@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "quilava"}, "generation": "johto", "id": 156, "names": {"ja": "バクフーン", "ko": "블레이범", "fr": "Typhlosion", "de": "Tornupto", "es": "Typhlosion", "it": "Typhlosion", "en": "Typhlosion"}, "descriptions": {"en": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.", "it": "Typhlosion si nasconde avvolto da una lucente nube di calore creata dalle sue fiamme roventi. Questo Pokémon crea esplosioni spettacolari che riducono in cenere ogni cosa.", "es": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.", "de": "Tornupto versteckt sich hinter einem flimmernden Hitzeschild, den es mithilfe seiner heißen Flammen erzeugt. Dieses Pokémon erzeugt Explosionen, die alles in Schutt und Asche legen.", "fr": "Typhlosion se cache derrière un chatoyant nuage de chaleur qu’il crée en attisant ses flammes intenses. Ce Pokémon peut générer des rafales explosives qui réduisent tout en cendres.", "ko": "작열하는 불꽃으로 주변에 아지랑이를 만들어내서 모습을 숨길 수 있다. 불타오르며 폭발하는 바람은 모든 것을 태운다.", "ja": "しゃくねつの　ほのおで　まわりに　かげろうを つくりだして　すがたを　かくす　ことが　できる。 もえあがる　ばくふうは　すべてを　やきつくすぞ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "quilava" },
+	"generation": "johto",
+	"id": 156,
+	"names": {
+		"ja": "バクフーン",
+		"ko": "블레이범",
+		"fr": "Typhlosion",
+		"de": "Tornupto",
+		"es": "Typhlosion",
+		"it": "Typhlosion",
+		"en": "Typhlosion"
+	},
+	"descriptions": {
+		"en": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.",
+		"it": "Typhlosion si nasconde avvolto da una lucente nube di calore creata dalle sue fiamme roventi. Questo Pokémon crea esplosioni spettacolari che riducono in cenere ogni cosa.",
+		"es": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+		"de": "Tornupto versteckt sich hinter einem flimmernden Hitzeschild, den es mithilfe seiner heißen Flammen erzeugt. Dieses Pokémon erzeugt Explosionen, die alles in Schutt und Asche legen.",
+		"fr": "Typhlosion se cache derrière un chatoyant nuage de chaleur qu’il crée en attisant ses flammes intenses. Ce Pokémon peut générer des rafales explosives qui réduisent tout en cendres.",
+		"ko": "작열하는 불꽃으로 주변에 아지랑이를 만들어내서 모습을 숨길 수 있다. 불타오르며 폭발하는 바람은 모든 것을 태운다.",
+		"ja": "しゃくねつの　ほのおで　まわりに　かげろうを つくりだして　すがたを　かくす　ことが　できる。 もえあがる　ばくふうは　すべてを　やきつくすぞ。"
+	}
+}

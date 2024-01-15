@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "maschiff" },
+	"generation": "paldea",
+	"id": 942,
+	"names": {
+		"ja": "マフィティフ",
+		"ko": "마피티프",
+		"fr": "Dogrino",
+		"de": "Mastifioso",
+		"es": "Mabosstiff",
+		"it": "Mabosstiff",
+		"en": "Mabosstiff"
+	},
+	"descriptions": {
+		"en": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+	}
+}

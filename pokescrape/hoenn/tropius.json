@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "hoenn", "id": 357, "names": {"ja": "トロピウス", "ko": "트로피우스", "fr": "Tropius", "de": "Tropius", "es": "Tropius", "it": "Tropius", "en": "Tropius"}, "descriptions": {"en": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.", "it": "Molti amano i grappoli di frutti che crescono attorno al collo di Tropius. Nelle regioni calde, diversi pascoli sono riservati a questo Pokémon.", "es": "A la gente le encanta la deliciosa fruta de sus racimos. En las regiones cálidas abundan las granjas que se dedican a criar Tropius.", "de": "Die leckeren Früchte an seinem Hals sind sehr beliebt. In warmen Gebieten gibt es viele Farmen, auf denen Tropius gezüchtet werden.", "fr": "Dans les régions où il fait chaud, on trouve des fermes dédiées à l’élevage de ce Pokémon, très apprécié pour les fruits poussant sur son cou.", "ko": "목에 난 송이는 맛있어서 인기다. 따뜻한 장소에는 트로피우스를 키우는 목장이 많다.", "ja": "くびの　フサが　おいしくて　にんき。 あたたかい　とちには　トロピウスを そだてる　ぼくじょうが　たくさん。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 357,
+	"names": {
+		"ja": "トロピウス",
+		"ko": "트로피우스",
+		"fr": "Tropius",
+		"de": "Tropius",
+		"es": "Tropius",
+		"it": "Tropius",
+		"en": "Tropius"
+	},
+	"descriptions": {
+		"en": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+		"it": "Molti amano i grappoli di frutti che crescono attorno al collo di Tropius. Nelle regioni calde, diversi pascoli sono riservati a questo Pokémon.",
+		"es": "A la gente le encanta la deliciosa fruta de sus racimos. En las regiones cálidas abundan las granjas que se dedican a criar Tropius.",
+		"de": "Die leckeren Früchte an seinem Hals sind sehr beliebt. In warmen Gebieten gibt es viele Farmen, auf denen Tropius gezüchtet werden.",
+		"fr": "Dans les régions où il fait chaud, on trouve des fermes dédiées à l’élevage de ce Pokémon, très apprécié pour les fruits poussant sur son cou.",
+		"ko": "목에 난 송이는 맛있어서 인기다. 따뜻한 장소에는 트로피우스를 키우는 목장이 많다.",
+		"ja": "くびの　フサが　おいしくて　にんき。 あたたかい　とちには　トロピウスを そだてる　ぼくじょうが　たくさん。"
+	}
+}

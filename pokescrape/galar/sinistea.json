@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "galar", "id": 854, "names": {"ja": "ヤバチャ", "ko": "데인차", "fr": "Théffroi", "de": "Fatalitee", "es": "Sinistea", "it": "Sinistea", "en": "Sinistea"}, "descriptions": {"en": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.", "it": "La tazza da tè in cui vive è un vero pezzo di antiquariato di cui circolano molte copie contraffatte.", "es": "La taza de té donde se hospeda forma parte de una antigua y valiosa vajilla, de la que circulan numerosas falsificaciones.", "de": "Die Teetasse, die es bewohnt, ist eine berühmte Antiquität. Es befinden sich allerdings auch viele Fälschungen im Umlauf.", "fr": "Il élit domicile dans des tasses de thé anciennes de grand renom. Parmi celles-ci se trouvent de nombreuses contrefaçons.", "ko": "거처로 삼고 있는 찻잔은 유명한 골동품 식기다. 위작이 많이 나돌고 있다.", "ja": "すみかに　している　ティーカップは ゆうめいな　アンティークの　しょっき。 おおくの　がんさくが　でまわっている。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 854,
+	"names": {
+		"ja": "ヤバチャ",
+		"ko": "데인차",
+		"fr": "Théffroi",
+		"de": "Fatalitee",
+		"es": "Sinistea",
+		"it": "Sinistea",
+		"en": "Sinistea"
+	},
+	"descriptions": {
+		"en": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
+		"it": "La tazza da tè in cui vive è un vero pezzo di antiquariato di cui circolano molte copie contraffatte.",
+		"es": "La taza de té donde se hospeda forma parte de una antigua y valiosa vajilla, de la que circulan numerosas falsificaciones.",
+		"de": "Die Teetasse, die es bewohnt, ist eine berühmte Antiquität. Es befinden sich allerdings auch viele Fälschungen im Umlauf.",
+		"fr": "Il élit domicile dans des tasses de thé anciennes de grand renom. Parmi celles-ci se trouvent de nombreuses contrefaçons.",
+		"ko": "거처로 삼고 있는 찻잔은 유명한 골동품 식기다. 위작이 많이 나돌고 있다.",
+		"ja": "すみかに　している　ティーカップは ゆうめいな　アンティークの　しょっき。 おおくの　がんさくが　でまわっている。"
+	}
+}

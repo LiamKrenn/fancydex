@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "hoenn", "id": 258, "names": {"ja": "ミズゴロウ", "ko": "물짱이", "fr": "Gobou", "de": "Hydropi", "es": "Mudkip", "it": "Mudkip", "en": "Mudkip"}, "descriptions": {"en": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.", "it": "In acqua Mudkip respira usando le branchie sulle mascelle. In caso di situazioni critiche nella lotta scatena la sua forza strabiliante, riuscendo a frantumare rocce più grandi di lui.", "es": "En el agua, Mudkip usa las branquias que tiene en los mofletes para respirar. Cuando tiene que enfrentarse a una situación delicada en combate, desata una fuerza asombrosa con la que puede destruir rocas incluso mayores que él.", "de": "Im Wasser atmet Hydropi durch die Kiemen an seinen Wangen. Wenn es im Kampf in eine brenzlige Situation gerät, setzt es seine verblüffende Kraft ein, mit der es Felsbrocken zerquetschen kann, die größer sind als es selbst.", "fr": "Sous l’eau, Gobou peut respirer grâce aux branchies sur ses joues. S’il se retrouve en difficulté pendant un combat, ce Pokémon déchaîne ses pouvoirs incroyables. Il peut détruire des rochers plus gros que lui.", "ko": "물속에서는 뺨의 아가미로 호흡한다. 위급해지면 몸보다 큰 바위를 산산이 부숴버리는 파워를 발휘한다.", "ja": "すいちゅうでは　ほっぺの　エラで　こきゅうする。 ピンチに　なると　からだより　おおきな　いわを こなごなに　くだく　パワーを　はっきする。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 258,
+	"names": {
+		"ja": "ミズゴロウ",
+		"ko": "물짱이",
+		"fr": "Gobou",
+		"de": "Hydropi",
+		"es": "Mudkip",
+		"it": "Mudkip",
+		"en": "Mudkip"
+	},
+	"descriptions": {
+		"en": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
+		"it": "In acqua Mudkip respira usando le branchie sulle mascelle. In caso di situazioni critiche nella lotta scatena la sua forza strabiliante, riuscendo a frantumare rocce più grandi di lui.",
+		"es": "En el agua, Mudkip usa las branquias que tiene en los mofletes para respirar. Cuando tiene que enfrentarse a una situación delicada en combate, desata una fuerza asombrosa con la que puede destruir rocas incluso mayores que él.",
+		"de": "Im Wasser atmet Hydropi durch die Kiemen an seinen Wangen. Wenn es im Kampf in eine brenzlige Situation gerät, setzt es seine verblüffende Kraft ein, mit der es Felsbrocken zerquetschen kann, die größer sind als es selbst.",
+		"fr": "Sous l’eau, Gobou peut respirer grâce aux branchies sur ses joues. S’il se retrouve en difficulté pendant un combat, ce Pokémon déchaîne ses pouvoirs incroyables. Il peut détruire des rochers plus gros que lui.",
+		"ko": "물속에서는 뺨의 아가미로 호흡한다. 위급해지면 몸보다 큰 바위를 산산이 부숴버리는 파워를 발휘한다.",
+		"ja": "すいちゅうでは　ほっぺの　エラで　こきゅうする。 ピンチに　なると　からだより　おおきな　いわを こなごなに　くだく　パワーを　はっきする。"
+	}
+}

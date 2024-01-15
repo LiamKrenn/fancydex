@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "hoenn", "id": 304, "names": {"ja": "ココドラ", "ko": "가보리", "fr": "Galekid", "de": "Stollunior", "es": "Aron", "it": "Aron", "en": "Aron"}, "descriptions": {"en": "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives.", "it": "Quando si evolve, l’armatura d’acciaio si stacca. In passato, gli esseri umani la raccoglievano per utilizzarla in attività quotidiane.", "es": "Antiguamente se recogía la coraza de acero que este Pokémon desprende al evolucionar y se empleaba para distintos usos.", "de": "Stollunior wirft seinen Stahlpanzer ab, wenn es sich entwickelt. Früher sammelten Menschen diesen auf und nutzten ihn für Alltagszwecke.", "fr": "Quand il évolue, il perd son armure d’acier. Autrefois, les gens la ramassaient pour en faire usage dans leur vie quotidienne.", "ko": "진화할 때 강철의 갑옷이 떨어진다. 옛날 사람들은 주워서 일상생활에서 유용하게 사용했다.", "ja": "しんかのとき　はがねの　よろいが はがれおちる。　むかしの　ひとは ひろって　せいかつに　やくだてた。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 304,
+	"names": {
+		"ja": "ココドラ",
+		"ko": "가보리",
+		"fr": "Galekid",
+		"de": "Stollunior",
+		"es": "Aron",
+		"it": "Aron",
+		"en": "Aron"
+	},
+	"descriptions": {
+		"en": "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives.",
+		"it": "Quando si evolve, l’armatura d’acciaio si stacca. In passato, gli esseri umani la raccoglievano per utilizzarla in attività quotidiane.",
+		"es": "Antiguamente se recogía la coraza de acero que este Pokémon desprende al evolucionar y se empleaba para distintos usos.",
+		"de": "Stollunior wirft seinen Stahlpanzer ab, wenn es sich entwickelt. Früher sammelten Menschen diesen auf und nutzten ihn für Alltagszwecke.",
+		"fr": "Quand il évolue, il perd son armure d’acier. Autrefois, les gens la ramassaient pour en faire usage dans leur vie quotidienne.",
+		"ko": "진화할 때 강철의 갑옷이 떨어진다. 옛날 사람들은 주워서 일상생활에서 유용하게 사용했다.",
+		"ja": "しんかのとき　はがねの　よろいが はがれおちる。　むかしの　ひとは ひろって　せいかつに　やくだてた。"
+	}
+}

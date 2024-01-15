@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "mankey"}, "generation": "kanto", "id": 56, "names": {"ja": "オコリザル", "ko": "성원숭", "fr": "Colossinge", "de": "Rasaff", "es": "Primeape", "it": "Primeape", "en": "Primeape"}, "descriptions": {"en": "It stops being angry only when nobody else is around. To view this moment is very difficult.", "it": "È molto difficile vedere questo Pokémon calmo, dato che la sua furia si placa solamente quando si trova nella solitudine più assoluta.", "es": "Solo se calma cuando no hay nadie cerca, por lo que llegar a ver ese momento resulta verdaderamente difícil.", "de": "Es hört lediglich dann auf zu toben, wenn niemand in der Nähe ist. Diesen Anblick zu Gesicht zu bekommen, ist daher nicht einfach.", "fr": "Sa fureur prend fin quand il n’a plus personne à frapper. Il est difficile d’en être témoin.", "ko": "주위에 아무도 없을 때만은 화를 내지 않고 있다. 그러나 그 모습을 보기가 어렵다.", "ja": "まわりに　だれも　いないときだけは おこるのを　やめている。しかし それをみるのは　むずかしい。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "mankey" },
+	"generation": "kanto",
+	"id": 56,
+	"names": {
+		"ja": "オコリザル",
+		"ko": "성원숭",
+		"fr": "Colossinge",
+		"de": "Rasaff",
+		"es": "Primeape",
+		"it": "Primeape",
+		"en": "Primeape"
+	},
+	"descriptions": {
+		"en": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+		"it": "È molto difficile vedere questo Pokémon calmo, dato che la sua furia si placa solamente quando si trova nella solitudine più assoluta.",
+		"es": "Solo se calma cuando no hay nadie cerca, por lo que llegar a ver ese momento resulta verdaderamente difícil.",
+		"de": "Es hört lediglich dann auf zu toben, wenn niemand in der Nähe ist. Diesen Anblick zu Gesicht zu bekommen, ist daher nicht einfach.",
+		"fr": "Sa fureur prend fin quand il n’a plus personne à frapper. Il est difficile d’en être témoin.",
+		"ko": "주위에 아무도 없을 때만은 화를 내지 않고 있다. 그러나 그 모습을 보기가 어렵다.",
+		"ja": "まわりに　だれも　いないときだけは おこるのを　やめている。しかし それをみるのは　むずかしい。"
+	}
+}

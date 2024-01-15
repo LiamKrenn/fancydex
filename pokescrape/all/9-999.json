@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 999,
+	"names": {
+		"ja": "コレクレー",
+		"ko": "모으령",
+		"fr": "Mordudor",
+		"de": "Gierspenst",
+		"es": "Gimmighoul",
+		"it": "Gimmighoul",
+		"en": "Gimmighoul"
+	},
+	"descriptions": {
+		"en": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+	}
+}

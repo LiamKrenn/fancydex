@@ -1,0 +1,15 @@
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1025,
+	"names": {
+		"ja": "モモワロウ",
+		"fr": "Pêchaminus",
+		"de": "Infamomo",
+		"es": "Pecharunt",
+		"it": "Pecharunt",
+		"en": "Pecharunt"
+	},
+	"descriptions": {}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "cufant"}, "generation": "galar", "id": 878, "names": {"ja": "ダイオウドウ", "ko": "대왕끼리동", "fr": "Pachyradjah", "de": "Patinaraja", "es": "Copperajah", "it": "Copperajah", "en": "Copperajah"}, "descriptions": {"en": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.", "it": "Vive in gruppo. La stretta della sua proboscide è così forte da mandare in frantumi anche le rocce più grandi.", "es": "Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.", "de": "Diese Pokémon leben in Herden. Drücken sie mit ihren kräftigen Rüsseln zu, können sie selbst massive Felsen zu Staub zermahlen.", "fr": "Ces Pokémon vivent en troupeau. L’étreinte de leur trompe est si forte qu’elle suffit à réduire un rocher en poussière.", "ko": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.", "ja": "むれを　つくって　くらしている。 はなの　あくりょくは　おおいわも こなごなに　くだくほど　つよい。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "cufant" },
+	"generation": "galar",
+	"id": 878,
+	"names": {
+		"ja": "ダイオウドウ",
+		"ko": "대왕끼리동",
+		"fr": "Pachyradjah",
+		"de": "Patinaraja",
+		"es": "Copperajah",
+		"it": "Copperajah",
+		"en": "Copperajah"
+	},
+	"descriptions": {
+		"en": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+		"it": "Vive in gruppo. La stretta della sua proboscide è così forte da mandare in frantumi anche le rocce più grandi.",
+		"es": "Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.",
+		"de": "Diese Pokémon leben in Herden. Drücken sie mit ihren kräftigen Rüsseln zu, können sie selbst massive Felsen zu Staub zermahlen.",
+		"fr": "Ces Pokémon vivent en troupeau. L’étreinte de leur trompe est si forte qu’elle suffit à réduire un rocher en poussière.",
+		"ko": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.",
+		"ja": "むれを　つくって　くらしている。 はなの　あくりょくは　おおいわも こなごなに　くだくほど　つよい。"
+	}
+}

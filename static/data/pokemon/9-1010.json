@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1010,
+	"names": {
+		"ja": "テツノイサハ",
+		"ko": "무쇠잎새",
+		"fr": "Vert-de-Fer",
+		"de": "Eisenblatt",
+		"es": "Ferroverdor",
+		"it": "Fogliaferrea",
+		"en": "Iron Leaves"
+	},
+	"descriptions": {}
+}

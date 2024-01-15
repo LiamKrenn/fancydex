@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "hoenn", "id": 336, "names": {"ja": "ハブネーク", "ko": "세비퍼", "fr": "Séviper", "de": "Vipitis", "es": "Seviper", "it": "Seviper", "en": "Seviper"}, "descriptions": {"en": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.", "it": "La coda a forma di spada di Seviper ha una duplice funzione: lacera il nemico e gli inietta un potente veleno. Il Pokémon non dimentica mai le lotte con il suo secolare nemico, Zangoose.", "es": "Seviper tiene una cola que parece una espada y le sirve para dar un sablazo al enemigo y para envenenarlo. Este Pokémon se mantiene firme en la enemistad que siente hacia Zangoose.", "de": "Vipitis kann mit seinem Schweif Feinden einen Hieb versetzen und sie mit einem abgesonderten Gift bespritzen. Dieses Pokémon wird in der langwährenden Blutfehde mit Sengo nicht nachgeben.", "fr": "La queue tranchante comme un sabre de Séviper a deux fonctions : elle peut frapper l’ennemi et lui injecter un poison qu’il sécrète. Ce Pokémon n’oublie jamais sa vieille rancune envers Mangriff.", "ko": "칼과 같은 꼬리는 적을 베어 가르는 동시에 스며 나온 맹독을 끼얹는다. 숙적인 쟝고와 계속하여 싸운다.", "ja": "かたなの　ような　しっぽは　てきを　きりさくのと どうじに　しみだした　もうどくを　あびせるぞ。 しゅくてき　ザングースと　たたかい　つづける。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 336,
+	"names": {
+		"ja": "ハブネーク",
+		"ko": "세비퍼",
+		"fr": "Séviper",
+		"de": "Vipitis",
+		"es": "Seviper",
+		"it": "Seviper",
+		"en": "Seviper"
+	},
+	"descriptions": {
+		"en": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
+		"it": "La coda a forma di spada di Seviper ha una duplice funzione: lacera il nemico e gli inietta un potente veleno. Il Pokémon non dimentica mai le lotte con il suo secolare nemico, Zangoose.",
+		"es": "Seviper tiene una cola que parece una espada y le sirve para dar un sablazo al enemigo y para envenenarlo. Este Pokémon se mantiene firme en la enemistad que siente hacia Zangoose.",
+		"de": "Vipitis kann mit seinem Schweif Feinden einen Hieb versetzen und sie mit einem abgesonderten Gift bespritzen. Dieses Pokémon wird in der langwährenden Blutfehde mit Sengo nicht nachgeben.",
+		"fr": "La queue tranchante comme un sabre de Séviper a deux fonctions : elle peut frapper l’ennemi et lui injecter un poison qu’il sécrète. Ce Pokémon n’oublie jamais sa vieille rancune envers Mangriff.",
+		"ko": "칼과 같은 꼬리는 적을 베어 가르는 동시에 스며 나온 맹독을 끼얹는다. 숙적인 쟝고와 계속하여 싸운다.",
+		"ja": "かたなの　ような　しっぽは　てきを　きりさくのと どうじに　しみだした　もうどくを　あびせるぞ。 しゅくてき　ザングースと　たたかい　つづける。"
+	}
+}

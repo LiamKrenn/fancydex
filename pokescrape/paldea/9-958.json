@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": { "name": "tinkatink" },
+	"generation": "paldea",
+	"id": 957,
+	"names": {
+		"ja": "ナカヌチャン",
+		"ko": "벼리짱",
+		"fr": "Forgella",
+		"de": "Tafforgita",
+		"es": "Tinkatuff",
+		"it": "Tinkatuff",
+		"en": "Tinkatuff"
+	},
+	"descriptions": {
+		"en": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
+	}
+}

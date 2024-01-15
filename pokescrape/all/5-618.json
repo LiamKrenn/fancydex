@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "unova", "id": 618, "names": {"ja": "マッギョ", "ko": "메더", "fr": "Limonde", "de": "Flunschlik", "es": "Stunfisk", "it": "Stunfisk", "en": "Stunfisk"}, "descriptions": {"en": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.", "it": "Per qualche strano motivo accenna sempre un sorriso quando rilascia una forte scarica elettrica dai motivi gialli sul suo corpo.", "es": "Se desconoce la razón, pero esboza una leve sonrisa al liberar potentes descargas eléctricas a través de las zonas amarillentas de su cuerpo.", "de": "Es verteilt über das gelbe Muster auf seinem Körper starke Stromstöße. Immer wenn es Strom absondert, grinst es. Niemand weiß, wieso.", "fr": "Lorsque les parties jaunes de son corps envoient une puissante décharge électrique, il ébauche un sourire. Personne ne sait pourquoi.", "ko": "몸의 노란 무늬에서 강한 전기를 발산할 때 무슨 이유인지 살짝 웃고 있다.", "ja": "からだの　きいろい　もようから つよい　でんきを　はなつとき なぜか　すこし　ほほえんでいる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 618,
+	"names": {
+		"ja": "マッギョ",
+		"ko": "메더",
+		"fr": "Limonde",
+		"de": "Flunschlik",
+		"es": "Stunfisk",
+		"it": "Stunfisk",
+		"en": "Stunfisk"
+	},
+	"descriptions": {
+		"en": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+		"it": "Per qualche strano motivo accenna sempre un sorriso quando rilascia una forte scarica elettrica dai motivi gialli sul suo corpo.",
+		"es": "Se desconoce la razón, pero esboza una leve sonrisa al liberar potentes descargas eléctricas a través de las zonas amarillentas de su cuerpo.",
+		"de": "Es verteilt über das gelbe Muster auf seinem Körper starke Stromstöße. Immer wenn es Strom absondert, grinst es. Niemand weiß, wieso.",
+		"fr": "Lorsque les parties jaunes de son corps envoient une puissante décharge électrique, il ébauche un sourire. Personne ne sait pourquoi.",
+		"ko": "몸의 노란 무늬에서 강한 전기를 발산할 때 무슨 이유인지 살짝 웃고 있다.",
+		"ja": "からだの　きいろい　もようから つよい　でんきを　はなつとき なぜか　すこし　ほほえんでいる。"
+	}
+}

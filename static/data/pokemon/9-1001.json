@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1001,
+	"names": {
+		"ja": "チオンジェン",
+		"ko": "총지엔",
+		"fr": "Chongjian",
+		"de": "Chongjian",
+		"es": "Wo-Chien",
+		"it": "Wo-Chien",
+		"en": "Wo-Chien"
+	},
+	"descriptions": {
+		"en": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "johto", "id": 251, "names": {"ja": "セレビィ", "ko": "세레비", "fr": "Celebi", "de": "Celebi", "es": "Celebi", "it": "Celebi", "en": "Celebi"}, "descriptions": {"en": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.", "it": "È giunto dal futuro, viaggiando nel tempo. Cura le ferite e dona vigore alla vegetazione.", "es": "Vino del futuro haciendo un viaje en el tiempo. Además de curar las heridas, posee la capacidad de revitalizar la hierba y los árboles.", "de": "Dieses Pokémon kommt aus der Zukunft und ist durch die Zeit gereist. Es heilt Wunden und spendet Pflanzen Kraft.", "fr": "Ce Pokémon venu du futur soigne les blessures et donne de la force aux plantes.", "ko": "미래에서 시간을 건너 찾아왔다. 상처를 치료하고 초목에 힘을 나누어준다.", "ja": "みらいから　ときを　わたって やってきた。　きずを　いやし くさきに　ちからを　わけあたえる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 251,
+	"names": {
+		"ja": "セレビィ",
+		"ko": "세레비",
+		"fr": "Celebi",
+		"de": "Celebi",
+		"es": "Celebi",
+		"it": "Celebi",
+		"en": "Celebi"
+	},
+	"descriptions": {
+		"en": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+		"it": "È giunto dal futuro, viaggiando nel tempo. Cura le ferite e dona vigore alla vegetazione.",
+		"es": "Vino del futuro haciendo un viaje en el tiempo. Además de curar las heridas, posee la capacidad de revitalizar la hierba y los árboles.",
+		"de": "Dieses Pokémon kommt aus der Zukunft und ist durch die Zeit gereist. Es heilt Wunden und spendet Pflanzen Kraft.",
+		"fr": "Ce Pokémon venu du futur soigne les blessures et donne de la force aux plantes.",
+		"ko": "미래에서 시간을 건너 찾아왔다. 상처를 치료하고 초목에 힘을 나누어준다.",
+		"ja": "みらいから　ときを　わたって やってきた。　きずを　いやし くさきに　ちからを　わけあたえる。"
+	}
+}

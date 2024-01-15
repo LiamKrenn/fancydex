@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 996,
+	"names": {
+		"ja": "セビエ",
+		"ko": "드니차",
+		"fr": "Frigodo",
+		"de": "Frospino",
+		"es": "Frigibax",
+		"it": "Frigibax",
+		"en": "Frigibax"
+	},
+	"descriptions": {
+		"en": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "raboot"}, "generation": "galar", "id": 814, "names": {"ja": "エースバーン", "ko": "에이스번", "fr": "Pyrobut", "de": "Liberlo", "es": "Cinderace", "it": "Cinderace", "en": "Cinderace"}, "descriptions": {"en": "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.", "it": "Eccelle in attacco e in difesa. Se sente il tifo, a volte si fa prendere dall’entusiasmo e inizia a dare spettacolo, finendo per trovarsi in difficoltà.", "es": "Destaca tanto en ataque como en defensa. Se crece cuando recibe una ovación, pero a veces se luce tanto que termina viéndose en apuros.", "de": "Jubel für besonders gelungene Spielzüge schüren seinen Enthusiasmus. Spielt es aber zu sehr für die Publikumswirkung, geht dies oft nach hinten los.", "fr": "Exceptionnel en attaque comme en défense, il s’exalte quand on l’encourage, mais il lui arrive de se mettre en danger en jouant solo.", "ko": "공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.", "ja": "こうしゅに　すぐれ　おうえんされると さらに　もえるが　スタンドプレイに はしり　ピンチを　まねくこともある。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "raboot" },
+	"generation": "galar",
+	"id": 814,
+	"names": {
+		"ja": "エースバーン",
+		"ko": "에이스번",
+		"fr": "Pyrobut",
+		"de": "Liberlo",
+		"es": "Cinderace",
+		"it": "Cinderace",
+		"en": "Cinderace"
+	},
+	"descriptions": {
+		"en": "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+		"it": "Eccelle in attacco e in difesa. Se sente il tifo, a volte si fa prendere dall’entusiasmo e inizia a dare spettacolo, finendo per trovarsi in difficoltà.",
+		"es": "Destaca tanto en ataque como en defensa. Se crece cuando recibe una ovación, pero a veces se luce tanto que termina viéndose en apuros.",
+		"de": "Jubel für besonders gelungene Spielzüge schüren seinen Enthusiasmus. Spielt es aber zu sehr für die Publikumswirkung, geht dies oft nach hinten los.",
+		"fr": "Exceptionnel en attaque comme en défense, il s’exalte quand on l’encourage, mais il lui arrive de se mettre en danger en jouant solo.",
+		"ko": "공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.",
+		"ja": "こうしゅに　すぐれ　おうえんされると さらに　もえるが　スタンドプレイに はしり　ピンチを　まねくこともある。"
+	}
+}

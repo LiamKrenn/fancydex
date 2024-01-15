@@ -1,0 +1,18 @@
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "toedscool" },
+	"generation": "paldea",
+	"id": 948,
+	"names": {
+		"ja": "リククラゲ",
+		"ko": "육파리",
+		"fr": "Terracruel",
+		"de": "Tenterra",
+		"es": "Toedscruel",
+		"it": "Toedscruel",
+		"en": "Toedscruel"
+	},
+	"descriptions": {
+		"en": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+	}
+}

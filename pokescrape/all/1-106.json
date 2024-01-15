@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "tyrogue"}, "generation": "kanto", "id": 236, "names": {"ja": "サワムラー", "ko": "시라소몬", "fr": "Kicklee", "de": "Kicklee", "es": "Hitmonlee", "it": "Hitmonlee", "en": "Hitmonlee"}, "descriptions": {"en": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.", "it": "Può accorciare o allungare le gambe a piacere. In questo modo riesce a colpire con i calci anche gli avversari distanti.", "es": "Encoge y estira las piernas a su antojo. De hecho, hasta puede propinar una patada a un rival que se encuentre lejos.", "de": "Es kann seine Beine nach Belieben ausfahren und einziehen und so auch entfernte Gegner treffen.", "fr": "Kicklee peut rétracter et étendre ses jambes à sa guise. La formidable allonge dont il dispose lui permet de frapper des adversaires éloignés.", "ko": "다리를 자유자재로 늘이고 줄인다. 상대가 멀리 떨어져 있어도 다리를 늘여서 차올릴 수 있다.", "ja": "あしが　じゆうに　のびちぢみして とおく　はなれている　ばあいでも あいてを　けりあげることが　できる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "tyrogue" },
+	"generation": "kanto",
+	"id": 236,
+	"names": {
+		"ja": "サワムラー",
+		"ko": "시라소몬",
+		"fr": "Kicklee",
+		"de": "Kicklee",
+		"es": "Hitmonlee",
+		"it": "Hitmonlee",
+		"en": "Hitmonlee"
+	},
+	"descriptions": {
+		"en": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+		"it": "Può accorciare o allungare le gambe a piacere. In questo modo riesce a colpire con i calci anche gli avversari distanti.",
+		"es": "Encoge y estira las piernas a su antojo. De hecho, hasta puede propinar una patada a un rival que se encuentre lejos.",
+		"de": "Es kann seine Beine nach Belieben ausfahren und einziehen und so auch entfernte Gegner treffen.",
+		"fr": "Kicklee peut rétracter et étendre ses jambes à sa guise. La formidable allonge dont il dispose lui permet de frapper des adversaires éloignés.",
+		"ko": "다리를 자유자재로 늘이고 줄인다. 상대가 멀리 떨어져 있어도 다리를 늘여서 차올릴 수 있다.",
+		"ja": "あしが　じゆうに　のびちぢみして とおく　はなれている　ばあいでも あいてを　けりあげることが　できる。"
+	}
+}

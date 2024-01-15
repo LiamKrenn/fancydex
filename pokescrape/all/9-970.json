@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "glimmet" },
+	"generation": "paldea",
+	"id": 969,
+	"names": {
+		"ja": "キラフロル",
+		"ko": "킬라플로르",
+		"fr": "Floréclat",
+		"de": "Lumiflora",
+		"es": "Glimmora",
+		"it": "Glimmora",
+		"en": "Glimmora"
+	},
+	"descriptions": {
+		"en": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+	}
+}

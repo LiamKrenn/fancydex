@@ -1,1 +1,1163 @@
-{}
+{
+	"Enamorus": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Wyrdeer": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Kleavor": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Basculegion": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Sneasler": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Overqwil": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Ursaluna": [
+		"Description: ja-Hrkt",
+		"Region: galar",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Pawmi": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Sprigatito": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Fuecoco": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Quaxly": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Lechonk": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tarountula": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Nymble": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Floragato": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Meowscarada": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Crocalor": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Quaxwell": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Quaquaval": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Oinkologne": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Spidops": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Lokix": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tandemaus": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Fidough": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Smoliv": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Squawkabilly": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Nacli": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Charcadet": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tadbulb": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Wattrel": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Maschiff": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Shroodle": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Bramblin": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Toedscool": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Klawf": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Capsakid": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Rellor": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Flittle": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tinkatink": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Wiglett": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Bombirdier": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Finizen": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Varoom": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Cyclizar": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Orthworm": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Glimmet": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Greavard": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Flamigo": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Cetoddle": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Veluza": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Dondozo": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tatsugiri": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Great Tusk": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Scream Tail": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Brute Bonnet": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Flutter Mane": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Slither Wing": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Sandy Shocks": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Treads": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Bundle": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Hands": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Jugulis": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Moth": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Thorns": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Frigibax": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Gimmighoul": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Wo-Chien": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Chien-Pao": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Pawmot": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Dachsbun": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Dolliv": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Arboliva": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Naclstack": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Garganacl": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Armarouge": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Ceruledge": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Bellibolt": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Kilowattrel": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Grafaiai": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Brambleghast": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Toedscruel": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Scovillain": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Rabsca": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Espathra": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tinkatuff": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Tinkaton": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Wugtrio": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Palafin": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Revavroom": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Houndstone": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Cetitan": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Annihilape": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Clodsire": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Farigiraf": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Dudunsparce": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Kingambit": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Arctibax": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Gholdengo": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Ting-Lu": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Chi-Yu": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Roaring Moon": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Valiant": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Koraidon": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Miraidon": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Walking Wake": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Leaves": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Poltchageist": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Okidogi": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Munkidori": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Fezandipiti": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Ogerpon": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Gouging Fire": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Raging Bolt": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Boulder": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Iron Crown": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Terapagos": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Pecharunt": [
+		"Name: ko",
+		"Region: paldea",
+		"Description: en",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Skeledirge": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Pawmo": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Maushold": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Mabosstiff": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Glimmora": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Baxcalibur": [
+		"Description: ja-Hrkt",
+		"Region: paldea",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Dipplin": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Sinistcha": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Archaludon": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	],
+	"Hydrapple": [
+		"Description: en",
+		"Region: paldea",
+		"Description: ja-Hrkt",
+		"Description: it",
+		"Description: es",
+		"Description: de",
+		"Description: fr",
+		"Description: ko"
+	]
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 399, "names": {"ja": "ビッパ", "ko": "비버니", "fr": "Keunotor", "de": "Bidiza", "es": "Bidoof", "it": "Bidoof", "en": "Bidoof"}, "descriptions": {"en": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.", "it": "Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all’acqua.", "es": "Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.", "de": "Es knabbert ständig an Holz und Steinen, um seine Vorderzähne zu kürzen. Es nistet am Wasser.", "fr": "Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l’eau.", "ko": "항상 큰 나무나 돌을 갉아서 튼튼한 앞니를 갈아내고 있다. 물가에 둥지를 만들어 산다.", "ja": "いつも　たいぼくや　いしを　かじって じょうぶな　まえばを　けずっている。 みずべに　すを　つくり　くらす。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 399,
+	"names": {
+		"ja": "ビッパ",
+		"ko": "비버니",
+		"fr": "Keunotor",
+		"de": "Bidiza",
+		"es": "Bidoof",
+		"it": "Bidoof",
+		"en": "Bidoof"
+	},
+	"descriptions": {
+		"en": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
+		"it": "Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all’acqua.",
+		"es": "Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.",
+		"de": "Es knabbert ständig an Holz und Steinen, um seine Vorderzähne zu kürzen. Es nistet am Wasser.",
+		"fr": "Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l’eau.",
+		"ko": "항상 큰 나무나 돌을 갉아서 튼튼한 앞니를 갈아내고 있다. 물가에 둥지를 만들어 산다.",
+		"ja": "いつも　たいぼくや　いしを　かじって じょうぶな　まえばを　けずっている。 みずべに　すを　つくり　くらす。"
+	}
+}

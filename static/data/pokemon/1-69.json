@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "kanto", "id": 69, "names": {"ja": "マダツボミ", "ko": "모다피", "fr": "Chétiflor", "de": "Knofensa", "es": "Bellsprout", "it": "Bellsprout", "en": "Bellsprout"}, "descriptions": {"en": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.", "it": "Ama i luoghi caldi e umidi. Cattura minuscoli Pokémon di tipo Coleottero con i suoi viticci e poi li divora.", "es": "Prefiere lugares cálidos y húmedos. Atrapa pequeños Pokémon insectos con sus lianas para devorarlos.", "de": "Knofensa bevorzugt einen warmen und feuchten Lebensraum. Es ernährt sich von kleinen Käfer- Pokémon, die es mit seinen Ranken fängt.", "fr": "Il préfère les endroits chauds et humides. Il capture les Pokémon Insecte avec ses lianes pour les dévorer.", "ko": "온도가 높고 습기가 있는 장소를 좋아한다. 덩굴을 사용해 작은 벌레를 잡아먹는다.", "ja": "おんどが　たかく　しつどの　ある ところを　このむ。ツルを　つかって ちいさなムシを　とらえて　たべる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 69,
+	"names": {
+		"ja": "マダツボミ",
+		"ko": "모다피",
+		"fr": "Chétiflor",
+		"de": "Knofensa",
+		"es": "Bellsprout",
+		"it": "Bellsprout",
+		"en": "Bellsprout"
+	},
+	"descriptions": {
+		"en": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+		"it": "Ama i luoghi caldi e umidi. Cattura minuscoli Pokémon di tipo Coleottero con i suoi viticci e poi li divora.",
+		"es": "Prefiere lugares cálidos y húmedos. Atrapa pequeños Pokémon insectos con sus lianas para devorarlos.",
+		"de": "Knofensa bevorzugt einen warmen und feuchten Lebensraum. Es ernährt sich von kleinen Käfer- Pokémon, die es mit seinen Ranken fängt.",
+		"fr": "Il préfère les endroits chauds et humides. Il capture les Pokémon Insecte avec ses lianes pour les dévorer.",
+		"ko": "온도가 높고 습기가 있는 장소를 좋아한다. 덩굴을 사용해 작은 벌레를 잡아먹는다.",
+		"ja": "おんどが　たかく　しつどの　ある ところを　このむ。ツルを　つかって ちいさなムシを　とらえて　たべる。"
+	}
+}

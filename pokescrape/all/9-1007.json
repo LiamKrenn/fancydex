@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1007,
+	"names": {
+		"ja": "コライドン",
+		"ko": "코라이돈",
+		"fr": "Koraidon",
+		"de": "Koraidon",
+		"es": "Koraidon",
+		"it": "Koraidon",
+		"en": "Koraidon"
+	},
+	"descriptions": {
+		"en": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
+	}
+}

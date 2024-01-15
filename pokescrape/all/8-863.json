@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "meowth"}, "generation": "galar", "id": 52, "names": {"ja": "ニャイキング", "ko": "나이킹", "fr": "Berserkatt", "de": "Mauzinger", "es": "Perrserker", "it": "Perrserker", "en": "Perrserker"}, "descriptions": {"en": "After many battles, it evolved dangerous claws that come together to form daggers when extended.", "it": "Si è evoluto dopo aver passato giorni interi a lottare e ha sviluppato degli artigli che, una volta sfoderati, diventano temibili pugnali.", "es": "Su devoción por la lucha ha propiciado que evolucionara y le ha conferido unas peligrosas garras que se convierten en dagas al extenderse.", "de": "Es entwickelte sich nach einer langen Zeit voller Kämpfe. Nun kann es seine Krallen ausfahren, um sie als Dolche zu nutzen.", "fr": "Il s’est tant adonné au combat qu’il a évolué : il est désormais doté de griffes redoutables qui prennent la forme de dagues en s’allongeant.", "ko": "싸움에 열중해 진화한 결과 펴면 단검으로 변하는 위험한 발톱을 얻었다.", "ja": "たたかいに　あけくれて　しんかした けっか　のばすと　たんけんに　かわる ぶっそうな　ツメを　てにいれた。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "meowth" },
+	"generation": "galar",
+	"id": 52,
+	"names": {
+		"ja": "ニャイキング",
+		"ko": "나이킹",
+		"fr": "Berserkatt",
+		"de": "Mauzinger",
+		"es": "Perrserker",
+		"it": "Perrserker",
+		"en": "Perrserker"
+	},
+	"descriptions": {
+		"en": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+		"it": "Si è evoluto dopo aver passato giorni interi a lottare e ha sviluppato degli artigli che, una volta sfoderati, diventano temibili pugnali.",
+		"es": "Su devoción por la lucha ha propiciado que evolucionara y le ha conferido unas peligrosas garras que se convierten en dagas al extenderse.",
+		"de": "Es entwickelte sich nach einer langen Zeit voller Kämpfe. Nun kann es seine Krallen ausfahren, um sie als Dolche zu nutzen.",
+		"fr": "Il s’est tant adonné au combat qu’il a évolué : il est désormais doté de griffes redoutables qui prennent la forme de dagues en s’allongeant.",
+		"ko": "싸움에 열중해 진화한 결과 펴면 단검으로 변하는 위험한 발톱을 얻었다.",
+		"ja": "たたかいに　あけくれて　しんかした けっか　のばすと　たんけんに　かわる ぶっそうな　ツメを　てにいれた。"
+	}
+}

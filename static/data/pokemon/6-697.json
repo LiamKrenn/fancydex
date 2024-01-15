@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "tyrunt"}, "generation": "kalos", "id": 696, "names": {"ja": "ガチゴラス", "ko": "견고라스", "fr": "Rexillius", "de": "Monargoras", "es": "Tyrantrum", "it": "Tyrantrum", "en": "Tyrantrum"}, "descriptions": {"en": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world.", "it": "Grazie alla sua mandibola può ridurre in frantumi un’auto con un morso solo. Regnava incontrastato nell’era preistorica.", "es": "Puede hacer trizas un coche de un solo mordisco gracias a sus potentes mandíbulas. Antaño era considerado un rey.", "de": "Ein Biss seines starken Kiefers reicht, um ein Auto zu zermalmen. Dieses Pokémon war der Regent der Urzeit.", "fr": "Ce Pokémon peut réduire une voiture en miettes d’un seul coup de mâchoire. Il était considéré comme le roi du monde préhistorique.", "ko": "큰 턱은 살짝 물기만 해도 자동차를 산산조각 낸다. 고대 세계의 왕이다.", "ja": "おおあごは　ひとかみするだけで じどうしゃも　こなごなに　する。 こだいの　せかいの　おうじゃ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "tyrunt" },
+	"generation": "kalos",
+	"id": 696,
+	"names": {
+		"ja": "ガチゴラス",
+		"ko": "견고라스",
+		"fr": "Rexillius",
+		"de": "Monargoras",
+		"es": "Tyrantrum",
+		"it": "Tyrantrum",
+		"en": "Tyrantrum"
+	},
+	"descriptions": {
+		"en": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world.",
+		"it": "Grazie alla sua mandibola può ridurre in frantumi un’auto con un morso solo. Regnava incontrastato nell’era preistorica.",
+		"es": "Puede hacer trizas un coche de un solo mordisco gracias a sus potentes mandíbulas. Antaño era considerado un rey.",
+		"de": "Ein Biss seines starken Kiefers reicht, um ein Auto zu zermalmen. Dieses Pokémon war der Regent der Urzeit.",
+		"fr": "Ce Pokémon peut réduire une voiture en miettes d’un seul coup de mâchoire. Il était considéré comme le roi du monde préhistorique.",
+		"ko": "큰 턱은 살짝 물기만 해도 자동차를 산산조각 낸다. 고대 세계의 왕이다.",
+		"ja": "おおあごは　ひとかみするだけで じどうしゃも　こなごなに　する。 こだいの　せかいの　おうじゃ。"
+	}
+}

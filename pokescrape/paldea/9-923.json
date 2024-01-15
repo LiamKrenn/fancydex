@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "pawmo" },
+	"generation": "paldea",
+	"id": 922,
+	"names": {
+		"ja": "パーモット",
+		"ko": "빠르모트",
+		"fr": "Pohmarmotte",
+		"de": "Pamomamo",
+		"es": "Pawmot",
+		"it": "Pawmot",
+		"en": "Pawmot"
+	},
+	"descriptions": {
+		"en": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+	}
+}

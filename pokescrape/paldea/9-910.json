@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "fuecoco" },
+	"generation": "paldea",
+	"id": 909,
+	"names": {
+		"ja": "アチゲータ",
+		"ko": "악뜨거",
+		"fr": "Crocogril",
+		"de": "Lokroko",
+		"es": "Crocalor",
+		"it": "Crocalor",
+		"en": "Crocalor"
+	},
+	"descriptions": {
+		"en": "The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 984,
+	"names": {
+		"ja": "イダイナキバ",
+		"ko": "위대한엄니",
+		"fr": "Fort-Ivoire",
+		"de": "Riesenzahn",
+		"es": "Colmilargo",
+		"it": "Grandizanne",
+		"en": "Great Tusk"
+	},
+	"descriptions": {
+		"en": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "alola", "id": 781, "names": {"ja": "ダダリン", "ko": "타타륜", "fr": "Sinistrail", "de": "Moruda", "es": "Dhelmise", "it": "Dhelmise", "en": "Dhelmise"}, "descriptions": {"en": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.", "it": "Cattura le prede calando la sua ancora in mare. Riesce ad assorbire l’energia vitale persino di Pokémon enormi come Wailord.", "es": "Acecha a su presa hundiendo el ancla en el mar. Es capaz de drenar la vitalidad incluso de presas del tamaño de un Wailord.", "de": "Im Meer wirft es seinen Anker aus und legt sich auf die Lauer. Es fängt sich möglichst große Beute wie Wailord und saugt ihr die Lebensenergie aus.", "fr": "Il tend des guets-apens à ses proies en larguant son ancre dans la mer. Il peut absorber l’énergie vitale de grosses proies comme Wailord.", "ko": "바다에 닻을 내려 먹이를 기다린다. 몸집이 큰 고래왕을 잡아 생기를 빨아들인다.", "ja": "うみに　いかりを　おろして　えものを まちぶせ。　おおものの　ホエルオーを つかまえて　せいきを　すいとる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 781,
+	"names": {
+		"ja": "ダダリン",
+		"ko": "타타륜",
+		"fr": "Sinistrail",
+		"de": "Moruda",
+		"es": "Dhelmise",
+		"it": "Dhelmise",
+		"en": "Dhelmise"
+	},
+	"descriptions": {
+		"en": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+		"it": "Cattura le prede calando la sua ancora in mare. Riesce ad assorbire l’energia vitale persino di Pokémon enormi come Wailord.",
+		"es": "Acecha a su presa hundiendo el ancla en el mar. Es capaz de drenar la vitalidad incluso de presas del tamaño de un Wailord.",
+		"de": "Im Meer wirft es seinen Anker aus und legt sich auf die Lauer. Es fängt sich möglichst große Beute wie Wailord und saugt ihr die Lebensenergie aus.",
+		"fr": "Il tend des guets-apens à ses proies en larguant son ancre dans la mer. Il peut absorber l’énergie vitale de grosses proies comme Wailord.",
+		"ko": "바다에 닻을 내려 먹이를 기다린다. 몸집이 큰 고래왕을 잡아 생기를 빨아들인다.",
+		"ja": "うみに　いかりを　おろして　えものを まちぶせ。　おおものの　ホエルオーを つかまえて　せいきを　すいとる。"
+	}
+}

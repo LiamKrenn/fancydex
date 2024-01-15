@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "torracat"}, "generation": "alola", "id": 726, "names": {"ja": "ガオガエン", "ko": "어흥염", "fr": "Félinferno", "de": "Fuegro", "es": "Incineroar", "it": "Incineroar", "en": "Incineroar"}, "descriptions": {"en": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.", "it": "Manifesta di solito un comportamento violento, ma possiede un lato gentile che emerge quando aiuta i Pokémon più piccoli.", "es": "A pesar de que a menudo se comporta de forma violenta, tiene un lado amable que se manifiesta cuando ayuda a Pokémon más pequeños.", "de": "Obwohl es sich auffällig rau und wild aufführt, hat es auch eine freundliche Seite an sich und hilft kleineren Pokémon aus Notlagen.", "fr": "Bien qu’il soit parfois brutal, il sait aussi se montrer attentionné en venant en aide aux petits Pokémon.", "ko": "난폭한 거동이 눈에 띄지만 작은 포켓몬을 도와주는 상냥한 일면도 있다.", "ja": "らんぼうな　ふるまいも　めにつくが ちいさい　ポケモンを　たすける やさしい　いちめんも　もっている。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "torracat" },
+	"generation": "alola",
+	"id": 726,
+	"names": {
+		"ja": "ガオガエン",
+		"ko": "어흥염",
+		"fr": "Félinferno",
+		"de": "Fuegro",
+		"es": "Incineroar",
+		"it": "Incineroar",
+		"en": "Incineroar"
+	},
+	"descriptions": {
+		"en": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.",
+		"it": "Manifesta di solito un comportamento violento, ma possiede un lato gentile che emerge quando aiuta i Pokémon più piccoli.",
+		"es": "A pesar de que a menudo se comporta de forma violenta, tiene un lado amable que se manifiesta cuando ayuda a Pokémon más pequeños.",
+		"de": "Obwohl es sich auffällig rau und wild aufführt, hat es auch eine freundliche Seite an sich und hilft kleineren Pokémon aus Notlagen.",
+		"fr": "Bien qu’il soit parfois brutal, il sait aussi se montrer attentionné en venant en aide aux petits Pokémon.",
+		"ko": "난폭한 거동이 눈에 띄지만 작은 포켓몬을 도와주는 상냥한 일면도 있다.",
+		"ja": "らんぼうな　ふるまいも　めにつくが ちいさい　ポケモンを　たすける やさしい　いちめんも　もっている。"
+	}
+}

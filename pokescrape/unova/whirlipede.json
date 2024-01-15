@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "venipede"}, "generation": "unova", "id": 543, "names": {"ja": "ホイーガ", "ko": "휠구", "fr": "Scobolide", "de": "Rollum", "es": "Whirlipede", "it": "Whirlipede", "en": "Whirlipede"}, "descriptions": {"en": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.", "it": "Mentre accumula l’energia necessaria per evolversi, si difende con il guscio resistente e le spine velenose.", "es": "Se defiende con su duro caparazón y sus púas venenosas mientras acumula la energía necesaria para evolucionar.", "de": "Es schützt sich mit seinem harten Panzer und den Giftspitzen, um ungestört genügend Energie für seine Entwicklung zu sammeln.", "fr": "Il se protège avec sa solide carapace et ses épines empoisonnées tandis qu’il rassemble l’énergie nécessaire à son évolution.", "ko": "단단한 껍질과 독가시로 몸을 보호하면서 진화에 필요한 에너지를 비축하고 있다.", "ja": "かたいカラと　どくのトゲで　みを まもり　しんかに　ひつような エネルギーを　ためているのだ。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "venipede" },
+	"generation": "unova",
+	"id": 543,
+	"names": {
+		"ja": "ホイーガ",
+		"ko": "휠구",
+		"fr": "Scobolide",
+		"de": "Rollum",
+		"es": "Whirlipede",
+		"it": "Whirlipede",
+		"en": "Whirlipede"
+	},
+	"descriptions": {
+		"en": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.",
+		"it": "Mentre accumula l’energia necessaria per evolversi, si difende con il guscio resistente e le spine velenose.",
+		"es": "Se defiende con su duro caparazón y sus púas venenosas mientras acumula la energía necesaria para evolucionar.",
+		"de": "Es schützt sich mit seinem harten Panzer und den Giftspitzen, um ungestört genügend Energie für seine Entwicklung zu sammeln.",
+		"fr": "Il se protège avec sa solide carapace et ses épines empoisonnées tandis qu’il rassemble l’énergie nécessaire à son évolution.",
+		"ko": "단단한 껍질과 독가시로 몸을 보호하면서 진화에 필요한 에너지를 비축하고 있다.",
+		"ja": "かたいカラと　どくのトゲで　みを まもり　しんかに　ひつような エネルギーを　ためているのだ。"
+	}
+}

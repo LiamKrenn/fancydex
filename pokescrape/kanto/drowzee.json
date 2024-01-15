@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "kanto", "id": 96, "names": {"ja": "スリープ", "ko": "슬리프", "fr": "Soporifik", "de": "Traumato", "es": "Drowzee", "it": "Drowzee", "en": "Drowzee"}, "descriptions": {"en": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.", "it": "Se si dorme sempre vicino a un Drowzee, può capitare di sognare uno dei sogni che questo Pokémon ha mangiato in passato.", "es": "Si se duerme siempre en compañía de un Pokémon de esta especie, puede mostrar sueños que haya ingerido con anterioridad.", "de": "Wenn man immer in der Nähe eines Traumato schläft, zeigt es einem nachts manchmal Träume, die es vor langer Zeit verspeist hat.", "fr": "Si vous dormez tout le temps près de lui, il partagera parfois avec vous les rêves qu’il a dévorés par le passé.", "ko": "언제나 함께 잠들다 보면 가끔 옛날에 먹었던 꿈을 보여줄 때가 있다.", "ja": "いつも　いっしょに　ねむってみると ときどき　むかし　たべたユメを みせてくれる　よるがある。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 96,
+	"names": {
+		"ja": "スリープ",
+		"ko": "슬리프",
+		"fr": "Soporifik",
+		"de": "Traumato",
+		"es": "Drowzee",
+		"it": "Drowzee",
+		"en": "Drowzee"
+	},
+	"descriptions": {
+		"en": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+		"it": "Se si dorme sempre vicino a un Drowzee, può capitare di sognare uno dei sogni che questo Pokémon ha mangiato in passato.",
+		"es": "Si se duerme siempre en compañía de un Pokémon de esta especie, puede mostrar sueños que haya ingerido con anterioridad.",
+		"de": "Wenn man immer in der Nähe eines Traumato schläft, zeigt es einem nachts manchmal Träume, die es vor langer Zeit verspeist hat.",
+		"fr": "Si vous dormez tout le temps près de lui, il partagera parfois avec vous les rêves qu’il a dévorés par le passé.",
+		"ko": "언제나 함께 잠들다 보면 가끔 옛날에 먹었던 꿈을 보여줄 때가 있다.",
+		"ja": "いつも　いっしょに　ねむってみると ときどき　むかし　たべたユメを みせてくれる　よるがある。"
+	}
+}

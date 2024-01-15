@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "dipplin" },
+	"generation": "paldea",
+	"id": 1011,
+	"names": {
+		"ja": "カミツオロチ",
+		"ko": "과미드라",
+		"fr": "Pomdorochi",
+		"de": "Hydrapfel",
+		"es": "Hydrapple",
+		"it": "Hydrapple",
+		"en": "Hydrapple"
+	},
+	"descriptions": {}
+}

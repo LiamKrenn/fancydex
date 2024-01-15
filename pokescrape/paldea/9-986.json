@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 986,
+	"names": {
+		"ja": "アラブルタケ",
+		"ko": "사나운버섯",
+		"fr": "Fongus-Furie",
+		"de": "Wutpilz",
+		"es": "Furioseta",
+		"it": "Fungofurioso",
+		"en": "Brute Bonnet"
+	},
+	"descriptions": {
+		"en": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+	}
+}

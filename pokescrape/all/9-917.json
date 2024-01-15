@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 917,
+	"names": {
+		"ja": "タマンチュラ",
+		"ko": "타랜툴라",
+		"fr": "Tissenboule",
+		"de": "Tarundel",
+		"es": "Tarountula",
+		"it": "Tarountula",
+		"en": "Tarountula"
+	},
+	"descriptions": {
+		"en": "The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+	}
+}

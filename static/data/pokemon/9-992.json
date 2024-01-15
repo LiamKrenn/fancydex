@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 992,
+	"names": {
+		"ja": "テツノカイナ",
+		"ko": "무쇠손",
+		"fr": "Paume-de-Fer",
+		"de": "Eisenhand",
+		"es": "Ferropalmas",
+		"it": "Manoferrea",
+		"en": "Iron Hands"
+	},
+	"descriptions": {
+		"en": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+	}
+}

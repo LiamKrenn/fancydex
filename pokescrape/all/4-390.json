@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 390, "names": {"ja": "ヒコザル", "ko": "불꽃숭이", "fr": "Ouisticram", "de": "Panflam", "es": "Chimchar", "it": "Chimchar", "en": "Chimchar"}, "descriptions": {"en": "Full of vigor and always in high spirits. It was once known by the name ”Lantern-Tail” and feared as some kind of apparition.", "it": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.", "es": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.", "de": "An seinem Rücken verbrennt es die Gase aus seinem Bauch. Geht es ihm schlecht, leuchtet es weniger hell.", "fr": "La flamme de son postérieur brûle grâce à un gaz de son estomac. Elle faiblit quand il ne va pas bien.", "ko": "배에서 만들어진 가스가 엉덩이에서 타오르고 있다. 몸 상태가 나쁘면 불꽃이 약해진다.", "ja": "おなかで　つくられた　ガスが おしりで　もえている。たいちょうが わるいと　ほのおが　よわくなる。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 390,
+	"names": {
+		"ja": "ヒコザル",
+		"ko": "불꽃숭이",
+		"fr": "Ouisticram",
+		"de": "Panflam",
+		"es": "Chimchar",
+		"it": "Chimchar",
+		"en": "Chimchar"
+	},
+	"descriptions": {
+		"en": "Full of vigor and always in high spirits. It was once known by the name ”Lantern-Tail” and feared as some kind of apparition.",
+		"it": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+		"es": "El fuego que arde en su cola lo generan los gases de su estómago y disminuye cuando está débil.",
+		"de": "An seinem Rücken verbrennt es die Gase aus seinem Bauch. Geht es ihm schlecht, leuchtet es weniger hell.",
+		"fr": "La flamme de son postérieur brûle grâce à un gaz de son estomac. Elle faiblit quand il ne va pas bien.",
+		"ko": "배에서 만들어진 가스가 엉덩이에서 타오르고 있다. 몸 상태가 나쁘면 불꽃이 약해진다.",
+		"ja": "おなかで　つくられた　ガスが おしりで　もえている。たいちょうが わるいと　ほのおが　よわくなる。"
+	}
+}

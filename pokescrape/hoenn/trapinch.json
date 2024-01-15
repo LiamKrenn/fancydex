@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "hoenn", "id": 328, "names": {"ja": "ナックラー", "ko": "톱치", "fr": "Kraknoix", "de": "Knacklion", "es": "Trapinch", "it": "Trapinch", "en": "Trapinch"}, "descriptions": {"en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.", "it": "Costruisce una tana a forma di imbuto dalla quale non si può scappare, aspettando poi che le prede cadano in trappola.", "es": "Excava fosas cóncavas, de las cuales resulta imposible escapar, y espera a que una presa caiga en su interior.", "de": "Es errichtet einen trichterförmigen Bau, aus dem es kein Entrinnen gibt, und wartet, bis Beute hineinfällt.", "fr": "Il creuse, puis attend ses proies dans son antre en forme de cône, dont il est impossible de s’échapper.", "ko": "절대 탈출 불가능한 원뿔형의 둥지를 만들어 먹이가 떨어지는 것을 기다린다.", "ja": "ぜったいに　だっしゅつ　ふかのうな すりばちじょうの　すあなを　つくって えものが　おちてくるのを　まつ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 328,
+	"names": {
+		"ja": "ナックラー",
+		"ko": "톱치",
+		"fr": "Kraknoix",
+		"de": "Knacklion",
+		"es": "Trapinch",
+		"it": "Trapinch",
+		"en": "Trapinch"
+	},
+	"descriptions": {
+		"en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+		"it": "Costruisce una tana a forma di imbuto dalla quale non si può scappare, aspettando poi che le prede cadano in trappola.",
+		"es": "Excava fosas cóncavas, de las cuales resulta imposible escapar, y espera a que una presa caiga en su interior.",
+		"de": "Es errichtet einen trichterförmigen Bau, aus dem es kein Entrinnen gibt, und wartet, bis Beute hineinfällt.",
+		"fr": "Il creuse, puis attend ses proies dans son antre en forme de cône, dont il est impossible de s’échapper.",
+		"ko": "절대 탈출 불가능한 원뿔형의 둥지를 만들어 먹이가 떨어지는 것을 기다린다.",
+		"ja": "ぜったいに　だっしゅつ　ふかのうな すりばちじょうの　すあなを　つくって えものが　おちてくるのを　まつ。"
+	}
+}

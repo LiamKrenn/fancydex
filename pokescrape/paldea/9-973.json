@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 973,
+	"names": {
+		"ja": "カラミンゴ",
+		"ko": "꼬이밍고",
+		"fr": "Flamenroule",
+		"de": "Flaminkno",
+		"es": "Flamigo",
+		"it": "Flamigo",
+		"en": "Flamigo"
+	},
+	"descriptions": {
+		"en": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+	}
+}

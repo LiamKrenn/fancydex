@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 969,
+	"names": {
+		"ja": "キラーメ",
+		"ko": "초롱순",
+		"fr": "Germéclat",
+		"de": "Lumispross",
+		"es": "Glimmet",
+		"it": "Glimmet",
+		"en": "Glimmet"
+	},
+	"descriptions": {
+		"en": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+	}
+}

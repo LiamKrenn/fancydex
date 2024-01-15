@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "primeape" },
+	"generation": "paldea",
+	"id": 57,
+	"names": {
+		"ja": "コノヨザル",
+		"ko": "저승갓숭",
+		"fr": "Courrousinge",
+		"de": "Epitaff",
+		"es": "Annihilape",
+		"it": "Annihilape",
+		"en": "Annihilape"
+	},
+	"descriptions": {
+		"en": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+	}
+}

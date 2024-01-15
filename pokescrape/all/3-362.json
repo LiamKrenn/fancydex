@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "snorunt"}, "generation": "hoenn", "id": 361, "names": {"ja": "オニゴーリ", "ko": "얼음귀신", "fr": "Oniglali", "de": "Firnontor", "es": "Glalie", "it": "Glalie", "en": "Glalie"}, "descriptions": {"en": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.", "it": "È capace di ghiacciare istantaneamente l’umidità dell’atmosfera. Sfrutta questo potere per congelare la preda.", "es": "Congela a sus presas helando en un momento la humedad contenida en el aire que lo rodea.", "de": "Es kann Feuchtigkeit in der Luft augenblicklich zum Gefrieren bringen und nutzt dies, um seine Beute zu Eis erstarren zu lassen.", "fr": "Il a le pouvoir de geler l’humidité ambiante en un instant et peut ainsi immobiliser ses proies.", "ko": "공기 중의 수분을 단숨에 얼게 하는 힘으로 먹이를 냉동시켜 버린다.", "ja": "くうきちゅうの　すいぶんを いっしゅんで　こおらせる　ちからで えものを　れいとうして　しまう。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "snorunt" },
+	"generation": "hoenn",
+	"id": 361,
+	"names": {
+		"ja": "オニゴーリ",
+		"ko": "얼음귀신",
+		"fr": "Oniglali",
+		"de": "Firnontor",
+		"es": "Glalie",
+		"it": "Glalie",
+		"en": "Glalie"
+	},
+	"descriptions": {
+		"en": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
+		"it": "È capace di ghiacciare istantaneamente l’umidità dell’atmosfera. Sfrutta questo potere per congelare la preda.",
+		"es": "Congela a sus presas helando en un momento la humedad contenida en el aire que lo rodea.",
+		"de": "Es kann Feuchtigkeit in der Luft augenblicklich zum Gefrieren bringen und nutzt dies, um seine Beute zu Eis erstarren zu lassen.",
+		"fr": "Il a le pouvoir de geler l’humidité ambiante en un instant et peut ainsi immobiliser ses proies.",
+		"ko": "공기 중의 수분을 단숨에 얼게 하는 힘으로 먹이를 냉동시켜 버린다.",
+		"ja": "くうきちゅうの　すいぶんを いっしゅんで　こおらせる　ちからで えものを　れいとうして　しまう。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "alola", "id": 786, "names": {"ja": "カプ・テテフ", "ko": "카푸나비나", "fr": "Tokopiyon", "de": "Kapu-Fala", "es": "Tapu Lele", "it": "Tapu Lele", "en": "Tapu Lele"}, "descriptions": {"en": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.", "it": "È considerato il protettore di Akala e rappresenta l’incarnazione della natura. Ha un’indole innocente e spietata al tempo stesso.", "es": "Este espíritu guardián es tan candoroso como despiadado, por lo que se podría decir que es la encarnación de la naturaleza misma.", "de": "Obwohl man es Schutzpatron nennt, verkörpert sein zugleich unschuldiges und grausames Gemüt das zwiegespaltene Wesen der Natur.", "fr": "Bien qu’on le considère comme une divinité protectrice, cette incarnation parfaite de la nature est aussi innocente que cruelle.", "ko": "수호신으로 불리지만 천진난만하면서 잔혹한 성질도 겸비한 자연의 화신이라 할 수 있는 존재다.", "ja": "まもりがみと　よばれるが　むじゃきで ざんこくな　せいしつも　あわせもつ しぜんのけしんと　いえる　そんざい。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 786,
+	"names": {
+		"ja": "カプ・テテフ",
+		"ko": "카푸나비나",
+		"fr": "Tokopiyon",
+		"de": "Kapu-Fala",
+		"es": "Tapu Lele",
+		"it": "Tapu Lele",
+		"en": "Tapu Lele"
+	},
+	"descriptions": {
+		"en": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+		"it": "È considerato il protettore di Akala e rappresenta l’incarnazione della natura. Ha un’indole innocente e spietata al tempo stesso.",
+		"es": "Este espíritu guardián es tan candoroso como despiadado, por lo que se podría decir que es la encarnación de la naturaleza misma.",
+		"de": "Obwohl man es Schutzpatron nennt, verkörpert sein zugleich unschuldiges und grausames Gemüt das zwiegespaltene Wesen der Natur.",
+		"fr": "Bien qu’on le considère comme une divinité protectrice, cette incarnation parfaite de la nature est aussi innocente que cruelle.",
+		"ko": "수호신으로 불리지만 천진난만하면서 잔혹한 성질도 겸비한 자연의 화신이라 할 수 있는 존재다.",
+		"ja": "まもりがみと　よばれるが　むじゃきで ざんこくな　せいしつも　あわせもつ しぜんのけしんと　いえる　そんざい。"
+	}
+}

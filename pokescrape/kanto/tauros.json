@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "kanto", "id": 128, "names": {"ja": "ケンタロス", "ko": "켄타로스", "fr": "Tauros", "de": "Tauros", "es": "Tauros", "it": "Tauros", "en": "Tauros"}, "descriptions": {"en": "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.", "it": "I Tauros che vivono a Galar hanno un’indole violenta e non tollerano che gli esseri umani salgano loro in groppa.", "es": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.", "de": "Die Tauros in Galar haben ein ungestümes Temperament und gestatten es Menschen nicht, auf ihrem Rücken zu reiten.", "fr": "Les Tauros vivant à Galar ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos.", "ko": "가라르에 서식하는 켄타로스는 기질이 거칠어서 사람이 등에 올라타는 것을 허용하지 않는다.", "ja": "ガラルに　くらす　ケンタロスは きしょうが　あらく　にんげんが せに　のることを　ゆるさない。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 128,
+	"names": {
+		"ja": "ケンタロス",
+		"ko": "켄타로스",
+		"fr": "Tauros",
+		"de": "Tauros",
+		"es": "Tauros",
+		"it": "Tauros",
+		"en": "Tauros"
+	},
+	"descriptions": {
+		"en": "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.",
+		"it": "I Tauros che vivono a Galar hanno un’indole violenta e non tollerano che gli esseri umani salgano loro in groppa.",
+		"es": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.",
+		"de": "Die Tauros in Galar haben ein ungestümes Temperament und gestatten es Menschen nicht, auf ihrem Rücken zu reiten.",
+		"fr": "Les Tauros vivant à Galar ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos.",
+		"ko": "가라르에 서식하는 켄타로스는 기질이 거칠어서 사람이 등에 올라타는 것을 허용하지 않는다.",
+		"ja": "ガラルに　くらす　ケンタロスは きしょうが　あらく　にんげんが せに　のることを　ゆるさない。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "tirtouga"}, "generation": "unova", "id": 564, "names": {"ja": "アバゴーラ", "ko": "늑골라", "fr": "Mégapagos", "de": "Karippas", "es": "Carracosta", "it": "Carracosta", "en": "Carracosta"}, "descriptions": {"en": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.", "it": "Quando va in cerca di prede sale anche sulla terraferma, nonostante i suoi movimenti siano più impacciati rispetto a quando è in acqua.", "es": "Aunque se mueva con mayor lentitud sobre la superficie terrestre que en el agua, emerge a tierra en busca de presas.", "de": "Obwohl es sich außerhalb des Wassers langsamer fortbewegt, kommt es an Land, um nach Beute zu suchen.", "fr": "Bien qu’il soit moins à l’aise sur terre que dans l’eau, il s’aventure sur le rivage pour se nourrir.", "ko": "물속과 비교하면 움직임이 둔하지만 먹이를 찾아 육지에서도 활동한다.", "ja": "みずのなかと　くらべて　うごきは にぶいが　えものを　さがしもとめ りくじょうでも　かつどうするぞ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "tirtouga" },
+	"generation": "unova",
+	"id": 564,
+	"names": {
+		"ja": "アバゴーラ",
+		"ko": "늑골라",
+		"fr": "Mégapagos",
+		"de": "Karippas",
+		"es": "Carracosta",
+		"it": "Carracosta",
+		"en": "Carracosta"
+	},
+	"descriptions": {
+		"en": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
+		"it": "Quando va in cerca di prede sale anche sulla terraferma, nonostante i suoi movimenti siano più impacciati rispetto a quando è in acqua.",
+		"es": "Aunque se mueva con mayor lentitud sobre la superficie terrestre que en el agua, emerge a tierra en busca de presas.",
+		"de": "Obwohl es sich außerhalb des Wassers langsamer fortbewegt, kommt es an Land, um nach Beute zu suchen.",
+		"fr": "Bien qu’il soit moins à l’aise sur terre que dans l’eau, il s’aventure sur le rivage pour se nourrir.",
+		"ko": "물속과 비교하면 움직임이 둔하지만 먹이를 찾아 육지에서도 활동한다.",
+		"ja": "みずのなかと　くらべて　うごきは にぶいが　えものを　さがしもとめ りくじょうでも　かつどうするぞ。"
+	}
+}

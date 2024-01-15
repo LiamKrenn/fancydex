@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "mareanie"}, "generation": "alola", "id": 747, "names": {"ja": "ドヒドイデ", "ko": "더시마사리", "fr": "Prédastérie", "de": "Aggrostella", "es": "Toxapex", "it": "Toxapex", "en": "Toxapex"}, "descriptions": {"en": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.", "it": "La sacca all’interno del suo corpo è piena di un veleno così potente da far star male persino un Wailord per tre giorni e tre notti.", "es": "La bolsa de veneno en el interior de su cuerpo contiene toxinas tan potentes que provocarían tres días de dolores intensos hasta a un Wailord.", "de": "In dem Giftbeutel in seinem Inneren bewahrt es große Mengen eines Gifts auf, das selbst einem Wailord drei Tage und Nächte lang stark zusetzt.", "fr": "Sa poche à venin interne regorge d’un poison si violent que même un Wailord en souffrirait pendant trois jours entiers.", "ko": "고래왕도 사흘 밤낮 괴로워할 정도의 맹독을 체내 독주머니에 듬뿍 비축하고 있다.", "ja": "ホエルオーも　みっかみばん　くるしむ もうどくを　たいないの　どくぶくろに たっぷり　ためこんでいる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "mareanie" },
+	"generation": "alola",
+	"id": 747,
+	"names": {
+		"ja": "ドヒドイデ",
+		"ko": "더시마사리",
+		"fr": "Prédastérie",
+		"de": "Aggrostella",
+		"es": "Toxapex",
+		"it": "Toxapex",
+		"en": "Toxapex"
+	},
+	"descriptions": {
+		"en": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
+		"it": "La sacca all’interno del suo corpo è piena di un veleno così potente da far star male persino un Wailord per tre giorni e tre notti.",
+		"es": "La bolsa de veneno en el interior de su cuerpo contiene toxinas tan potentes que provocarían tres días de dolores intensos hasta a un Wailord.",
+		"de": "In dem Giftbeutel in seinem Inneren bewahrt es große Mengen eines Gifts auf, das selbst einem Wailord drei Tage und Nächte lang stark zusetzt.",
+		"fr": "Sa poche à venin interne regorge d’un poison si violent que même un Wailord en souffrirait pendant trois jours entiers.",
+		"ko": "고래왕도 사흘 밤낮 괴로워할 정도의 맹독을 체내 독주머니에 듬뿍 비축하고 있다.",
+		"ja": "ホエルオーも　みっかみばん　くるしむ もうどくを　たいないの　どくぶくろに たっぷり　ためこんでいる。"
+	}
+}

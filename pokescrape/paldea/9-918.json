@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "tarountula" },
+	"generation": "paldea",
+	"id": 917,
+	"names": {
+		"ja": "ワナイダー",
+		"ko": "트래피더",
+		"fr": "Filentrappe",
+		"de": "Spinsidias",
+		"es": "Spidops",
+		"it": "Spidops",
+		"en": "Spidops"
+	},
+	"descriptions": {
+		"en": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+	}
+}

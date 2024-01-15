@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "unova", "id": 621, "names": {"ja": "クリムガン", "ko": "크리만", "fr": "Drakkarmin", "de": "Shardrago", "es": "Druddigon", "it": "Druddigon", "en": "Druddigon"}, "descriptions": {"en": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.", "it": "Brutale e scaltro, si appropria delle tane scavate da altri Pokémon facendone la propria dimora.", "es": "Posee una personalidad despiadada y ladina. Se apropia de los túneles excavados por otros Pokémon y los habita.", "de": "Shardrago ist grausam und gerissen. Es nimmt die selbstgegrabenen Höhlen anderer Pokémon ein, um sie zu seinem Unterschlupf zu machen.", "fr": "Féroce et perfide, Drakkarmin s’approprie les terriers creusés par d’autres Pokémon pour en faire son antre.", "ko": "난폭하고 교활하다. 다른 포켓몬이 파낸 굴을 빼앗아 거처로 삼는다.", "ja": "きょうぼうで　ずるがしこい。 ほかの　ポケモンが　ほった すあなを　うばって　すみかにする。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 621,
+	"names": {
+		"ja": "クリムガン",
+		"ko": "크리만",
+		"fr": "Drakkarmin",
+		"de": "Shardrago",
+		"es": "Druddigon",
+		"it": "Druddigon",
+		"en": "Druddigon"
+	},
+	"descriptions": {
+		"en": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
+		"it": "Brutale e scaltro, si appropria delle tane scavate da altri Pokémon facendone la propria dimora.",
+		"es": "Posee una personalidad despiadada y ladina. Se apropia de los túneles excavados por otros Pokémon y los habita.",
+		"de": "Shardrago ist grausam und gerissen. Es nimmt die selbstgegrabenen Höhlen anderer Pokémon ein, um sie zu seinem Unterschlupf zu machen.",
+		"fr": "Féroce et perfide, Drakkarmin s’approprie les terriers creusés par d’autres Pokémon pour en faire son antre.",
+		"ko": "난폭하고 교활하다. 다른 포켓몬이 파낸 굴을 빼앗아 거처로 삼는다.",
+		"ja": "きょうぼうで　ずるがしこい。 ほかの　ポケモンが　ほった すあなを　うばって　すみかにする。"
+	}
+}

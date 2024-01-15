@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 965,
+	"names": {
+		"ja": "ブロロン",
+		"ko": "부르롱",
+		"fr": "Vrombi",
+		"de": "Knattox",
+		"es": "Varoom",
+		"it": "Varoom",
+		"en": "Varoom"
+	},
+	"descriptions": {
+		"en": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+	}
+}

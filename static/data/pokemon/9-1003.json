@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1003,
+	"names": {
+		"ja": "ディンルー",
+		"ko": "딩루",
+		"fr": "Dinglu",
+		"de": "Dinglu",
+		"es": "Ting-Lu",
+		"it": "Ting-Lu",
+		"en": "Ting-Lu"
+	},
+	"descriptions": {
+		"en": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
+	}
+}

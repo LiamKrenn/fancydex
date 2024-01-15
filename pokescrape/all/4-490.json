@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 490, "names": {"ja": "マナフィ", "ko": "마나피", "fr": "Manaphy", "de": "Manaphy", "es": "Manaphy", "it": "Manaphy", "en": "Manaphy"}, "descriptions": {"en": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.", "it": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.", "es": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.", "de": "Es besitzt die wundersame Fähigkeit, das Herz eines jeden anderen Pokémon anzurühren.", "fr": "Il possède l’étrange pouvoir de s’entendre avec n’importe quel Pokémon.", "ko": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.", "ja": "どんな　ポケモンとでも　こころを かよいあわせる　ことが　できる ふしぎな　のうりょくを　もっている。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 490,
+	"names": {
+		"ja": "マナフィ",
+		"ko": "마나피",
+		"fr": "Manaphy",
+		"de": "Manaphy",
+		"es": "Manaphy",
+		"it": "Manaphy",
+		"en": "Manaphy"
+	},
+	"descriptions": {
+		"en": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
+		"it": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
+		"es": "Posee un poder singular que hace que entable amistad con casi cualquier Pokémon.",
+		"de": "Es besitzt die wundersame Fähigkeit, das Herz eines jeden anderen Pokémon anzurühren.",
+		"fr": "Il possède l’étrange pouvoir de s’entendre avec n’importe quel Pokémon.",
+		"ko": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다.",
+		"ja": "どんな　ポケモンとでも　こころを かよいあわせる　ことが　できる ふしぎな　のうりょくを　もっている。"
+	}
+}

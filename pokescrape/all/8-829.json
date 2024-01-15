@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "galar", "id": 829, "names": {"ja": "ヒメンカ", "ko": "꼬모카", "fr": "Tournicoton", "de": "Cottini", "es": "Gossifleur", "it": "Gossifleur", "en": "Gossifleur"}, "descriptions": {"en": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.", "it": "Canta felice girando su se stesso mentre si lascia trasportare dal vento. Molti ne allenano uno semplicemente perché lo trovano adorabile.", "es": "Muchos los crían tras quedar prendados de lo adorables que resultan cuando cantan dando vueltas empujados por la brisa.", "de": "Viele Leute werden ihre Trainer, weil sie es niedlich finden, wie diese Pokémon in sanften Brisen herumwirbeln und voller Freude singen.", "fr": "Nombreux sont ceux qui ont décidé d’en élever un après avoir été charmés par sa manière de chanter en virevoltant au gré de la brise.", "ko": "산들바람에 빙글빙글 돌면서 즐겁게 노래하는 귀여운 모습에 반해서 키우는 사람이 많다.", "ja": "そよかぜで　くるくる　まわりながら たのしそうに　うたう　あいらしさに みせられ　そだてる　ひとが　おおい。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 829,
+	"names": {
+		"ja": "ヒメンカ",
+		"ko": "꼬모카",
+		"fr": "Tournicoton",
+		"de": "Cottini",
+		"es": "Gossifleur",
+		"it": "Gossifleur",
+		"en": "Gossifleur"
+	},
+	"descriptions": {
+		"en": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+		"it": "Canta felice girando su se stesso mentre si lascia trasportare dal vento. Molti ne allenano uno semplicemente perché lo trovano adorabile.",
+		"es": "Muchos los crían tras quedar prendados de lo adorables que resultan cuando cantan dando vueltas empujados por la brisa.",
+		"de": "Viele Leute werden ihre Trainer, weil sie es niedlich finden, wie diese Pokémon in sanften Brisen herumwirbeln und voller Freude singen.",
+		"fr": "Nombreux sont ceux qui ont décidé d’en élever un après avoir été charmés par sa manière de chanter en virevoltant au gré de la brise.",
+		"ko": "산들바람에 빙글빙글 돌면서 즐겁게 노래하는 귀여운 모습에 반해서 키우는 사람이 많다.",
+		"ja": "そよかぜで　くるくる　まわりながら たのしそうに　うたう　あいらしさに みせられ　そだてる　ひとが　おおい。"
+	}
+}

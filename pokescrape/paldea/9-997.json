@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "frigibax" },
+	"generation": "paldea",
+	"id": 996,
+	"names": {
+		"ja": "セゴール",
+		"ko": "드니꽁",
+		"fr": "Cryodo",
+		"de": "Cryospino",
+		"es": "Arctibax",
+		"it": "Arctibax",
+		"en": "Arctibax"
+	},
+	"descriptions": {
+		"en": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+	}
+}

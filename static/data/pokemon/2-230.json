@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "seadra"}, "generation": "johto", "id": 117, "names": {"ja": "キングドラ", "ko": "킹드라", "fr": "Hyporoi", "de": "Seedraking", "es": "Kingdra", "it": "Kingdra", "en": "Kingdra"}, "descriptions": {"en": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.", "it": "Le scaglie che perde sono così pregiate e splendenti che vengono offerte in dono alle famiglie reali.", "es": "Las escamas que se le desprenden poseen una calidad tan excelsa y un resplandor tan intenso que han sido ofrecidas a la realeza como regalos.", "de": "Seine abgefallenen Schuppen tragen einen tiefen Glanz in sich und sind so hochwertig, dass selbst Königshäuser mit ihnen beschenkt werden.", "fr": "Les écailles qui se détachent de son corps brillent d’un éclat si élégant et si intense qu’on les offre aux familles royales.", "ko": "떨어진 비늘은 왕족에게 헌상될 정도의 최상품으로 심오한 빛을 띤다.", "ja": "はがれた　ウロコは　おうぞくへ けんじょうされるほど　じょうひんで ふかみのある　かがやきを　もつ。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "seadra" },
+	"generation": "johto",
+	"id": 117,
+	"names": {
+		"ja": "キングドラ",
+		"ko": "킹드라",
+		"fr": "Hyporoi",
+		"de": "Seedraking",
+		"es": "Kingdra",
+		"it": "Kingdra",
+		"en": "Kingdra"
+	},
+	"descriptions": {
+		"en": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
+		"it": "Le scaglie che perde sono così pregiate e splendenti che vengono offerte in dono alle famiglie reali.",
+		"es": "Las escamas que se le desprenden poseen una calidad tan excelsa y un resplandor tan intenso que han sido ofrecidas a la realeza como regalos.",
+		"de": "Seine abgefallenen Schuppen tragen einen tiefen Glanz in sich und sind so hochwertig, dass selbst Königshäuser mit ihnen beschenkt werden.",
+		"fr": "Les écailles qui se détachent de son corps brillent d’un éclat si élégant et si intense qu’on les offre aux familles royales.",
+		"ko": "떨어진 비늘은 왕족에게 헌상될 정도의 최상품으로 심오한 빛을 띤다.",
+		"ja": "はがれた　ウロコは　おうぞくへ けんじょうされるほど　じょうひんで ふかみのある　かがやきを　もつ。"
+	}
+}

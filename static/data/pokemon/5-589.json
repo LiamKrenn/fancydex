@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "karrablast"}, "generation": "unova", "id": 588, "names": {"ja": "シュバルゴ", "ko": "슈바르고", "fr": "Lançargot", "de": "Cavalanzas", "es": "Escavalier", "it": "Escavalier", "en": "Escavalier"}, "descriptions": {"en": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.", "it": "Carica il nemico con le sue lance. Un famoso dipinto lo ritrae durante un duello con Sirfetch’d.", "es": "Ataca a los enemigos con sus lanzas. Aparece representado en pleno duelo contra un Sirfetch’d en un famoso cuadro.", "de": "Es greift Gegner mit seinen Lanzen an. Auf einem berühmten Gemälde ist ein Duell zwischen ihm und Lauchzelot zu sehen.", "fr": "Il charge ses ennemis en brandissant ses lances. Il existe un célèbre tableau représentant la joute entre un Lançargot et un Palarticho.", "ko": "창을 겨누고 적에게 돌격한다. 창파나이트와의 결투를 그린 그림이 유명하다.", "ja": "やりを　かまえ　てきへ　とつげき。 ネギガナイトとの　けっとうを えがいた　かいがが　ゆうめい。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "karrablast" },
+	"generation": "unova",
+	"id": 588,
+	"names": {
+		"ja": "シュバルゴ",
+		"ko": "슈바르고",
+		"fr": "Lançargot",
+		"de": "Cavalanzas",
+		"es": "Escavalier",
+		"it": "Escavalier",
+		"en": "Escavalier"
+	},
+	"descriptions": {
+		"en": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.",
+		"it": "Carica il nemico con le sue lance. Un famoso dipinto lo ritrae durante un duello con Sirfetch’d.",
+		"es": "Ataca a los enemigos con sus lanzas. Aparece representado en pleno duelo contra un Sirfetch’d en un famoso cuadro.",
+		"de": "Es greift Gegner mit seinen Lanzen an. Auf einem berühmten Gemälde ist ein Duell zwischen ihm und Lauchzelot zu sehen.",
+		"fr": "Il charge ses ennemis en brandissant ses lances. Il existe un célèbre tableau représentant la joute entre un Lançargot et un Palarticho.",
+		"ko": "창을 겨누고 적에게 돌격한다. 창파나이트와의 결투를 그린 그림이 유명하다.",
+		"ja": "やりを　かまえ　てきへ　とつげき。 ネギガナイトとの　けっとうを えがいた　かいがが　ゆうめい。"
+	}
+}

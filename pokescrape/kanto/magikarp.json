@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "kanto", "id": 129, "names": {"ja": "コイキング", "ko": "잉어킹", "fr": "Magicarpe", "de": "Karpador", "es": "Magikarp", "it": "Magikarp", "en": "Magikarp"}, "descriptions": {"en": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.", "it": "Un Pokémon debole e patetico: non fa che lasciarsi trascinare dove lo porta la corrente.", "es": "Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.", "de": "Dieses Pokémon ist so schwach und erbärmlich, dass es sich in Gewässern mit starker Strömung einfach vom Wasser treiben lässt.", "fr": "Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement.", "ko": "유속이 빠른 곳에서는 그저 떠내려갈 뿐인 약하고 한심한 포켓몬이다.", "ja": "ながれの　はやい　ところでは ただ　ながされて　いくだけの ひよわで　なさけない　ポケモン。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 129,
+	"names": {
+		"ja": "コイキング",
+		"ko": "잉어킹",
+		"fr": "Magicarpe",
+		"de": "Karpador",
+		"es": "Magikarp",
+		"it": "Magikarp",
+		"en": "Magikarp"
+	},
+	"descriptions": {
+		"en": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
+		"it": "Un Pokémon debole e patetico: non fa che lasciarsi trascinare dove lo porta la corrente.",
+		"es": "Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.",
+		"de": "Dieses Pokémon ist so schwach und erbärmlich, dass es sich in Gewässern mit starker Strömung einfach vom Wasser treiben lässt.",
+		"fr": "Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement.",
+		"ko": "유속이 빠른 곳에서는 그저 떠내려갈 뿐인 약하고 한심한 포켓몬이다.",
+		"ja": "ながれの　はやい　ところでは ただ　ながされて　いくだけの ひよわで　なさけない　ポケモン。"
+	}
+}

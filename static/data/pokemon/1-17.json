@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "pidgey"}, "generation": "kanto", "id": 16, "names": {"ja": "ピジョン", "ko": "피죤", "fr": "Roucoups", "de": "Tauboga", "es": "Pidgeotto", "it": "Pidgeotto", "en": "Pidgeotto"}, "descriptions": {"en": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.", "it": "Un Pokémon pieno di vitalità che vola instancabile sul suo territorio in cerca di prede.", "es": "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.", "de": "Dieses kraftvolle Pokémon wacht unermüdlich über sein riesiges Territorium und fliegt weite Strecken auf der Suche nach Beute.", "fr": "Ce Pokémon est très endurant. Il survole en permanence son territoire pour chasser.", "ko": "어마어마한 체력의 소유자로 넓은 영역을 날아다니며 먼 곳까지 먹이를 찾으러 간다.", "ja": "ありあまる　たいりょくの　もちぬしで ひろい　なわばりを　とびまわり とおくまで　エサを　さがしにいく。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "pidgey" },
+	"generation": "kanto",
+	"id": 16,
+	"names": {
+		"ja": "ピジョン",
+		"ko": "피죤",
+		"fr": "Roucoups",
+		"de": "Tauboga",
+		"es": "Pidgeotto",
+		"it": "Pidgeotto",
+		"en": "Pidgeotto"
+	},
+	"descriptions": {
+		"en": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+		"it": "Un Pokémon pieno di vitalità che vola instancabile sul suo territorio in cerca di prede.",
+		"es": "Su extraordinaria vitalidad y resistencia le permiten cubrir grandes distancias del territorio que habita en busca de presas.",
+		"de": "Dieses kraftvolle Pokémon wacht unermüdlich über sein riesiges Territorium und fliegt weite Strecken auf der Suche nach Beute.",
+		"fr": "Ce Pokémon est très endurant. Il survole en permanence son territoire pour chasser.",
+		"ko": "어마어마한 체력의 소유자로 넓은 영역을 날아다니며 먼 곳까지 먹이를 찾으러 간다.",
+		"ja": "ありあまる　たいりょくの　もちぬしで ひろい　なわばりを　とびまわり とおくまで　エサを　さがしにいく。"
+	}
+}

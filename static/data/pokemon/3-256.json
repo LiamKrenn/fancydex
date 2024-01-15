@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "torchic"}, "generation": "hoenn", "id": 255, "names": {"ja": "ワカシャモ", "ko": "영치코", "fr": "Galifeu", "de": "Jungglut", "es": "Combusken", "it": "Combusken", "en": "Combusken"}, "descriptions": {"en": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.", "it": "Combusken combatte sputando fiamme roventi dal becco e sferrando calci dall’enorme potenza distruttiva. Il verso di questo Pokémon è lacerante e distrae gli avversari.", "es": "Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.", "de": "Jungglut stößt im Kampf glühend heiße Flammen aus seinem Schnabel aus und setzt extrem vernichtende Tritte ein. Das Geschrei dieses Pokémon ist sehr laut und verwirrend.", "fr": "Galifeu combat grâce aux flammes ardentes qu’il crache de son bec et à ses coups de pied destructeurs. Le cri de ce Pokémon est très puissant et très gênant pour l’adversaire.", "ko": "부리에서 토해 내는 작열하는 불꽃과 뛰어난 파괴력의 킥으로 싸운다. 울음소리가 커서 무척 시끄럽다.", "ja": "クチバシから　はきだす　しゃくねつの　ほのおと はかいりょく　ばつぐんの　キックで　たたかう。 なきごえが　おおきいので　とても　やかましい。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "torchic" },
+	"generation": "hoenn",
+	"id": 255,
+	"names": {
+		"ja": "ワカシャモ",
+		"ko": "영치코",
+		"fr": "Galifeu",
+		"de": "Jungglut",
+		"es": "Combusken",
+		"it": "Combusken",
+		"en": "Combusken"
+	},
+	"descriptions": {
+		"en": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
+		"it": "Combusken combatte sputando fiamme roventi dal becco e sferrando calci dall’enorme potenza distruttiva. Il verso di questo Pokémon è lacerante e distrae gli avversari.",
+		"es": "Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.",
+		"de": "Jungglut stößt im Kampf glühend heiße Flammen aus seinem Schnabel aus und setzt extrem vernichtende Tritte ein. Das Geschrei dieses Pokémon ist sehr laut und verwirrend.",
+		"fr": "Galifeu combat grâce aux flammes ardentes qu’il crache de son bec et à ses coups de pied destructeurs. Le cri de ce Pokémon est très puissant et très gênant pour l’adversaire.",
+		"ko": "부리에서 토해 내는 작열하는 불꽃과 뛰어난 파괴력의 킥으로 싸운다. 울음소리가 커서 무척 시끄럽다.",
+		"ja": "クチバシから　はきだす　しゃくねつの　ほのおと はかいりょく　ばつぐんの　キックで　たたかう。 なきごえが　おおきいので　とても　やかましい。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 412, "names": {"ja": "ミノムッチ", "ko": "도롱충이", "fr": "Cheniti", "de": "Burmy", "es": "Burmy", "it": "Burmy", "en": "Burmy"}, "descriptions": {"en": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.", "it": "Se il suo manto si rompe mentre lotta, lo rifà velocemente con ciò che trova attorno a sé.", "es": "Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.", "de": "Wird sein Umhang im Kampf zerstört, macht es sich schnell aus dem, was es findet, einen neuen.", "fr": "S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.", "ko": "싸움으로 도롱이가 부서져 버리면 가까이 있는 재료로 도롱이를 바로 만들어 고친다.", "ja": "たたかいで　ミノが　こわれてしまうと ちかくにある　ざいりょうで ミノを　すぐに　つくりなおす。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 412,
+	"names": {
+		"ja": "ミノムッチ",
+		"ko": "도롱충이",
+		"fr": "Cheniti",
+		"de": "Burmy",
+		"es": "Burmy",
+		"it": "Burmy",
+		"en": "Burmy"
+	},
+	"descriptions": {
+		"en": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.",
+		"it": "Se il suo manto si rompe mentre lotta, lo rifà velocemente con ciò che trova attorno a sé.",
+		"es": "Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.",
+		"de": "Wird sein Umhang im Kampf zerstört, macht es sich schnell aus dem, was es findet, einen neuen.",
+		"fr": "S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.",
+		"ko": "싸움으로 도롱이가 부서져 버리면 가까이 있는 재료로 도롱이를 바로 만들어 고친다.",
+		"ja": "たたかいで　ミノが　こわれてしまうと ちかくにある　ざいりょうで ミノを　すぐに　つくりなおす。"
+	}
+}

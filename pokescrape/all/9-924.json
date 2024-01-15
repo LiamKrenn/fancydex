@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 924,
+	"names": {
+		"ja": "ワッカネズミ",
+		"ko": "두리쥐",
+		"fr": "Compagnol",
+		"de": "Zwieps",
+		"es": "Tandemaus",
+		"it": "Tandemaus",
+		"en": "Tandemaus"
+	},
+	"descriptions": {
+		"en": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+	}
+}

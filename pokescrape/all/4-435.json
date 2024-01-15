@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "stunky"}, "generation": "sinnoh", "id": 434, "names": {"ja": "スカタンク", "ko": "스컹탱크", "fr": "Moufflair", "de": "Skuntank", "es": "Skuntank", "it": "Skuntank", "en": "Skuntank"}, "descriptions": {"en": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.", "it": "Il fluido che spruzza dalla punta della coda ha un odore tremendo. Costruisce la tana scavando un buco nel terreno.", "es": "El fluido que expulsa por la punta de la cola emana una hediondez insoportable. Construye sus madrigueras cavando hoyos en la tierra.", "de": "Die Flüssigkeit, die es aus seinem Schweif sprüht, hat einen sehr starken Geruch. Es errichtet seinen Bau, indem es Löcher in den Boden gräbt.", "fr": "Ce Pokémon, qui creuse son terrier dans le sol, peut projeter un liquide à l’odeur infecte avec le bout de sa queue.", "ko": "꼬리 끝에서 날리는 분비액의 냄새는 강렬하다. 땅에 구멍을 파서 굴을 만든다.", "ja": "しっぽの　さきから　とばす　しるの においは　きょうれつ。　じめんに あなを　ほって　すあなを　つくる。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "stunky" },
+	"generation": "sinnoh",
+	"id": 434,
+	"names": {
+		"ja": "スカタンク",
+		"ko": "스컹탱크",
+		"fr": "Moufflair",
+		"de": "Skuntank",
+		"es": "Skuntank",
+		"it": "Skuntank",
+		"en": "Skuntank"
+	},
+	"descriptions": {
+		"en": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
+		"it": "Il fluido che spruzza dalla punta della coda ha un odore tremendo. Costruisce la tana scavando un buco nel terreno.",
+		"es": "El fluido que expulsa por la punta de la cola emana una hediondez insoportable. Construye sus madrigueras cavando hoyos en la tierra.",
+		"de": "Die Flüssigkeit, die es aus seinem Schweif sprüht, hat einen sehr starken Geruch. Es errichtet seinen Bau, indem es Löcher in den Boden gräbt.",
+		"fr": "Ce Pokémon, qui creuse son terrier dans le sol, peut projeter un liquide à l’odeur infecte avec le bout de sa queue.",
+		"ko": "꼬리 끝에서 날리는 분비액의 냄새는 강렬하다. 땅에 구멍을 파서 굴을 만든다.",
+		"ja": "しっぽの　さきから　とばす　しるの においは　きょうれつ。　じめんに あなを　ほって　すあなを　つくる。"
+	}
+}

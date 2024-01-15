@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "kalos", "id": 719, "names": {"ja": "ディアンシー", "ko": "디안시", "fr": "Diancie", "de": "Diancie", "es": "Diancie", "it": "Diancie", "en": "Diancie"}, "descriptions": {"en": "It can instantly create many diamonds by compressing the carbon in the air between its hands.", "it": "È in grado di creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell’aria.", "es": "Puede crear una gran cantidad de diamantes en un instante comprimiendo con las manos el carbono que flota en el aire.", "de": "Es kann im Nu viele Diamanten erzeugen, indem es luftgebundene Kohlenstoffpartikel mit seinen Händen komprimiert.", "fr": "Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.", "ko": "양손의 틈으로 공기 중의 탄소를 압축하여 많은 다이아를 한순간에 만들어 낸다.", "ja": "りょうての　すきまで　くうきちゅうの たんそを　あっしゅくして　たくさんの ダイヤを　いっしゅんで　うみだす。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 719,
+	"names": {
+		"ja": "ディアンシー",
+		"ko": "디안시",
+		"fr": "Diancie",
+		"de": "Diancie",
+		"es": "Diancie",
+		"it": "Diancie",
+		"en": "Diancie"
+	},
+	"descriptions": {
+		"en": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
+		"it": "È in grado di creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell’aria.",
+		"es": "Puede crear una gran cantidad de diamantes en un instante comprimiendo con las manos el carbono que flota en el aire.",
+		"de": "Es kann im Nu viele Diamanten erzeugen, indem es luftgebundene Kohlenstoffpartikel mit seinen Händen komprimiert.",
+		"fr": "Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.",
+		"ko": "양손의 틈으로 공기 중의 탄소를 압축하여 많은 다이아를 한순간에 만들어 낸다.",
+		"ja": "りょうての　すきまで　くうきちゅうの たんそを　あっしゅくして　たくさんの ダイヤを　いっしゅんで　うみだす。"
+	}
+}

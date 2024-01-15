@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "arctibax" },
+	"generation": "paldea",
+	"id": 997,
+	"names": {
+		"ja": "セグレイブ",
+		"ko": "드닐레이브",
+		"fr": "Glaivodo",
+		"de": "Espinodon",
+		"es": "Baxcalibur",
+		"it": "Baxcalibur",
+		"en": "Baxcalibur"
+	},
+	"descriptions": {
+		"en": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+	}
+}

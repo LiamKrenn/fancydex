@@ -1,0 +1,18 @@
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "crocalor" },
+	"generation": "paldea",
+	"id": 910,
+	"names": {
+		"ja": "ラウドボーン",
+		"ko": "라우드본",
+		"fr": "Flâmigator",
+		"de": "Skelokrok",
+		"es": "Skeledirge",
+		"it": "Skeledirge",
+		"en": "Skeledirge"
+	},
+	"descriptions": {
+		"en": "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "poltchageist" },
+	"generation": "paldea",
+	"id": 1012,
+	"names": {
+		"ja": "ヤバソチャ",
+		"ko": "그우린차",
+		"fr": "Théffroyable",
+		"de": "Fatalitcha",
+		"es": "Sinistcha",
+		"it": "Sinistcha",
+		"en": "Sinistcha"
+	},
+	"descriptions": {}
+}

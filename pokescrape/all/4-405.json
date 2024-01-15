@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "luxio"}, "generation": "sinnoh", "id": 404, "names": {"ja": "レントラー", "ko": "렌트라", "fr": "Luxray", "de": "Luxtra", "es": "Luxray", "it": "Luxray", "en": "Luxray"}, "descriptions": {"en": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.", "it": "La sua visione radioscopica consuma enormi quantità di energia elettrica, che Luxray recupera dormendo per lunghi periodi.", "es": "Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.", "de": "Der Einsatz seines Röntgenblicks verbraucht sehr viel Elektrizität. Luxtra gewinnt diese zurück, indem es lange schläft.", "fr": "Il dort beaucoup pour récupérer la quantité d’énergie électrique énorme qu’il consomme afin de voir à travers la matière.", "ko": "투시는 전기 에너지를 매우 많이 소모하기 때문에 오랜 시간 수면을 취해서 에너지를 비축한다.", "ja": "とうしは　でんきエネルギーを　ひどく しょうもうするため　ちょうじかん ねむり　エネルギーを　たくわえる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "luxio" },
+	"generation": "sinnoh",
+	"id": 404,
+	"names": {
+		"ja": "レントラー",
+		"ko": "렌트라",
+		"fr": "Luxray",
+		"de": "Luxtra",
+		"es": "Luxray",
+		"it": "Luxray",
+		"en": "Luxray"
+	},
+	"descriptions": {
+		"en": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.",
+		"it": "La sua visione radioscopica consuma enormi quantità di energia elettrica, che Luxray recupera dormendo per lunghi periodi.",
+		"es": "Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.",
+		"de": "Der Einsatz seines Röntgenblicks verbraucht sehr viel Elektrizität. Luxtra gewinnt diese zurück, indem es lange schläft.",
+		"fr": "Il dort beaucoup pour récupérer la quantité d’énergie électrique énorme qu’il consomme afin de voir à travers la matière.",
+		"ko": "투시는 전기 에너지를 매우 많이 소모하기 때문에 오랜 시간 수면을 취해서 에너지를 비축한다.",
+		"ja": "とうしは　でんきエネルギーを　ひどく しょうもうするため　ちょうじかん ねむり　エネルギーを　たくわえる。"
+	}
+}

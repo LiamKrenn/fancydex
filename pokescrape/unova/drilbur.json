@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "unova", "id": 529, "names": {"ja": "モグリュー", "ko": "두더류", "fr": "Rototaupe", "de": "Rotomurf", "es": "Drilbur", "it": "Drilbur", "en": "Drilbur"}, "descriptions": {"en": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.", "it": "Non è ben visto dagli agricoltori per la sua abitudine di scavare cunicoli sottoterra con le unghie, rovinando gli ortaggi.", "es": "Su costumbre de horadar túneles bajo tierra le ha granjeado la antipatía de los agricultores, ya que puede echar a perder cosechas enteras.", "de": "Ein Pokémon, das sich bei Landwirten mäßiger Beliebtheit erfreut, da es beim Graben durchs Erdreich gelegentlich ihre Ernten ruiniert.", "fr": "Les cultivateurs le détestent, car il abîme leurs légumes en creusant la terre avec ses griffes.", "ko": "손톱으로 땅속을 파고 다니면서 키우는 채소를 해치기 때문에 농업 종사자들이 싫어한다.", "ja": "ツメで　ちちゅうを　ほりすすむので そだてた　やさいが　いたむと のうぎょうかんけいしゃは　きらう。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 529,
+	"names": {
+		"ja": "モグリュー",
+		"ko": "두더류",
+		"fr": "Rototaupe",
+		"de": "Rotomurf",
+		"es": "Drilbur",
+		"it": "Drilbur",
+		"en": "Drilbur"
+	},
+	"descriptions": {
+		"en": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
+		"it": "Non è ben visto dagli agricoltori per la sua abitudine di scavare cunicoli sottoterra con le unghie, rovinando gli ortaggi.",
+		"es": "Su costumbre de horadar túneles bajo tierra le ha granjeado la antipatía de los agricultores, ya que puede echar a perder cosechas enteras.",
+		"de": "Ein Pokémon, das sich bei Landwirten mäßiger Beliebtheit erfreut, da es beim Graben durchs Erdreich gelegentlich ihre Ernten ruiniert.",
+		"fr": "Les cultivateurs le détestent, car il abîme leurs légumes en creusant la terre avec ses griffes.",
+		"ko": "손톱으로 땅속을 파고 다니면서 키우는 채소를 해치기 때문에 농업 종사자들이 싫어한다.",
+		"ja": "ツメで　ちちゅうを　ほりすすむので そだてた　やさいが　いたむと のうぎょうかんけいしゃは　きらう。"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 962,
+	"names": {
+		"ja": "オトシドリ",
+		"ko": "떨구새",
+		"fr": "Lestombaile",
+		"de": "Adebom",
+		"es": "Bombirdier",
+		"it": "Bombirdier",
+		"en": "Bombirdier"
+	},
+	"descriptions": {
+		"en": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+	}
+}

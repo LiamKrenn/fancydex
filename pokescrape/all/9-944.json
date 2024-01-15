@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 944,
+	"names": {
+		"ja": "シルシュルー",
+		"ko": "땃쭈르",
+		"fr": "Gribouraigne",
+		"de": "Sproxi",
+		"es": "Shroodle",
+		"it": "Shroodle",
+		"en": "Shroodle"
+	},
+	"descriptions": {
+		"en": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+	}
+}

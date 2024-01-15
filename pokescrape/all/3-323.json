@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": {"name": "numel"}, "generation": "hoenn", "id": 322, "names": {"ja": "バクーダ", "ko": "폭타", "fr": "Camérupt", "de": "Camerupt", "es": "Camerupt", "it": "Camerupt", "en": "Camerupt"}, "descriptions": {"en": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.", "it": "Le gobbe sulla schiena di Camerupt si sono formate dalla trasformazione delle sue ossa. Talvolta emettono magma fuso. Pare che questo Pokémon erutti spesso quando è infuriato.", "es": "Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.", "de": "Die Höcker auf Camerupts Rücken sind durch eine Transformation seiner Knochen entstanden. Hin und wieder stoßen sie Magma aus. Dieses Pokémon bricht häufig aus, wenn es wütend ist.", "fr": "Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.", "ko": "등의 혹은 뼈가 변형된 것이다. 펄펄 끓는 마그마를 가끔 뿜어 올린다. 화났을 때 자주 분화하는 것 같다.", "ja": "せなかの　コブは　ほねが　かたちを　かえたもの。 にえたぎった　マグマを　ときどき　ふきあげる。 おこった　ときに　よく　ふんかする　らしい。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": { "name": "numel" },
+	"generation": "hoenn",
+	"id": 322,
+	"names": {
+		"ja": "バクーダ",
+		"ko": "폭타",
+		"fr": "Camérupt",
+		"de": "Camerupt",
+		"es": "Camerupt",
+		"it": "Camerupt",
+		"en": "Camerupt"
+	},
+	"descriptions": {
+		"en": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
+		"it": "Le gobbe sulla schiena di Camerupt si sono formate dalla trasformazione delle sue ossa. Talvolta emettono magma fuso. Pare che questo Pokémon erutti spesso quando è infuriato.",
+		"es": "Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.",
+		"de": "Die Höcker auf Camerupts Rücken sind durch eine Transformation seiner Knochen entstanden. Hin und wieder stoßen sie Magma aus. Dieses Pokémon bricht häufig aus, wenn es wütend ist.",
+		"fr": "Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.",
+		"ko": "등의 혹은 뼈가 변형된 것이다. 펄펄 끓는 마그마를 가끔 뿜어 올린다. 화났을 때 자주 분화하는 것 같다.",
+		"ja": "せなかの　コブは　ほねが　かたちを　かえたもの。 にえたぎった　マグマを　ときどき　ふきあげる。 おこった　ときに　よく　ふんかする　らしい。"
+	}
+}

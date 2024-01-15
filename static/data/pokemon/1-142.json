@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "kanto", "id": 142, "names": {"ja": "プテラ", "ko": "프테라", "fr": "Ptéra", "de": "Aerodactyl", "es": "Aerodactyl", "it": "Aerodactyl", "en": "Aerodactyl"}, "descriptions": {"en": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.", "it": "Le sue zanne simili a lame sono in grado di fare a brandelli persino la pelle dei Pokémon di tipo Acciaio.", "es": "Sus colmillos, afilados como sierras, pueden hacer trizas incluso la piel de Pokémon de tipo Acero.", "de": "Mit seinen Zähnen, die Sägeblättern gleichen, kann es selbst die Haut von Stahl-Pokémon zerfetzen.", "fr": "Sa dentition semblable à une scie peut même broyer la peau des Pokémon Acier.", "ko": "톱 같은 이빨은 강철포켓몬의 피부도 갈기갈기 베어 가른다.", "ja": "のこぎりの　ような　キバは はがねポケモンの　ひふ　さえ ズタズタに　きりさいて　しまう。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 142,
+	"names": {
+		"ja": "プテラ",
+		"ko": "프테라",
+		"fr": "Ptéra",
+		"de": "Aerodactyl",
+		"es": "Aerodactyl",
+		"it": "Aerodactyl",
+		"en": "Aerodactyl"
+	},
+	"descriptions": {
+		"en": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
+		"it": "Le sue zanne simili a lame sono in grado di fare a brandelli persino la pelle dei Pokémon di tipo Acciaio.",
+		"es": "Sus colmillos, afilados como sierras, pueden hacer trizas incluso la piel de Pokémon de tipo Acero.",
+		"de": "Mit seinen Zähnen, die Sägeblättern gleichen, kann es selbst die Haut von Stahl-Pokémon zerfetzen.",
+		"fr": "Sa dentition semblable à une scie peut même broyer la peau des Pokémon Acier.",
+		"ko": "톱 같은 이빨은 강철포켓몬의 피부도 갈기갈기 베어 가른다.",
+		"ja": "のこぎりの　ような　キバは はがねポケモンの　ひふ　さえ ズタズタに　きりさいて　しまう。"
+	}
+}

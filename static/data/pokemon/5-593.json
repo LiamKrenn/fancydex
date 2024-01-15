@@ -1,1 +1,24 @@
-{"color": {"name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/"}, "evolves_from_species": {"name": "frillish"}, "generation": "unova", "id": 592, "names": {"ja": "ブルンゲル", "ko": "탱탱겔", "fr": "Moyade", "de": "Apoquallyp", "es": "Jellicent", "it": "Jellicent", "en": "Jellicent"}, "descriptions": {"en": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.", "it": "Nelle notti di luna piena emergono in massa, rendendosi visibili sulla superficie del mare, in attesa di prede.", "es": "Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.", "de": "Bei Vollmond treiben Apoquallyp in Schwärmen an die Meeresoberfläche und lauern dort ihrer Beute auf.", "fr": "Les nuits de pleine lune, ils se réunissent à la surface de la mer pour attendre leurs proies.", "ko": "보름달이 뜨면 무리를 거느리고 해수면에 모습을 드러낸다. 먹이가 오기를 기다리는 것이다.", "ja": "まんげつに　なると　むれを　ひきつれ かいめんに　すがたを　みせる。 えものが　くるのを　まっているのだ。"}}
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": { "name": "frillish" },
+	"generation": "unova",
+	"id": 592,
+	"names": {
+		"ja": "ブルンゲル",
+		"ko": "탱탱겔",
+		"fr": "Moyade",
+		"de": "Apoquallyp",
+		"es": "Jellicent",
+		"it": "Jellicent",
+		"en": "Jellicent"
+	},
+	"descriptions": {
+		"en": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.",
+		"it": "Nelle notti di luna piena emergono in massa, rendendosi visibili sulla superficie del mare, in attesa di prede.",
+		"es": "Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.",
+		"de": "Bei Vollmond treiben Apoquallyp in Schwärmen an die Meeresoberfläche und lauern dort ihrer Beute auf.",
+		"fr": "Les nuits de pleine lune, ils se réunissent à la surface de la mer pour attendre leurs proies.",
+		"ko": "보름달이 뜨면 무리를 거느리고 해수면에 모습을 드러낸다. 먹이가 오기를 기다리는 것이다.",
+		"ja": "まんげつに　なると　むれを　ひきつれ かいめんに　すがたを　みせる。 えものが　くるのを　まっているのだ。"
+	}
+}

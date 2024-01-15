@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "kanto", "id": 114, "names": {"ja": "モンジャラ", "ko": "덩쿠리", "fr": "Saquedeneu", "de": "Tangela", "es": "Tangela", "it": "Tangela", "en": "Tangela"}, "descriptions": {"en": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.", "it": "Le sue liane emanano un odore peculiare. In alcune zone di Galar vengono usate come erbe aromatiche.", "es": "Sus lianas despiden una fragancia peculiar. En cierta zona de Galar se usan como aderezo.", "de": "Seine Ranken verströmen einen eigentümlichen Duft, weshalb sie in bestimmten Gegenden von Galar als aromatische Kräuter verwendet werden.", "fr": "Ses lianes ont une odeur particulière. Elles servent d’herbes aromatiques dans une certaine zone de Galar.", "ko": "덩굴은 독특한 향이 난다. 가라르 일부 지역에서는 허브로 사용되고 있다.", "ja": "ツルは　どくとくの　かおりがする。 ガラルの　いちぶの　ちいきでは ハーブとして　つかわれている。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 114,
+	"names": {
+		"ja": "モンジャラ",
+		"ko": "덩쿠리",
+		"fr": "Saquedeneu",
+		"de": "Tangela",
+		"es": "Tangela",
+		"it": "Tangela",
+		"en": "Tangela"
+	},
+	"descriptions": {
+		"en": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.",
+		"it": "Le sue liane emanano un odore peculiare. In alcune zone di Galar vengono usate come erbe aromatiche.",
+		"es": "Sus lianas despiden una fragancia peculiar. En cierta zona de Galar se usan como aderezo.",
+		"de": "Seine Ranken verströmen einen eigentümlichen Duft, weshalb sie in bestimmten Gegenden von Galar als aromatische Kräuter verwendet werden.",
+		"fr": "Ses lianes ont une odeur particulière. Elles servent d’herbes aromatiques dans une certaine zone de Galar.",
+		"ko": "덩굴은 독특한 향이 난다. 가라르 일부 지역에서는 허브로 사용되고 있다.",
+		"ja": "ツルは　どくとくの　かおりがする。 ガラルの　いちぶの　ちいきでは ハーブとして　つかわれている。"
+	}
+}

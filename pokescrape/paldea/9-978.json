@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 978,
+	"names": {
+		"ja": "シャリタツ",
+		"ko": "싸리용",
+		"fr": "Nigirigon",
+		"de": "Nigiragi",
+		"es": "Tatsugiri",
+		"it": "Tatsugiri",
+		"en": "Tatsugiri"
+	},
+	"descriptions": {
+		"en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+	}
+}

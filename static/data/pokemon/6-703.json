@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "kalos", "id": 703, "names": {"ja": "メレシー", "ko": "멜리시", "fr": "Strassie", "de": "Rocara", "es": "Carbink", "it": "Carbink", "en": "Carbink"}, "descriptions": {"en": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen.", "it": "Si dice che da qualche parte nel mondo c’è una miniera in cui i Carbink dormono assieme alla loro regina.", "es": "Se cree que en algún lugar de este mundo existe un filón rebosante de Carbink que viven bajo las órdenes de una reina.", "de": "Es heißt, irgendwo auf der Welt gäbe es eine Gesteinsader aus schlafenden Rocara. Dort soll man auch ihre Königin antreffen können.", "fr": "On raconte qu’il existerait quelque part dans le monde un filon regorgeant de Strassie, qui abriterait également leur reine.", "ko": "세상 어딘가에는 멜리시가 많이 잠들어 있는 광맥이 있고 무리의 여왕도 있다고 한다.", "ja": "せかいの　どこかには　メレシーが たくさん　ねむる　こうみゃくがあり むれの　じょおうも　いるという。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "kalos",
+	"id": 703,
+	"names": {
+		"ja": "メレシー",
+		"ko": "멜리시",
+		"fr": "Strassie",
+		"de": "Rocara",
+		"es": "Carbink",
+		"it": "Carbink",
+		"en": "Carbink"
+	},
+	"descriptions": {
+		"en": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen.",
+		"it": "Si dice che da qualche parte nel mondo c’è una miniera in cui i Carbink dormono assieme alla loro regina.",
+		"es": "Se cree que en algún lugar de este mundo existe un filón rebosante de Carbink que viven bajo las órdenes de una reina.",
+		"de": "Es heißt, irgendwo auf der Welt gäbe es eine Gesteinsader aus schlafenden Rocara. Dort soll man auch ihre Königin antreffen können.",
+		"fr": "On raconte qu’il existerait quelque part dans le monde un filon regorgeant de Strassie, qui abriterait également leur reine.",
+		"ko": "세상 어딘가에는 멜리시가 많이 잠들어 있는 광맥이 있고 무리의 여왕도 있다고 한다.",
+		"ja": "せかいの　どこかには　メレシーが たくさん　ねむる　こうみゃくがあり むれの　じょおうも　いるという。"
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "alola", "id": 789, "names": {"ja": "コスモッグ", "ko": "코스모그", "fr": "Cosmog", "de": "Cosmog", "es": "Cosmog", "it": "Cosmog", "en": "Cosmog"}, "descriptions": {"en": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.", "it": "Dotato di un’indole ingenua e curiosa, si caccia spesso nei guai. Quando le cose si mettono male, scappa teletrasportandosi.", "es": "Su escasa prudencia y gran curiosidad lo llevan a menudo a ponerse en peligro. En caso de apuro, se teletransporta para huir.", "de": "Es ist sehr neugierig und handelt oft unüberlegt, weshalb es häufig in brenzlige Situationen gerät. Wenn es in Gefahr ist, teleportiert es sich weg.", "fr": "De nature curieuse et peu méfiante, il se retrouve souvent dans des situations dangereuses. Il peut se téléporter en cas de danger.", "ko": "경계심이 없고 호기심이 왕성해 위험한 상황에 맞닥뜨리는 경우가 많다. 위기에 처하면 워프해서 도망친다.", "ja": "むけいかいで　こうきしんが　つよく あぶない　めに　あうことも　おおい。 ピンチになると　ワープで　にげる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 789,
+	"names": {
+		"ja": "コスモッグ",
+		"ko": "코스모그",
+		"fr": "Cosmog",
+		"de": "Cosmog",
+		"es": "Cosmog",
+		"it": "Cosmog",
+		"en": "Cosmog"
+	},
+	"descriptions": {
+		"en": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
+		"it": "Dotato di un’indole ingenua e curiosa, si caccia spesso nei guai. Quando le cose si mettono male, scappa teletrasportandosi.",
+		"es": "Su escasa prudencia y gran curiosidad lo llevan a menudo a ponerse en peligro. En caso de apuro, se teletransporta para huir.",
+		"de": "Es ist sehr neugierig und handelt oft unüberlegt, weshalb es häufig in brenzlige Situationen gerät. Wenn es in Gefahr ist, teleportiert es sich weg.",
+		"fr": "De nature curieuse et peu méfiante, il se retrouve souvent dans des situations dangereuses. Il peut se téléporter en cas de danger.",
+		"ko": "경계심이 없고 호기심이 왕성해 위험한 상황에 맞닥뜨리는 경우가 많다. 위기에 처하면 워프해서 도망친다.",
+		"ja": "むけいかいで　こうきしんが　つよく あぶない　めに　あうことも　おおい。 ピンチになると　ワープで　にげる。"
+	}
+}

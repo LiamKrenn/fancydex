@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "varoom" },
+	"generation": "paldea",
+	"id": 965,
+	"names": {
+		"ja": "ブロロローム",
+		"ko": "부르르룸",
+		"fr": "Vrombotor",
+		"de": "Knattatox",
+		"es": "Revavroom",
+		"it": "Revavroom",
+		"en": "Revavroom"
+	},
+	"descriptions": {
+		"en": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+	}
+}

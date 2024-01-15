@@ -1,0 +1,16 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1023,
+	"names": {
+		"ja": "テツノカシラ",
+		"ko": "무쇠감투",
+		"fr": "Chef-de-Fer",
+		"de": "Eisenhaupt",
+		"es": "Ferrotesta",
+		"it": "Capoferreo",
+		"en": "Iron Crown"
+	},
+	"descriptions": {}
+}

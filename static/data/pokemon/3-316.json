@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "hoenn", "id": 316, "names": {"ja": "ゴクリン", "ko": "꼴깍몬", "fr": "Gloupti", "de": "Schluppuck", "es": "Gulpin", "it": "Gulpin", "en": "Gulpin"}, "descriptions": {"en": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.", "it": "La maggior parte del corpo di Gulpin è formato dallo stomaco di dimensioni enormi rispetto al cuore e al cervello. Lo stomaco di questo Pokémon contiene enzimi speciali che sciolgono qualsiasi cosa.", "es": "La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.", "de": "Schluppucks Körper besteht zum größten Teil aus seinem Magen. Sein Herz und sein Gehirn sind im Vergleich dazu sehr klein. Der Magen dieses Pokémon enthält Enzyme, die alles zersetzen können.", "fr": "Le corps de Gloupti n’est pratiquement qu’un gros estomac. En comparaison, son cœur et son cerveau sont tout petits. L’estomac de ce Pokémon contient des enzymes spéciales capables de tout dissoudre.", "ko": "몸 대부분이 위로 되어 있어 심장이나 뇌는 매우 작다. 무엇이든 녹이는 특수한 위액을 지녔다.", "ja": "からだの　だいぶぶんが　いぶくろで　できていて しんぞうや　のうみそは　とても　ちいさい。 なんでも　とかす　とくしゅな　いえきを　もつ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 316,
+	"names": {
+		"ja": "ゴクリン",
+		"ko": "꼴깍몬",
+		"fr": "Gloupti",
+		"de": "Schluppuck",
+		"es": "Gulpin",
+		"it": "Gulpin",
+		"en": "Gulpin"
+	},
+	"descriptions": {
+		"en": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
+		"it": "La maggior parte del corpo di Gulpin è formato dallo stomaco di dimensioni enormi rispetto al cuore e al cervello. Lo stomaco di questo Pokémon contiene enzimi speciali che sciolgono qualsiasi cosa.",
+		"es": "La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.",
+		"de": "Schluppucks Körper besteht zum größten Teil aus seinem Magen. Sein Herz und sein Gehirn sind im Vergleich dazu sehr klein. Der Magen dieses Pokémon enthält Enzyme, die alles zersetzen können.",
+		"fr": "Le corps de Gloupti n’est pratiquement qu’un gros estomac. En comparaison, son cœur et son cerveau sont tout petits. L’estomac de ce Pokémon contient des enzymes spéciales capables de tout dissoudre.",
+		"ko": "몸 대부분이 위로 되어 있어 심장이나 뇌는 매우 작다. 무엇이든 녹이는 특수한 위액을 지녔다.",
+		"ja": "からだの　だいぶぶんが　いぶくろで　できていて しんぞうや　のうみそは　とても　ちいさい。 なんでも　とかす　とくしゅな　いえきを　もつ。"
+	}
+}

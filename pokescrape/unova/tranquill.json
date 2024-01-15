@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "pidove"}, "generation": "unova", "id": 519, "names": {"ja": "ハトーボー", "ko": "유토브", "fr": "Colombeau", "de": "Navitaub", "es": "Tranquill", "it": "Tranquill", "en": "Tranquill"}, "descriptions": {"en": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.", "it": "Pokémon intelligente, dotato di una memoria di ferro. Sembra che molti fattorini lo scelgano come compagno.", "es": "Posee una mente ágil y muy buena memoria. Tal vez por eso muchos repartidores lo eligen como compañero.", "de": "Es ist clever und hat ein gutes Gedächtnis. Anscheinend wird es von vielen Lieferanten als Partner ausgewählt.", "fr": "Il est intelligent et possède une bonne mémoire. On raconte que les livreurs le choisissent souvent comme partenaire.", "ko": "영리하고 기억력이 좋다. 배달원이 파트너로 선택하는 경우가 많다.", "ja": "かしこく　ものおぼえが　いい。 はいたついんが　パートナーに えらぶことが　おおいらしい。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "pidove" },
+	"generation": "unova",
+	"id": 519,
+	"names": {
+		"ja": "ハトーボー",
+		"ko": "유토브",
+		"fr": "Colombeau",
+		"de": "Navitaub",
+		"es": "Tranquill",
+		"it": "Tranquill",
+		"en": "Tranquill"
+	},
+	"descriptions": {
+		"en": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+		"it": "Pokémon intelligente, dotato di una memoria di ferro. Sembra che molti fattorini lo scelgano come compagno.",
+		"es": "Posee una mente ágil y muy buena memoria. Tal vez por eso muchos repartidores lo eligen como compañero.",
+		"de": "Es ist clever und hat ein gutes Gedächtnis. Anscheinend wird es von vielen Lieferanten als Partner ausgewählt.",
+		"fr": "Il est intelligent et possède une bonne mémoire. On raconte que les livreurs le choisissent souvent comme partenaire.",
+		"ko": "영리하고 기억력이 좋다. 배달원이 파트너로 선택하는 경우가 많다.",
+		"ja": "かしこく　ものおぼえが　いい。 はいたついんが　パートナーに えらぶことが　おおいらしい。"
+	}
+}

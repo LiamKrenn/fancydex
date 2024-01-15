@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 938,
+	"names": {
+		"ja": "ズピカ",
+		"ko": "빈나두",
+		"fr": "Têtampoule",
+		"de": "Blipp",
+		"es": "Tadbulb",
+		"it": "Tadbulb",
+		"en": "Tadbulb"
+	},
+	"descriptions": {
+		"en": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+	}
+}

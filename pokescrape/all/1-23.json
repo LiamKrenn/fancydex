@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "kanto", "id": 23, "names": {"ja": "アーボ", "ko": "아보", "fr": "Abo", "de": "Rettan", "es": "Ekans", "it": "Ekans", "en": "Ekans"}, "descriptions": {"en": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.", "it": "Si allunga sempre più con l’età. La notte si avvolge attorno a qualche ramo per dormire.", "es": "La longitud de este Pokémon aumenta con el tiempo. Por la noche, se enrosca en las ramas de los árboles para descansar.", "de": "Mit dem Alter wird der Körper dieses Pokémon immer länger. Nachts wickelt es sich um Äste, um zu ruhen.", "fr": "Plus il est âgé, plus son corps est long. La nuit, il s’enroule autour de branches d’arbres pour se reposer.", "ko": "성장할수록 점점 길어진다. 밤에는 나뭇가지에 몸을 돌돌 말고 쉰다.", "ja": "そだつほどに　どんどん　ながくなる。 そして　よなかは　きのえだに グルグルと　からまって　やすむ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 23,
+	"names": {
+		"ja": "アーボ",
+		"ko": "아보",
+		"fr": "Abo",
+		"de": "Rettan",
+		"es": "Ekans",
+		"it": "Ekans",
+		"en": "Ekans"
+	},
+	"descriptions": {
+		"en": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+		"it": "Si allunga sempre più con l’età. La notte si avvolge attorno a qualche ramo per dormire.",
+		"es": "La longitud de este Pokémon aumenta con el tiempo. Por la noche, se enrosca en las ramas de los árboles para descansar.",
+		"de": "Mit dem Alter wird der Körper dieses Pokémon immer länger. Nachts wickelt es sich um Äste, um zu ruhen.",
+		"fr": "Plus il est âgé, plus son corps est long. La nuit, il s’enroule autour de branches d’arbres pour se reposer.",
+		"ko": "성장할수록 점점 길어진다. 밤에는 나뭇가지에 몸을 돌돌 말고 쉰다.",
+		"ja": "そだつほどに　どんどん　ながくなる。 そして　よなかは　きのえだに グルグルと　からまって　やすむ。"
+	}
+}

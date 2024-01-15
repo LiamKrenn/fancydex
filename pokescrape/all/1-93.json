@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "gastly"}, "generation": "kanto", "id": 92, "names": {"ja": "ゴースト", "ko": "고우스트", "fr": "Spectrum", "de": "Alpollo", "es": "Haunter", "it": "Haunter", "en": "Haunter"}, "descriptions": {"en": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.", "it": "Se da soli, al buio, si ha l’impressione di essere osservati da qualcuno, si tratta di Haunter.", "es": "Cuando se tiene la sensación de ser observado en la oscuridad sin que haya nadie alrededor, seguro que es porque un Haunter anda cerca.", "de": "Falls du im Dunkeln das Gefühl hast, beobachtet zu werden, und niemand ist zu sehen, ist es bestimmt Alpollo.", "fr": "On dit que lorsque quelqu’un a l’impression d’être surveillé dans le noir, c’est sûrement qu’un Spectrum se trouve dans les parages.", "ko": "어둠 속에서 아무도 없는데도 누군가가 보고 있다는 느낌이 들면 그곳에 고우스트가 있는 것이다.", "ja": "くらやみで　だれもいないのに みられているような　きがしたら そこに　ゴーストが　いるのだ。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "gastly" },
+	"generation": "kanto",
+	"id": 92,
+	"names": {
+		"ja": "ゴースト",
+		"ko": "고우스트",
+		"fr": "Spectrum",
+		"de": "Alpollo",
+		"es": "Haunter",
+		"it": "Haunter",
+		"en": "Haunter"
+	},
+	"descriptions": {
+		"en": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
+		"it": "Se da soli, al buio, si ha l’impressione di essere osservati da qualcuno, si tratta di Haunter.",
+		"es": "Cuando se tiene la sensación de ser observado en la oscuridad sin que haya nadie alrededor, seguro que es porque un Haunter anda cerca.",
+		"de": "Falls du im Dunkeln das Gefühl hast, beobachtet zu werden, und niemand ist zu sehen, ist es bestimmt Alpollo.",
+		"fr": "On dit que lorsque quelqu’un a l’impression d’être surveillé dans le noir, c’est sûrement qu’un Spectrum se trouve dans les parages.",
+		"ko": "어둠 속에서 아무도 없는데도 누군가가 보고 있다는 느낌이 들면 그곳에 고우스트가 있는 것이다.",
+		"ja": "くらやみで　だれもいないのに みられているような　きがしたら そこに　ゴーストが　いるのだ。"
+	}
+}

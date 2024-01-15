@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": {"name": "chansey"}, "generation": "johto", "id": 113, "names": {"ja": "ハピナス", "ko": "해피너스", "fr": "Leuphorie", "de": "Heiteira", "es": "Blissey", "it": "Blissey", "en": "Blissey"}, "descriptions": {"en": "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them.", "it": "Le sue uova sono un magico concentrato di felicità. Si dice che rendano gentile chiunque le mangia.", "es": "Pone unos extraños huevos llenos de felicidad. Dicen que aquellos que los prueban se vuelven amables con todo el mundo.", "de": "Es legt mysteriöse Eier, die voller Glück stecken. Wer davon isst, soll anderen gegenüber sorgsam und höflich werden.", "fr": "Il pond d’étranges œufs remplis de bonheur. On raconte que quiconque en mange un devient aimable envers tout le monde.", "ko": "행복이 가득 찬 신비한 알을 낳는다. 먹은 사람은 누구에게나 친절해진다고 한다.", "ja": "しあわせが　つまった　ふしぎな タマゴを　うむ。　たべた　ひとは だれにでも　やさしく　なれるという。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": { "name": "chansey" },
+	"generation": "johto",
+	"id": 113,
+	"names": {
+		"ja": "ハピナス",
+		"ko": "해피너스",
+		"fr": "Leuphorie",
+		"de": "Heiteira",
+		"es": "Blissey",
+		"it": "Blissey",
+		"en": "Blissey"
+	},
+	"descriptions": {
+		"en": "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them.",
+		"it": "Le sue uova sono un magico concentrato di felicità. Si dice che rendano gentile chiunque le mangia.",
+		"es": "Pone unos extraños huevos llenos de felicidad. Dicen que aquellos que los prueban se vuelven amables con todo el mundo.",
+		"de": "Es legt mysteriöse Eier, die voller Glück stecken. Wer davon isst, soll anderen gegenüber sorgsam und höflich werden.",
+		"fr": "Il pond d’étranges œufs remplis de bonheur. On raconte que quiconque en mange un devient aimable envers tout le monde.",
+		"ko": "행복이 가득 찬 신비한 알을 낳는다. 먹은 사람은 누구에게나 친절해진다고 한다.",
+		"ja": "しあわせが　つまった　ふしぎな タマゴを　うむ。　たべた　ひとは だれにでも　やさしく　なれるという。"
+	}
+}

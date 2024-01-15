@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "quaxly" },
+	"generation": "paldea",
+	"id": 912,
+	"names": {
+		"ja": "ウェルカモ",
+		"ko": "아꾸왁",
+		"fr": "Canarbello",
+		"de": "Fuentente",
+		"es": "Quaxwell",
+		"it": "Quaxwell",
+		"en": "Quaxwell"
+	},
+	"descriptions": {
+		"en": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+	}
+}

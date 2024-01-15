@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": {"name": "poliwhirl"}, "generation": "kanto", "id": 61, "names": {"ja": "ニョロボン", "ko": "강챙이", "fr": "Tartard", "de": "Quappo", "es": "Poliwrath", "it": "Poliwrath", "en": "Poliwrath"}, "descriptions": {"en": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.", "it": "È abile sia nel nuoto che nella lotta corpo a corpo. Sferra pugni vigorosi grazie alle sue braccia allenate.", "es": "No solo es un experto nadador, sino que también domina las artes marciales. Propina enérgicos puñetazos gracias a sus musculosos brazos.", "de": "Es ist sowohl ein begnadeter Schwimmer als auch Kampfsportler. Mit seinen durchtrainierten Armen teilt es kräftige Schläge aus.", "fr": "Aussi habile à la nage qu’au combat, il peut donner de vigoureux coups de poing avec ses bras musclés.", "ko": "헤엄뿐만 아니라 격투기도 특기다. 단련한 팔로 호쾌하게 펀치를 날린다.", "ja": "およぎ　だけでなく　かくとうぎも とくい。　きたえあげた　うでから ごうかいな　パンチを　くりだす。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "poliwhirl" },
+	"generation": "kanto",
+	"id": 61,
+	"names": {
+		"ja": "ニョロボン",
+		"ko": "강챙이",
+		"fr": "Tartard",
+		"de": "Quappo",
+		"es": "Poliwrath",
+		"it": "Poliwrath",
+		"en": "Poliwrath"
+	},
+	"descriptions": {
+		"en": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+		"it": "È abile sia nel nuoto che nella lotta corpo a corpo. Sferra pugni vigorosi grazie alle sue braccia allenate.",
+		"es": "No solo es un experto nadador, sino que también domina las artes marciales. Propina enérgicos puñetazos gracias a sus musculosos brazos.",
+		"de": "Es ist sowohl ein begnadeter Schwimmer als auch Kampfsportler. Mit seinen durchtrainierten Armen teilt es kräftige Schläge aus.",
+		"fr": "Aussi habile à la nage qu’au combat, il peut donner de vigoureux coups de poing avec ses bras musclés.",
+		"ko": "헤엄뿐만 아니라 격투기도 특기다. 단련한 팔로 호쾌하게 펀치를 날린다.",
+		"ja": "およぎ　だけでなく　かくとうぎも とくい。　きたえあげた　うでから ごうかいな　パンチを　くりだす。"
+	}
+}

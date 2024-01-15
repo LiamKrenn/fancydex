@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 953,
+	"names": {
+		"ja": "シガロコ",
+		"ko": "구르데",
+		"fr": "Léboulérou",
+		"de": "Relluk",
+		"es": "Rellor",
+		"it": "Rellor",
+		"en": "Rellor"
+	},
+	"descriptions": {
+		"en": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+	}
+}

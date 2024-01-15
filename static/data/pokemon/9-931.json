@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 931,
+	"names": {
+		"ja": "イキリンコ",
+		"ko": "시비꼬",
+		"fr": "Tapatoès",
+		"de": "Krawalloro",
+		"es": "Squawkabilly",
+		"it": "Squawkabilly",
+		"en": "Squawkabilly"
+	},
+	"descriptions": {
+		"en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
+	}
+}

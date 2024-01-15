@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": {"name": "grotle"}, "generation": "sinnoh", "id": 388, "names": {"ja": "ドダイトス", "ko": "토대부기", "fr": "Torterra", "de": "Chelterrar", "es": "Torterra", "it": "Torterra", "en": "Torterra"}, "descriptions": {"en": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water.", "it": "Piccoli Pokémon si radunano talvolta sul suo dorso immobile per costruirvi la loro tana.", "es": "Algunos Pokémon pequeños se juntan en su espalda para hacer sus nidos.", "de": "Kleine Pokémon fangen manchmal an, auf dem bewegungslosen Rücken Nester zu bauen.", "fr": "Il arrive que de petits Pokémon se rassemblent sur son dos immobile pour y faire leur nid.", "ko": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다.", "ja": "ちいさな　ポケモンたちが　あつまり うごかない　ドダイトスの　せなかで すづくりを　はじめることがある。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "grotle" },
+	"generation": "sinnoh",
+	"id": 388,
+	"names": {
+		"ja": "ドダイトス",
+		"ko": "토대부기",
+		"fr": "Torterra",
+		"de": "Chelterrar",
+		"es": "Torterra",
+		"it": "Torterra",
+		"en": "Torterra"
+	},
+	"descriptions": {
+		"en": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water.",
+		"it": "Piccoli Pokémon si radunano talvolta sul suo dorso immobile per costruirvi la loro tana.",
+		"es": "Algunos Pokémon pequeños se juntan en su espalda para hacer sus nidos.",
+		"de": "Kleine Pokémon fangen manchmal an, auf dem bewegungslosen Rücken Nester zu bauen.",
+		"fr": "Il arrive que de petits Pokémon se rassemblent sur son dos immobile pour y faire leur nid.",
+		"ko": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다.",
+		"ja": "ちいさな　ポケモンたちが　あつまり うごかない　ドダイトスの　せなかで すづくりを　はじめることがある。"
+	}
+}

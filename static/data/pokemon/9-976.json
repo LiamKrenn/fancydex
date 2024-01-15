@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 976,
+	"names": {
+		"ja": "ミガルーサ",
+		"ko": "가비루사",
+		"fr": "Délestin",
+		"de": "Agiluza",
+		"es": "Veluza",
+		"it": "Veluza",
+		"en": "Veluza"
+	},
+	"descriptions": {
+		"en": "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+	}
+}

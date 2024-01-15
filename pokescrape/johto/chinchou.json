@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "johto", "id": 170, "names": {"ko": "초라기", "ja": "チョンチー", "fr": "Loupio", "de": "Lampi", "es": "Chinchou", "it": "Chinchou", "en": "Chinchou"}, "descriptions": {"en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.", "it": "Il suo unico mezzo di comunicazione negli oscuri fondali oceanici sono le luci delle sue antenne, che lampeggiano costantemente.", "es": "En el oscuro fondo del océano, su único modo de comunicarse son las luces parpadeantes que emite por las antenas.", "de": "Am dunklen Meeresgrund sind die ständig flackernden Lichter seiner Antennen sein einziges Kommunikationsmittel.", "fr": "Au plus profond de l’océan, son seul moyen de communication est la lumière de ses antennes, qui clignotent constamment.", "ko": "어두운 해저에서는 항상 깜빡거리는 촉수의 빛이 유일한 통신 수단이다.", "ja": "くらい　かいていでは　いつも てんめつ　している　しょくしゅの あかり　だけが　つうしんしゅだん。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 170,
+	"names": {
+		"ko": "초라기",
+		"ja": "チョンチー",
+		"fr": "Loupio",
+		"de": "Lampi",
+		"es": "Chinchou",
+		"it": "Chinchou",
+		"en": "Chinchou"
+	},
+	"descriptions": {
+		"en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+		"it": "Il suo unico mezzo di comunicazione negli oscuri fondali oceanici sono le luci delle sue antenne, che lampeggiano costantemente.",
+		"es": "En el oscuro fondo del océano, su único modo de comunicarse son las luces parpadeantes que emite por las antenas.",
+		"de": "Am dunklen Meeresgrund sind die ständig flackernden Lichter seiner Antennen sein einziges Kommunikationsmittel.",
+		"fr": "Au plus profond de l’océan, son seul moyen de communication est la lumière de ses antennes, qui clignotent constamment.",
+		"ko": "어두운 해저에서는 항상 깜빡거리는 촉수의 빛이 유일한 통신 수단이다.",
+		"ja": "くらい　かいていでは　いつも てんめつ　している　しょくしゅの あかり　だけが　つうしんしゅだん。"
+	}
+}

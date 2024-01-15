@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "johto", "id": 246, "names": {"ja": "ヨーギラス", "ko": "애버라스", "fr": "Embrylex", "de": "Larvitar", "es": "Larvitar", "it": "Larvitar", "en": "Larvitar"}, "descriptions": {"en": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.", "it": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.", "es": "Se alimenta de tierra. Después de devorar el equivalente a una montaña, se duerme y empieza a crecer.", "de": "Es ernährt sich von Erde. Nachdem es einen Berg verspeist hat, schläft es ein, um zu wachsen.", "fr": "Il vit en se nourrissant de terre. Après avoir dévoré une montagne, il s’endort et entame sa croissance.", "ko": "흙을 먹으며 살고 있다. 큰 산 하나를 다 먹으면 성장을 위해 잠자기 시작한다.", "ja": "つちを　たべて　いきている。 おおきな　やまひとつ　たべおわると せいちょうのため　ねむりはじめる。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 246,
+	"names": {
+		"ja": "ヨーギラス",
+		"ko": "애버라스",
+		"fr": "Embrylex",
+		"de": "Larvitar",
+		"es": "Larvitar",
+		"it": "Larvitar",
+		"en": "Larvitar"
+	},
+	"descriptions": {
+		"en": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+		"it": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+		"es": "Se alimenta de tierra. Después de devorar el equivalente a una montaña, se duerme y empieza a crecer.",
+		"de": "Es ernährt sich von Erde. Nachdem es einen Berg verspeist hat, schläft es ein, um zu wachsen.",
+		"fr": "Il vit en se nourrissant de terre. Après avoir dévoré une montagne, il s’endort et entame sa croissance.",
+		"ko": "흙을 먹으며 살고 있다. 큰 산 하나를 다 먹으면 성장을 위해 잠자기 시작한다.",
+		"ja": "つちを　たべて　いきている。 おおきな　やまひとつ　たべおわると せいちょうのため　ねむりはじめる。"
+	}
+}

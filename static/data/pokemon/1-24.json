@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": {"name": "ekans"}, "generation": "kanto", "id": 23, "names": {"ja": "アーボック", "ko": "아보크", "fr": "Arbok", "de": "Arbok", "es": "Arbok", "it": "Arbok", "en": "Arbok"}, "descriptions": {"en": "The frightening patterns on its belly have been studied. Six variations have been confirmed.", "it": "Gli spaventosi disegni che ha sulla pancia sono oggetto di studio. Ne sono state scoperte sei diverse variazioni.", "es": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.", "de": "Von dem furchterregenden Muster auf seinem Bauch wurden durch Studien bislang sechs verschiedene Varianten entdeckt.", "fr": "Des études ont révélé que les marques effrayantes de son corps pouvaient former six motifs différents.", "ko": "무서워 보이는 배의 무늬는 연구 결과 6종류 정도의 패턴이 확인되었다.", "ja": "おそろしげな　おなかの　もようは けんきゅうのけっか　６しゅるいほど パターンが　かくにんされている。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": { "name": "ekans" },
+	"generation": "kanto",
+	"id": 23,
+	"names": {
+		"ja": "アーボック",
+		"ko": "아보크",
+		"fr": "Arbok",
+		"de": "Arbok",
+		"es": "Arbok",
+		"it": "Arbok",
+		"en": "Arbok"
+	},
+	"descriptions": {
+		"en": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+		"it": "Gli spaventosi disegni che ha sulla pancia sono oggetto di studio. Ne sono state scoperte sei diverse variazioni.",
+		"es": "Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.",
+		"de": "Von dem furchterregenden Muster auf seinem Bauch wurden durch Studien bislang sechs verschiedene Varianten entdeckt.",
+		"fr": "Des études ont révélé que les marques effrayantes de son corps pouvaient former six motifs différents.",
+		"ko": "무서워 보이는 배의 무늬는 연구 결과 6종류 정도의 패턴이 확인되었다.",
+		"ja": "おそろしげな　おなかの　もようは けんきゅうのけっか　６しゅるいほど パターンが　かくにんされている。"
+	}
+}

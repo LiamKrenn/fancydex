@@ -1,0 +1,18 @@
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "gimmighoul" },
+	"generation": "paldea",
+	"id": 999,
+	"names": {
+		"ja": "サーフゴー",
+		"ko": "타부자고",
+		"fr": "Gromago",
+		"de": "Monetigo",
+		"es": "Gholdengo",
+		"it": "Gholdengo",
+		"en": "Gholdengo"
+	},
+	"descriptions": {
+		"en": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+	}
+}

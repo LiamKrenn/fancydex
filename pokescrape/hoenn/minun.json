@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "hoenn", "id": 312, "names": {"ja": "マイナン", "ko": "마이농", "fr": "Négapi", "de": "Minun", "es": "Minun", "it": "Minun", "en": "Minun"}, "descriptions": {"en": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.", "it": "Minun ama tenere alto il morale della squadra nella lotta, emanando scintille da tutto il corpo. Se la sua squadra è in difficoltà, emette una maggiore quantità di scintille.", "es": "Minun empieza a echar chispas cuando está animando a su compañero en pleno combate. Si su compañero está en peligro, el chisporroteo aumenta su intensidad por momentos.", "de": "Minun liebt es, seinen Partner im Kampf anzufeuern. Dabei sprüht es Funken aus seinem Körper. Wenn sein Partner in Schwierigkeiten gerät, sprüht es immer mehr Funken.", "fr": "Négapi adore encourager son partenaire pendant les combats. Des étincelles jaillissent alors de son corps. Lorsque son partenaire est en difficulté, le corps de ce Pokémon libère encore plus d’étincelles.", "ko": "동료를 응원하는 것을 매우 좋아하는 포켓몬이다. 동료가 질 것 같으면 몸에서 나오는 불꽃의 수가 점점 늘어난다.", "ja": "なかまの　おうえんが　だいすきな　ポケモン。 なかまが　まけそうに　なると　からだから　でる ひばなの　かずが　どんどん　ふえていくよ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 312,
+	"names": {
+		"ja": "マイナン",
+		"ko": "마이농",
+		"fr": "Négapi",
+		"de": "Minun",
+		"es": "Minun",
+		"it": "Minun",
+		"en": "Minun"
+	},
+	"descriptions": {
+		"en": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
+		"it": "Minun ama tenere alto il morale della squadra nella lotta, emanando scintille da tutto il corpo. Se la sua squadra è in difficoltà, emette una maggiore quantità di scintille.",
+		"es": "Minun empieza a echar chispas cuando está animando a su compañero en pleno combate. Si su compañero está en peligro, el chisporroteo aumenta su intensidad por momentos.",
+		"de": "Minun liebt es, seinen Partner im Kampf anzufeuern. Dabei sprüht es Funken aus seinem Körper. Wenn sein Partner in Schwierigkeiten gerät, sprüht es immer mehr Funken.",
+		"fr": "Négapi adore encourager son partenaire pendant les combats. Des étincelles jaillissent alors de son corps. Lorsque son partenaire est en difficulté, le corps de ce Pokémon libère encore plus d’étincelles.",
+		"ko": "동료를 응원하는 것을 매우 좋아하는 포켓몬이다. 동료가 질 것 같으면 몸에서 나오는 불꽃의 수가 점점 늘어난다.",
+		"ja": "なかまの　おうえんが　だいすきな　ポケモン。 なかまが　まけそうに　なると　からだから　でる ひばなの　かずが　どんどん　ふえていくよ。"
+	}
+}

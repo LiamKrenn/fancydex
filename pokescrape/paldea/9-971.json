@@ -1,0 +1,18 @@
+{
+	"color": { "name": "white", "url": "https://pokeapi.co/api/v2/pokemon-color/9/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 971,
+	"names": {
+		"ja": "ボチ",
+		"ko": "망망이",
+		"fr": "Toutombe",
+		"de": "Gruff",
+		"es": "Greavard",
+		"it": "Greavard",
+		"en": "Greavard"
+	},
+	"descriptions": {
+		"en": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+	}
+}

@@ -1,1 +1,24 @@
-{"color": {"name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/"}, "evolves_from_species": null, "generation": "johto", "id": 174, "names": {"ja": "ププリン", "ko": "푸푸린", "fr": "Toudoudou", "de": "Fluffeluff", "es": "Igglybuff", "it": "Igglybuff", "en": "Igglybuff"}, "descriptions": {"en": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.", "it": "Si sposta facendo rimbalzare il suo corpo morbido. Quando la sua temperatura corporea si alza, si colora di un rosa intenso.", "es": "Se desplaza dando botes con su cuerpo mullido. Cuando aumenta su temperatura corporal, se va poniendo de un color rosa cada vez más intenso.", "de": "Dank seines weichen Körpers bewegt es sich stets hüpfend fort. Wenn Fluffeluffs Temperatur steigt, ändert sich seine Farbe zu einem intensiven Pink.", "fr": "Il se déplace en faisant rebondir son corps tout mou. Lorsque sa température corporelle augmente, il devient rose foncé.", "ko": "부드러운 몸으로 통통 튀며 움직인다. 체온이 오르면 몸은 짙은 핑크색이 된다.", "ja": "やわらかい　からだで　はずむように うごきまわる。　たいおんが　あがると からだは　こい　ピンクいろに　なる。"}}
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "johto",
+	"id": 174,
+	"names": {
+		"ja": "ププリン",
+		"ko": "푸푸린",
+		"fr": "Toudoudou",
+		"de": "Fluffeluff",
+		"es": "Igglybuff",
+		"it": "Igglybuff",
+		"en": "Igglybuff"
+	},
+	"descriptions": {
+		"en": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.",
+		"it": "Si sposta facendo rimbalzare il suo corpo morbido. Quando la sua temperatura corporea si alza, si colora di un rosa intenso.",
+		"es": "Se desplaza dando botes con su cuerpo mullido. Cuando aumenta su temperatura corporal, se va poniendo de un color rosa cada vez más intenso.",
+		"de": "Dank seines weichen Körpers bewegt es sich stets hüpfend fort. Wenn Fluffeluffs Temperatur steigt, ändert sich seine Farbe zu einem intensiven Pink.",
+		"fr": "Il se déplace en faisant rebondir son corps tout mou. Lorsque sa température corporelle augmente, il devient rose foncé.",
+		"ko": "부드러운 몸으로 통통 튀며 움직인다. 체온이 오르면 몸은 짙은 핑크색이 된다.",
+		"ja": "やわらかい　からだで　はずむように うごきまわる。　たいおんが　あがると からだは　こい　ピンクいろに　なる。"
+	}
+}

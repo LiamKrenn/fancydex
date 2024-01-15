@@ -1,0 +1,18 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": { "name": "quaxwell" },
+	"generation": "paldea",
+	"id": 913,
+	"names": {
+		"ja": "ウェーニバル",
+		"ko": "웨이니발",
+		"fr": "Palmaval",
+		"de": "Bailonda",
+		"es": "Quaquaval",
+		"it": "Quaquaval",
+		"en": "Quaquaval"
+	},
+	"descriptions": {
+		"en": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+	}
+}

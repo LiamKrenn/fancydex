@@ -1,0 +1,18 @@
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": { "name": "rellor" },
+	"generation": "paldea",
+	"id": 953,
+	"names": {
+		"ja": "ベラカス",
+		"ko": "베라카스",
+		"fr": "Bérasca",
+		"de": "Skarabaks",
+		"es": "Rabsca",
+		"it": "Rabsca",
+		"en": "Rabsca"
+	},
+	"descriptions": {
+		"en": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+	}
+}

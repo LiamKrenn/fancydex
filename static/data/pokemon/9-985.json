@@ -1,0 +1,18 @@
+{
+	"color": { "name": "pink", "url": "https://pokeapi.co/api/v2/pokemon-color/6/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 985,
+	"names": {
+		"ja": "サケブシッポ",
+		"ko": "우렁찬꼬리",
+		"fr": "Hurle-Queue",
+		"de": "Brüllschweif",
+		"es": "Colagrito",
+		"it": "Codaurlante",
+		"en": "Scream Tail"
+	},
+	"descriptions": {
+		"en": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+	}
+}

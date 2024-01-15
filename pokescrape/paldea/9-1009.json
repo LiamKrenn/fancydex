@@ -1,0 +1,16 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1009,
+	"names": {
+		"ja": "ウネルミナモ",
+		"ko": "굽이치는물결",
+		"fr": "Serpente-Eau",
+		"de": "Windewoge",
+		"es": "Ondulagua",
+		"it": "Acquecrespe",
+		"en": "Walking Wake"
+	},
+	"descriptions": {}
+}

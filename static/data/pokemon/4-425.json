@@ -1,1 +1,24 @@
-{"color": {"name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 425, "names": {"ja": "フワンテ", "ko": "흔들풍손", "fr": "Baudrive", "de": "Driftlon", "es": "Drifloon", "it": "Drifloon", "en": "Drifloon"}, "descriptions": {"en": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.", "it": "È nato dall’aggregazione di diverse anime. Nelle stagioni umide possono apparirne numerosi esemplari.", "es": "Está formado por una aglomeración de espíritus. Suele aparecer en grandes números durante las estaciones húmedas.", "de": "Sie sind aus einer Ansammlung an Seelen entstanden. In feuchten Jahreszeiten erscheinen sie in rauen Mengen.", "fr": "Nés d’une concentration d’âmes, ces Pokémon peuvent apparaître en grand nombre les jours où le taux d’humidité est élevé.", "ko": "영혼들이 모여 탄생했다. 습기가 많은 계절에는 대량으로 나타나기도 한다.", "ja": "たましいが　あつまり　うまれた。 しっけの　おおい　きせつには たいりょうに　あらわれることも。"}}
+{
+	"color": { "name": "purple", "url": "https://pokeapi.co/api/v2/pokemon-color/7/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 425,
+	"names": {
+		"ja": "フワンテ",
+		"ko": "흔들풍손",
+		"fr": "Baudrive",
+		"de": "Driftlon",
+		"es": "Drifloon",
+		"it": "Drifloon",
+		"en": "Drifloon"
+	},
+	"descriptions": {
+		"en": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
+		"it": "È nato dall’aggregazione di diverse anime. Nelle stagioni umide possono apparirne numerosi esemplari.",
+		"es": "Está formado por una aglomeración de espíritus. Suele aparecer en grandes números durante las estaciones húmedas.",
+		"de": "Sie sind aus einer Ansammlung an Seelen entstanden. In feuchten Jahreszeiten erscheinen sie in rauen Mengen.",
+		"fr": "Nés d’une concentration d’âmes, ces Pokémon peuvent apparaître en grand nombre les jours où le taux d’humidité est élevé.",
+		"ko": "영혼들이 모여 탄생했다. 습기가 많은 계절에는 대량으로 나타나기도 한다.",
+		"ja": "たましいが　あつまり　うまれた。 しっけの　おおい　きせつには たいりょうに　あらわれることも。"
+	}
+}

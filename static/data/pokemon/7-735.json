@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": {"name": "yungoos"}, "generation": "alola", "id": 734, "names": {"ja": "デカグース", "ko": "형사구스", "fr": "Argouste", "de": "Manguspektor", "es": "Gumshoos", "it": "Gumshoos", "en": "Gumshoos"}, "descriptions": {"en": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!", "it": "È un Pokémon molto paziente, ma quando trova un Rattata, di cui va pazzo, perde il controllo e lo assale.", "es": "Tiene un carácter muy paciente, pero en cuanto avista un Rattata, su manjar predilecto, pierde el control y se lanza sobre él como un poseso.", "de": "Dieses Pokémon ist eigentlich sehr geduldig. Sieht es jedoch ein Rattfratz, seine Leibspeise, stürzt es sich völlig außer Kontrolle auf es.", "fr": "D’un naturel très patient, il ne peut toutefois s’empêcher de bondir sur son plat favori, Rattata, s’il en voit un.", "ko": "매우 인내심이 강한 성질이지만 좋아하는 꼬렛을 발견하면 이성을 잃고 덤벼든다.", "ja": "とても　がまんづよい　せいしつだが こうぶつの　コラッタを　みつけると われを　わすれて　とびかかるぞ。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "yungoos" },
+	"generation": "alola",
+	"id": 734,
+	"names": {
+		"ja": "デカグース",
+		"ko": "형사구스",
+		"fr": "Argouste",
+		"de": "Manguspektor",
+		"es": "Gumshoos",
+		"it": "Gumshoos",
+		"en": "Gumshoos"
+	},
+	"descriptions": {
+		"en": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
+		"it": "È un Pokémon molto paziente, ma quando trova un Rattata, di cui va pazzo, perde il controllo e lo assale.",
+		"es": "Tiene un carácter muy paciente, pero en cuanto avista un Rattata, su manjar predilecto, pierde el control y se lanza sobre él como un poseso.",
+		"de": "Dieses Pokémon ist eigentlich sehr geduldig. Sieht es jedoch ein Rattfratz, seine Leibspeise, stürzt es sich völlig außer Kontrolle auf es.",
+		"fr": "D’un naturel très patient, il ne peut toutefois s’empêcher de bondir sur son plat favori, Rattata, s’il en voit un.",
+		"ko": "매우 인내심이 강한 성질이지만 좋아하는 꼬렛을 발견하면 이성을 잃고 덤벼든다.",
+		"ja": "とても　がまんづよい　せいしつだが こうぶつの　コラッタを　みつけると われを　わすれて　とびかかるぞ。"
+	}
+}

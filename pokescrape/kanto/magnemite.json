@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "kanto", "id": 81, "names": {"ja": "コイル", "ko": "코일", "fr": "Magnéti", "de": "Magnetilo", "es": "Magnemite", "it": "Magnemite", "en": "Magnemite"}, "descriptions": {"en": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.", "it": "Vive cibandosi di elettricità. Fluttua in aria rilasciando onde elettromagnetiche dagli elementi laterali.", "es": "Se nutre de electricidad. Puede flotar en el aire gracias a las ondas electromagnéticas que emite a través de las unidades de sus extremidades.", "de": "Es ernährt sich von Strom und segelt durch die Luft, indem es mit den Magneten an seinem Körper elektromagnetische Wellen aussendet.", "fr": "Il se nourrit d’électricité et flotte dans les airs en libérant des ondes électromagnétiques avec les aimants situés de part et d’autre de son corps.", "ko": "전기를 먹으며 살아간다. 좌우의 유닛에서 전기자석파를 방사하며 하늘을 난다.", "ja": "でんきを　くって　いきている。 さゆうの　ユニットから　でんじはを ほうしゃ　しながら　そらを　とぶ。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "kanto",
+	"id": 81,
+	"names": {
+		"ja": "コイル",
+		"ko": "코일",
+		"fr": "Magnéti",
+		"de": "Magnetilo",
+		"es": "Magnemite",
+		"it": "Magnemite",
+		"en": "Magnemite"
+	},
+	"descriptions": {
+		"en": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
+		"it": "Vive cibandosi di elettricità. Fluttua in aria rilasciando onde elettromagnetiche dagli elementi laterali.",
+		"es": "Se nutre de electricidad. Puede flotar en el aire gracias a las ondas electromagnéticas que emite a través de las unidades de sus extremidades.",
+		"de": "Es ernährt sich von Strom und segelt durch die Luft, indem es mit den Magneten an seinem Körper elektromagnetische Wellen aussendet.",
+		"fr": "Il se nourrit d’électricité et flotte dans les airs en libérant des ondes électromagnétiques avec les aimants situés de part et d’autre de son corps.",
+		"ko": "전기를 먹으며 살아간다. 좌우의 유닛에서 전기자석파를 방사하며 하늘을 난다.",
+		"ja": "でんきを　くって　いきている。 さゆうの　ユニットから　でんじはを ほうしゃ　しながら　そらを　とぶ。"
+	}
+}

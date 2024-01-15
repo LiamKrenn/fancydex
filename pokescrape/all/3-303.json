@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": null, "generation": "hoenn", "id": 303, "names": {"ja": "クチート", "ko": "입치트", "fr": "Mysdibule", "de": "Flunkifer", "es": "Mawile", "it": "Mawile", "en": "Mawile"}, "descriptions": {"en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.", "it": "Le sue corna d’acciaio si sono trasformate in enormi mascelle, con cui morde i nemici.", "es": "Sus otrora cuernos de acero se han transformado en grandes fauces con las que muerde a sus enemigos.", "de": "Sein riesiger Kiefer hat sich aus stählernen Hörnern entwickelt. Mit ihm beißt es seine Gegner.", "fr": "Ses cornes d’acier forment une grande mâchoire avec laquelle il mord férocement ses adversaires.", "ko": "강철의 뿔이 변형되어 생긴 큰 턱으로 상대를 덥석 문다.", "ja": "はがねの　ツノが　へんけいして できた　おおきな　アゴで あいてに　がぶりと　かみつくのだ。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 303,
+	"names": {
+		"ja": "クチート",
+		"ko": "입치트",
+		"fr": "Mysdibule",
+		"de": "Flunkifer",
+		"es": "Mawile",
+		"it": "Mawile",
+		"en": "Mawile"
+	},
+	"descriptions": {
+		"en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+		"it": "Le sue corna d’acciaio si sono trasformate in enormi mascelle, con cui morde i nemici.",
+		"es": "Sus otrora cuernos de acero se han transformado en grandes fauces con las que muerde a sus enemigos.",
+		"de": "Sein riesiger Kiefer hat sich aus stählernen Hörnern entwickelt. Mit ihm beißt es seine Gegner.",
+		"fr": "Ses cornes d’acier forment une grande mâchoire avec laquelle il mord férocement ses adversaires.",
+		"ko": "강철의 뿔이 변형되어 생긴 큰 턱으로 상대를 덥석 문다.",
+		"ja": "はがねの　ツノが　へんけいして できた　おおきな　アゴで あいてに　がぶりと　かみつくのだ。"
+	}
+}

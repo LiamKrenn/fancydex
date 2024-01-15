@@ -1,1 +1,24 @@
-{"color": {"name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/"}, "evolves_from_species": {"name": "shuppet"}, "generation": "hoenn", "id": 353, "names": {"ja": "ジュペッタ", "ko": "다크펫", "fr": "Branette", "de": "Banette", "es": "Banette", "it": "Banette", "en": "Banette"}, "descriptions": {"en": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.", "it": "È stato generato dalla rabbia per essere stato buttato via. Si dice che se ci si prende cura di lui, tornerà a essere il peluche di un tempo.", "es": "El rencor de haber sido tirado a la basura fue lo que le dio vida. Se dice que puede convertirse de nuevo en muñeco si se le trata con cariño.", "de": "Geboren aus Hass, weil es weggeworfen wurde, soll es sich wieder in eine Plüschpuppe zurückverwandeln, wenn es sich geliebt fühlt.", "fr": "Il est né de la rancune qu’il a ressentie quand il a été abandonné. Il redevient apparemment une poupée si l’on en prend grand soin.", "ko": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다.", "ja": "すてられた　おんねんで　うまれる。 たいせつに　されると　まんぞくして もとの　ヌイグルミに　もどるという。"}}
+{
+	"color": { "name": "black", "url": "https://pokeapi.co/api/v2/pokemon-color/1/" },
+	"evolves_from_species": { "name": "shuppet" },
+	"generation": "hoenn",
+	"id": 353,
+	"names": {
+		"ja": "ジュペッタ",
+		"ko": "다크펫",
+		"fr": "Branette",
+		"de": "Banette",
+		"es": "Banette",
+		"it": "Banette",
+		"en": "Banette"
+	},
+	"descriptions": {
+		"en": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+		"it": "È stato generato dalla rabbia per essere stato buttato via. Si dice che se ci si prende cura di lui, tornerà a essere il peluche di un tempo.",
+		"es": "El rencor de haber sido tirado a la basura fue lo que le dio vida. Se dice que puede convertirse de nuevo en muñeco si se le trata con cariño.",
+		"de": "Geboren aus Hass, weil es weggeworfen wurde, soll es sich wieder in eine Plüschpuppe zurückverwandeln, wenn es sich geliebt fühlt.",
+		"fr": "Il est né de la rancune qu’il a ressentie quand il a été abandonné. Il redevient apparemment une poupée si l’on en prend grand soin.",
+		"ko": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다.",
+		"ja": "すてられた　おんねんで　うまれる。 たいせつに　されると　まんぞくして もとの　ヌイグルミに　もどるという。"
+	}
+}

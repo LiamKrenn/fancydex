@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": {"name": "burmy"}, "generation": "sinnoh", "id": 412, "names": {"ja": "ガーメイル", "ko": "나메일", "fr": "Papilord", "de": "Moterpel", "es": "Mothim", "it": "Mothim", "en": "Mothim"}, "descriptions": {"en": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.", "it": "Vola qua e là di notte per derubare i Combee del loro nettare mentre dormono, e poi fuggire.", "es": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.", "de": "Nachts fliegt es emsig umher und stiehlt, während Wadribie schläft, Honig aus dessen Nest.", "fr": "Ce Pokémon s’active à la nuit tombée pour voler le miel des Apitrini pendant leur sommeil.", "ko": "한밤중에 활발하게 날아다니며 잠든 세꿀버리의 둥지에서 꿀을 훔쳐 달아난다.", "ja": "よなか　かっぱつに　とびまわり ねむっている　ミツハニーの　す　から ミツを　うばって　にげる。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": { "name": "burmy" },
+	"generation": "sinnoh",
+	"id": 412,
+	"names": {
+		"ja": "ガーメイル",
+		"ko": "나메일",
+		"fr": "Papilord",
+		"de": "Moterpel",
+		"es": "Mothim",
+		"it": "Mothim",
+		"en": "Mothim"
+	},
+	"descriptions": {
+		"en": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.",
+		"it": "Vola qua e là di notte per derubare i Combee del loro nettare mentre dormono, e poi fuggire.",
+		"es": "Hace vida nocturna. Revolotea y roba la miel de las colmenas de Combee cuando duermen.",
+		"de": "Nachts fliegt es emsig umher und stiehlt, während Wadribie schläft, Honig aus dessen Nest.",
+		"fr": "Ce Pokémon s’active à la nuit tombée pour voler le miel des Apitrini pendant leur sommeil.",
+		"ko": "한밤중에 활발하게 날아다니며 잠든 세꿀버리의 둥지에서 꿀을 훔쳐 달아난다.",
+		"ja": "よなか　かっぱつに　とびまわり ねむっている　ミツハニーの　す　から ミツを　うばって　にげる。"
+	}
+}

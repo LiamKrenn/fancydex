@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": { "name": "nacli" },
+	"generation": "paldea",
+	"id": 932,
+	"names": {
+		"ja": "ジオヅム",
+		"ko": "스태솔트",
+		"fr": "Amassel",
+		"de": "Sedisal",
+		"es": "Naclstack",
+		"it": "Naclstack",
+		"en": "Naclstack"
+	},
+	"descriptions": {
+		"en": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+	}
+}

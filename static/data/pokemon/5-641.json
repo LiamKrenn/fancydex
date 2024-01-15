@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "unova", "id": 641, "names": {"ja": "トルネロス", "ko": "토네로스", "fr": "Boréas", "de": "Boreos", "es": "Tornadus", "it": "Tornadus", "en": "Tornadus"}, "descriptions": {"en": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.", "it": "L’energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case.", "es": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.", "de": "Mit der Energie aus seiner Rute erzeugt es wilde Stürme, die stark genug sind, um ganze Wohnhäuser davonzuwehen.", "fr": "L’énergie dégagée par sa queue provoque d’énormes tempêtes dont la force peut renverser des maisons.", "ko": "토네로스의 꼬리에서 뿜어져 나온 에너지가 큰 폭풍을 일으킨다. 민가를 날려버릴 정도의 힘이다.", "ja": "トルネロスの　しっぽから　ふきだした エネルギーが　おおあらしを　おこす。 みんかを　ふきとばす　パワー。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 641,
+	"names": {
+		"ja": "トルネロス",
+		"ko": "토네로스",
+		"fr": "Boréas",
+		"de": "Boreos",
+		"es": "Tornadus",
+		"it": "Tornadus",
+		"en": "Tornadus"
+	},
+	"descriptions": {
+		"en": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
+		"it": "L’energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case.",
+		"es": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.",
+		"de": "Mit der Energie aus seiner Rute erzeugt es wilde Stürme, die stark genug sind, um ganze Wohnhäuser davonzuwehen.",
+		"fr": "L’énergie dégagée par sa queue provoque d’énormes tempêtes dont la force peut renverser des maisons.",
+		"ko": "토네로스의 꼬리에서 뿜어져 나온 에너지가 큰 폭풍을 일으킨다. 민가를 날려버릴 정도의 힘이다.",
+		"ja": "トルネロスの　しっぽから　ふきだした エネルギーが　おおあらしを　おこす。 みんかを　ふきとばす　パワー。"
+	}
+}

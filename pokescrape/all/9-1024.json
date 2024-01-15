@@ -1,0 +1,16 @@
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 1024,
+	"names": {
+		"ja": "テラパゴス",
+		"ko": "테라파고스",
+		"fr": "Terapagos",
+		"de": "Terapagos",
+		"es": "Terapagos",
+		"it": "Terapagos",
+		"en": "Terapagos"
+	},
+	"descriptions": {}
+}

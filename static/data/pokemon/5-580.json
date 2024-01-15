@@ -1,1 +1,24 @@
-{"color": {"name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/"}, "evolves_from_species": null, "generation": "unova", "id": 580, "names": {"ja": "コアルヒー", "ko": "꼬지보리", "fr": "Couaneton", "de": "Piccolente", "es": "Ducklett", "it": "Ducklett", "en": "Ducklett"}, "descriptions": {"en": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.", "it": "È più ferrato nel nuoto che nel volo. Si immerge nell’acqua per mangiare i licheni marini di cui va matto.", "es": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.", "de": "Es schwimmt besser, als es fliegen kann. Am liebsten taucht es ins kühle Nass ab, um Torfmoos, seine Leibspeise, zu essen.", "fr": "Un Pokémon doué pour la plongée qui passe son temps sous l’eau à chercher des sphaignes, son plat préféré.", "ko": "나는 것보다 헤엄치는 것이 특기로 수중에 잠수해서는 제일 좋아하는 물이끼를 기쁘게 먹는다.", "ja": "とぶよりも　およぐのが　とくいで すいちゅうに　もぐっては　だいすきな みずゴケを　うれしそうに　たべる。"}}
+{
+	"color": { "name": "blue", "url": "https://pokeapi.co/api/v2/pokemon-color/2/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 580,
+	"names": {
+		"ja": "コアルヒー",
+		"ko": "꼬지보리",
+		"fr": "Couaneton",
+		"de": "Piccolente",
+		"es": "Ducklett",
+		"it": "Ducklett",
+		"en": "Ducklett"
+	},
+	"descriptions": {
+		"en": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+		"it": "È più ferrato nel nuoto che nel volo. Si immerge nell’acqua per mangiare i licheni marini di cui va matto.",
+		"es": "Nada a mayor velocidad de la que puede volar. Se sumerge en el agua para buscar musgo acuático, su comida favorita.",
+		"de": "Es schwimmt besser, als es fliegen kann. Am liebsten taucht es ins kühle Nass ab, um Torfmoos, seine Leibspeise, zu essen.",
+		"fr": "Un Pokémon doué pour la plongée qui passe son temps sous l’eau à chercher des sphaignes, son plat préféré.",
+		"ko": "나는 것보다 헤엄치는 것이 특기로 수중에 잠수해서는 제일 좋아하는 물이끼를 기쁘게 먹는다.",
+		"ja": "とぶよりも　およぐのが　とくいで すいちゅうに　もぐっては　だいすきな みずゴケを　うれしそうに　たべる。"
+	}
+}

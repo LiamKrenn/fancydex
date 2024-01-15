@@ -1,0 +1,18 @@
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "paldea",
+	"id": 946,
+	"names": {
+		"ja": "アノクサ",
+		"ko": "그푸리",
+		"fr": "Virovent",
+		"de": "Weherba",
+		"es": "Bramblin",
+		"it": "Bramblin",
+		"en": "Bramblin"
+	},
+	"descriptions": {
+		"en": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+	}
+}

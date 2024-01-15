@@ -1,1 +1,24 @@
-{"color": {"name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/"}, "evolves_from_species": null, "generation": "hoenn", "id": 263, "names": {"ja": "ジグザグマ", "ko": "지그제구리", "fr": "Zigzaton", "de": "Zigzachs", "es": "Zigzagoon", "it": "Zigzagoon", "en": "Zigzagoon"}, "descriptions": {"en": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.", "it": "Lo Zigzagoon di Galar ha assunto questo aspetto negli altri territori in cui si è diffuso. Ritrovare gli oggetti smarriti è la sua specialità.", "es": "El Zigzagoon de Galar desarrolló este aspecto tras adaptarse a otras regiones. Muestra una gran habilidad a la hora de encontrar cosas.", "de": "Diese Form nahmen die Zigzachs Galars an, um sich an andere Regionen anzupassen. Sie haben ein Talent dafür, Dinge aufzuspüren.", "fr": "Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.", "ko": "가라르의 지그제구리가 다른 지역에 적응한 모습이다. 물건을 찾는 게 특기다.", "ja": "ガラルの　ジグザグマが　ほかの ちいきに　てきおうした　すがた。 さがしものを　みつけるのが　とくい。"}}
+{
+	"color": { "name": "brown", "url": "https://pokeapi.co/api/v2/pokemon-color/3/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 263,
+	"names": {
+		"ja": "ジグザグマ",
+		"ko": "지그제구리",
+		"fr": "Zigzaton",
+		"de": "Zigzachs",
+		"es": "Zigzagoon",
+		"it": "Zigzagoon",
+		"en": "Zigzagoon"
+	},
+	"descriptions": {
+		"en": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.",
+		"it": "Lo Zigzagoon di Galar ha assunto questo aspetto negli altri territori in cui si è diffuso. Ritrovare gli oggetti smarriti è la sua specialità.",
+		"es": "El Zigzagoon de Galar desarrolló este aspecto tras adaptarse a otras regiones. Muestra una gran habilidad a la hora de encontrar cosas.",
+		"de": "Diese Form nahmen die Zigzachs Galars an, um sich an andere Regionen anzupassen. Sie haben ein Talent dafür, Dinge aufzuspüren.",
+		"fr": "Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.",
+		"ko": "가라르의 지그제구리가 다른 지역에 적응한 모습이다. 물건을 찾는 게 특기다.",
+		"ja": "ガラルの　ジグザグマが　ほかの ちいきに　てきおうした　すがた。 さがしものを　みつけるのが　とくい。"
+	}
+}

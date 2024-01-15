@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": {"name": "machoke"}, "generation": "kanto", "id": 67, "names": {"ja": "カイリキー", "ko": "괴력몬", "fr": "Mackogneur", "de": "Machomei", "es": "Machamp", "it": "Machamp", "en": "Machamp"}, "descriptions": {"en": "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists.", "it": "Muove le sue quattro braccia per riflesso prima ancora di rendersene conto, sferrando pugni a raffica.", "es": "Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.", "de": "Seine vier Arme reagieren schneller, als es denken kann. Daher ist es in der Lage, unzählige Schläge reflexartig auszuführen.", "fr": "Il enchaîne les coups de poing avec ses quatre bras à une vitesse surprenante.", "ko": "4개의 팔은 생각하는 것보다 빠르게 반사적으로 움직이며 여러 발의 펀치를 날린다.", "ja": "４ほんの　うでは　かんがえるより はやく　はんしゃてきに　うごき なんぱつもの　パンチを　くりだせる。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "machoke" },
+	"generation": "kanto",
+	"id": 67,
+	"names": {
+		"ja": "カイリキー",
+		"ko": "괴력몬",
+		"fr": "Mackogneur",
+		"de": "Machomei",
+		"es": "Machamp",
+		"it": "Machamp",
+		"en": "Machamp"
+	},
+	"descriptions": {
+		"en": "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists.",
+		"it": "Muove le sue quattro braccia per riflesso prima ancora di rendersene conto, sferrando pugni a raffica.",
+		"es": "Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.",
+		"de": "Seine vier Arme reagieren schneller, als es denken kann. Daher ist es in der Lage, unzählige Schläge reflexartig auszuführen.",
+		"fr": "Il enchaîne les coups de poing avec ses quatre bras à une vitesse surprenante.",
+		"ko": "4개의 팔은 생각하는 것보다 빠르게 반사적으로 움직이며 여러 발의 펀치를 날린다.",
+		"ja": "４ほんの　うでは　かんがえるより はやく　はんしゃてきに　うごき なんぱつもの　パンチを　くりだせる。"
+	}
+}

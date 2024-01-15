@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "alola", "id": 764, "names": {"ja": "キュワワー", "ko": "큐아링", "fr": "Guérilande", "de": "Curelei", "es": "Comfey", "it": "Comfey", "en": "Comfey"}, "descriptions": {"en": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.", "it": "Questo Pokémon emette un profumo davvero delizioso. Ogni esemplare ha una fragranza diversa a seconda dei fiori che ha addosso.", "es": "Este Pokémon libera una agradable fragancia, que varía de individuo a individuo debido a que cada uno se engalana con flores diferentes.", "de": "Dieses Pokémon riecht äußerst angenehm. Da jedes Curelei andere Blumen trägt, unterscheiden sie sich in ihrem Duft.", "fr": "Ce Pokémon dégage un parfum agréable qui varie d’un spécimen à l’autre, car chaque Guérilande s’habille de fleurs différentes.", "ko": "매우 좋은 향기가 나는 포켓몬이다. 몸에 붙이는 꽃이 달라서 큐아링마다 향이 다르다", "ja": "とても　よいかおりがする　ポケモン。 みにつける　はなが　ちがうので キュワワーごとに　かおりは　ちがう。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "alola",
+	"id": 764,
+	"names": {
+		"ja": "キュワワー",
+		"ko": "큐아링",
+		"fr": "Guérilande",
+		"de": "Curelei",
+		"es": "Comfey",
+		"it": "Comfey",
+		"en": "Comfey"
+	},
+	"descriptions": {
+		"en": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent.",
+		"it": "Questo Pokémon emette un profumo davvero delizioso. Ogni esemplare ha una fragranza diversa a seconda dei fiori che ha addosso.",
+		"es": "Este Pokémon libera una agradable fragancia, que varía de individuo a individuo debido a que cada uno se engalana con flores diferentes.",
+		"de": "Dieses Pokémon riecht äußerst angenehm. Da jedes Curelei andere Blumen trägt, unterscheiden sie sich in ihrem Duft.",
+		"fr": "Ce Pokémon dégage un parfum agréable qui varie d’un spécimen à l’autre, car chaque Guérilande s’habille de fleurs différentes.",
+		"ko": "매우 좋은 향기가 나는 포켓몬이다. 몸에 붙이는 꽃이 달라서 큐아링마다 향이 다르다",
+		"ja": "とても　よいかおりがする　ポケモン。 みにつける　はなが　ちがうので キュワワーごとに　かおりは　ちがう。"
+	}
+}

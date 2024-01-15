@@ -1,1 +1,24 @@
-{"color": {"name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/"}, "evolves_from_species": null, "generation": "hoenn", "id": 313, "names": {"ja": "バルビート", "ko": "볼비트", "fr": "Muciole", "de": "Volbeat", "es": "Volbeat", "it": "Volbeat", "en": "Volbeat"}, "descriptions": {"en": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.", "it": "La coda di Volbeat si illumina come una lampadina. Assieme ai suoi simili usa la coda per tracciare figure geometriche nel cielo notturno. Questo Pokémon ama il dolce aroma emanato da Illumise.", "es": "La cola de Volbeat brilla como una bombilla. Ante otro de su grupo, la usa para dibujar formas geométricas en la oscuridad del cielo por la noche. Este Pokémon adora el dulce aroma que desprende Illumise.", "de": "Volbeats Schweif leuchtet wie eine Glühbirne. Zusammen mit anderen Volbeat malt es mit seinem Schweif geometrische Figuren an den Nachthimmel. Dieses Pokémon liebt den von Illumise verströmten Duft.", "fr": "La queue de Muciole éclaire comme une ampoule. Ensemble, les Muciole dessinent des figures géométriques dans la nuit étoilée. Ce Pokémon adore le parfum dégagé par Lumivole.", "ko": "꼬리의 불빛을 사용하여 단체로 밤하늘에 기하학적인 도형을 그린다. 네오비트가 내는 달콤한 향기를 매우 좋아한다.", "ja": "しっぽの　あかりを　つかって　しゅうだんで よぞらに　きかがくてきな　ずけいを　えがく。 イルミーゼの　だす　あまい　かおりが　だいすき。"}}
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": null,
+	"generation": "hoenn",
+	"id": 313,
+	"names": {
+		"ja": "バルビート",
+		"ko": "볼비트",
+		"fr": "Muciole",
+		"de": "Volbeat",
+		"es": "Volbeat",
+		"it": "Volbeat",
+		"en": "Volbeat"
+	},
+	"descriptions": {
+		"en": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+		"it": "La coda di Volbeat si illumina come una lampadina. Assieme ai suoi simili usa la coda per tracciare figure geometriche nel cielo notturno. Questo Pokémon ama il dolce aroma emanato da Illumise.",
+		"es": "La cola de Volbeat brilla como una bombilla. Ante otro de su grupo, la usa para dibujar formas geométricas en la oscuridad del cielo por la noche. Este Pokémon adora el dulce aroma que desprende Illumise.",
+		"de": "Volbeats Schweif leuchtet wie eine Glühbirne. Zusammen mit anderen Volbeat malt es mit seinem Schweif geometrische Figuren an den Nachthimmel. Dieses Pokémon liebt den von Illumise verströmten Duft.",
+		"fr": "La queue de Muciole éclaire comme une ampoule. Ensemble, les Muciole dessinent des figures géométriques dans la nuit étoilée. Ce Pokémon adore le parfum dégagé par Lumivole.",
+		"ko": "꼬리의 불빛을 사용하여 단체로 밤하늘에 기하학적인 도형을 그린다. 네오비트가 내는 달콤한 향기를 매우 좋아한다.",
+		"ja": "しっぽの　あかりを　つかって　しゅうだんで よぞらに　きかがくてきな　ずけいを　えがく。 イルミーゼの　だす　あまい　かおりが　だいすき。"
+	}
+}

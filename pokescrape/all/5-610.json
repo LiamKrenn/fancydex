@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "unova", "id": 610, "names": {"ja": "キバゴ", "ko": "터검니", "fr": "Coupenotte", "de": "Milza", "es": "Axew", "it": "Axew", "en": "Axew"}, "descriptions": {"en": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.", "it": "Giocano tra di loro facendo cozzare le zanne. Se si spezzano non è un problema, perché ricrescono subito.", "es": "Juega con sus congéneres chocando sus enormes colmillos con la tranquilidad de saber que, si se le rompen, se regenerarán enseguida.", "de": "Sie rammen sich spielerisch mit ihren Fangzähnen. Brechen diese ab, wachsen sie sofort nach.", "fr": "Il joue avec ses congénères à se donner de grands coups de crocs. Peu importe s’ils se cassent : ils repousseront aussitôt.", "ko": "커다란 어금니를 부딪치며 동료와 장난친다. 어금니는 부러져도 바로 자라나서 걱정 없다.", "ja": "おおきな　キバを　うちつけ　なかまと じゃれあう。　キバは　おれても すぐ　はえてくるから　へっちゃらだ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 610,
+	"names": {
+		"ja": "キバゴ",
+		"ko": "터검니",
+		"fr": "Coupenotte",
+		"de": "Milza",
+		"es": "Axew",
+		"it": "Axew",
+		"en": "Axew"
+	},
+	"descriptions": {
+		"en": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.",
+		"it": "Giocano tra di loro facendo cozzare le zanne. Se si spezzano non è un problema, perché ricrescono subito.",
+		"es": "Juega con sus congéneres chocando sus enormes colmillos con la tranquilidad de saber que, si se le rompen, se regenerarán enseguida.",
+		"de": "Sie rammen sich spielerisch mit ihren Fangzähnen. Brechen diese ab, wachsen sie sofort nach.",
+		"fr": "Il joue avec ses congénères à se donner de grands coups de crocs. Peu importe s’ils se cassent : ils repousseront aussitôt.",
+		"ko": "커다란 어금니를 부딪치며 동료와 장난친다. 어금니는 부러져도 바로 자라나서 걱정 없다.",
+		"ja": "おおきな　キバを　うちつけ　なかまと じゃれあう。　キバは　おれても すぐ　はえてくるから　へっちゃらだ。"
+	}
+}

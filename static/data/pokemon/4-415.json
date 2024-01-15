@@ -1,1 +1,24 @@
-{"color": {"name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/"}, "evolves_from_species": null, "generation": "sinnoh", "id": 415, "names": {"ja": "ミツハニー", "ko": "세꿀버리", "fr": "Apitrini", "de": "Wadribie", "es": "Combee", "it": "Combee", "en": "Combee"}, "descriptions": {"en": "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey.", "it": "Raccoglie nettare dal tramonto all’alba per il bene del gruppo e di Vespiquen.", "es": "Recolecta néctar de sol a sol para entregarlo a la colonia y a Vespiquen.", "de": "Sie sammeln von der Morgendämmerung bis zum Sonnenuntergang unentwegt Blütenhonig für Honweisel und die Kolonie.", "fr": "Du lever du soleil à la tombée de la nuit, il récolte du nectar pour Apireine et sa colonie.", "ko": "새벽부터 저녁때까지 꿀을 계속 모은다. 모든 것은 무리와 비퀸을 위해서다.", "ja": "よあけから　ひぐれまで　ミツを あつめつづける。　すべては むれと　ビークインの　ためだ。"}}
+{
+	"color": { "name": "yellow", "url": "https://pokeapi.co/api/v2/pokemon-color/10/" },
+	"evolves_from_species": null,
+	"generation": "sinnoh",
+	"id": 415,
+	"names": {
+		"ja": "ミツハニー",
+		"ko": "세꿀버리",
+		"fr": "Apitrini",
+		"de": "Wadribie",
+		"es": "Combee",
+		"it": "Combee",
+		"en": "Combee"
+	},
+	"descriptions": {
+		"en": "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey.",
+		"it": "Raccoglie nettare dal tramonto all’alba per il bene del gruppo e di Vespiquen.",
+		"es": "Recolecta néctar de sol a sol para entregarlo a la colonia y a Vespiquen.",
+		"de": "Sie sammeln von der Morgendämmerung bis zum Sonnenuntergang unentwegt Blütenhonig für Honweisel und die Kolonie.",
+		"fr": "Du lever du soleil à la tombée de la nuit, il récolte du nectar pour Apireine et sa colonie.",
+		"ko": "새벽부터 저녁때까지 꿀을 계속 모은다. 모든 것은 무리와 비퀸을 위해서다.",
+		"ja": "よあけから　ひぐれまで　ミツを あつめつづける。　すべては むれと　ビークインの　ためだ。"
+	}
+}

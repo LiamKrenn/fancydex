@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "unova", "id": 511, "names": {"ja": "ヤナップ", "ko": "야나프", "fr": "Feuillajou", "de": "Vegimak", "es": "Pansage", "it": "Pansage", "en": "Pansage"}, "descriptions": {"en": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.", "it": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle.", "es": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.", "de": "Ein nettes Kerlchen, das so talentiert darin ist, Beeren aufzuspüren, dass es sie mit all seinen Kameraden teilt.", "fr": "Il est très doué pour trouver des Baies et aime les partager avec ses amis sans rien demander en échange.", "ko": "나무열매를 잘 찾아 여기저기에서 모아 동료에게 나누어 주는 상냥함을 가졌다.", "ja": "きのみを　さがすのが　じょうずで あちこちで　あつめて　なかまに わけあたえる　やさしさを　もつ。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 511,
+	"names": {
+		"ja": "ヤナップ",
+		"ko": "야나프",
+		"fr": "Feuillajou",
+		"de": "Vegimak",
+		"es": "Pansage",
+		"it": "Pansage",
+		"en": "Pansage"
+	},
+	"descriptions": {
+		"en": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
+		"it": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle.",
+		"es": "Es todo un experto en la búsqueda de bayas y es tan gentil que las comparte con todos sus compañeros.",
+		"de": "Ein nettes Kerlchen, das so talentiert darin ist, Beeren aufzuspüren, dass es sie mit all seinen Kameraden teilt.",
+		"fr": "Il est très doué pour trouver des Baies et aime les partager avec ses amis sans rien demander en échange.",
+		"ko": "나무열매를 잘 찾아 여기저기에서 모아 동료에게 나누어 주는 상냥함을 가졌다.",
+		"ja": "きのみを　さがすのが　じょうずで あちこちで　あつめて　なかまに わけあたえる　やさしさを　もつ。"
+	}
+}

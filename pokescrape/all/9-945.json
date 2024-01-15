@@ -1,0 +1,18 @@
+{
+	"color": { "name": "gray", "url": "https://pokeapi.co/api/v2/pokemon-color/4/" },
+	"evolves_from_species": { "name": "shroodle" },
+	"generation": "paldea",
+	"id": 944,
+	"names": {
+		"ja": "タギングル",
+		"ko": "태깅구르",
+		"fr": "Tag-Tag",
+		"de": "Affiti",
+		"es": "Grafaiai",
+		"it": "Grafaiai",
+		"en": "Grafaiai"
+	},
+	"descriptions": {
+		"en": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+	}
+}

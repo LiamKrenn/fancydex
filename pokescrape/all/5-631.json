@@ -1,1 +1,24 @@
-{"color": {"name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/"}, "evolves_from_species": null, "generation": "unova", "id": 631, "names": {"ja": "クイタラン", "ko": "앤티골", "fr": "Aflamanoir", "de": "Furnifraß", "es": "Heatmor", "it": "Heatmor", "en": "Heatmor"}, "descriptions": {"en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.", "it": "Usa la fiamma a mo’ di lingua. Liquefà il duro esoscheletro dei Durant e poi ne fa un sol boccone.", "es": "Usa llamas a modo de lengua para derretir el duro exoesqueleto de los Durant antes de devorarlos.", "de": "Es nutzt eine Flamme als Zunge. Damit bringt es die Panzer von Fermicula zum Schmelzen und verspeist im Anschluss ihr Inneres.", "fr": "Il se sert de sa flamme comme d’une langue. Il fait fondre peu à peu l’exosquelette des Fermite pour se délecter de leur chair.", "ko": "불꽃을 혀처럼 사용한다. 아이앤트의 단단한 외골격을 조금씩 녹여 먹어 치운다.", "ja": "ほのおを　ベロの　ように　つかう。 アイアントの　かたい　がいこっかくを じわじわと　とかし　いただくのだ。"}}
+{
+	"color": { "name": "red", "url": "https://pokeapi.co/api/v2/pokemon-color/8/" },
+	"evolves_from_species": null,
+	"generation": "unova",
+	"id": 631,
+	"names": {
+		"ja": "クイタラン",
+		"ko": "앤티골",
+		"fr": "Aflamanoir",
+		"de": "Furnifraß",
+		"es": "Heatmor",
+		"it": "Heatmor",
+		"en": "Heatmor"
+	},
+	"descriptions": {
+		"en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+		"it": "Usa la fiamma a mo’ di lingua. Liquefà il duro esoscheletro dei Durant e poi ne fa un sol boccone.",
+		"es": "Usa llamas a modo de lengua para derretir el duro exoesqueleto de los Durant antes de devorarlos.",
+		"de": "Es nutzt eine Flamme als Zunge. Damit bringt es die Panzer von Fermicula zum Schmelzen und verspeist im Anschluss ihr Inneres.",
+		"fr": "Il se sert de sa flamme comme d’une langue. Il fait fondre peu à peu l’exosquelette des Fermite pour se délecter de leur chair.",
+		"ko": "불꽃을 혀처럼 사용한다. 아이앤트의 단단한 외골격을 조금씩 녹여 먹어 치운다.",
+		"ja": "ほのおを　ベロの　ように　つかう。 アイアントの　かたい　がいこっかくを じわじわと　とかし　いただくのだ。"
+	}
+}

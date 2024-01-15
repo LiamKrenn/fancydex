@@ -1,1 +1,24 @@
-{"color": {"name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/"}, "evolves_from_species": null, "generation": "galar", "id": 843, "names": {"ja": "スナヘビ", "ko": "모래뱀", "fr": "Dunaja", "de": "Salanga", "es": "Silicobra", "it": "Silicobra", "en": "Silicobra"}, "descriptions": {"en": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.", "it": "Espelle sabbia dalle narici accecando il nemico per distrarlo e ne approfitta per nascondersi sottoterra.", "es": "Expulsa arena por los orificios nasales. Una vez que aturde al enemigo, aprovecha la ocasión para ocultarse bajo tierra.", "de": "Aus seinen Nasenlöchern verschießt es Sand. Sobald der Feind dadurch nichts mehr sieht, versteckt es sich flugs unter der Erde.", "fr": "En expulsant du sable par les narines, il aveugle son adversaire et en profite pour se cacher sous terre.", "ko": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.", "ja": "はなの　あなから　すなを　ふんしゃ。 てきの　めを　くらました　すきに ちちゅうに　もぐって　みを　かくす。"}}
+{
+	"color": { "name": "green", "url": "https://pokeapi.co/api/v2/pokemon-color/5/" },
+	"evolves_from_species": null,
+	"generation": "galar",
+	"id": 843,
+	"names": {
+		"ja": "スナヘビ",
+		"ko": "모래뱀",
+		"fr": "Dunaja",
+		"de": "Salanga",
+		"es": "Silicobra",
+		"it": "Silicobra",
+		"en": "Silicobra"
+	},
+	"descriptions": {
+		"en": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
+		"it": "Espelle sabbia dalle narici accecando il nemico per distrarlo e ne approfitta per nascondersi sottoterra.",
+		"es": "Expulsa arena por los orificios nasales. Una vez que aturde al enemigo, aprovecha la ocasión para ocultarse bajo tierra.",
+		"de": "Aus seinen Nasenlöchern verschießt es Sand. Sobald der Feind dadurch nichts mehr sieht, versteckt es sich flugs unter der Erde.",
+		"fr": "En expulsant du sable par les narines, il aveugle son adversaire et en profite pour se cacher sous terre.",
+		"ko": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.",
+		"ja": "はなの　あなから　すなを　ふんしゃ。 てきの　めを　くらました　すきに ちちゅうに　もぐって　みを　かくす。"
+	}
+}
