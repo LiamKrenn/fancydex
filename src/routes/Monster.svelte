@@ -21,12 +21,12 @@
 </script>
 
 {#if mon == null || mon['names'][language].toLowerCase().includes(searchString)}
-	<div
-		role="button"
+	<button
 		tabindex="0"
 		class="card card-hover cursor-pointer select-none flex flex-col items-center relative
 			 sm:m-1 sm:w-40 sm:h-[13rem]
 			 m-0.5 w-24 h-[7.7rem]"
+		on:click
 		use:inview={{}}
 		on:inview_enter={() => {
 			if (mon == null) {
@@ -34,7 +34,9 @@
 			}
 		}}
 	>
-		<div class="relative top-1 left-0 text-surface-600-300-token w-20 sm:w-36 sm:text-xl text-sm">
+		<div
+			class="relative top-0 left-0 text-surface-600-300-token w-full text-left pt-1 pl-2 sm:text-xl text-sm"
+		>
 			#{id}
 		</div>
 		{#if !mon}
@@ -64,5 +66,5 @@
 				{mon.names[language]}
 			{/if}
 		</div>
-	</div>
+	</button>
 {/if}
