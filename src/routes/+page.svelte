@@ -23,7 +23,7 @@
 
 	import { langs } from './langs';
 
-  const modalStore = getModalStore();
+	const modalStore = getModalStore();
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';

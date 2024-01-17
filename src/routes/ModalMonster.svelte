@@ -2,7 +2,7 @@
 	import { getModalStore } from '@skeletonlabs/skeleton';
 	import { langs } from './langs';
 
-  const modalStore = getModalStore();
+	const modalStore = getModalStore();
 	const id: number = $modalStore[0].meta?.id;
 
 	const lang: string = $modalStore[0].meta?.lan;
