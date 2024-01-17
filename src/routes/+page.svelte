@@ -1,14 +1,10 @@
 <script lang="ts">
-	import '../theme.postcss';
-	import '@skeletonlabs/skeleton/styles/skeleton.css';
-	import '../app.postcss';
 	import {
 		AppShell,
 		AppBar,
 		LightSwitch,
 		type ModalSettings,
-		modalStore,
-		Modal
+		getModalStore
 	} from '@skeletonlabs/skeleton';
 
 	import { computePosition, autoUpdate, offset, shift, flip, arrow } from '@floating-ui/dom';
@@ -26,6 +22,8 @@
 	inject({ mode: dev ? 'development' : 'production' });
 
 	import { langs } from './langs';
+
+  const modalStore = getModalStore();
 
 	$: lang = $page.url.searchParams.get('lang') || 'en';
 	$: genId = $page.url.searchParams.get('gen-id') || '0';
@@ -67,11 +65,11 @@
 	};
 </script>
 
+<title>Fancydex</title>
 <svelte:head>
 	<meta name="description" property="description" content="Fancydex" />
 </svelte:head>
 
-<Modal />
 <!-- App Shell -->
 <AppShell>
 	<svelte:fragment slot="header">
@@ -121,7 +119,7 @@
 			{/each}
 		</div>
 	{:else}
-		<div class="container h-full mx-auto flex justify-center items-center">
+		<div class="h-full mx-auto flex justify-center items-center">
 			<div class="space-y-10 text-center flex flex-col items-center">
 				<h2
 					class="select-none p-2 h1 bg-gradient-to-br from-primary-600 to-tertiary-600 bg-clip-text text-transparent box-decoration-clone"

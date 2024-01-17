@@ -17,7 +17,7 @@
 		mon = json;
 	}
 
-	$: mon = null;
+	let mon: string | null = null;
 </script>
 
 <!-- svelte-ignore a11y-click-events-have-key-events -->
