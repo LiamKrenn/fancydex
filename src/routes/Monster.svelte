@@ -20,8 +20,6 @@
 	let mon: string | null = null;
 </script>
 
-<!-- svelte-ignore a11y-click-events-have-key-events -->
-
 {#if mon == null || mon['names'][language].toLowerCase().includes(searchString)}
 	<div
 		role="button"
@@ -29,7 +27,6 @@
 		class="card card-hover cursor-pointer select-none flex flex-col items-center relative
 			 sm:m-1 sm:w-40 sm:h-[13rem]
 			 m-0.5 w-24 h-[7.7rem]"
-		on:click
 		use:inview={{}}
 		on:inview_enter={() => {
 			if (mon == null) {
@@ -37,7 +34,7 @@
 			}
 		}}
 	>
-		<div class="relative top-1 left-0 text-surface-300-600-token w-20 sm:w-36 sm:text-xl text-sm">
+		<div class="relative top-1 left-0 text-surface-600-300-token w-20 sm:w-36 sm:text-xl text-sm">
 			#{id}
 		</div>
 		{#if !mon}
