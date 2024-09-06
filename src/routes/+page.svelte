@@ -15,11 +15,8 @@
 	import { page } from '$app/stores';
 	import ModalMonster from './ModalMonster.svelte';
 
-	import { dev } from '$app/environment';
-	import { inject } from '@vercel/analytics';
 	import Genbox from './genbox.svelte';
 	import Lanbox from './lanbox.svelte';
-	inject({ mode: dev ? 'development' : 'production' });
 
 	import { langs } from './langs';
 
